@@ -23,8 +23,11 @@ https://www.youtube.com/watch?v=VJ3UQqPYhcc
 #EXTINF:-1 group-title="Principal", LN +  - 25.3
 https://www.youtube.com/watch?v=4XxIccmi49A
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="Principal", Canal de la Ciudad
-http://g4.vxral-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8
+#EXTINF:-1 group-title="Principal", CANAL DE LA CIUDAD
+https://www.youtube.com/watch?v=pu6jVp4Fs1E
+
+#EXTINF:-1 group-title="Principal", PAKA PAKA
+https://www.youtube.com/watch?v=lxHGcD4UkO4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Principal", AMERICA HD - 36.1
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -33,13 +36,13 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="Principal", CANAL 9 - 35.1
-https://ar-elnueve-elnueve-live-1-cdn-0.ned.media/live-720-20201118T112846_724480.ts?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA1Nzg1MjgzLCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6N2VmOjc0ZDQ6MmM2Nzo5MjgxOmEwNzAiXX0sInNpZ25hdHVyZSI6ImYzNWVmMjc2NzQyNWU2MmI5NGE5MzAzNWFhZmY5ODRkZjFiNjJkYmMifQ%3D%3D
+https://ar-elnueve-elnueve-live-1-cdn-0.ned.media/live-480-20201119T131841_737396.ts?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA1ODc4Mjg4LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6N2VmOjY0ZTphZmZmOmZlM2M6YjY2ZiIsIjI4MDA6ODEwOjQ3Mzo3ZWY6OTRkNDoxZDRmOjMxYTc6YmFiMyJdfSwic2lnbmF0dXJlIjoiYWIzNmNlMDNkZjcxNGQ1ZTY0ZTU2NWY3YjY1NmZlZjViZmRkMTQ2MCJ9
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="Principal", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Principal", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CqQFAEykyopsAwfPX3A5l2y2hN3Mly3zfpvTtSdS-T5BBNLgyU65EExcaVJk9mLt2lhg9MYnX4mpXrxbjWQsRvUDG7hlLgKwCOXvxa3BkEBLHOcucsg5bOhRWoqqHjxHx5oRaNau8bc7s9ZeDgmziB1f5G4dTutxaXLddlj4lkFCiZiwSS_b56j8B1_N-WYxdbm4Bo6yenxnt1y9-uv5LZDtwxcTR_1Iv02V-cL-cR-w39D-axjb5sYHP13GjBuynR9rV_Gz5m_3ecYNAhcle4-RGrKcUY6jZsXwr1DkfsY4frkRM1cfR-FsYwfLl1eWS70tjBPd3GkgO6gUMxMg2vgIFERUpN92LfXujusk6eicoU1y-aywBs3VRaHssHjRzmeI8UUDwZzBCsNjWuF6JsbAzGTVd_kfkmELjmNhlD2TRRraeDW0F1h8FxNSb3kYPrzRzjnOaxYcYgmIjhPrLPl7VrWRzt4JYRgj1mTlWSyGhzjGfPRWujLSU0SsKK-9lK1GmfxpA-3kFNeaL_CLGqaGpny87wf4mBJCSvHmaVRUwcJSvxzi0DnLc4Yl5A4-_DY-EvsdnogP_rRfR0J4tO_AWGWykf0lQbWDdvD0lzehulvRzbUNrYrsHTkYwSzx35uId-cG_br7TYvGUBrq5HhlH7rHxLp9_MHlQU3NMBQuP_nVXpgE4FKWHRsC-t2awP6xy5szRA7n5Az5sU2yI9lH9hlfBx5FNYFjY2s4r_8LxIu8AooO4m5QXHme02zmB546MfPc-_6y1nheykiyZe5GshY3JIkGnR0bbFuAOcOA3uz3zL1DmpOyhIfUDTQnPBssPqpe1YGDXksjA2EvDSoL918Be0VnqSP8kgaXhGRfWtP4e8ndpNAe6vgmUDF18UpU3FhD-BIQGLUm9f0QHGqLZ0et8STDVBoMxw1OWasjVmORMFD9.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CqMFPPDIDjJR3zvE5mn6bWGZJDxRqfe1iqKIL9uLvshfFRU6Aefwxi-NjX_KASfLm22ZpB2TBU9R-EvnttOj4H1IIHngupN5XvJ-GpwoENLmNH4Iot5vYsFc6FWw5DjSSbMoQnTt0LMWTgQ4yvIV9EGodnENkNE0ByoGBC8DhuHZqHDJC8SmMGhs4PmzZm448iKUZ131QrKRq3nt18WGU__E6g6lRY0x_CqBjsIsB2ec07Z7XzQWBdKIbLODpUkN9NSWNJ819ze4Zl4JuQEkKB_6bpLfKows4uGum3_1wis-3GUBTPZH5WKnqNy1FoEOWRiYpUC5ygHNd_acycW-_cZOy54TqGO4MBkv84ugBK_oYFo757CDDDPB-jsmzLm9DyJSm_nIMdDA1X3JB8hpKG0ctpqQ9NB4Te9qgF-SBbL-unUNx8PbA5ELTfBkkkxks8Nz2kcGFYtKmEtj8TZWeOBMqi7v2DD5L2zNdjr8LurwKfGQ5oEjipK53IOvWTaCiOZ-shoNtAuTMB_pe6oPurmdpSVSB1ga3dfuQtRHlG0oS0X0rG2bqI3lfwGqpRGHBWr-z8gF7qa3gB4S3z7HZ6N43DxIrRFN5FO8SoFuA7KvLbyygZ3f6V2CoDlkmb9mae58NFLoemfuJFlOofnZB3eEKwwAgGmU2Zt9OKdK_He9gJzjPzsla4JUMw_Qgu42dOKg3kRvxa_i3lKT2GRjTt5USkhtZoOyL_UCzQFj0oSpvJzabNfrFIeyX4jlqJv8dqActXcsvhAkm2bewwG61KRHxc_uHFoV3oUZvZTgLByupLjYlWlFqjWR0TtLDXLsCNrNBBISYG0DtOvEVz_VR3toI7pAxgICvc9vmPz664juEZOjrKPxZZRsN1ga97j99C52sHGeEhA4rJxVRNHl2wqAHXrBRfTwGgwQyt-1Yl9JPhIgh3k.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="Principal", NET TV - 27.2
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043
@@ -736,4 +739,7 @@ https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.new.livestream.com/accounts/00000000013dae30/405309c5-ae62-483a-b4fd-01693aaf76d9.png" group-title="Principal", T5 SATELITAL
 http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="Principal", Canal de la Ciudad
+http://g4.vxral-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8
 
