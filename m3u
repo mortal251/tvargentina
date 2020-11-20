@@ -81,8 +81,7 @@ http://lavozdetucuman.com/peliculas2.m3u8
 #EXTINF:-1 group-title="Principal", DTV DIPUTADOS TELEVISION
 https://www.youtube.com/watch?v=3kjpQ0CAhAM
 
-#EXTINF:-1 group-title="Principal", PAKA PAKA - 22.2
-https://www.youtube.com/watch?v=lxHGcD4UkO4
+
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/tectv.png" group-title="Principal", TEC TV - 22.5
 https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough/tectv_3/chunks.m3u8
