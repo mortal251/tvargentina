@@ -191,8 +191,14 @@ http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png" group-title="Principal", Canal 13 La Rioja
 https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/chunklist_w1174634858.m3u8
 
+#EXTINF:-1 tvg-logo="http://calleangostatv.com/wp-content/uploads/2019/10/logo27.png" group-title="Principal", CALLE ANGOSTA SAN LUIS
+http://videostream.shockmedia.com.ar:1935/mediadoroficialtv/_definst_/mediadoroficialtv/chunklist_w497732733.m3u8
+
 #EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" group-title="Principal", Canal 10 RIO NEGRO
 https://panel.dattalive.com/8204/8204/chunklist_w2116861350.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJyk1LbcH1cFHiW94bqNSt5gdWC1pa-exZg&usqp=CAU" group-title="Principal", Canal 10 SALTA
+https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdcWnMceFTxxrb_sRGHVcy1gaOi-VPeTl-Ig&usqp=CAU" group-title="Principal", TOONCAST
 https://live.televisiongratishd.com/tvplus2021/116_.m3u8?token=aZNRhNRGT9LOW2aIe6uZtw&expires=1605907286
@@ -259,6 +265,9 @@ https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/chunklist_w15
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online.png" group-title="Principal", Canal 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzf6AGK5BPmlw5-JzWhnSXze1WPGScfjTWLBDRI=s900-c-k-c0x00ffffff-no-rj" group-title="Principal", CANAL 10 ENTRE RIOS
+http://streamingvideo.com.ar:1935/10tv/live/chunklist_w448721709.m3u8
 
 #EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg" group-title="Principal", CANAL 10 SENILLOSA
 https://stmv6.srvstm.com/senillosa/senillosa/chunklist_w961378979.m3u8
