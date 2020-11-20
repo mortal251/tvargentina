@@ -102,6 +102,9 @@ https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRD9-5WzCViq2hgGgCCMKtQ8KDA0fnX1O0WC39661wnl1OaXJL-EEWcY-qbE33f0GQJSZDvmKbURcCjdxRbsPCznn8B2kR2KxpnZg&usqp=CAU&ec=45702846" group-title="Principal", CDO
 https://tls.cdnz.cl/cdofree/cdn.smil/.m3u8
 
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" group-title="Principal", TENIS CHANNEL
+https://dai.google.com/linear/hls/pa/event/hj7NDZ5ZSE2m2MWQPiKp3Q/stream/2d8eff85-1575-4392-9576-30959223655d:BRU/master.m3u8
+
 #EXTINF:-1 group-title="Principal", HIPODROMO DE PALERMO
 https://www.youtube.com/watch?v=OnW5qGG8fAA
 
