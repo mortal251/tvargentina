@@ -35,7 +35,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="Principal", CANAL 9 - 35.1
-https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA1ODc4ODQ0LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6N2VmOjY0ZTphZmZmOmZlM2M6YjY2ZiIsIjI4MDA6ODEwOjQ3Mzo3ZWY6OTRkNDoxZDRmOjMxYTc6YmFiMyJdfSwic2lnbmF0dXJlIjoiZGUzOTZlZjkzY2Y0ODM0OTQ4OTAxN2NjM2NkMGNlY2JhYjUzNzc5ZiJ9
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA1OTcxNTM5LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6N2VmOmI1MGY6ZWI0MTozNjc3OjI3MDIiXX0sInNpZ25hdHVyZSI6IjQ2NzM5YmZmNGZjZWQ3ZGE0Nzg5MjNlOTgxOGVhOTc5ODk2ZGQ0NjIifQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="Principal", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
@@ -571,6 +571,12 @@ https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm4lKe3uMzJnjq38A3QLkgbFduVklg1mHu2g&usqp=CAU" group-title="Principal", El Eco TV
 https://5f93e494d5906.streamlock.net/elecotv/elecotv/chunklist_w2013915731.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="Principal", CANAL 10 SAN RAFAEL
+https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_CWoCqFQrloixneMVvpQ-U65SkJwTZT2e4A&usqp=CAU" group-title="Principal", EPS BRAGADO
+https://inliveserver.com:1936/8012_1/8012_1/chunklist_w578678662.m3u8
+
 #EXTINF:-1 group-title="Principal", FOUR SEASONS BUENOS AIRES
 https://www.youtube.com/watch?v=if91GyWP3zQ
 
@@ -758,8 +764,7 @@ http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8?Playlis
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_CWoCqFQrloixneMVvpQ-U65SkJwTZT2e4A&usqp=CAU" group-title="Principal", EPS BRAGADO
-https://inliveserver.com:1936/8012_1/8012_1/chunklist_w578678662.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112899_Tele_Estrella.png" group-title="Principal", TELEESTRELLA BUENOS AIRES
 https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
@@ -771,5 +776,4 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 http://www.coninfo.net:1935/previsoratv/live/chunklist_w1019092470.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="Principal", CANAL 10 SAN RAFAEL
-https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
+
