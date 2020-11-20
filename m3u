@@ -790,5 +790,8 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITLNORD.png" group-title="Principal", Telenord Corrientes
 http://www.coninfo.net:1935/previsoratv/live/chunklist_w1019092470.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Principal", SPEED CONCORDIA
+https://srv3.zcast.com.ar/speedtv/speedtv/chunklist_w407341573.m3u8
+
 
 
