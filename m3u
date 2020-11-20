@@ -110,6 +110,9 @@ https://www.youtube.com/watch?v=OnW5qGG8fAA
 #EXTINF:-1 group-title="Principal", AMERICA SPORT
 https://www.youtube.com/watch?v=1SmKEIpmcLU
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/TNT_Sports_logo.svg/1280px-TNT_Sports_logo.svg.png" group-title="Principal", TNT SPORT
+https://espare.tk/live/tnt_sports_lat.m3u8?token=06GONyvGqssLPOSot3V8Ig&expires=1605907800
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="Principal", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w78966593_b1296000_sleng.m3u8
 
@@ -190,6 +193,9 @@ https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/chunklist_w1174634858.m3u8
 
 #EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" group-title="Principal", Canal 10 RIO NEGRO
 https://panel.dattalive.com/8204/8204/chunklist_w2116861350.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdcWnMceFTxxrb_sRGHVcy1gaOi-VPeTl-Ig&usqp=CAU" group-title="Principal", TOONCAST
+https://live.televisiongratishd.com/tvplus2021/116_.m3u8?token=aZNRhNRGT9LOW2aIe6uZtw&expires=1605907286
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="Principal", A3CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
