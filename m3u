@@ -81,6 +81,9 @@ http://lavozdetucuman.com/peliculas2.m3u8
 #EXTINF:-1 group-title="Principal", DTV DIPUTADOS TELEVISION
 https://www.youtube.com/watch?v=3kjpQ0CAhAM
 
+#EXTINF:-1 group-title="Principal", PAKA PAKA - 22.2
+https://www.youtube.com/watch?v=o0zBX5R5L1k
+
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/tectv.png" group-title="Principal", TEC TV - 22.5
 https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough/tectv_3/chunks.m3u8
 
@@ -466,6 +469,9 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 #EXTINF:-1 group-title="Principal", TELEFE SALTA
 https://www.youtube.com/watch?v=tW-zjPbQWUA
 
+#EXTINF:-1 group-title="Principal", CANAL 26 - 24.2
+https://www.youtube.com/watch?v=o0zBX5R5L1k
+
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="Principal", NET TV - 27.2
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
@@ -623,6 +629,9 @@ https://www.youtube.com/watch?v=9DXGrOU5wKQ
 #EXTINF:-1 group-title="Principal", EURONEWS
 https://www.youtube.com/watch?v=C5oZ5yXkLb0
 
+#EXTINF:-1 group-title="Principal", MEGANOTICIAS CHILE
+https://www.youtube.com/watch?v=o0zBX5R5L1k
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Principal", Galicia TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0016
 
@@ -746,8 +755,6 @@ http://streamyes.alsolnet.com:1935/canal4sanjuan/live/playlist.m3u8?PlaylistM3UC
 http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 group-title="Principal", PAKA PAKA
-https://www.youtube.com/watch?v=lxHGcD4UkO4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_CWoCqFQrloixneMVvpQ-U65SkJwTZT2e4A&usqp=CAU" group-title="Principal", EPS BRAGADO
 https://inliveserver.com:1936/8012_1/8012_1/chunklist_w578678662.m3u8
