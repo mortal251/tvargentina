@@ -134,7 +134,7 @@ https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/4308.gif" group-title="Principal", TV POP
-https://v2.tustreaming.cl/poptv/index.m3u8
+https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/101700_Rewind_TV.png" group-title="Principal", REWIND
 https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w847424095.m3u8?WebM3UCL
