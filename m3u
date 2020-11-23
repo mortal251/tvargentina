@@ -162,8 +162,8 @@ https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Nueve_Litoral_%28Logo_2010%29.png" group-title="Principal", CANAL 9 PARANA
 https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/chunklist_w1452003155.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy05vWbfsFEozgqzD3teoe_W-QJ14j39S1_kHByrw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Principal", 5R TV SANTA FE
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-8sOyWm_7lQBQwVdfXouhfjurvGkugc8aLw&usqp=CAU" group-title="Principal", TELEFE CORDOBA
 https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1606050815~exp=1606227215~acl=/i/canal8cordoba_1@685726/*~hmac=03c45ae794e754c517bd4506bb29e13ee84f6b93e2a48f1261019e77a104530c
@@ -276,7 +276,7 @@ http://149.56.98.124:9090/hls/canal5montecaceros_low.m3u8
 https://stmv1.srvif.com/teveocho/teveocho/chunklist_w240282186.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_12.png" group-title="Principal", CANAL 12 TRENQUE LAUQUEN
-https://f6z5x8d4.stackpathcdn.com/stream_720/index.m3u8
+https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/609px-Canal_Trece_San_Luis_%28Logo_2016%29.png/revision/latest/scale-to-width-down/340?cb=20191120203521" group-title="Principal", CANAL 13 SAN LUIS
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w1940570986_b581072.m3u8
@@ -454,8 +454,6 @@ https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/chunklist_w55164
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgHZgj0j0s3y22Xu7XjBqMSGaRJJHIdGmkrg&usqp=CAU" group-title="Principal", CANAL 50 MORTEROS
 https://coopmorteros.online/canal50/vivo.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="Principal", C5SF SANTA FE
 https://5975e06a1f292.streamlock.net:4443/c5sf2/c5sf2/chunklist_w1185601417.m3u8
 
@@ -586,6 +584,9 @@ https://5f93e494d5906.streamlock.net/elecotv/elecotv/chunklist_w2013915731.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="Principal", CANAL 10 SAN RAFAEL
 https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-mLylha1dLwQ/TzGoHDDbtJI/AAAAAAAADpQ/HhtpgV0lOs4/s1600/logo+canal+21.JPG" group-title="Principal", CANAL 21 POSADAS
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8?nimblesessionid=3254037
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_CWoCqFQrloixneMVvpQ-U65SkJwTZT2e4A&usqp=CAU" group-title="Principal", EPS BRAGADO
 https://inliveserver.com:1936/8012_1/8012_1/chunklist_w578678662.m3u8
@@ -734,6 +735,9 @@ https://mediacp.hostradios.com.ar:19360/8020/8020.m3u8
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/2/2852.v5.png" group-title="Principal", FM RITUAL 106.1 FM TDF
 http://streamyes.alsolnet.com/fmritualvideo/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.urbana98.com/uploads/logo/logo_5f8f30311e770.png" group-title="Principal", SEÑAL URBANA 98.9 VERONICA
+https://stmvideo2.livecastv.com/urbana98/urbana98/chunklist_w619275342.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Avatar_redes_positivo_1024.png" group-title="Principal", CADENA TIEMPO TRELEW CHUBUT
 https://panel.dattalive.com/8034/8034/chunklist_w1515375048.m3u8
 
@@ -767,7 +771,20 @@ https://rtmp1.painelvideo.com/belislehd/belislehd/chunklist_w276332223.m3u8
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="Principal", RADIO LA VOZ TUCUMAN
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/chunklist_w1768079497.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy05vWbfsFEozgqzD3teoe_W-QJ14j39S1_kHByrw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Principal", 5R TV SANTA FE
+https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy05vWbfsFEozgqzD3teoe_W-QJ14j39S1_kHByrw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Principal", 5R TV SANTA FE
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy05vWbfsFEozgqzD3teoe_W-QJ14j39S1_kHByrw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Principal", 5R TV SANTA FE
+http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy05vWbfsFEozgqzD3teoe_W-QJ14j39S1_kHByrw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Principal", HOLVOET
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy05vWbfsFEozgqzD3teoe_W-QJ14j39S1_kHByrw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Principal", HOLVOET
+http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
 
 
 
