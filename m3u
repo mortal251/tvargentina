@@ -41,7 +41,7 @@ https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhw
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Principal", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpMFpmrgI4t84gqO-MwE1CD9CrrQwb1MCx7u_VSWxIz4g-cKogmc1u2cqIw3KpznZb93O18_-glYGoExs5-_1PUwfTOVWlRlvwB7RwF_pOCtmTl2u9acTLW3NRbiSSKXOiHAyHMwJc7PvsNvkTOY-R62F9ZuT7Tan8Ydk-ZH-YH3DfI7OD4bWN72T8VcWNBtJ36Y69dw5mhSWnB5f9E_a5u-QTKPgJrvAIKm0tQXK_teHa0Qw9B_PQ9fvszfZ6nFLIzJLj6Vhh3e22-q-egyJEgx8c5Z9xj-6RA-zkCWzzmLSlyyVUaHZC7kss1Uduq7Ay9CaHk79uvnr5n8UQYnu61x9x-oGGe1fpPZjZ9ftNy0nHaV33OOcrJsHkmu8mkW_EafmSpXBzB5UEO4og6Gpdaxmnqu8bU5LZ3ndjdo3c3nDclKsPkj0Sr0lXeYqoXsNqClGemk5R77ia-HkvBtWOObsN1fiWEqZusQjW_KMtvqH_th2Kdni8AbOpMRAwtj4CLQEKwcS1fPjjJXidumkUdt6Gi5uSFWYP34JWOhfyCs4Qrk62MZ0YXmFKDc15TEtIfjAD5jqU47GsUcRcxX0R7wAI96557MOPccpP0qV6hrez7kstcqA85-jJG-v_LUKtLggdgV7E0DOFVI2LtfMZhkrRj-pvwyAfVYxpken2ZLTV_t5ca7-yMmzYFYb-q71usethGKcOgPoYPUC7-6sg5-6ppeLLXadZ24H2UWq8dY_M7cGdpn7bXiTSjnDNY6TgCEZ_gxZV1MW7HcOsd0_ZEU7A7I9NdtB-OaD9HxIAUUzvzVq5T6L8Y0yqiTur14ATXPjQIYLwQpftRseS5Ru-WiVThIjD0OnTeK61lVcWdyR_HxPxkSEJOoki0Nyup_cNldtYVhBE0aDHVAkEbQ0vORWqplPQ.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpMFSp26ccC43cLK2O1tIW6KxPr6WolGdiTsm79iWztPZyiw3xbB33MuggF7Q_h6Ouc0_tAdPuieHoObhnFLcOoimoutZ4GrZgHUElHWYiM7WPwm663AV7BOMXgU_oBWbHMSg_2LE2EAcfMXF9Olx8mq-4UFMi0TTgTMAmeTv8LRnlhjCsvFnWd5KzvObvPeTSm4cxwpjUap3JhjFChvpmKi8NwiUYC0KX0q3eq5MQ9geaGKktZy_IRJO2Ym6LpRtw1W6CEaG0y2Ite6RC4WrK1dtqcq8HH6UB6ZWCfUtujdrz-vsYOMc9VeZyUssRTvpK3Dz3TT8oSpFdVezPQdQlf5yDfhZApiqdjbUAiHTWyWTMVmUFKl4GCQciY2qmQ6iGw5Dk5bq_WIecQCthmkA7qGp_Jiqbu27GbLgUOMyQTUcT9GFiAgNHtZuDERBa3K5t8GWVBRBxhTggrCFl7PU546qnRLhQ0eWGfa9yGKtEY0U38Z4Kb4xiMaVXgBg_hOoIxRj9396fkf4Kn37CRGEguQlfoGY_FX9lhYYpksOUN6xcOipYMIV-DbO5TIay5Vkkc79mR3L8n0z2_subfkyV2QeV2oRAauIkMMUpVk_RbZLlIfr3PiyCwj5Au79z9x05xrWoqgyMc26c2EwuEWpQvHYJSQglbwWujzeKIuq7hjKacy1Unt5zOlEeOpO4MaYV9wksblATMW3LNMdUwq1HFazFakZ9VyuFUHgd0Phuj7o7Mr_h0vQiVlhy9galn-L1KwZSShlggSbaE_Ltfr3-saqh6GxUOeNy225oS3C9hKu4l2QlmIb3WC1krjGVXnW_Z_b2Tbr1IEakc9BCaEcbXc-OcFwRaD-3ghfuQbasZH6j7crSkSELKsbR2WesofCNhq-Akj8KEaDAlgLFUnCoSWgDxtmQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="Principal", NET TV - 27.2
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043
@@ -190,9 +190,7 @@ https://stmv1.srvif.com/canal2/canal2/playlist.m3u8
 http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png" group-title="Principal", Canal 13 La Rioja
-https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/chunklist_w1174634858.m3u8
-
-
+https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" group-title="Principal", Canal 10 RIO NEGRO
 https://panel.dattalive.com/8204/8204/chunklist_w2116861350.m3u8
@@ -376,7 +374,7 @@ https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 https://live.canalnueve.tv/canal.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="Principal", TELEFE SANTA FE
-https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1606172798~acl=%2fi%2fcanal13santafe_1%40751190%2f*~data=hdntl~hmac=5af8d44d729dac48aefcb74d49907e97e71ed318ff1e258b258a2cbaf83a98fb
+https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1606134689~exp=1606311089~acl=/i/canal13santafe_1@751190/*~hmac=5bd7c8934a1250fcee90bad5ef2403fb2ce0859d25870273531427467049b33b
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NNKwN__O6ow/XjtC-7aspzI/AAAAAAAAvo0/v09wOJBPPlUnV3i75aEZ-ffQbViAKoXJACK8BGAsYHg/s0/2020-02-05.png" group-title="Principal", Canal 12 PUERTO MADRYN
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/chunklist_w1491679876.m3u8
@@ -406,7 +404,7 @@ https://589ff3c36f7e8.streamlock.net/canal4/canal4/chunklist.m3u8
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC2PROV.png" group-title="Principal", PROVINCIAL TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0055
+http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-STbVB0Kn5jk/XCP4RN14aKI/AAAAAAAAB8g/FqOz9Aqyh7AOrcXD-JIpVtHwY_sppGbhQCLcBGAs/w1200-h630-p-k-no-nu/canal-8-mendoza.jpg" group-title="Principal", CANAL 8 TUNUYAN
 https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/chunklist_w1916217253.m3u8
@@ -445,7 +443,7 @@ http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?Playlist
 http://api.new.livestream.com/accounts/27390802/events/8239465/live.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="Principal", TELEVISION PUBLICA
-https://www.youtube.com/watch?v=6A0qHhLGZpg
+https://www.youtube.com/watch?v=mnz26ugVRGc
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-3-La-Pampa-en-vivo-Online.png" group-title="Principal", CANAL 3 LA PAMPA
 https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/chunklist_w740163255_b1480704.m3u8
@@ -486,7 +484,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 https://www.youtube.com/watch?v=tW-zjPbQWUA
 
 #EXTINF:-1 group-title="Principal", CANAL 26 - 24.2
-https://www.youtube.com/watch?v=o0zBX5R5L1k
+https://www.youtube.com/watch?v=lUFwVsREwrs
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="Principal", NET TV - 27.2
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -499,10 +497,10 @@ https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTu_o6rmUro1JeAMkrySQRKgyceocYU_s_2w&usqp=CAU" group-title="Principal", TELEFE TUCUMAN
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1606051023~exp=1606227423~acl=/i/canal8tucuman_1@787002/*~hmac=e101d85dd8a2d771932386bf857b3db0974fa3b8e3f7a139761128e22212c05
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1606135724~exp=1606312124~acl=/i/canal8tucuman_1@787002/*~hmac=e21d6a20338e379cd399e58c084e1c9d6e32e18fff9495583d252745d1984dfa
 
 #EXTINF:-1 group-title="Principal", CANAL DE LA CIUDAD
-https://www.youtube.com/watch?v=pu6jVp4Fs1E
+https://www.youtube.com/watch?v=KB4pZasL3vo
 
 #EXTINF:-1 group-title="Principal", IP - 24.5
 https://www.youtube.com/watch?v=HuWJox51L3w
@@ -572,7 +570,7 @@ https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
 https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1982113012.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="Principal", TELESOL
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0209
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0207
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-sDCN5yxbCHw/XrYK8ENfvdI/AAAAAAAA0hg/Ghg1rYIfx4A3SoFfyma-ye04YSgec9OlQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="Principal", Canal 4 Esquel
 https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8?PlaylistM3UCL
@@ -656,7 +654,7 @@ https://www.youtube.com/watch?v=9DXGrOU5wKQ
 https://www.youtube.com/watch?v=C5oZ5yXkLb0
 
 #EXTINF:-1 group-title="Principal", MEGANOTICIAS CHILE
-https://www.youtube.com/watch?v=o0zBX5R5L1k
+https://www.youtube.com/watch?v=Et4i_BymLGQ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Principal", Galicia TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0016
@@ -707,13 +705,13 @@ https://59537faa0729a.streamlock.net/beatsradio/beatsradio/chunklist_w154598638.
 https://fm999.info/test/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vorterix.com/assets/img/logo-icon.png" group-title="Principal", VORTERIX 92.1 FM
-https://g1.vxral-hor.transport.edge-access.net/b12/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
+https://prepublish.f.qaotic.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lacoope.net/img/imgcope/La_Coope.png" group-title="Principal", COOPE TV 102.7 FM MENDOZA
 https://ingest-wza.bustream.com/coopetv/coopetv/chunklist_w1034186856.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI966.png" group-title="Principal", LRI966 Cadena 103
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0088
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0087
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI974.png" group-title="Principal", LRI974 La 90
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w2063503956.m3u8
@@ -758,7 +756,7 @@ https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/chunklist_w2882118.m
 https://streamcasthd.com:1936/woxtv/smil:woxtv.smil/chunklist_w421368362_b1500000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="Principal", LRJ214 Mil20 SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0210
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0208
 
 #EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="Principal", POWER MAX 104.1 RECREO SANTA FE
 https://59537faa0729a.streamlock.net/radio1045/radio1045/chunklist_w1712478637.m3u8
@@ -769,8 +767,6 @@ https://rtmp1.painelvideo.com/belislehd/belislehd/chunklist_w276332223.m3u8
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="Principal", RADIO LA VOZ TUCUMAN
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/chunklist_w1768079497.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.reproface.com.ar/img/logo/logo3.png" group-title="Principal", QUILMES VISION - 18.1
-https://inliveserver.com:1936/8386/8386/chunklist_w438818120.m3u8
 
 
 
