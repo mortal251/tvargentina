@@ -442,6 +442,10 @@ http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?Playlist
 #EXTINF:-1 tvg-logo="https://i0.wp.com/canal22web.com/wp-content/uploads/2018/05/cropped-logo-canal22.gif?fit=512%2C512&ssl=1" group-title="Principal", CANAL 22
 http://api.new.livestream.com/accounts/27390802/events/8239465/live.m3u8?PlaylistM3UCL
 
+
+#EXTINF:-1 tvg-logo="https://t5satelital.com/theme/img/T5logo.png" group-title="Principal", T5 SATELITAL
+http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
+
 #EXTINF:-1 group-title="Principal", TELEVISION PUBLICA
 https://www.youtube.com/watch?v=mnz26ugVRGc
 
@@ -771,20 +775,9 @@ https://rtmp1.painelvideo.com/belislehd/belislehd/chunklist_w276332223.m3u8
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="Principal", RADIO LA VOZ TUCUMAN
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/chunklist_w1768079497.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy05vWbfsFEozgqzD3teoe_W-QJ14j39S1_kHByrw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Principal", 5R TV SANTA FE
-https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy05vWbfsFEozgqzD3teoe_W-QJ14j39S1_kHByrw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Principal", 5R TV SANTA FE
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy05vWbfsFEozgqzD3teoe_W-QJ14j39S1_kHByrw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Principal", 5R TV SANTA FE
-http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy05vWbfsFEozgqzD3teoe_W-QJ14j39S1_kHByrw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Principal", HOLVOET
-http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream3/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJy05vWbfsFEozgqzD3teoe_W-QJ14j39S1_kHByrw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Principal", HOLVOET
-http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
 
 
 
