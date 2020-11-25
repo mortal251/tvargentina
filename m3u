@@ -750,7 +750,7 @@ https://panel.dattalive.com/8034/8034/chunklist_w1515375048.m3u8
 #EXTINF:-1 tvg-logo="https://fm-comunicar.com.ar/static/custom/logo-grande.png?t=2020-07-08+10%3A14%3A33.778523" group-title="Principal", FM COMUNICAR 90.7 FM - COLONIA CAROYA
 https://panel.dattalive.com/canal907/canal907/chunklist_w1205944599.m3u8?PlaylistM3UC
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--GOOD.png" group-title="Principal", Good Radio - 101.1 TV - Jesus Maria -  Cordoba
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--GOOD.png" group-title="Principal", GOOD RADIO - 101.1 TV - JESUS MARIA CORDOBA
 http://streamyes.alsolnet.com/goodradio/live/chunklist_w804344194.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuxgBnJlOtJSsTnFvwCHja5d0A753R6C9DpA&usqp=CAU" group-title="Principal", NOVA TV 91.5 - MISIONES
@@ -777,6 +777,11 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR189
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="Principal", RADIO LA VOZ TUCUMAN
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0243
 
+#EXTINF:-1 tvg-logo="https://www.dialradio.tv/wp-content/uploads/2018/05/DIAL-RADIO-LOGO-WEB.png" group-title="Principal", RADIO DIAL SAN RAFAEL
+https://cda1.alsolnet.com/dialradiotv/live/chunklist_w232073357.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCk8IM5KBv1AzsucjfgISbKA&psig=AOvVaw3tfGe2zZ4065pFp9EgU-m7&ust=1606396389432000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDgqY7jne0CFQAAAAAdAAAAABAD" group-title="Principal", ITEL TV CHAJARI
+http://66.128.32.245/output/iteltv/audio_3/playlist.m3u8
 
 
 
