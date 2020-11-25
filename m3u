@@ -488,6 +488,9 @@ https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Principal", AMERICA INTERIOR
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="Principal", CANAL 10 TUCUMAN
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1606337748&h=d4dce4a52cb112a76ba574c94621ad04
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyq0NJMQ7ohP3c55hqMp0lVxim5IuKm5uImfGGdoA=s900-c-k-c0xffffffff-no-rj-mo" group-title="Principal", TELEFE NEUQUEN
 https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1606303422~exp=1606479822~acl=/i/canal7neuquen_1@751158/*~hmac=77f20edf75444c96f7e5ee40b8a95f024dc4ccaf2c13ecf3e25b95f7b8288a84
 
