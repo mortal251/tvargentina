@@ -780,8 +780,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0243
 #EXTINF:-1 tvg-logo="https://www.dialradio.tv/wp-content/uploads/2018/05/DIAL-RADIO-LOGO-WEB.png" group-title="Principal", RADIO DIAL SAN RAFAEL
 https://cda1.alsolnet.com/dialradiotv/live/chunklist_w232073357.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCk8IM5KBv1AzsucjfgISbKA&psig=AOvVaw3tfGe2zZ4065pFp9EgU-m7&ust=1606396389432000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDgqY7jne0CFQAAAAAdAAAAABAD" group-title="Principal", ITEL TV CHAJARI
-http://66.128.32.245/output/iteltv/audio_3/playlist.m3u8
 
 
 
