@@ -35,13 +35,13 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="Principal", CANAL 9 - 35.1
-https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA2MjQ0Mjc0LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6N2VmOjY0ZTphZmZmOmZlM2M6YjY2ZiIsIjI4MDA6ODEwOjQ3Mzo3ZWY6OGI0OjVhMjI6YWY0ZTozYmJkIl19LCJzaWduYXR1cmUiOiI5NWNmODE4MmJiMjliNWQ2ZTBkYzQxMmRlMDhmNWJhYjIxNGIwOGU4In0%3D
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA2MzkyNTExLCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6N2VmOmMwODU6MzYwZTo0NTA0OjFjNTciXX0sInNpZ25hdHVyZSI6Ijg5ZmIyODExZTgxNWFiM2UwZTA3YjIzODQwOTE2YTI3YjM5NWRhN2UifQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="Principal", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Principal", CANAL 13 - 33.1
-https://mc.yandex.ru/webvisor/53256196?wmode=0&rn=360715651&page-url=http%3A%2F%2Fenvivo.win%2Feltrece2-flow&wv-type=3&wv-hit=216822032&wv-part=7&browser-info=ti%3A8%3Aet%3A1606227007%3Aw%3A390x538%3Av%3A1976%3Az%3A-180%3Ai%3A20201124110948%3Abt%3A1%3Ast%3A1606227007%3Au%3A1605196973730805641%3App%3A3629563401
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpEFyaRpVS8ts87ER6YXUeCTA49fkW6l7hUR8gNLSwdoJzBkX6K7vt5pp6g2v_hkClgEXF31cRVvuxCKf0pZxrXFZH8jyhZU3rfWe3LIh1tCYLhG7zVzbQl6QF_2kXy-Bg6hi0GQNrZ40YFHf3nPpeKEJSWpE8HuaZcJY4hCDgFzxpAYH4tsReW5gKxK0vKFouBKxwyPMulwdlT1thp0eBlMZnBUjtJjzHnWyVe4LqjgjuN-kdS0ldD63ZXtsdiXIfbb8HKODQYbPpNh_e4DcCCg7PDrL7AwRsBg1RKjGoYAhgSjNvIEYb4WTQydqFv7lHFOb_jqwM21GI0gn4PH2mMA9jnX44ktZ8giaHs9oCoSmFG2GcDynzR8RNsNgjJ7-0SEGKRjvZi1wp1Qt7oS0exF0TGQjtakeoFMHQWoDEZckZsZjX4a-N086KFiwYlu1YEY3i_9I36xRqHJK-jn0llAdM5BK_9iaHNOGFiKuGanFpfyN8sMU3Bucb1q8WQX6Y8ToZsOp0F9l4UeIAGYbP3AFGYDgeeBQGhlHEatkrQeE3ybXb2Qik1l6OFva1J_kmhVVLQDv_WoLpm_fwLFX6_m9-Zj7mE_-WHB9S2w7aUMomyfxWJ-FpqzMnpmfB_wpyPk2khyOAvAawmcxj_7ayO1wOqdgW3t8N0Ox9yIII6eLaSvXnBXJ85abIT9kteg-wI0cR7dWcBmMiqsDGIHKJgyLOVQH7VJVnESM4G3ozCoF5k3grRhV2WIMQAxAIUqUQU0CaLH41PqMdtGfv6SJlgtNHggPwbtr_pkUZ78ujn10Xtcky2Yo-CU4xYjEh_qRySyGe-lU3V4QlUW-8hjTAz69Xa8-kNq-MgWW4Hq0uLJikCDEhD_XxLn5OjucAapq9uxjBgQGgx0MJGQscq3Iw_4aks.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="Principal", NET TV - 27.2
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043
@@ -162,11 +162,8 @@ https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Nueve_Litoral_%28Logo_2010%29.png" group-title="Principal", CANAL 9 PARANA
 https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/chunklist_w1452003155.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-8sOyWm_7lQBQwVdfXouhfjurvGkugc8aLw&usqp=CAU" group-title="Principal", TELEFE CORDOBA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1606050815~exp=1606227215~acl=/i/canal8cordoba_1@685726/*~hmac=03c45ae794e754c517bd4506bb29e13ee84f6b93e2a48f1261019e77a104530c
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1606302664~exp=1606479064~acl=/i/canal8cordoba_1@685726/*~hmac=0683df119da12ab2b6dabaabcd70357f74e494d197c6db7e1cb6fa41908c3354
 
 #EXTINF:-1 group-title="Principal", CANAL 7 MENDOZA
 https://www.youtube.com/watch?v=_JXSuvOs--8
@@ -485,9 +482,6 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 #EXTINF:-1 group-title="Principal", TELEFE SALTA
 https://www.youtube.com/watch?v=tW-zjPbQWUA
 
-#EXTINF:-1 group-title="Principal", CANAL 26 - 24.2
-https://www.youtube.com/watch?v=lUFwVsREwrs
-
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="Principal", NET TV - 27.2
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
@@ -495,8 +489,7 @@ https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyq0NJMQ7ohP3c55hqMp0lVxim5IuKm5uImfGGdoA=s900-c-k-c0xffffffff-no-rj-mo" group-title="Principal", TELEFE NEUQUEN
-https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1606049722~exp=1606226122~acl=/i/canal7neuquen_1@751158/*~hmac=9a420a10eeebce2cfca60e6f4c4f056ae8ecdab42f274d5d9c59e530c431cdfd
-
+https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1606303422~exp=1606479822~acl=/i/canal7neuquen_1@751158/*~hmac=77f20edf75444c96f7e5ee40b8a95f024dc4ccaf2c13ecf3e25b95f7b8288a84
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTu_o6rmUro1JeAMkrySQRKgyceocYU_s_2w&usqp=CAU" group-title="Principal", TELEFE TUCUMAN
 https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1606135724~exp=1606312124~acl=/i/canal8tucuman_1@787002/*~hmac=e21d6a20338e379cd399e58c084e1c9d6e32e18fff9495583d252745d1984dfa
@@ -511,10 +504,10 @@ https://www.youtube.com/watch?v=HuWJox51L3w
 https://www.youtube.com/watch?v=5patYbzarRg
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Telefe_Mar_del_Plata_%282018%29.png" group-title="Principal", TELEFE MAR DEL PLATA
-https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1606051317~exp=1606227717~acl=/i/mdqdistri02_1@829747/*~hmac=eaaf6e02dc9f62f4849b6c5172957428a7baa34d1f43850950912ad2a520753f
+https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1606303730~exp=1606480130~acl=/i/mdqdistri02_1@829747/*~hmac=955f9a86c514bf7ab01a6e4637d59bfcfee94cc8cf4ebb1d2100692c242b0d02
 
 #EXTINF:-1 tvg-logo="https://telefe-static2.akamaized.net/media/199283/telefe.png?v=20191003113858000&format=medium&width=300&height=169&mode=crop" group-title="Principal", TELEFE BAHIA BLANCA
-https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1606009580~exp=1606185980~acl=/I/canal9bahiablanca_1@685725/*~hmac=5468dd121f5876f555d443d853493b2928ae9a439e23913222e46699abd3707a
+https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1606264634~exp=1606441034~acl=/I/canal9bahiablanca_1@685725/*~hmac=2e269e7b47ea3708a0c204ccc77577243ae94d27e8649fe010d70b8dd283dc68
 
 #EXTINF:-1 tvg-logo="https://www.telejunin.com.ar/images/telejunin%20logo.png" group-title="Principal", TELEJUNIN
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/chunklist_w1358079267.m3u8
@@ -590,7 +583,7 @@ https://5f93e494d5906.streamlock.net/elecotv/elecotv/chunklist_w2013915731.m3u8
 https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-mLylha1dLwQ/TzGoHDDbtJI/AAAAAAAADpQ/HhtpgV0lOs4/s1600/logo+canal+21.JPG" group-title="Principal", CANAL 21 POSADAS
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8?nimblesessionid=3254037
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0181
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_CWoCqFQrloixneMVvpQ-U65SkJwTZT2e4A&usqp=CAU" group-title="Principal", EPS BRAGADO
 https://inliveserver.com:1936/8012_1/8012_1/chunklist_w578678662.m3u8
@@ -764,16 +757,17 @@ https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/chunklist_w2882118.m
 https://streamcasthd.com:1936/woxtv/smil:woxtv.smil/chunklist_w421368362_b1500000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="Principal", LRJ214 Mil20 SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0208
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0211
 
 #EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="Principal", POWER MAX 104.1 RECREO SANTA FE
-https://59537faa0729a.streamlock.net/radio1045/radio1045/chunklist_w1712478637.m3u8
+https://59537faa0729a.streamlock.net/radio1045/radio1045/chunklist_w1351704474.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRClPwREaGKlj9j-YRh1NXlYrNJmnrROinOkJwmOH5NWwL9g3XzVOR6243fM4r0zJ02eB8vieDNk88KwiaeTF1dYrJc6ndi7oPY0Q&usqp=CAU&ec=45702846" group-title="Principal", 87.9 TV BESLISLE RIO NEGRO
-https://rtmp1.painelvideo.com/belislehd/belislehd/chunklist_w276332223.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR189
 
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="Principal", RADIO LA VOZ TUCUMAN
-https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/chunklist_w1768079497.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0243
+
 
 
 
