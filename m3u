@@ -62,7 +62,7 @@ http://89.105.194.59:25461/live/spen!gF9/spen!gF9/69.m3u8
 http://g3.mc-slo.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_360p.m3u8
 
 #EXTINF:-1 group-title="Principal", ENCUENTRO - 22.1
-https://www.youtube.com/watch?v=YfTxsmLbuhk
+https://www.youtube.com/watch?v=q4CTql4ZWOc
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="Principal", GEN TV - 17.3
 https://inliveserver.com:1936/14030/14030/chunklist_w1277190161.m3u8
@@ -163,7 +163,7 @@ https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/chunklist_w1452003155.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-8sOyWm_7lQBQwVdfXouhfjurvGkugc8aLw&usqp=CAU" group-title="Principal", TELEFE CORDOBA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1606302664~exp=1606479064~acl=/i/canal8cordoba_1@685726/*~hmac=0683df119da12ab2b6dabaabcd70357f74e494d197c6db7e1cb6fa41908c3354
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1606566053~acl=%2fi%2fcanal8cordoba_1%40685726%2f*~data=hdntl~hmac=8025270b9659b700c1a293c222b805374d47103615e2066bdb013457b1aa3cdf
 
 #EXTINF:-1 group-title="Principal", CANAL 7 MENDOZA
 https://www.youtube.com/watch?v=_JXSuvOs--8
@@ -279,7 +279,7 @@ https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w1940570986_b581072.m3u8
 
 #EXTINF:-1 group-title="Principal", CANAL 8 SAN JUAN
-https://www.youtube.com/watch?v=Ssysc5Ao0Aw
+https://www.youtube.com/watch?v=aSdYeXvEexA
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="Principal", 13 MAX CORRIENTES
 http://coninfo.net:1935/13maxhd/live/.m3u8
@@ -328,8 +328,7 @@ https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?Playl
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uYJjXBSPKcQ/XrYLr-JJG2I/AAAAAAAA0hs/wSH1Dy7JWGkic3m4szzF2dIrjTyHOYHuwCK8BGAsYHg/s0/2020-05-08.png" group-title="Principal", Canal 6 Posadas
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShm0z7VN395HV8LUjxqjZUWKSpng3qC29Pbw&usqp=CAU" group-title="Principal", UTN TV SAN CRUZ
-https://5975e06a1f292.streamlock.net:4443/utntv/utntv/chunklist_w1150470537.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="Principal", 9LINK CHACO
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
@@ -489,16 +488,16 @@ https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="Principal", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1606422453&h=39e3ffcafcc98fb1c6fb8847109c5ace
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1606509288&h=d5dcbe8f3ebafd5b01cc5013271a47e2
 
 #EXTINF:-1 tvg-logo="http://calleangostatv.com/wp-content/uploads/2019/10/logo27.png" group-title="Principal", CALLE ANGOSTA SAN LUIS
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0212
 
 #EXTINF:-1 group-title="Principal", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=hiwpYDpK6_c
+https://www.youtube.com/watch?v=ORJgnFGShKU
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyq0NJMQ7ohP3c55hqMp0lVxim5IuKm5uImfGGdoA=s900-c-k-c0xffffffff-no-rj-mo" group-title="Principal", TELEFE NEUQUEN
-https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1606303422~exp=1606479822~acl=/i/canal7neuquen_1@751158/*~hmac=77f20edf75444c96f7e5ee40b8a95f024dc4ccaf2c13ecf3e25b95f7b8288a84
+https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1606567082~acl=%2fi%2fcanal7neuquen_1%40751158%2f*~data=hdntl~hmac=abbf09180239fb810fe5c039ab2f722b9c3fe641de6dc3a6a377101e502ff6bb
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTu_o6rmUro1JeAMkrySQRKgyceocYU_s_2w&usqp=CAU" group-title="Principal", TELEFE TUCUMAN
 https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1606389433~exp=1606565833~acl=/i/canal8tucuman_1@787002/*~hmac=22395bb9fdd99f278ea62e6752891d5075b5cc36588300727a2d30ef08da9113
@@ -506,17 +505,14 @@ https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea
 #EXTINF:-1 group-title="Principal", CANAL DE LA CIUDAD
 https://www.youtube.com/watch?v=KB4pZasL3vo
 
-#EXTINF:-1 group-title="Principal", IP - 24.5
-https://www.youtube.com/watch?v=HuWJox51L3w
-
 #EXTINF:-1 group-title="Principal", CRONICA - 24.4
 https://www.youtube.com/watch?v=5patYbzarRg
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Telefe_Mar_del_Plata_%282018%29.png" group-title="Principal", TELEFE MAR DEL PLATA
-https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1606303730~exp=1606480130~acl=/i/mdqdistri02_1@829747/*~hmac=955f9a86c514bf7ab01a6e4637d59bfcfee94cc8cf4ebb1d2100692c242b0d02
+https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1606476967~exp=1606653367~acl=/i/mdqdistri02_1@829747/*~hmac=b42200c186f4fad17c1f3299460ee8ff286ae71501f2d2c5d19c09ea3d8a001d
 
 #EXTINF:-1 tvg-logo="https://telefe-static2.akamaized.net/media/199283/telefe.png?v=20191003113858000&format=medium&width=300&height=169&mode=crop" group-title="Principal", TELEFE BAHIA BLANCA
-https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1606264634~exp=1606441034~acl=/I/canal9bahiablanca_1@685725/*~hmac=2e269e7b47ea3708a0c204ccc77577243ae94d27e8649fe010d70b8dd283dc68
+https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1606437864~exp=1606614264~acl=/I/canal9bahiablanca_1@685725/*~hmac=08346809ec49ab5e3cefb5270050ab3f948cd841c367bf7b02367b30febf93e4
 
 #EXTINF:-1 tvg-logo="https://www.telejunin.com.ar/images/telejunin%20logo.png" group-title="Principal", TELEJUNIN
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/chunklist_w1358079267.m3u8
@@ -585,7 +581,7 @@ https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-SlqJrd0GiYk/XjtCBz2FbhI/AAAAAAAAvog/HkkKzNWrEOYiE08Rdlw-mxsDtzpJ_zD8wCK8BGAsYHg/s0/2020-02-05.png" group-title="Principal", Canal 6 Moreno
 https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm4lKe3uMzJnjq38A3QLkgbFduVklg1mHu2g&usqp=CAU" group-title="Principal", El Eco TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm4lKe3uMzJnjq38A3QLkgbFduVklg1mHu2g&usqp=CAU" group-title="Principal", EL ECO TV
 https://5f93e494d5906.streamlock.net/elecotv/elecotv/chunklist_w2013915731.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="Principal", CANAL 10 SAN RAFAEL
@@ -597,8 +593,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0181
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_CWoCqFQrloixneMVvpQ-U65SkJwTZT2e4A&usqp=CAU" group-title="Principal", EPS BRAGADO
 https://inliveserver.com:1936/8012_1/8012_1/chunklist_w578678662.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112899_Tele_Estrella.png" group-title="Principal", TELEESTRELLA BUENOS AIRES
-https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
 
 #EXTINF:-1 group-title="Principal", FOUR SEASONS BUENOS AIRES
 https://www.youtube.com/watch?v=if91GyWP3zQ
@@ -772,7 +766,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0211
 https://59537faa0729a.streamlock.net/radio1045/radio1045/chunklist_w1351704474.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRClPwREaGKlj9j-YRh1NXlYrNJmnrROinOkJwmOH5NWwL9g3XzVOR6243fM4r0zJ02eB8vieDNk88KwiaeTF1dYrJc6ndi7oPY0Q&usqp=CAU&ec=45702846" group-title="Principal", 87.9 TV BESLISLE RIO NEGRO
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR189
+https://rtmp1.painelvideo.com/belislehd/belislehd/chunklist_w947079878.m3u8
 
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="Principal", RADIO LA VOZ TUCUMAN
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0243
@@ -780,6 +774,11 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0243
 #EXTINF:-1 tvg-logo="https://www.dialradio.tv/wp-content/uploads/2018/05/DIAL-RADIO-LOGO-WEB.png" group-title="Principal", RADIO DIAL SAN RAFAEL
 https://cda1.alsolnet.com/dialradiotv/live/chunklist_w232073357.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShm0z7VN395HV8LUjxqjZUWKSpng3qC29Pbw&usqp=CAU" group-title="Principal", UTN TV SAN CRUZ
+https://5975e06a1f292.streamlock.net:4443/utntv/utntv/chunklist_w1150470537.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112899_Tele_Estrella.png" group-title="Principal", TELEESTRELLA BUENOS AIRES
+https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
 
 
 
