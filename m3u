@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="Principal", IP - 24.5
+https://playback2.akamaized.net/streams/22636012_8242619_7aceab3dc97d8bd13f82dbba782322f5_1/exp=1606568235~acl=%2f*~data=hdntl~hmac=b4d2156789da82a13538600268a28b51fb46cf8f62c84758afd4f3634660646d/media/22636012_8242619_7aceab3dc97d8bd13f82dbba782322f5_1@2692000p.m3u8?dw=14400&ts=1606478400
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="Principal", IP - 24.5
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
