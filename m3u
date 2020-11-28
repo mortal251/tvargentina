@@ -61,7 +61,10 @@ http://89.105.194.59:25461/live/spen!gF9/spen!gF9/69.m3u8
 http://g3.mc-slo.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_360p.m3u8
 
 #EXTINF:-1 group-title="Principal", ENCUENTRO - 22.1
-https://www.youtube.com/watch?v=q4CTql4ZWOc
+https://www.youtube.com/watch?v=YfTxsmLbuhk
+
+#EXTINF:-1 group-title="Principal", PAKA PAKA - 22.2
+https://www.youtube.com/watch?v=UUp03Hq6E_U
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="Principal", GEN TV - 17.3
 https://inliveserver.com:1936/14030/14030/chunklist_w1277190161.m3u8
