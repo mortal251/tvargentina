@@ -111,8 +111,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1230309204.
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="Principal", TYC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
 
-#EXTINF:-1 tvg-logo="https://tntsports.com.ar/export/sites/tntsports/arte/logo.svg_1492504230.svg" group-title="Principal", TNT SPORT
-https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_720_av-p.m3u8?sd=10&rebase=on&id=AgC1LIFHtSxKBOLKwl+sIlAIkY9Ug2TrC6fEO20rP0or9TeG8pBPff2Y5rP8JE3RzktsrDCe6ZZreQ%3d%3d&hdntl=exp=1606623042~acl=%2f*~data=hdntl~hmac=c7c626b3f8d21db4ff1c3820cafa3573ed9a03a72ba803a854fa01a4946e1383
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRD9-5WzCViq2hgGgCCMKtQ8KDA0fnX1O0WC39661wnl1OaXJL-EEWcY-qbE33f0GQJSZDvmKbURcCjdxRbsPCznn8B2kR2KxpnZg&usqp=CAU&ec=45702846" group-title="Principal", CDO
@@ -211,7 +210,7 @@ https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5d4CZcV4phPi6eGsr1eeaBDFwh4dQ-XmLtQ&usqp=CAU" group-title="Principal", ACEQUIA TV MENDOZA
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/canal22web.com/wp-content/uploads/2018/05/cropped-logo-canal22.gif?fit=512%2C512&ssl=1" group-title="Principal", CANAL 22
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/t-f3bm9M4vC-TVyCXktzeoojgk-Ps7rtZ-pq17wwCDnOGIj_dAK30qcktLZbLmV7FFTbqGKp84q407-ubYtbTL52kiOeXxINvutqejgMP9YHWNcGqYCnadhelujSh2Bp3OetHVCFPr93Jc_ocOASpJdwElXKtnnR" group-title="Principal", CANAL 22 BUENOS AIRES
 http://api.new.livestream.com/accounts/27390802/events/8239465/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1175110925835284481/wRJimpYE_400x400.png" group-title="Principal", 5RTV SANTA FE
@@ -804,6 +803,9 @@ https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=160
 
 #EXTINF:-1 tvg-logo="http://calleangostatv.com/wp-content/uploads/2019/10/logo27.png" group-title="Principal", CALLE ANGOSTA SAN LUIS
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0212
+
+#EXTINF:-1 tvg-logo="https://tntsports.com.ar/export/sites/tntsports/arte/logo.svg_1492504230.svg" group-title="Principal", TNT SPORT
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_720_av-p.m3u8?sd=10&rebase=on&id=AgC1LIFHtSxKBOLKwl+sIlAIkY9Ug2TrC6fEO20rP0or9TeG8pBPff2Y5rP8JE3RzktsrDCe6ZZreQ%3d%3d&hdntl=exp=1606623042~acl=%2f*~data=hdntl~hmac=c7c626b3f8d21db4ff1c3820cafa3573ed9a03a72ba803a854fa01a4946e1383
 
 
 
