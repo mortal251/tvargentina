@@ -205,6 +205,8 @@ https://panel.dattalive.com/8204/8204/chunklist_w2116861350.m3u8
 https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="Principal", CINE CLUB
+https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w165756078.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="Principal", A3CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
@@ -244,9 +246,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chun
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROoFoPNC_no9FE4WkDQxFbBVM8yLUiC-pJQA&usqp=CAU" group-title="Principal", RETROPLUS 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1604179176.m3u8?WebM3UCL
-
-#EXTINF:-1 tvg-logo="https://scontent.faep5-1.fna.fbcdn.net/v/t1.0-9/96687201_1910447859088934_1699748515871195136_o.jpg?_nc_cat=102&_nc_sid=09cbfe&_nc_eui2=AeEPX7OGj7N73FwArfhwCDexLSAyLVrKiq0tIDItWsqKrWAGw7zr21PEnBBMf5WHDC8&_nc_ohc=RMwfp_xPIYYAX_oLSBo&_nc_ht=scontent.faep5-1.fna&oh=eb776e4d1bb649f79b8e02963218fbbd&oe=5FB025EC" group-title="Principal", TV MAS
-https://593b04c4c5670.streamlock.net/8008/8008/chunklist_w1482570768.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/toW8xWKbpS-28By8XvguQOg6oG0tun1oXmvmZRnY-TUiHmgsWdHeBNfoZtlbiAbdJTA" group-title="Principal", TELERED
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
