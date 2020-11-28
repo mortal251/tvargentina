@@ -111,6 +111,10 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1230309204.
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="Principal", TYC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
 
+#EXTINF:-1 tvg-logo="https://tntsports.com.ar/export/sites/tntsports/arte/logo.svg_1492504230.svg" group-title="Principal", TNT SPORT
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_240_av-b.m3u8?sd=10&rebase=on&id=AgC1LIFHtSxKDTDIwl%2fozFWxGIW0hNF+WqzRmvpCZ7uQW2C6gI8kSH9X%2fJi%2fCR+XME5AAC9hhDpKTA%3d%3d&hdntl=exp=1606622352~acl=%2f*~data=hdntl~hmac=0632e085fe9662d4d66c2a5990a0a6e313fa4dc91e4d21049a915345993cceb7
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRD9-5WzCViq2hgGgCCMKtQ8KDA0fnX1O0WC39661wnl1OaXJL-EEWcY-qbE33f0GQJSZDvmKbURcCjdxRbsPCznn8B2kR2KxpnZg&usqp=CAU&ec=45702846" group-title="Principal", CDO
 https://tls.cdnz.cl/cdofree/cdn.smil/.m3u8
 
@@ -441,11 +445,13 @@ https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w1025085291.m3u8
 https://inliveserver.com:1936/9516/9516/chunklist_w1534893344.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5d4CZcV4phPi6eGsr1eeaBDFwh4dQ-XmLtQ&usqp=CAU" group-title="Principal", ACEQUIA TV MENDOZA
-http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?PlaylistM3UCL
+http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/canal22web.com/wp-content/uploads/2018/05/cropped-logo-canal22.gif?fit=512%2C512&ssl=1" group-title="Principal", CANAL 22
-http://api.new.livestream.com/accounts/27390802/events/8239465/live.m3u8?PlaylistM3UCL
+http://api.new.livestream.com/accounts/27390802/events/8239465/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://t5satelital.com/theme/img/T5logo.png" group-title="Principal", 5RTV SANTA FE
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://t5satelital.com/theme/img/T5logo.png" group-title="Principal", T5 SATELITAL
 http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
