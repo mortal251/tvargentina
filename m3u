@@ -49,7 +49,7 @@ https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpMFrcBfw2Qa6cO11OVWi8ult2z
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU" group-title="Principal", PAKA PAKA - 22.2
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1230309204.m3u8
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w190057400.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5b/c4/8e/5bc48eec6fb66fd17efc5430c1fb48e5.jpg" group-title="Principal", LOS SIMPSONS
 https://lavozdetucuman.com/simpsons.m3u8
@@ -66,7 +66,7 @@ http://89.105.194.59:25461/live/spen!gF9/spen!gF9/69.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="Principal", MAGAZINE
 http://g3.mc-slo.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_360p.m3u8
 
-#EXTINF:-1 tvg-logo="https://ar.teleringa.com/wp-content/uploads/2020/07/mirador.jpg" group-title="Principal", MIRADOR
+#EXTINF:-1 tvg-logo="https://ar.teleringa.com/wp-content/uploads/2020/07/mirador.jpg" group-title="Principal", MIRADOR - 22.3
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w678055608.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="Principal", GEN TV - 17.3
@@ -81,8 +81,8 @@ https://e1.hor.entrypoint.edge-access.net/transport/hls/5eaa642772b3a25e2c28699e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="Principal", TELEMAX - 26.3
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1811294487_b864000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="Principal", CINEAR - 22.5
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1230309204.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="Principal", CINEAR - 22.4
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bitacine.com/wp-content/uploads/2015/04/BitaCine-BORRADOR-Series-y-Cine-1.png" group-title="Principal", PELICULAS
 http://lavozdetucuman.com/peliculas1.m3u8
@@ -104,7 +104,7 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="Principal", Locomotion
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.otroscines.com/images/fotos/deportv-logo-2020-800.jpg" group-title="Principal", DEPORTV - 24.1
+#EXTINF:-1 tvg-logo="https://scontent.faep5-1.fna.fbcdn.net/v/t1.0-9/108921750_3108255435967482_4020775555334501387_n.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_eui2=AeFJuqsKJNkSJJ3MMfgVQYPqcM-MKCnwUARwz4woKfBQBI66IEaXSsUHyL8LP8-G828&_nc_ohc=VINWAQ8eaDkAX9hPU8v&_nc_ht=scontent.faep5-1.fna&oh=ee493ff08334016102bedc1442c82c94&oe=5FE69204" group-title="Principal", DEPORTV - 24.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1230309204.m3u8
 
 
