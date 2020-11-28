@@ -25,6 +25,9 @@ https://www.youtube.com/watch?v=4XxIccmi49A
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="Principal", Canal de la Ciudad
 http://g4.vxral-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-a-xOmMTkpX_HDWTW6xIpksPFdDIQlMoaA&usqp=CAU" group-title="Principal", ENCUENTRO - 22.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w576200856.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Principal", AMERICA HD - 36.1
@@ -40,10 +43,13 @@ https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhw
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Principal", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpIFBD1ODr4XWy3kJNK9otoH02eorjSMfx5DIqLYnq-eoVutkQ4uQMbPYKTomvrKnr3x692YtT4uogjjBS__qslBA0syCeFseBSDJz7NYkhh_VB4nVtDUJL1Il5hb8WDSx1ERBp7ZFFYLextYxRwEGmx6NUaGP3UgwafVNareKMalI0ZjYuuj841U5ehJEwYh_SZrJs7UsfRv1w9lWlAA7phFDC6y4Faswp9QvzVYmTkUhBhDDmYJrWejJ8acZ283e9swTQI3Bk8Qb35PdseNfHxAU-jTrZ85gdRLh_Bf6CGLpjn0i4tog2ZuUDm_zAJ_a3a2-Bj9Z6mpxgayeQ8W6ff-XOP0GwGf2vgIbKqkRML0d_IlY7WTL6kq6blgDaLcXuWR3XFs_i06ywuUbczT5zPyaIBKWv2ZFq2IAOONCGy7jtC3_m-YPnnnAkkqjh0aP_3D1eOL8jiP3u5P0mwNZw4qXL0rWR-ERicwCTrVUlTblLCqwtBWZxar31ZqY4ak5TBYZUNSUigTlMfcU4RgDYc4pnI0o8uWR3-wApRMVgJfdZnD4rErFalgIWvDVQN-zSwtWpbS8F4IK4_s36x15Q2ou0s99icLuIOvU8d-rvv95KPSSAm-ErJ8y4plgbpL6-I8N0cF83VmBdH87gt4lycFdS07R5qGUhb8Ba819lqhqQeLFd6R7znHJiFPXLldL5Na8c8HPETaGEg9l_GsvevNfuYbnfTyfC1SMJhbyJM3fFbPnIPRVbiaa173C3rBuTcHdp6xf234njI52XtpfxsGz3xl4i49GY6Kcv1cHqybHa4pZOOmjO0_tyG2FrfE7Pqovj5xbKwy7jdfF9rhUXg38EQ7EcNWkNEJFnB7-6_9ZR4QBIQQ0H_9AeVy2iW20WWY0OShBoMizho19WFtL1A4Uwf.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpMFrcBfw2Qa6cO11OVWi8ult2zIJh32-HIiC0W0sY-raZ8Ye8jF-LN1xiYdjRBXRAPT70TLjAQkQT_eNwOzL464tlxQ3D2Bf2SeYc1Xu8YGMQfGGxM3YY7bCLMpLk203Sk0d2oeoVPy5v6iWVXvW3VzHYc9RzxnjjPfZ3DCqElNAH7Dh9R9oLe-3ltl9Yyb3yVKL61l43fC_5Lo0yErhG1Uj7ukDGysMXkm0EyMm1cUr2XyCPt_Jnd1lN-K36qHFzr_AelUHeH-JVwKxrl0kDSgCuKoKMl_Y0pvAb5WaHuONd2JVN1G81vZNnaAdk7tAqwZkP7vXdoAmlx4RBuzyOspzBhbVj1LwYNtI1kXgOGOlYq53J15c7qJ_VOIRMe_mumMIA93VzLZLHIm6UN8pMyhm_dcl5RW9uIKmGIk2f1THmw-6e-4Kn1fQqC9FAtTX-Q5_qZHWMpvF6xi0vQH94PxE9FIXxcC3dXBV_KS-lG9o2zZJHwP8R-v8L5zCMUYQNZ4TYTqQ0-TASFIuIWFqkQz9kB4kuUTWs-GEq8NZifhfj29p2AS1UhbijyFHFTk2Ut7eQ2Xi3CLySAJmvLcu-suU4HSlYCptGkTTCbPACoA5mzpz9IpRFn6YI68A2bPXAXxPG0ZgPGvSbLilmK5xiYt1A3aGDDbXLWbUh0pdpqz1fzAVnChvbYLsHHD6B9Xcea9Wti2OaymxU0JrxruNlY7a04mKbtZrdWuy302PxXy7TVpHl8kQrJU3V8GvYpQ0U9nFr1Phopm-12Otyr7q7_pQim9sK8_sDAg1lFpphCM2ALbxCRLRGk6-rKi9cmxeVhMeJ_FU97rWyqkjNn5QeMfHrNNeq6N6tyL1V4LRFNJNNaHlpQSEC2k42_c0dW6gjAL2Wuc5xUaDFNXC0TNQQooLw2hoA.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="Principal", NET TV - 27.2
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU" group-title="Principal", PAKA PAKA - 22.2
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1230309204.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5b/c4/8e/5bc48eec6fb66fd17efc5430c1fb48e5.jpg" group-title="Principal", LOS SIMPSONS
 https://lavozdetucuman.com/simpsons.m3u8
@@ -60,9 +66,8 @@ http://89.105.194.59:25461/live/spen!gF9/spen!gF9/69.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="Principal", MAGAZINE
 http://g3.mc-slo.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_360p.m3u8
 
-#EXTINF:-1 group-title="Principal", ENCUENTRO - 22.1
-https://www.youtube.com/watch?v=YfTxsmLbuhk
-
+#EXTINF:-1 tvg-logo="https://ar.teleringa.com/wp-content/uploads/2020/07/mirador.jpg" group-title="Principal", MIRADOR
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w678055608.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="Principal", GEN TV - 17.3
 https://inliveserver.com:1936/14030/14030/chunklist_w1277190161.m3u8
@@ -75,6 +80,9 @@ https://e1.hor.entrypoint.edge-access.net/transport/hls/5eaa642772b3a25e2c28699e
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="Principal", TELEMAX - 26.3
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1811294487_b864000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="Principal", CINEAR - 22.5
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1230309204.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bitacine.com/wp-content/uploads/2015/04/BitaCine-BORRADOR-Series-y-Cine-1.png" group-title="Principal", PELICULAS
 http://lavozdetucuman.com/peliculas1.m3u8
@@ -96,8 +104,9 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="Principal", Locomotion
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
-#EXTINF:-1 group-title="Principal", DEPORTV - 24.1
-https://www.youtube.com/watch?v=q4CTql4ZWOc
+#EXTINF:-1 tvg-logo="https://www.otroscines.com/images/fotos/deportv-logo-2020-800.jpg" group-title="Principal", DEPORTV - 24.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1230309204.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="Principal", TYC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
@@ -481,6 +490,10 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 #EXTINF:-1 group-title="Principal", TELEFE SALTA
 https://www.youtube.com/watch?v=tW-zjPbQWUA
 
+
+#EXTINF:-1 group-title="Principal", DEPORTV - 24.1
+https://www.youtube.com/watch?v=q4CTql4ZWOc
+
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="Principal", NET TV - 27.2
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
@@ -503,6 +516,9 @@ https://www.youtube.com/watch?v=KB4pZasL3vo
 
 #EXTINF:-1 group-title="Principal", CRONICA - 24.4
 https://www.youtube.com/watch?v=5patYbzarRg
+
+#EXTINF:-1 group-title="Principal", ENCUENTRO - 22.1
+https://www.youtube.com/watch?v=YfTxsmLbuhk
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Telefe_Mar_del_Plata_%282018%29.png" group-title="Principal", TELEFE MAR DEL PLATA
 https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1606476967~exp=1606653367~acl=/i/mdqdistri02_1@829747/*~hmac=b42200c186f4fad17c1f3299460ee8ff286ae71501f2d2c5d19c09ea3d8a001d
