@@ -642,7 +642,8 @@ https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
 https://www.youtube.com/watch?v=coYw-eVU0Ks
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="Principal", TELE DOCE
-https://us-b4-p-e-zx8.cdn.mdstrm.com/live-stream/5aba9ca777ed89391543b607/publish/media_400.m3u8?pid=kIGncZ75ALj0Ar0wjnPM5bNNgbj6y1xx&sid=aL4aMhUbEwgatPeVhSKibxBwEbz8fTRE&uid=y6oaWibuiyQ6EVC1Ph8w5SxZiNkG3GNu&es=us-b4-p-e-zx8.cdn.mdstrm.com&ote=1606749916410&ot=3evcXF424zpM8NBxyD6AJA&proto=https&pz=us
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5aba9ca777ed89391543b607/publish/media_700.m3u8?uid=Pntr8ZUSisrIiGKmS3pBESedVj3nyjo9&sid=fmGRdtQHMWP0q7pmgpHKSAWdkXpcztN3&pid=gwmKGn3kf89on93mfJAvwO1g5SapwDLm&ref=https%3A%2F%2Fwww.teledoce.com%2F&dnt=true&es=us-b4-p-e-ft6.cdn.mdstrm.com&ote=1606757015811&ot=Kh2i-0t1HD3DjUIMIEmbvQ&proto=https&pz=us
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Novo-logo-da-tv-brasil.jpg" group-title="Principal", TV BRASIL
 https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(Fj-1fRINEbg)r(fVR9ug)a(tSyBRw)p(d(2xc)k(q8E)m(O23GhNU-ErBHrFPwJquBUg)n(a(z2BSdQ)s(aSU)'a(YvYkuQ)s(msQ)))s(s(Cd0)b(usJMZzGjjaoOMY9stK4Jh2U_dazZjWOe9KAdFJpD002taPjZd8jEADl6nmD46XZR6W9CePs7JvobQGBStQ)'s(ssc)b(Ucrv05fO6vg7xrWVgXovpQa1SdBdN8lGyZpWdb3Reg-PxB4ZIFEuceBpe_YqD3eri1gUqIntRIJIfrUAWYJHan4XL1RrkD4CZW_ESdzh)'s(MZ8)b(gFRBlji2))m(0))/30_index.m3u8
 
@@ -673,6 +674,10 @@ https://www.youtube.com/watch?v=aqPIiyPI10c
 #EXTINF:-1 group-title="Principal", RT - 25.5
 https://www.youtube.com/watch?v=9DXGrOU5wKQ
 
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6157/240/default.jpg" group-title="Principal", CANAL 4 COLONIA
+https://vxlive.cdn.antel.net.uy/auth_livesignal_685,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjg1JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MDY2OTIzNTgmcmFuZG9tPUtVanpGMktKdzUmYy1pcD0xODEuNDQuMTI5LjcxLDZjN2UyZTE4NDlmYjNlNDRiYmJhODc0MmQxZDZjYzM0M2IyM2JiNTVhZjM4NmMyY2EzN2QxN2IzNTliNmNjM2E=/vxfmt=hls/h_b34ea264d4c176f6d976c9369c0cdb81/var3000000/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Principal", EURONEWS
 https://www.youtube.com/watch?v=C5oZ5yXkLb0
 
@@ -685,8 +690,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0016
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png" group-title="Principal", ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radiotelevisionmarti.com/Content/responsive/OCB/img/top_logo_news.png" group-title="Principal", TV MARTI
-https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0480_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Canal7TWnlhy.png/150px-Canal7TWnlhy.png" group-title="Principal", CANAL 7 PUNTA DEL ESTE
+https://vxlive.cdn.antel.net.uy/auth_livesignal_693,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjkzJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MDY2OTI2MTQmcmFuZG9tPVJqUENBeDVPV1MmYy1pcD0xODEuNDQuMTI5LjcxLDFlZmFiZTA1NjVlYWMxMWY2OTM5ZmJlMWFjOGNlM2VjODRjYTQ3MDY1ZGNmYWM5NWQ1YWViOTBjOWU3YmNjOWU=/vxfmt=hls/h_723370a04e844daa250b12228e4dc328/var3000000/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/large.1365812628_BoliviaTV20191b.png.ed374f34c0627622a7f2492628abb066.png" group-title="Principal", BOLIVIA TV
 http://btvboliviatv.srfms.com:6568/live/livestream/chunklist_w422441031.m3u8
@@ -789,6 +795,9 @@ https://59537faa0729a.streamlock.net/radio1045/radio1045/chunklist_w1351704474.m
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRClPwREaGKlj9j-YRh1NXlYrNJmnrROinOkJwmOH5NWwL9g3XzVOR6243fM4r0zJ02eB8vieDNk88KwiaeTF1dYrJc6ndi7oPY0Q&usqp=CAU&ec=45702846" group-title="Principal", 87.9 TV BESLISLE RIO NEGRO
 https://rtmp1.painelvideo.com/belislehd/belislehd/chunklist_w947079878.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Avatar_redes_positivo_1024.png" group-title="Principal", CADENA TIEMPO TRELEW CHUBUT
+https://panel.dattalive.com/8034/8034/chunklist_w1515375048.m3u8
+
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="Principal", RADIO LA VOZ TUCUMAN
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0243
 
@@ -801,8 +810,6 @@ http://inliveserver.com:1935/9014/9014/chunklist_w1756628524.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_CWoCqFQrloixneMVvpQ-U65SkJwTZT2e4A&usqp=CAU" group-title="Principal", EPS BRAGADO
 https://inliveserver.com:1936/8012_1/8012_1/chunklist_w578678662.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Avatar_redes_positivo_1024.png" group-title="Principal", CADENA TIEMPO TRELEW CHUBUT
-https://panel.dattalive.com/8034/8034/chunklist_w1515375048.m3u8
 
 
 
