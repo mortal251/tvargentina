@@ -623,6 +623,9 @@ https://www.youtube.com/watch?v=if91GyWP3zQ
 #EXTINF:-1 group-title="Principal", 24 HORAS RTVE ESPANA
 https://www.youtube.com/watch?v=ygn_yNdJ5us
 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9jV4TNwLdAI/WQlFNyDCHqI/AAAAAAAAAYs/y-shoWo64986FaIQExCiXEwIzVTM46hxgCLcB/s1600/cv-logo-previo.gif" group-title="Principal", CUBAVISION INT
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b1728000.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246468579622400000/2PZnQjrY_400x400.jpg" group-title="Principal", CGTN Español
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
