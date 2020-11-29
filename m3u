@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="Principal", IP - 24.5
+https://chromecast.cvattv.com.ar/live/c3eds/HBOHD/SA_Live_dash_enc_2A/HBOHD.mpd
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="Principal", IP - 24.5
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
