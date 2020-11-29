@@ -208,7 +208,7 @@ https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5d4CZcV4phPi6eGsr1eeaBDFwh4dQ-XmLtQ&usqp=CAU" group-title="Principal", ACEQUIA TV MENDOZA
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/t-f3bm9M4vC-TVyCXktzeoojgk-Ps7rtZ-pq17wwCDnOGIj_dAK30qcktLZbLmV7FFTbqGKp84q407-ubYtbTL52kiOeXxINvutqejgMP9YHWNcGqYCnadhelujSh2Bp3OetHVCFPr93Jc_ocOASpJdwElXKtnnR" group-title="Principal", CANAL 22 BUENOS AIRES
+#EXTINF:-1 tvg-logo="https://i0.wp.com/canal22web.com/wp-content/uploads/2018/05/cropped-logo-canal22.gif?fit=512%2C512&ssl=1" group-title="Principal", CANAL 22 BUENOS AIRES
 http://api.new.livestream.com/accounts/27390802/events/8239465/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1175110925835284481/wRJimpYE_400x400.png" group-title="Principal", 5RTV SANTA FE
