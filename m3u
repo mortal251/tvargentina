@@ -111,8 +111,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1230309204.
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="Principal", TYC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1200px-FOX_Deportes_logo.svg.png" group-title="Principal", FOX DEPORTES
-http://33.rstrm.club/srv/foxdep.m3u8
+
 
 
 
@@ -218,6 +217,15 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-logo="https://t5satelital.com/theme/img/T5logo.png" group-title="Principal", T5 CORRIENTES
 http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://t5satelital.com/theme/img/T5logo.png" group-title="Principal", CANAL 2 JUJUY
+http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/LogoTelevida.png" group-title="Principal", Canal 9 Mendoza
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w508401624.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="Principal", 13 MAX CORRIENTES
+http://coninfo.net:1935/13maxhd/live/.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="Principal", CINE CLUB
 https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w165756078.m3u8?WebM3UCL
@@ -303,8 +311,7 @@ https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist
 #EXTINF:-1 group-title="Principal", CANAL 8 SAN JUAN
 https://www.youtube.com/watch?v=gbpZMPbRzJ8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="Principal", 13 MAX CORRIENTES
-http://coninfo.net:1935/13maxhd/live/.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png" group-title="Principal", Chacra TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0009
@@ -324,8 +331,7 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pSW2boY6Hdg/XvKY9iZvQuI/AAAAAAAA2MI/VIJZpl99EmwV71NgaYFHvYEPEsl3jzD3ACK8BGAsYHg/s0/2020-06-23.jpg" group-title="Principal", Canal Coop Jesus Maria CORDOBA
 https://panel.dattalive.com:443/8138/8138/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/LogoTelevida.png" group-title="Principal", Canal 9 Mendoza
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w508401624.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OmdVIgiYcpQ/XrYImNhAa7I/AAAAAAAA0hA/HKMr0zop2CsNpUAuev_aVuelSQkqOLzTQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="Principal", Canal 10 Mar del Plata
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8?PlaylistM3UCL
@@ -373,7 +379,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ulhiusmLK5w/XjtA5Bi-zrI/AAAAAAAAvoI/A7OP1Flx4xM4g5VOMH9ZfUz7HrxtW3OMQCK8BGAsYHg/s0/2020-02-05.png" group-title="Principal", Telpin Canal 2 PINAMAR
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6yBSbBB-AHE/XjtBSO4ZGtI/AAAAAAAAvoQ/_ZYx1XEmyo0wXnwYQDegDsetCUlb9u0FwCK8BGAsYHg/s0/2020-02-05.png" group-title="Principal", Canal XFN MAR DEL PLATA
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6yBSbBB-AHE/XjtBSO4ZGtI/AAAAAAAAvoQ/_ZYx1XEmyo0wXnwYQDegDsetCUlb9u0FwCK8BGAsYHg/s0/2020-02-05.png" group-title="Principal", Canal 41 XFN MAR DEL PLATA
 https://5f6e1fe8f2d2e.streamlock.net/canalxfn/canalxfn/chunklist_w1270246605.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bfgU_ufKFps/XrYKd9HJC_I/AAAAAAAA0hY/TxCOOPSR-R8fBb8zd9ThamFRUKIRsoFrACK8BGAsYHg/s0/2020-05-08.png" group-title="Principal", Canal 4 Bahia Blanca
@@ -526,10 +532,10 @@ https://www.youtube.com/watch?v=5patYbzarRg
 https://www.youtube.com/watch?v=YfTxsmLbuhk
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Telefe_Mar_del_Plata_%282018%29.png" group-title="Principal", TELEFE MAR DEL PLATA
-https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1606476967~exp=1606653367~acl=/i/mdqdistri02_1@829747/*~hmac=b42200c186f4fad17c1f3299460ee8ff286ae71501f2d2c5d19c09ea3d8a001d
+https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1606658387~exp=1606834787~acl=/i/mdqdistri02_1@829747/*~hmac=d4496d0757cd5d014c08fb6f101ddc035f1412707908f2064dff1a2bff6cfb57
 
 #EXTINF:-1 tvg-logo="https://telefe-static2.akamaized.net/media/199283/telefe.png?v=20191003113858000&format=medium&width=300&height=169&mode=crop" group-title="Principal", TELEFE BAHIA BLANCA
-https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1606437864~exp=1606614264~acl=/I/canal9bahiablanca_1@685725/*~hmac=08346809ec49ab5e3cefb5270050ab3f948cd841c367bf7b02367b30febf93e4
+https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1606658380~exp=1606834780~acl=/I/canal9bahiablanca_1@685725/*~hmac=8d7afeb086debf5d10b530a332d4e56f1ef6a3100f293ec4157aa054adcf9470
 
 #EXTINF:-1 tvg-logo="https://www.telejunin.com.ar/images/telejunin%20logo.png" group-title="Principal", TELEJUNIN
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/chunklist_w1475840358.m3u8
@@ -576,7 +582,7 @@ https://inliveserver.com:1936/8050_1/8050_1/chunklist_w792587498.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KCqAdPir4u0/XrYMI6iIs_I/AAAAAAAA0h4/UaFlSVSv3Foz_7161A3vWWA5kkH4RTZbQCK8BGAsYHg/s0/2020-05-08.png" group-title="Principal", Canal 7 Salta
 https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/chunklist_w1679493773.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.el7tv.com/@/index_archivos/CANAL%207%20Corrientes.png" group-title="Principal", CANAL 7 CORRIENTES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="Principal", CTV CORRIENTES
 https://inliveserver.com:1936/8006_15/8006_15/chunklist_w1660227924.m3u8
 
 
@@ -587,7 +593,7 @@ https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
 https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1982113012.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="Principal", TELESOL
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0207
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0210
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-sDCN5yxbCHw/XrYK8ENfvdI/AAAAAAAA0hg/Ghg1rYIfx4A3SoFfyma-ye04YSgec9OlQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="Principal", Canal 4 Esquel
 https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8?PlaylistM3UCL
@@ -604,11 +610,22 @@ https://5f93e494d5906.streamlock.net/elecotv/elecotv/chunklist_w2013915731.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="Principal", CANAL 10 SAN RAFAEL
 https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/yMO4rHGySvtrY36cCcXrgxIXL0971x-yDydA0hITmoJ_FM2Lke4Hli3n52bImPMjOgvxE1TxiqwmnjeVDJUSU4tredyjOtUwja5d6RPFUbRv7nRHNTGzPImG_nPPGgZ9" group-title="Principal", UNITEVE VILLA MARIA CORDOBA
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-mLylha1dLwQ/TzGoHDDbtJI/AAAAAAAADpQ/HhtpgV0lOs4/s1600/logo+canal+21.JPG" group-title="Principal", CANAL 21 POSADAS
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0181
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_CWoCqFQrloixneMVvpQ-U65SkJwTZT2e4A&usqp=CAU" group-title="Principal", EPS BRAGADO
-https://inliveserver.com:1936/8012_1/8012_1/chunklist_w578678662.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112899_Tele_Estrella.png" group-title="Principal", TELEESTRELLA BUENOS AIRES
+https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
+
+#EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="Principal", CANAL 10 TUCUMAN
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1606689570&h=47c8e81bcc902343421abeb0755b9cbb
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="Principal", CUIDAR TV SAN JUAN
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0207
 
 
 #EXTINF:-1 group-title="Principal", FOUR SEASONS BUENOS AIRES
@@ -747,7 +764,7 @@ https://mediacp.hostradios.com.ar:19360/8016/8016.m3u8
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTawQavXm0sl9VVZanpEdf3JcdaWm62b-7ZLA&usqp=CAU" group-title="Principal", RADIO CAPICUA  99.3 VILLA MARIA CORDOBA
-https://mediacp.hostradios.com.ar:19360/8020/8020.m3u8
+https://mediacp.hostradios.com.ar:19360/8066/8066.m3u8
 
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/2/2852.v5.png" group-title="Principal", FM RITUAL 106.1 FM TDF
 http://streamyes.alsolnet.com/fmritualvideo/live/playlist.m3u8
@@ -755,8 +772,7 @@ http://streamyes.alsolnet.com/fmritualvideo/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.urbana98.com/uploads/logo/logo_5f8f30311e770.png" group-title="Principal", SEÑAL URBANA 98.9 VERONICA
 https://stmvideo2.livecastv.com/urbana98/urbana98/chunklist_w619275342.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Avatar_redes_positivo_1024.png" group-title="Principal", CADENA TIEMPO TRELEW CHUBUT
-https://panel.dattalive.com/8034/8034/chunklist_w1515375048.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://fm-comunicar.com.ar/static/custom/logo-grande.png?t=2020-07-08+10%3A14%3A33.778523" group-title="Principal", FM COMUNICAR 90.7 FM - COLONIA CAROYA
 https://panel.dattalive.com/canal907/canal907/chunklist_w1205944599.m3u8?PlaylistM3UC
@@ -791,23 +807,19 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0243
 #EXTINF:-1 tvg-logo="https://www.dialradio.tv/wp-content/uploads/2018/05/DIAL-RADIO-LOGO-WEB.png" group-title="Principal", RADIO DIAL SAN RAFAEL
 https://cda1.alsolnet.com/dialradiotv/live/chunklist_w232073357.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShm0z7VN395HV8LUjxqjZUWKSpng3qC29Pbw&usqp=CAU" group-title="Principal", UTN TV SAN CRUZ
-https://5975e06a1f292.streamlock.net:4443/utntv/utntv/chunklist_w1150470537.m3u8
+#EXTINF:-1 tvg-logo="http://radioplus983.com/wp-content/uploads/2016/07/log200-e1468504920544.png" group-title="Principal", RADIO PLUS 98.3 TDF
+http://inliveserver.com:1935/9014/9014/chunklist_w1756628524.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112899_Tele_Estrella.png" group-title="Principal", TELEESTRELLA BUENOS AIRES
-https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_CWoCqFQrloixneMVvpQ-U65SkJwTZT2e4A&usqp=CAU" group-title="Principal", EPS BRAGADO
+https://inliveserver.com:1936/8012_1/8012_1/chunklist_w578678662.m3u8
 
-#EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="Principal", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1606509288&h=d5dcbe8f3ebafd5b01cc5013271a47e2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Avatar_redes_positivo_1024.png" group-title="Principal", CADENA TIEMPO TRELEW CHUBUT
+https://panel.dattalive.com/8034/8034/chunklist_w1515375048.m3u8
 
-#EXTINF:-1 tvg-logo="http://calleangostatv.com/wp-content/uploads/2019/10/logo27.png" group-title="Principal", CALLE ANGOSTA SAN LUIS
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0212
 
-#EXTINF:-1 tvg-logo="https://tntsports.com.ar/export/sites/tntsports/arte/logo.svg_1492504230.svg" group-title="Principal", TNT SPORT
-https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_720_av-p.m3u8?sd=10&rebase=on&id=AgC1LIFHtSxKBOLKwl+sIlAIkY9Ug2TrC6fEO20rP0or9TeG8pBPff2Y5rP8JE3RzktsrDCe6ZZreQ%3d%3d&hdntl=exp=1606623042~acl=%2f*~data=hdntl~hmac=c7c626b3f8d21db4ff1c3820cafa3573ed9a03a72ba803a854fa01a4946e1383
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRD9-5WzCViq2hgGgCCMKtQ8KDA0fnX1O0WC39661wnl1OaXJL-EEWcY-qbE33f0GQJSZDvmKbURcCjdxRbsPCznn8B2kR2KxpnZg&usqp=CAU&ec=45702846" group-title="Principal", CDO
-https://tls.cdnz.cl/cdofree/cdn.smil/.m3u8
+
+
 
 
 
