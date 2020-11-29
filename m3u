@@ -217,7 +217,7 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-logo="https://t5satelital.com/theme/img/T5logo.png" group-title="Principal", T5 CORRIENTES
 http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://t5satelital.com/theme/img/T5logo.png" group-title="Principal", CANAL 2 JUJUY
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-2-Jujuy-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="Principal", CANAL 2 JUJUY
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/LogoTelevida.png" group-title="Principal", Canal 9 Mendoza
@@ -225,7 +225,6 @@ https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w50840162
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="Principal", 13 MAX CORRIENTES
 http://coninfo.net:1935/13maxhd/live/.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="Principal", CINE CLUB
 https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w165756078.m3u8?WebM3UCL
@@ -332,7 +331,6 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://panel.dattalive.com:443/8138/8138/playlist.m3u8?PlaylistM3UCL
 
 
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OmdVIgiYcpQ/XrYImNhAa7I/AAAAAAAA0hA/HKMr0zop2CsNpUAuev_aVuelSQkqOLzTQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="Principal", Canal 10 Mar del Plata
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8?PlaylistM3UCL
 
@@ -341,8 +339,6 @@ https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playl
 
 #EXTINF:-1 group-title="Principal", UNQ TV
 https://www.youtube.com/watch?v=3Hdlvusbt1A
-
-
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="Principal", Aire de Santa Fe
 https://sc2.stweb.tv/airedigital/live/chunklist_w2145450313.m3u8
@@ -355,8 +351,6 @@ https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?Playl
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uYJjXBSPKcQ/XrYLr-JJG2I/AAAAAAAA0hs/wSH1Dy7JWGkic3m4szzF2dIrjTyHOYHuwCK8BGAsYHg/s0/2020-05-08.png" group-title="Principal", Canal 6 Posadas
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
-
-
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="Principal", 9LINK CHACO
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
@@ -460,8 +454,6 @@ https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w1025085291.m3u8
 #EXTINF:-1 tvg-logo="https://bragadotv.com.ar/wp-content/uploads/2020/08/logoicono.png" group-title="Principal", BRAGADO TV
 https://inliveserver.com:1936/9516/9516/chunklist_w1534893344.m3u8
 
-
-
 #EXTINF:-1 group-title="Principal", TELEVISION PUBLICA
 https://www.youtube.com/watch?v=mnz26ugVRGc
 
@@ -501,7 +493,6 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 #EXTINF:-1 group-title="Principal", TELEFE SALTA
 https://www.youtube.com/watch?v=tW-zjPbQWUA
 
-
 #EXTINF:-1 group-title="Principal", DEPORTV - 24.1
 https://www.youtube.com/watch?v=q4CTql4ZWOc
 
@@ -510,8 +501,6 @@ https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Principal", AMERICA INTERIOR
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
-
-
 
 #EXTINF:-1 group-title="Principal", CANAL 13 SAN JUAN
 https://www.youtube.com/watch?v=ORJgnFGShKU
