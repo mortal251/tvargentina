@@ -1,6 +1,7 @@
 #EXTM3U
 
 
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="Principal", IP - 24.5
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 
@@ -620,8 +621,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0207
 #EXTINF:-1 group-title="Principal", FOUR SEASONS BUENOS AIRES
 https://www.youtube.com/watch?v=if91GyWP3zQ
 
-#EXTINF:-1 group-title="Principal", 24 HORAS RTVE ESPANA
-https://www.youtube.com/watch?v=ygn_yNdJ5us
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoDQLkIwY3J1UioFIBiSuyg2ocyNotWpOdw&usqp=CAU" group-title="Principal", 24 HORAS ESPAÑA
+https://rtvehlslivestream.akamaized.net/hls/live/2021620/24H_AKA_HLS_DVR_GL8/bitrate_3.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246468579622400000/2PZnQjrY_400x400.jpg" group-title="Principal", CGTN Español
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
@@ -629,8 +632,7 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL._SR600,315_SCLZZZZZZZ_.png" group-title="Principal", NHK JAPON
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 
-#EXTINF:-1 group-title="Principal", 24 HORAS CHILE
-https://www.youtube.com/watch?v=sjQsjgBt03I
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80324_TV_Peru_Noticias.png" group-title="Principal", TV PERU NOTICIAS
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
