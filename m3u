@@ -290,8 +290,7 @@ https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/chunklist_w15
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online.png" group-title="Principal", CANAL 3 ROSARIO
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/chunklist_w410494757_b1699840.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online.png" group-title="Principal", CANAL 3 ROSARIO SEÑAL 2
-https://g5.vxral-hor.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_all/rosario3_live01-100168_240p.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzf6AGK5BPmlw5-JzWhnSXze1WPGScfjTWLBDRI=s900-c-k-c0x00ffffff-no-rj" group-title="Principal", CANAL 10 ENTRE RIOS
 http://streamingvideo.com.ar:1935/10tv/live/chunklist_w448721709.m3u8
@@ -721,6 +720,9 @@ http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w2048008042.m3u8
 
 #EXTINF:-1 tvg-logo="https://beatsradio.com.ar/imagenes/logo.png" group-title="Principal", BEATS  - 100.5 FM - TIGRE
 https://59537faa0729a.streamlock.net/beatsradio/beatsradio/chunklist_w154598638.m3u8?_=1
+
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/96/85/9685b44d-67a3-4c50-84e6-76888b1599cb.png" group-title="Principal", FM PLUS 93.1 ROSARIO
+https://g5.vxral-hor.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_all/rosario3_live01-100168_240p.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="Principal", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8
