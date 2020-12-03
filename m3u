@@ -188,8 +188,8 @@ https://www.youtube.com/watch?v=_JXSuvOs--8
 #EXTINF:-1 group-title="Principal", EL DOCE CORDOBA
 https://www.youtube.com/watch?v=gBbMbqILzXU
 
-#EXTINF:-1 group-title="Principal", CANAL 9 DE MENDOZA
-https://www.youtube.com/watch?v=P6jPtZIvwGU
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="Principal", CANAL 9 MENDOZA
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w1030855432.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo_elonce_tv_2019.png.jpg/177px-Logo_elonce_tv_2019.png.jpg" group-title="Principal", EL ONCE PARANA
 https://elonce.zapto.org/hls/live_240p1000kbs.m3u8
@@ -597,6 +597,9 @@ https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm4lKe3uMzJnjq38A3QLkgbFduVklg1mHu2g&usqp=CAU" group-title="Principal", EL ECO TV
 https://5f93e494d5906.streamlock.net/elecotv/elecotv/chunklist_w2013915731.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80665_Canal_3_Pinamar.png" group-title="Principal", CANAL 3 PINAMAR
+http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="Principal", CANAL 10 SAN RAFAEL
 https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
 
@@ -719,6 +722,9 @@ http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w2048008042.m3u8
 #EXTINF:-1 tvg-logo="https://beatsradio.com.ar/imagenes/logo.png" group-title="Principal", BEATS  - 100.5 FM - TIGRE
 https://59537faa0729a.streamlock.net/beatsradio/beatsradio/chunklist_w154598638.m3u8?_=1
 
+#EXTINF:-1 tvg-logo="https://beatsradio.com.ar/imagenes/logo.png" group-title="Principal", FM COMUNICAR 90.7 FM - COLONIA CAROYA
+https://panel.dattalive.com/canal907/canal907/chunklist_w1205944599.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/96/85/9685b44d-67a3-4c50-84e6-76888b1599cb.png" group-title="Principal", FM PLUS 93.1 ROSARIO
 https://g5.vxral-hor.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_all/rosario3_live01-100168_240p.m3u8
 
@@ -773,7 +779,8 @@ http://streaming.arcast.com.ar:1935/fmlatina/fmlatina/chunklist_w871522106.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQC3ZztNwYVI7-3K0qGaDY-w0toenpCDjGhg&usqp=CAU" group-title="Principal", FM METROPOLITANA 93.5 TUCUMAN
 https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/chunklist_w2882118.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="Principal", RADIO AZAHARES 101.5 CORRIENTES
+http://streamyes.alsolnet.com/azaharesfm/live/chunklist_w197812151.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="Principal", LRJ214 Mil20 SAN JUAN
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0211
