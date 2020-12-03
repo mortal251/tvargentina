@@ -94,8 +94,7 @@ http://lavozdetucuman.com/peliculas2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/South_park_sign.svg/1200px-South_park_sign.svg.png" group-title="Principal", SOUTH PARK
 https://live.televisiongratishd.com/tvplus2021/146_.m3u8?token=9dFnfwiKz5UAhmZaeQS6MQ&expires=1607023581
 
-#EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/A/img/Alf-1.gif" group-title="Principal", ALF
-https://live.televisiongratishd.com/tvplus2021/128_.m3u8?token=EQtgVQ8sG590o3E5yRemNg&expires=1607023843
+
 
 #EXTINF:-1 group-title="Principal", DTV DIPUTADOS TELEVISION
 https://www.youtube.com/watch?v=jXgbJFeWXMk
@@ -810,7 +809,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0087
 https://streamcasthd.com:1936/woxtv/smil:woxtv.smil/chunklist_w421368362_b1500000_slen.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/A/img/Alf-1.gif" group-title="Principal", ALF
+https://live.televisiongratishd.com/tvplus2021/128_.m3u8?token=EQtgVQ8sG590o3E5yRemNg&expires=1607023843
 
 
 
