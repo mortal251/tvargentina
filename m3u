@@ -252,14 +252,6 @@ https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/chunklist_w66673837.m3u8?
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRp1t1k6qg3uQ5PKXQNhnqDX_Q-ZHksPfhNHQ&usqp=CAU" group-title="Principal", FMTV 3
 https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/chunklist_w493690781.m3u8?_=1
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsur1Hy3286CoZOpKEaZWfspTie3dKK5P7oA&usqp=CAU" group-title="Principal", SPACE
-https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/index_240_av-b.m3u8?sd=10&rebase=on&id=AgC1LIFHtSxKHiOWy1++7gc9668SQBnxAjLCxDTo42moANYNBqMd1DVQYHPHKVdLwgbUfpfcU5YzrQ%3d%3d&hdntl=exp=1607199363~acl=%2f*~data=hdntl~hmac=60fea92e360dd5a2b4193597af68ba9bf674ed8ad1d19447e6cd53d0a4fb09d3
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv4N2y9oZj9bFM65-xv1DmSqskdtrjH00VMA&usqp=CAU" group-title="Principal", TNT
-https://latam1-lh.akamaihd.net/i/TNT_ARG@445527/index_480_av-p.m3u8?sd=10&rebase=on&id=AgC1LIFHtSxKBbyWy18vs0dZFeQVemcV%2fK3yOX7NV9keACOItpamT6sutWqnfRvMg6XxnV3IS4rigQ%3d%3d&hdntl=exp=1607264316~acl=%2f*~data=hdntl~hmac=3965d63a5eabad6959d7ea63ec6e2b7a5a8efa09ef2aa447955be63137f02df4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv4N2y9oZj9bFM65-xv1DmSqskdtrjH00VMA&usqp=CAU" group-title="Principal", TNT SERIES
-https://latam3-lh.akamaihd.net/i/TNS_PNR2@445602/index_240_av-p.m3u8?sd=10&rebase=on&id=AgC1LIFHtSxKJTuXy19+WfwQQAGLiXEIIZVGmPJYdtXhErLBs0WHr2y2YppOyOP1vxPfjYZN3o5i3Q%3d%3d&hdntl=exp=1607264443~acl=%2f*~data=hdntl~hmac=b65e2557f44d10dd13546c0d5118f385e25e3419a54a30ad0980b558a829ad3e
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0X7REz4ISXLJloQhacO1qP2R3vnMm-uncrw&usqp=CAU" group-title="Principal", ZEE TV
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?_=1
