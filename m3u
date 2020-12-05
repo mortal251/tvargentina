@@ -29,8 +29,6 @@ http://g4.vxral-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gc
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-a-xOmMTkpX_HDWTW6xIpksPFdDIQlMoaA&usqp=CAU" group-title="Principal", ENCUENTRO - 22.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w576200856.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Principal", AMERICA HD - 36.1
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
@@ -38,13 +36,13 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="Principal", CANAL 9 - 35.1
-https://ar-elnueve-elnueve-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA3MDg5NzE2LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6N2VmOjdkYTQ6Zjg5NDo1ODdiOjlmZGIiXX0sInNpZ25hdHVyZSI6IjVlNTlkNWY3NTlhZGM0Mzc0NWIwOWFlZDNjOTk0MmM3MDMzYzA1YWEifQ%3D%3D
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA3MjYwMTQ1LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6N2VmOjcxMjk6OTc2NDplMzM2OmMzMmQiXX0sInNpZ25hdHVyZSI6ImEwYTdjYjU1NDMwNWI2YTc1NjNmOTUzNWI5NDMxMDdjMDVlZTU1NjYifQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="Principal", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Principal", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpQFT8DaJQGDL3eOLAm_fhG3jByNIaghkA2PaHLQa3nfs_pf4QajVii6zOFxbGQXjlRV5vJ3lXguSIZsu4wWAqQhN63cdsemOaiERobzNEtu_SVL5FFRjerNL064bSdiNC6giYtYW2FWx6Mm2gje7SSTNE3iuH8Q9TFT2iva6GP63vuKbhfea0u2VmjwWOkvf-GirAlpjnjL0ZhaihMovxvE2DathjzpTrOfaDkxUdSAxILe__P5NAdp9VaGXIzFZ5MsSv5KmO4RhkOQJcz07FxZx_o0r2fr4NLY_6tZfVku_ug5vWktRr8G3e9GfDTiFRMQu8nWkh8fFT9v_4ZkvbCEMHqfajE_4gXa4XgMENyvWN1s7rfB8cS9CTs09NMujDpWCyZft3M5B2f75UFG0xgLtahmonxYfF1_lLBwb30tusvQewyC2UHhgcFte17yjNG4a86PA6O30wXRQ-rX2ctjbRvS9ok7c8j46ChNzA_BGjw1SctDqZsFhYCG1QUDwi2GZK3xA3tyOoASb8YrWXkEdNICw1885SXyZiHVXVSsyc7Leu9l7bFUQcNREhJXrhcfir8kNsYSPV807hNOUF1tuEwO03o_gTSQN0fnQcAPGZ_0zwcj2nevttMwBtIQJOWHV73pzXuxzCTp0NBLwGGhCgQtp45E-2wKZERhK4SpCmjGCFtUdmohVE4zYio8BcYZbvKf-tldHGb_luWDjObJ0M-Z7eZky3fXMxB8V42ZvooH2qYSKeTiyY3FlD6AYSRrZkABXSrssWhyYIVYz9wgofrmpMhNiLcbYNi649rnlOuKwnY_SolILUYvSxvsuBe8D0L416X_Gk1iXwdgbwvyTPWHJ_i4TiADC0VubesYvccOlGj0EhDxtXcw4-wVBdllllDt74zXGgw4F8k5v310UAZT_ok.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpMFpfKKfHmy0BnFo-ifiDXnRb6NhrH3AbitbrjDUuEfORfhim-yjlrYqq1xtutbKK1shYI1kkyMOWCK-bIM6lYqgA8gj5jyPeTz2usBouix6q725MTJFRPHHTGA7Mj8UZtcJqa0355JBGDf4BcdRzsaOWVxXfBI7FtVjUtk2Goa_Js3_t91LeoDAZ162bNxdbpvEjv4POuyv0aS_DxN1C3OjbE0xJQ-wGWElq66Lrd8CLU_kO5IRmBO60Q5dom08qEgbr_buA8xXjrHng8TrTyrDNF7x7EnRHVFIeP5pdPEIJEmBxnM8Dka7lifOXuPrOwcqK0EKbXnqp5Pqq6uilbEVUzixmJlM-NLQ_WqLKKcafUvc1QftwJosgGmTZVShdUnGpN7ZSsQBkwtDWCwOktCe4VPXkaCZXFGkFKf9jR1r-wzl47PNBaRJ8qw3XcImjEeTPgtDYHdQYSrYF4piW73RPR_-q0pbslvPtFIJPtq6kM1-chjGy8eqG8v1cUPwVjI713haVRmMG5f6tYQiUo86xyU1u2d0xIPlJD0EAUfJo0wbOnZZ1V34xhs5puD20NHEWkW21sGJ-Fxarq4JQBboFoc2hHXcATrgpa-oJvXGsY4dbLRyVb0ccxz6OftxZ-6LsMu8siTxptQaNgxBOprQY6xvpkVa8Al8FlsrHwofIdxOXFM9HAXPesoxzkFWag0j1bQyXM1QJKtm-1BkTJ3p3IwqxaN8A9e_tMuS5wPDGWlz8OKBPH1FF4Wut2p7Xwq-MqiZKPDOIjZy4Oxza-OOMw6lg6mFNd6-kvBnmCaa9AHiNCoNbY-D1UtbhKeC1OJ1pxuR444RjeC8GF8-WeRxqJqhOnbi6efpaK2E7_PUx-crLoSEMSwYDwqAlFPbFIQkCUJRhUaDE19qf_8igZepqEQ2Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="Principal", NET TV - 27.2
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043
@@ -94,12 +92,11 @@ http://lavozdetucuman.com/peliculas2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/South_park_sign.svg/1200px-South_park_sign.svg.png" group-title="Principal", SOUTH PARK
 https://live.televisiongratishd.com/tvplus2021/146_.m3u8?token=TNI8-c2b1ogj0c_p5tgM3w&expires=1607109665
 
-
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/j6L7f1riSVFacE_43m46LTfpIxbfB1MiYckba6pI1wV6bENoSKKLT24_HQdQwtBDlZ9HW6gnuMJqKdm7IgohVSgZinM" group-title="Principal", K.DE tv
+http://45.77.154.172:8080/hls/show.m3u8
 
 #EXTINF:-1 group-title="Principal", DTV DIPUTADOS TELEVISION
 https://www.youtube.com/watch?v=jXgbJFeWXMk
-
-
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/tectv.png" group-title="Principal", TEC TV - 22.5
 https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough/tectv_3/chunks.m3u8
