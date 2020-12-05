@@ -89,11 +89,11 @@ http://lavozdetucuman.com/peliculas1.m3u8
 #EXTINF:-1 tvg-logo="https://www.bitacine.com/wp-content/uploads/2015/04/BitaCine-BORRADOR-Series-y-Cine-1.png" group-title="Principal", PELICULAS2
 http://lavozdetucuman.com/peliculas2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/South_park_sign.svg/1200px-South_park_sign.svg.png" group-title="Principal", SOUTH PARK
-https://live.televisiongratishd.com/tvplus2021/146_.m3u8?token=TNI8-c2b1ogj0c_p5tgM3w&expires=1607109665
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/j6L7f1riSVFacE_43m46LTfpIxbfB1MiYckba6pI1wV6bENoSKKLT24_HQdQwtBDlZ9HW6gnuMJqKdm7IgohVSgZinM" group-title="Principal", K.DE tv
 http://45.77.154.172:8080/hls/show.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="Principal", Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
 #EXTINF:-1 group-title="Principal", DTV DIPUTADOS TELEVISION
 https://www.youtube.com/watch?v=jXgbJFeWXMk
@@ -104,8 +104,7 @@ https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough/tectv_3/chunks.m3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU" group-title="Principal", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="Principal", Locomotion
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://scontent.faep5-1.fna.fbcdn.net/v/t1.0-9/108921750_3108255435967482_4020775555334501387_n.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_eui2=AeFJuqsKJNkSJJ3MMfgVQYPqcM-MKCnwUARwz4woKfBQBI66IEaXSsUHyL8LP8-G828&_nc_ohc=VINWAQ8eaDkAX9hPU8v&_nc_ht=scontent.faep5-1.fna&oh=ee493ff08334016102bedc1442c82c94&oe=5FE69204" group-title="Principal", DEPORTV - 24.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1230309204.m3u8
