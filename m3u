@@ -404,7 +404,7 @@ https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 https://live.canalnueve.tv/canal.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="Principal", TELEFE SANTA FE
-https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1607299291~acl=%2fi%2fcanal13santafe_1%40751190%2f*~data=hdntl~hmac=ef9d15135b11a3f84659f7a3348725af6f5671c82e935849bb1a20dfd222fe91
+https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1607209275~exp=1607385675~acl=/i/canal13santafe_1@751190/*~hmac=97519b9bbe1b811e287a52556b93800265ef17a579aac6a887116ef1cab0b819
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NNKwN__O6ow/XjtC-7aspzI/AAAAAAAAvo0/v09wOJBPPlUnV3i75aEZ-ffQbViAKoXJACK8BGAsYHg/s0/2020-02-05.png" group-title="Principal", Canal 12 PUERTO MADRYN
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/chunklist_w1491679876.m3u8
