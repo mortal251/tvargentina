@@ -247,6 +247,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSje85UeM53ryOshSR3o7E5NyU0euKVAd-xqQ&usqp=CAU" group-title="Principal", FMTV
 https://5c21f7ec1999d.streamlock.net/8070/8070/chunklist_w456228667.m3u8?_=1
 
+
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-movies-tv-en-vivo-271x190.jpg" group-title="Principal", FMTV 2
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/chunklist_w66673837.m3u8?_=1
 
@@ -676,9 +677,8 @@ https://www.youtube.com/watch?v=aqPIiyPI10c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Principal", RT - 25.5
 https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="Principal", EURONEWS
-https://euronews-es-p-cdn.hexaglobe.net/8ec44553286fad1cd1bcd08c923e2afd/5fcb9151/euronews/euronews-euronews-website-web-responsive-2/ewnsabres_spa.smil/ewnsabres_spa_480p.m3u8
-
+#EXTINF:-1 group-title="Principal", EURONEWS
+https://www.youtube.com/watch?v=JbKgQhFlMdU
 
 
 
@@ -733,7 +733,7 @@ https://59537faa0729a.streamlock.net/beatsradio/beatsradio/chunklist_w154598638.
 https://panel.dattalive.com/canal907/canal907/chunklist_w1205944599.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/96/85/9685b44d-67a3-4c50-84e6-76888b1599cb.png" group-title="Principal", FM PLUS 93.1 ROSARIO
-https://g5.vxral-hor.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_all/rosario3_live01-100168_240p.m3u8
+https://g5.vxral-hor.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_all/rosario3_live01-100168_480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="Principal", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8
@@ -822,8 +822,7 @@ https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
 #EXTINF:-1 group-title="Principal", RT - 25.5
 https://www.youtube.com/watch?v=9DXGrOU5wKQ
 
-#EXTINF:-1 group-title="Principal", EURONEWS
-https://www.youtube.com/watch?v=C5oZ5yXkLb0
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="Principal", MAGAZINE
 https://g2.vxral-hor.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
