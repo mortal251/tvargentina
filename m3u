@@ -622,6 +622,8 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0Zxj7gGFIPTrI9V3xyRvBgKUoIg4pTfDnlQ&usqp=CAU" group-title="Principal", CANAL 5 MONTE CASEROS
 http://149.56.98.124:9090/hls/canal5montecaceros_low.m3u8
 
+#EXTINF:-1 tvg-logo="https://canal2mdp.com.ar/wp-content/uploads/2016/04/13427954_1104019889671271_5647949923378659701_n-1.jpg" group-title="Principal", Canal 2 Mar del Plata
+https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
 
 
 #EXTINF:-1 group-title="Principal", FOUR SEASONS BUENOS AIRES
@@ -740,7 +742,7 @@ https://59537faa0729a.streamlock.net/beatsradio/beatsradio/chunklist_w154598638.
 https://panel.dattalive.com/canal907/canal907/chunklist_w1205944599.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/96/85/9685b44d-67a3-4c50-84e6-76888b1599cb.png" group-title="Principal", FM PLUS 93.1 ROSARIO
-https://g5.vxral-hor.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_all/rosario3_live01-100168_480p.m3u8
+https://g3.vxral-slo.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_all/rosario3_live01-100168_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="Principal", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8
@@ -813,18 +815,16 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0244
 https://cda1.alsolnet.com/dialradiotv/live/chunklist_w232073357.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI966.png" group-title="Principal", LRI966 Cadena 103
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0088
 
 #EXTINF:-1 tvg-logo="https://radioarg.net/assets/image/radio/180/wox1.png" group-title="Principal", WOX ROSARIO 88.3
-https://streamcasthd.com:1936/woxtv/smil:woxtv.smil/chunklist_w421368362_b1500000_slen.m3u8
+https://streamcasthd.com:1936/woxtv/woxtv/chunklist_w120858402.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-STbVB0Kn5jk/XCP4RN14aKI/AAAAAAAAB8g/FqOz9Aqyh7AOrcXD-JIpVtHwY_sppGbhQCLcBGAs/w1200-h630-p-k-no-nu/canal-8-mendoza.jpg" group-title="Principal", CANAL 8 TUNUYAN
 https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/chunklist_w1916217253.m3u8
 
-#EXTINF:-1 tvg-logo="https://canal2mdp.com.ar/wp-content/uploads/2016/04/13427954_1104019889671271_5647949923378659701_n-1.jpg" group-title="Principal", Canal 2 Mar del Plata
-https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
+
 
 #EXTINF:-1 group-title="Principal", RT - 25.5
 https://www.youtube.com/watch?v=9DXGrOU5wKQ
