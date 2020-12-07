@@ -295,8 +295,7 @@ https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg" group-title="Principal", LITUS TV
 https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/chunklist_w1591782996_b1531904.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="Principal", ZONDA TV 35.1 - SAN JUAN
-http://186.129.252.150:1935/canal/351/chunklist_w311969865.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online.png" group-title="Principal", CANAL 3 ROSARIO
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/chunklist_w410494757_b1699840.m3u8?PlaylistM3UCL
@@ -702,7 +701,7 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/large.1365812628_BoliviaTV20191b.png.ed374f34c0627622a7f2492628abb066.png" group-title="Principal", BOLIVIA TV
-http://btvboliviatv.srfms.com:6568/live/livestream/chunklist_w422441031.m3u8
+https://5f2c1b0d880e5.streamlock.net/boliviatv/videoboliviatv/chunklist_w467997686.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIwIDk6MjI6MDcgUE0maGFzaF92YWx1ZT1NdlIwY2hhNVpNaHpyaVRyL3puTVZnPT0mdmFsaWRtaW51dGVzPTUwJmlkPQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://www.arzbaires.org.ar/inicio/images/canalorbe21.jpg" group-title="Principal", ORBE 21 - 21.2
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
@@ -833,5 +832,6 @@ https://www.youtube.com/watch?v=9DXGrOU5wKQ
 #EXTINF:-1 group-title="Principal", KZO
 https://www.youtube.com/watch?v=sROputO1x54
 
-
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="Principal", ZONDA TV 35.1 - SAN JUAN
+http://186.129.252.150:1935/canal/351/chunklist_w311969865.m3u8
 
