@@ -697,121 +697,121 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/large.1365812628_BoliviaTV20191b.png.ed374f34c0627622a7f2492628abb066.png" group-title="INTERNACIONAL", BOLIVIA TV
 https://5e50264bd6766.streamlock.net:443/boliviatv/videoboliviatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMCAxOjI4OjI3IFBNJmhhc2hfdmFsdWU9aFVReE1wZDJQQjA0YzdHYmJyb1RSUT09JnZhbGlkbWludXRlcz01MCZpZD0=
 
-#EXTINF:-1 tvg-logo="https://www.arzbaires.org.ar/inicio/images/canalorbe21.jpg" group-title="Principal", ORBE 21 - 21.2
+#EXTINF:-1 tvg-logo="https://www.arzbaires.org.ar/inicio/images/canalorbe21.jpg" group-title="RELIGION", ORBE 21 - 21.2
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png" group-title="Principal", UNIFE TV - 25.1
+#EXTINF:-1 tvg-logo="https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png" group-title="RELIGION", UNIFE TV - 25.1
 https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough/unifearg1_ar_only_1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_0sQVkpVmGSk/TIX_304VIOI/AAAAAAAAAIM/YxMcjC8BGqo/s1600/LOGO%2520SOLIDARIA%2520TV%2520corel%252011.jpg" group-title="Principal", SOLIDARIA TV
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_0sQVkpVmGSk/TIX_304VIOI/AAAAAAAAAIM/YxMcjC8BGqo/s1600/LOGO%2520SOLIDARIA%2520TV%2520corel%252011.jpg" group-title="RELIGION", SOLIDARIA TV
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISANTAM.png" group-title="Principal", Santa Maria
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISANTAM.png" group-title="RELIGION", Santa Maria
 http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png" group-title="Principal", CANAL LUZ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png" group-title="RELIGION", CANAL LUZ
 http://g5.proy-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_OgkXZYSihlqwaB2Uehl4D6lip7dp1nF6Ew&usqp=CAU" group-title="Principal", TV MANA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_OgkXZYSihlqwaB2Uehl4D6lip7dp1nF6Ew&usqp=CAU" group-title="RELIGION", TV MANA
 http://csvl03.manasat.com:1935/tvar/tvmanaar2/chunklist_w1786046739.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000256543676/cad59d963ae7777d7ba7c1ac0db7c001_400x400.png" group-title="Principal", TV UNIVERSAL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000256543676/cad59d963ae7777d7ba7c1ac0db7c001_400x400.png" group-title="RELIGION", TV UNIVERSAL
 https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough/iurd_2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="Principal", RADIO MITRE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="RADIO", RADIO MITRE
 https://g5.mc-slo.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/MITREHD-10002_240p.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="Principal", LA 100
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="RADIO", LA 100
 https://g2.vxral-hor.transport.edge-access.net/b13/ngrp:cienradioshd-10002_all/cienradioshd-10002_360p.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIRIO969.png" group-title="Principal", Rioja TV - 96.9 FM
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIRIO969.png" group-title="RADIO", Rioja TV - 96.9 FM
 http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w2048008042.m3u8
 
-#EXTINF:-1 tvg-logo="https://beatsradio.com.ar/imagenes/logo.png" group-title="Principal", BEATS  - 100.5 FM - TIGRE
+#EXTINF:-1 tvg-logo="https://beatsradio.com.ar/imagenes/logo.png" group-title="RADIO", BEATS  - 100.5 FM - TIGRE
 https://59537faa0729a.streamlock.net/beatsradio/beatsradio/chunklist_w154598638.m3u8?_=1
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/107187_Canal_907_FM_Comunicar.png" group-title="Principal", FM COMUNICAR 90.7 FM - COLONIA CAROYA
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/107187_Canal_907_FM_Comunicar.png" group-title="RADIO", FM COMUNICAR 90.7 FM - COLONIA CAROYA
 https://panel.dattalive.com/canal907/canal907/chunklist_w1205944599.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/96/85/9685b44d-67a3-4c50-84e6-76888b1599cb.png" group-title="Principal", FM PLUS 93.1 ROSARIO
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/96/85/9685b44d-67a3-4c50-84e6-76888b1599cb.png" group-title="RADIO", FM PLUS 93.1 ROSARIO
 https://g3.vxral-slo.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_all/rosario3_live01-100168_540p.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="Principal", FM 99.9 MAR DEL PLATA
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="RADIO", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8
 
 
-#EXTINF:-1 group-title="INTERNACIONAL", VORTERIX - 92.1 FM
+#EXTINF:-1 group-title="RADIO", VORTERIX - 92.1 FM
 https://www.youtube.com/watch?v=Bi4w23aW99s
 
-#EXTINF:-1 tvg-logo="https://www.lacoope.net/img/imgcope/La_Coope.png" group-title="Principal", COOPE TV 102.7 FM MENDOZA
+#EXTINF:-1 tvg-logo="https://www.lacoope.net/img/imgcope/La_Coope.png" group-title="RADIO", COOPE TV 102.7 FM MENDOZA
 https://ingest-wza.bustream.com/coopetv/coopetv/chunklist_w1034186856.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI974.png" group-title="Principal", LRI974 La 90
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI974.png" group-title="RADIO", LRI974 La 90
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w2063503956.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="Principal", FM LIGHT 97.3 SAN JUAN
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="RADIO", FM LIGHT 97.3 SAN JUAN
 http://videostream.shockmedia.com.ar:1935/lightfm/lightfm/chunklist_w998628812.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXrgbmW8w98MP244V_LA6ZLa82UN1o3NurFw&usqp=CAU" group-title="Principal", RACSOL TV 94.3 LAS FLORES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXrgbmW8w98MP244V_LA6ZLa82UN1o3NurFw&usqp=CAU" group-title="RADIO", RACSOL TV 94.3 LAS FLORES
 https://mediacp.hostradios.com.ar:19360/rascoltv/rascoltv.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu9w1RZeP-9qPRH7EEj8WGxlLE2smh1hCv-Q&usqp=CAU" group-title="Principal", RADIO CENTRO 92.9 VILLA MARIA CORDOBA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu9w1RZeP-9qPRH7EEj8WGxlLE2smh1hCv-Q&usqp=CAU" group-title="RADIO", RADIO CENTRO 92.9 VILLA MARIA CORDOBA
 https://mediacp.hostradios.com.ar:19360/8016/8016.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.faep5-1.fna.fbcdn.net/v/t1.0-9/35852518_1982366235170030_5582042344615575552_n.jpg?_nc_cat=109&cb=846ca55b-ee17756f&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeHphhA31kyFI_IV1JcTSCvoMcRLpBPOk2sxxEukE86TawyzxB7-RcyUml6v6YXw_cY&_nc_ohc=02I4BicXyFIAX9djev5&_nc_ht=scontent.faep5-1.fna&oh=f6bd1fe3dfb800c94aeb51cfc058eb93&oe=5FC34C77" group-title="Principal", CARDINAL TV MIRAMAR CORDOBA
+#EXTINF:-1 tvg-logo="https://scontent.faep5-1.fna.fbcdn.net/v/t1.0-9/35852518_1982366235170030_5582042344615575552_n.jpg?_nc_cat=109&cb=846ca55b-ee17756f&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeHphhA31kyFI_IV1JcTSCvoMcRLpBPOk2sxxEukE86TawyzxB7-RcyUml6v6YXw_cY&_nc_ohc=02I4BicXyFIAX9djev5&_nc_ht=scontent.faep5-1.fna&oh=f6bd1fe3dfb800c94aeb51cfc058eb93&oe=5FC34C77" group-title="RADIO", CARDINAL TV MIRAMAR CORDOBA
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTawQavXm0sl9VVZanpEdf3JcdaWm62b-7ZLA&usqp=CAU" group-title="Principal", RADIO CAPICUA  99.3 VILLA MARIA CORDOBA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTawQavXm0sl9VVZanpEdf3JcdaWm62b-7ZLA&usqp=CAU" group-title="RADIO", RADIO CAPICUA  99.3 VILLA MARIA CORDOBA
 https://mediacp.hostradios.com.ar:19360/8066/8066.m3u8
 
-#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/2/2852.v5.png" group-title="Principal", FM RITUAL 106.1 FM TDF
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/2/2852.v5.png" group-title="RADIO", FM RITUAL 106.1 FM TDF
 http://streamyes.alsolnet.com/fmritualvideo/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.urbana98.com/uploads/logo/logo_5f8f30311e770.png" group-title="Principal", SEÑAL URBANA 98.9 VERONICA
+#EXTINF:-1 tvg-logo="http://www.urbana98.com/uploads/logo/logo_5f8f30311e770.png" group-title="RADIO", SEÑAL URBANA 98.9 VERONICA
 https://stmvideo2.livecastv.com/urbana98/urbana98/chunklist_w619275342.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--GOOD.png" group-title="Principal", GOOD RADIO - 101.1 TV - JESUS MARIA CORDOBA
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--GOOD.png" group-title="RADIO", GOOD RADIO - 101.1 TV - JESUS MARIA CORDOBA
 http://streamyes.alsolnet.com/goodradio/live/chunklist_w804344194.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuxgBnJlOtJSsTnFvwCHja5d0A753R6C9DpA&usqp=CAU" group-title="Principal", NOVA TV 91.5 - MISIONES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuxgBnJlOtJSsTnFvwCHja5d0A753R6C9DpA&usqp=CAU" group-title="RADIO", NOVA TV 91.5 - MISIONES
 http://streamyes.alsolnet.com/radionovatv/live/chunklist_w59725940.m3u8
 
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9f/51/9f51832cbcc4c513b3415c2d9616fe89.jpg" group-title="Principal", FM LATINA 94.5
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9f/51/9f51832cbcc4c513b3415c2d9616fe89.jpg" group-title="RADIO", FM LATINA 94.5
 http://streaming.arcast.com.ar:1935/fmlatina/fmlatina/chunklist_w871522106.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQC3ZztNwYVI7-3K0qGaDY-w0toenpCDjGhg&usqp=CAU" group-title="Principal", FM METROPOLITANA 93.5 TUCUMAN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQC3ZztNwYVI7-3K0qGaDY-w0toenpCDjGhg&usqp=CAU" group-title="RADIO", FM METROPOLITANA 93.5 TUCUMAN
 https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/chunklist_w2882118.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="Principal", RADIO AZAHARES 101.5 CORRIENTES
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="RADIO", RADIO AZAHARES 101.5 CORRIENTES
 http://streamyes.alsolnet.com/azaharesfm/live/chunklist_w197812151.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="Principal", LRJ214 Mil20 SAN JUAN
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="RADIO", LRJ214 Mil20 SAN JUAN
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0212
 
-#EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="Principal", POWER MAX 104.1 RECREO SANTA FE
+#EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="RADIO", POWER MAX 104.1 RECREO SANTA FE
 https://59537faa0729a.streamlock.net/radio1045/radio1045/chunklist_w1351704474.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRClPwREaGKlj9j-YRh1NXlYrNJmnrROinOkJwmOH5NWwL9g3XzVOR6243fM4r0zJ02eB8vieDNk88KwiaeTF1dYrJc6ndi7oPY0Q&usqp=CAU&ec=45702846" group-title="Principal", 87.9 TV BESLISLE RIO NEGRO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRClPwREaGKlj9j-YRh1NXlYrNJmnrROinOkJwmOH5NWwL9g3XzVOR6243fM4r0zJ02eB8vieDNk88KwiaeTF1dYrJc6ndi7oPY0Q&usqp=CAU&ec=45702846" group-title="RADIO", 87.9 TV BESLISLE RIO NEGRO
 https://rtmp1.painelvideo.com/belislehd/belislehd/chunklist_w947079878.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Avatar_redes_positivo_1024.png" group-title="Principal", CADENA TIEMPO TRELEW CHUBUT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Avatar_redes_positivo_1024.png" group-title="RADIO", CADENA TIEMPO TRELEW CHUBUT
 https://panel.dattalive.com/8034/8034/chunklist_w1515375048.m3u8
 
-#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="Principal", RADIO LA VOZ TUCUMAN
+#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="RADIO", RADIO LA VOZ TUCUMAN
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0244
 
-#EXTINF:-1 tvg-logo="https://www.dialradio.tv/wp-content/uploads/2018/05/DIAL-RADIO-LOGO-WEB.png" group-title="Principal", RADIO DIAL SAN RAFAEL
+#EXTINF:-1 tvg-logo="https://www.dialradio.tv/wp-content/uploads/2018/05/DIAL-RADIO-LOGO-WEB.png" group-title="RADIO", RADIO DIAL SAN RAFAEL
 https://cda1.alsolnet.com/dialradiotv/live/chunklist_w232073357.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI966.png" group-title="Principal", LRI966 Cadena 103
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI966.png" group-title="RADIO", LRI966 Cadena 103
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0088
 
-#EXTINF:-1 tvg-logo="https://radioarg.net/assets/image/radio/180/wox1.png" group-title="Principal", WOX ROSARIO 88.3
+#EXTINF:-1 tvg-logo="https://radioarg.net/assets/image/radio/180/wox1.png" group-title="RADIO", WOX ROSARIO 88.3
 https://streamcasthd.com:1936/woxtv/woxtv/chunklist_w120858402.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-STbVB0Kn5jk/XCP4RN14aKI/AAAAAAAAB8g/FqOz9Aqyh7AOrcXD-JIpVtHwY_sppGbhQCLcBGAs/w1200-h630-p-k-no-nu/canal-8-mendoza.jpg" group-title="Principal", CANAL 8 TUNUYAN
