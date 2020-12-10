@@ -351,7 +351,7 @@ https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8?PlaylistM3UCL
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
 #EXTINF:-1 group-title="Principal", UNQ TV
-https://www.youtube.com/watch?v=3Hdlvusbt1A
+https://www.youtube.com/watch?v=XjRZ_dI6SDM
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="Principal", UNIVERSIDAD TV MAR DEL PLATA
 https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54385LcSRdgGpUmDSeUrMqyQ)/dm/3/x7kvvgi/s/live-1.m3u8
@@ -488,8 +488,7 @@ http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU" group-title="Principal", TELEDIEZ PASO DE LOS LIBRES
 http://inliveserver.com:1935/8670/8670/chunklist_w2109042663.m3u8
 
-#EXTINF:-1 tvg-logo="https://66.media.tumblr.com/f1138b6d236d9787c1960cdd1ae51b26/tumblr_inline_polydyA71Z1ttmwm1_1280.png" group-title="Principal", CORREA RADIOVISION
-http://arcast.net:1935/correadigital/canal12/chunklist_w1419872618.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7F5d1kbhclCSBykTm0NE5uee_lO2k0q8bvg&usqp=CAU" group-title="Principal", Television Regional Unimar
 https://vivo.solumedia.com:19360/trutv/trutv.m3u8
@@ -520,8 +519,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea
 https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1607600981~exp=1607777381~acl=/i/canal8tucuman_1@787002/*~hmac=4b004a9022a7bde98ace18d3f742e73374bf22c6d575894fbfdae2c0554f22d0
 
 
-#EXTINF:-1 group-title="Principal", CRONICA - 24.4
-https://www.youtube.com/watch?v=5patYbzarRg
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Telefe_Mar_del_Plata_%282018%29.png" group-title="Principal", TELEFE MAR DEL PLATA
 https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1607601005~exp=1607777405~acl=/i/mdqdistri02_1@829747/*~hmac=1850790803e58bb63722a73c36c1f91f00e91434c8cc478e41fb7b0ef729e904
@@ -586,8 +584,7 @@ https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1982113012.m3
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="Principal", TELESOL
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0211
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-sDCN5yxbCHw/XrYK8ENfvdI/AAAAAAAA0hg/Ghg1rYIfx4A3SoFfyma-ye04YSgec9OlQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="Principal", Canal 4 Esquel
-https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-C_wI8P7fPY4/XrYSA1hre4I/AAAAAAAA0jM/fPA9M7hoGeYRd2DAHtOIvQzlFlF0ezrbACK8BGAsYHg/s0/2020-05-08.png" group-title="Principal", TV Publica Fueguina
 https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
@@ -610,14 +607,6 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-mLylha1dLwQ/TzGoHDDbtJI/AAAAAAAADpQ/HhtpgV0lOs4/s1600/logo+canal+21.JPG" group-title="Principal", CANAL 21 POSADAS
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0182
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112899_Tele_Estrella.png" group-title="Principal", TELEESTRELLA BUENOS AIRES
-https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="Principal", TSN NECOCHEA
-https://panel.dattalive.com/8130/8130/chunklist_w1683036471.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CeltaTV.png?fit=500%2C300" group-title="Principal", CELTA TV
-https://vivo.solumedia.com:19360/celta/celta.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0Zxj7gGFIPTrI9V3xyRvBgKUoIg4pTfDnlQ&usqp=CAU" group-title="Principal", CANAL 5 MONTE CASEROS
 http://149.56.98.124:9090/hls/canal5montecaceros_low.m3u8
@@ -632,81 +621,81 @@ http://186.129.252.150:1935/canal/351/chunklist_w311969865.m3u8
 #EXTINF:-1 group-title="Principal", FOUR SEASONS BUENOS AIRES
 https://www.youtube.com/watch?v=if91GyWP3zQ
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoDQLkIwY3J1UioFIBiSuyg2ocyNotWpOdw&usqp=CAU" group-title="Principal", 24 HORAS ESPAÑA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoDQLkIwY3J1UioFIBiSuyg2ocyNotWpOdw&usqp=CAU" group-title="INTERNACIONAL", 24 HORAS ESPAÑA
 https://rtvehlslivestream.akamaized.net/hls/live/2021620/24H_AKA_HLS_DVR_GL8/bitrate_3.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246468579622400000/2PZnQjrY_400x400.jpg" group-title="Principal", CGTN Español
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246468579622400000/2PZnQjrY_400x400.jpg" group-title="INTERNACIONAL", CGTN Español
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL._SR600,315_SCLZZZZZZZ_.png" group-title="Principal", NHK JAPON
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL._SR600,315_SCLZZZZZZZ_.png" group-title="INTERNACIONAL", NHK JAPON
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF:-1 group-title="Principal", 24 HORAS CHILE
+#EXTINF:-1 group-title="INTERNACIONAL", 24 HORAS CHILE
 https://www.youtube.com/watch?v=-dha9EjsMyI
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80324_TV_Peru_Noticias.png" group-title="Principal", TV PERU NOTICIAS
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80324_TV_Peru_Noticias.png" group-title="INTERNACIONAL", TV PERU NOTICIAS
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTP.svg/1200px-RTP.svg.png" group-title="Principal", RTP PORTUGAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTP.svg/1200px-RTP.svg.png" group-title="INTERNACIONAL", RTP PORTUGAL
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
 
-#EXTINF:-1 group-title="Principal", ANN JAPAN
+#EXTINF:-1 group-title="INTERNACIONAL", ANN JAPAN
 https://www.youtube.com/watch?v=coYw-eVU0Ks
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Novo-logo-da-tv-brasil.jpg" group-title="Principal", TV BRASIL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Novo-logo-da-tv-brasil.jpg" group-title="INTERNACIONAL", TV BRASIL
 https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(Fj-1fRINEbg)r(fVR9ug)a(tSyBRw)p(d(2xc)k(q8E)m(O23GhNU-ErBHrFPwJquBUg)n(a(z2BSdQ)s(aSU)'a(YvYkuQ)s(msQ)))s(s(Cd0)b(usJMZzGjjaoOMY9stK4Jh2U_dazZjWOe9KAdFJpD002taPjZd8jEADl6nmD46XZR6W9CePs7JvobQGBStQ)'s(ssc)b(Ucrv05fO6vg7xrWVgXovpQa1SdBdN8lGyZpWdb3Reg-PxB4ZIFEuceBpe_YqD3eri1gUqIntRIJIfrUAWYJHan4XL1RrkD4CZW_ESdzh)'s(MZ8)b(gFRBlji2))m(0))/30_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSc-TKCQe6pb7OpPC4tprynHyWiNuFJh7h7H8DIwDL2B-pfAHPURhXP90v61gQnufz0SKWbgJ6rdxTAxryYfqJl2TJpXOhHM8aWxw&usqp=CAU&ec=45702846" group-title="Principal", NTV 24 NEWS JAPON
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSc-TKCQe6pb7OpPC4tprynHyWiNuFJh7h7H8DIwDL2B-pfAHPURhXP90v61gQnufz0SKWbgJ6rdxTAxryYfqJl2TJpXOhHM8aWxw&usqp=CAU&ec=45702846" group-title="INTERNACIONAL", NTV 24 NEWS JAPON
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1200px-Rai_News_24_-_Logo_2013.svg.png" group-title="Principal", RAI NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1200px-Rai_News_24_-_Logo_2013.svg.png" group-title="INTERNACIONAL", RAI NEWS
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ53hTwyXPWKI-cBOV7uJuJrp6sX1JMpxeMRQ&usqp=CAU" group-title="Principal", DW ESPAÑOL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ53hTwyXPWKI-cBOV7uJuJrp6sX1JMpxeMRQ&usqp=CAU" group-title="INTERNACIONAL", DW ESPAÑOL
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="Principal", FRANCE 24 ESPAÑOL - 24.3
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="INTERNACIONAL", FRANCE 24 ESPAÑOL - 24.3
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 
-#EXTINF:-1 tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="Principal", NPY PARAGUAY
+#EXTINF:-1 tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="INTERNACIONAL", NPY PARAGUAY
 https://rds3.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?k=5f9e81d2b3dedf5c280fd91444b5378d7ecd49d8422980833afb9beb6e267a42&exp=1604585421
 
-#EXTINF:-1 tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2019/08/telesur-vector-logo.png" group-title="Principal", TELESUR - 25.4
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2019/08/telesur-vector-logo.png" group-title="INTERNACIONAL", TELESUR - 25.4
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeyouiniran.org/wp-content/uploads/hispan-tv.jpg" group-title="Principal", HISPAN TV
+#EXTINF:-1 tvg-logo="https://seeyouiniran.org/wp-content/uploads/hispan-tv.jpg" group-title="INTERNACIONAL", HISPAN TV
 https://live1.presstv.com/live/hispan_360p/index.m3u8
 
-#EXTINF:-1 group-title="Principal", T13 CHILE
+#EXTINF:-1 group-title="INTERNACIONAL", T13 CHILE
 https://www.youtube.com/watch?v=aqPIiyPI10c
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Principal", RT - 25.5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="INTERNACIONAL", RT - 25.5
 https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 
-#EXTINF:-1 group-title="Principal", EURONEWS
+#EXTINF:-1 group-title="INTERNACIONAL", EURONEWS
 https://www.youtube.com/watch?v=JbKgQhFlMdU
 
 
 
-#EXTINF:-1 group-title="Principal", MEGANOTICIAS CHILE
+#EXTINF:-1 group-title="INTERNACIONAL", MEGANOTICIAS CHILE
 https://www.youtube.com/watch?v=Et4i_BymLGQ
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Principal", Galicia TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="INTERNACIONAL", Galicia TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0016
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png" group-title="Principal", ARAGON TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png" group-title="INTERNACIONAL", ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/large.1365812628_BoliviaTV20191b.png.ed374f34c0627622a7f2492628abb066.png" group-title="Principal", BOLIVIA TV
-https://5f2c1b0d880e5.streamlock.net/boliviatv/videoboliviatv/chunklist_w467997686.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIwIDk6MjI6MDcgUE0maGFzaF92YWx1ZT1NdlIwY2hhNVpNaHpyaVRyL3puTVZnPT0mdmFsaWRtaW51dGVzPTUwJmlkPQ%3D%3D
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/large.1365812628_BoliviaTV20191b.png.ed374f34c0627622a7f2492628abb066.png" group-title="INTERNACIONAL", BOLIVIA TV
+https://5e50264bd6766.streamlock.net:443/boliviatv/videoboliviatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMCAxOjI4OjI3IFBNJmhhc2hfdmFsdWU9aFVReE1wZDJQQjA0YzdHYmJyb1RSUT09JnZhbGlkbWludXRlcz01MCZpZD0=
 
 #EXTINF:-1 tvg-logo="https://www.arzbaires.org.ar/inicio/images/canalorbe21.jpg" group-title="Principal", ORBE 21 - 21.2
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
@@ -835,5 +824,18 @@ https://www.youtube.com/watch?v=9DXGrOU5wKQ
 #EXTINF:-1 group-title="Principal", KZO
 https://www.youtube.com/watch?v=sROputO1x54
 
+#EXTINF:-1 tvg-logo="https://66.media.tumblr.com/f1138b6d236d9787c1960cdd1ae51b26/tumblr_inline_polydyA71Z1ttmwm1_1280.png" group-title="Principal", CORREA RADIOVISION
+http://arcast.net:1935/correadigital/canal12/chunklist_w1419872618.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-sDCN5yxbCHw/XrYK8ENfvdI/AAAAAAAA0hg/Ghg1rYIfx4A3SoFfyma-ye04YSgec9OlQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="Principal", Canal 4 Esquel
+https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112899_Tele_Estrella.png" group-title="Principal", TELEESTRELLA BUENOS AIRES
+https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="Principal", TSN NECOCHEA
+https://panel.dattalive.com/8130/8130/chunklist_w1683036471.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/CeltaTV.png?fit=500%2C300" group-title="Principal", CELTA TV
+https://vivo.solumedia.com:19360/celta/celta.m3u8
 
