@@ -721,7 +721,7 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/large.1365812628_BoliviaTV20191b.png.ed374f34c0627622a7f2492628abb066.png" group-title="INTERNACIONAL", BOLIVIA TV
-https://5e50264bd6766.streamlock.net:443/boliviatv/videoboliviatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMCAxOjI4OjI3IFBNJmhhc2hfdmFsdWU9aFVReE1wZDJQQjA0YzdHYmJyb1RSUT09JnZhbGlkbWludXRlcz01MCZpZD0=
+https://5fc584f3f19c9.streamlock.net/boliviatv/videoboliviatv/chunklist_w593774435.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyMCA0OjE4OjUwIFBNJmhhc2hfdmFsdWU9MEZwdmdnRnFIT1JLb1Y4QUpFa3RCdz09JnZhbGlkbWludXRlcz01MCZpZD0%3D
 
 #EXTINF:-1 tvg-logo="https://www.arzbaires.org.ar/inicio/images/canalorbe21.jpg" group-title="RELIGION", ORBE 21 - 21.2
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
