@@ -631,6 +631,13 @@ http://www.coninfo.net:1935/previsoratv/live/chunklist_w840674151.m3u8
 http://66.128.32.245/output/iteltv/track_2_3000/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-STbVB0Kn5jk/XCP4RN14aKI/AAAAAAAAB8g/FqOz9Aqyh7AOrcXD-JIpVtHwY_sppGbhQCLcBGAs/w1200-h630-p-k-no-nu/canal-8-mendoza.jpg" group-title="Principal", CANAL 8 TUNUYAN
+https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/chunklist_w804877626.m3u8
+
+#EXTINF:-1 group-title="Principal", MISIONES CUATRO
+https://www.youtube.com/watch?v=-8T_P5xpfOY
+
+
 #EXTINF:-1 group-title="Principal", FOUR SEASONS BUENOS AIRES
 https://www.youtube.com/watch?v=if91GyWP3zQ
 
@@ -834,8 +841,15 @@ https://streamcasthd.com:1936/woxtv/woxtv/chunklist_w120858402.m3u8
 #EXTINF:-1 tvg-logo="https://fmbrasilera.com/wp-content/uploads/2020/06/brasil512omb8eRVSHJX.jpg" group-title="RADIO", FM BRASILERA ENTRE RIOS - 106.7 FM
 https://stmv6.srvstm.com/brasil/brasil/chunklist_w2082625053.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-STbVB0Kn5jk/XCP4RN14aKI/AAAAAAAAB8g/FqOz9Aqyh7AOrcXD-JIpVtHwY_sppGbhQCLcBGAs/w1200-h630-p-k-no-nu/canal-8-mendoza.jpg" group-title="Principal", CANAL 8 TUNUYAN
-https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/chunklist_w1916217253.m3u8
+#EXTINF:-1 tvg-logo="https://fmlitoral.com.ar/web/wp-content/uploads/2019/11/litorallogoaaa.png" group-title="RADIO", FM LITORAL 103.1 PARANA
+https://stmv4.srvstm.com/litoral2/litoral2/chunklist_w875343349.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="RADIO", CHILECITO TV
+https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.fantastica1017.com.ar/images/logoOK.jpg" group-title="RADIO", FM FANTASTICA FM 101.7 FM
+https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
+
 
 
 
