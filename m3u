@@ -282,10 +282,10 @@ http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/Rts_1992.png/revision/latest/scale-to-width-down/340?cb=20200303190745" group-title="CINE Y SERIES", TELESISTEMA
 http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w227848239.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="LOCALES", Fashion TV
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="MODA Y SOCIEDAD", Fashion TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0014
 
-#EXTINF:-1 tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg" group-title="LOCALES", HOLA TV
+#EXTINF:-1 tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg" group-title="MODA Y SOCIEDAD", HOLA TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", TDC TV Santa Fe
@@ -506,8 +506,7 @@ https://www.youtube.com/watch?v=q4CTql4ZWOc
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES", NET TV - 27.2
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA INTERIOR
-https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyq0NJMQ7ohP3c55hqMp0lVxim5IuKm5uImfGGdoA=s900-c-k-c0xffffffff-no-rj-mo" group-title="LOCALES", TELEFE NEUQUEN
@@ -636,6 +635,9 @@ https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/chunklist_w8048
 
 #EXTINF:-1 group-title="LOCALES", MISIONES CUATRO
 https://www.youtube.com/watch?v=-8T_P5xpfOY
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 
 #EXTINF:-1 group-title="LOCALES", FOUR SEASONS BUENOS AIRES
