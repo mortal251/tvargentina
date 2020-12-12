@@ -645,6 +645,9 @@ https://stmv6.srvstm.com/senillosa/senillosa/chunklist_w961378979.m3u8
 #EXTINF:-1 group-title="LOCALES", KZO
 https://www.youtube.com/watch?v=sROputO1x54
 
+#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="LOCALES", 5900 TV CORDOBA
+https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
+
 
 #EXTINF:-1 group-title="LOCALES", FOUR SEASONS BUENOS AIRES
 https://www.youtube.com/watch?v=if91GyWP3zQ
@@ -868,21 +871,21 @@ https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/b64e7d2ed9904a48b0f3d70609562d6b/chunklist_b3692000.m3u8?p=79&s=1607779032&e=1607779152&h=91800526ed9f2926f876f628593822e0
 
 
+
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s171364/images/logog.jpg?t=153684" group-title="RADIO", RADIO FM SER 89.7
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0088
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0059
+
+#EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="RADIO", POWER FM PINAMAR 100.3 FM
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0094
 
 
 
 
 
 
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-sDCN5yxbCHw/XrYK8ENfvdI/AAAAAAAA0hg/Ghg1rYIfx4A3SoFfyma-ye04YSgec9OlQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="LOCALES", Canal 4 Esquel
-https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112899_Tele_Estrella.png" group-title="LOCALES", TELEESTRELLA BUENOS AIRES
 https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="LOCALES", CANAL 9 MENDOZA
