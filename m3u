@@ -735,8 +735,7 @@ https://5fc584f3f19c9.streamlock.net/boliviatv/videoboliviatv/chunklist_w5937744
 #EXTINF:-1 group-title="INTERNACIONAL", RT - 25.5
 https://www.youtube.com/watch?v=9DXGrOU5wKQ
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/xUhTeDUMZtb9AC8IE8WHXmnjsyYtMWdJrv-7_bd5Pe2hbc0WjLTHlY8TZmA-4vo62Zl6LXWKm_wTdrDYEoEpQQnwNYXv92RSRCieCeSXV5hR08do" group-title="LOCALES", TELECREATIVA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0052
+
 
 #EXTINF:-1 tvg-logo="https://www.arzbaires.org.ar/inicio/images/canalorbe21.jpg" group-title="RELIGION", ORBE 21 - 21.2
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
