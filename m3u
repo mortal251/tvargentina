@@ -78,10 +78,10 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="LOCALES", MAGAZINE
 https://g2.vxral-hor.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES", KZO
-https://e1.hor.entrypoint.edge-access.net/transport/hls/5eaa642772b3a25e2c28699e_720p/index.m3u8
 
 
+#EXTINF:-1 group-title="LOCALES", KZO
+https://www.youtube.com/watch?v=sROputO1x54
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="LOCALES", TELEMAX - 26.3
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1811294487_b864000_sleng.m3u8
@@ -309,11 +309,7 @@ http://streamingvideo.com.ar:1935/10tv/live/chunklist_w448721709.m3u8
 #EXTINF:-1 tvg-logo="https://multimedioteveochodigital.com/uploads/logo/logo_5cccaad4c70e1.png" group-title="LOCALES", TEVE OCHO CHEPES LA RIOJA
 https://stmv1.srvif.com/teveocho/teveocho/chunklist_w240282186.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_12.png" group-title="LOCALES", CANAL 12 TRENQUE LAUQUEN
-https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1143954653/66993_163849490308516_100000503985212_473029_5369149_n.jpg" group-title="LOCALES", EPS BRAGADO
-https://inliveserver.com:1936/8012_1/8012_1/chunklist_w467151091.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/609px-Canal_Trece_San_Luis_%28Logo_2016%29.png/revision/latest/scale-to-width-down/340?cb=20191120203521" group-title="LOCALES", CANAL 13 SAN LUIS
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w1940570986_b581072.m3u8
@@ -354,8 +350,7 @@ https://www.youtube.com/watch?v=iqjoTjCH4Is
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES", UNIVERSIDAD TV MAR DEL PLATA
 https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54385LcSRdgGpUmDSeUrMqyQ)/dm/3/x7kvvgi/s/live-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES", AIRE DE SANTA FE
-https://g5.vxral-slo.transport.edge-access.net/a14/ngrp:gcba_video5-100042_all/gcba_video5-100042_360p.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://revistafibra.info/wp-content/uploads/2014/10/cpe.png" group-title="LOCALES", CPE TV LA PAMPA
 https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8?sd=6&rebase=on
@@ -443,7 +438,7 @@ http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969209126470455297/vLw5LpAB_400x400.jpg" group-title="LOCALES", CIUDAD TV CHACO
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/825ba-c7-castv-2015.png/revision/latest/scale-to-width-down/340?cb=20191002235028&path-prefix=es" group-title="LOCALES", CANAL 7 SANTIAGO DEL ESTERO
+#EXTINF:-1 tvg-logo="http://canal7.tv/wp-content/uploads/2018/02/canal7-logos-02.png" group-title="LOCALES", CANAL 7 SANTIAGO DEL ESTERO
 https://5975e06a1f292.streamlock.net:4443/envivo/castv/chunklist_w1037436923.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-j9I0buhulss/VxrWQ9llwXI/AAAAAAAACtQ/L2fSLfI0ujcLQbrzCfw8rX0dx4X1P2jvACLcB/s1600/canal-20-villa-maria-en-vivo.jpg" group-title="LOCALES", CANAL 20 VILLA MARIA CORDOBA
@@ -526,11 +521,7 @@ https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?h
 #EXTINF:-1 tvg-logo="https://www.telejunin.com.ar/images/telejunin%20logo.png" group-title="LOCALES", TELEJUNIN
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/chunklist_w1475840358.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLm1vYmluY3ViZS52YWxsZV90di5zY19ETUhKMzdfaWNvbl8xNTM3ODA1OTk5XzA4NQ/icon.png?w=170&fakeurl=1" group-title="LOCALES", VALLE TV NEUQUEN
-http://stmv6.srvstm.com/valletv/valletv/chunklist_w801060800.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.faep5-1.fna.fbcdn.net/v/t1.0-9/119917856_1578469605690020_6783670580559554562_n.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_eui2=AeGbcLrIN2q4AnWS4JRWl6u0Y1nQ9eVvFEFjWdD15W8UQWc7Sl_omxZn66mQImS824A&_nc_ohc=r0NRcffKDVwAX9otDBh&_nc_ht=scontent.faep5-1.fna&oh=274801e5c445541876d704be927f235f&oe=5FAFCBC6" group-title="LOCALES", ATV ARGENTINA
-http://arcast.com.ar:1935/atbargentina/atbargentina/chunklist_w1102858042.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.faep5-1.fna.fbcdn.net/v/t1.0-9/120867210_10164270338120524_3508497173513409132_n.png?_nc_cat=111&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeGEfyb4m90lijxhH-6JvhIzu8SIJ4tDyHm7xIgni0PIedem2NLN_pSZABvEgQm9_wM&_nc_ohc=UPWTTFrEQAIAX9v5zZm&_nc_ht=scontent.faep5-1.fna&oh=55cf0b0a70722a3e41df71b3fd206b3f&oe=5FD64003" group-title="LOCALES", CROSSING TV RIO GALLEGOS
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8
@@ -538,8 +529,7 @@ https://vivo.solumedia.com:19360/crossing/crossing.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.faep5-1.fna.fbcdn.net/v/t1.0-9/31949503_949186011922962_7373549748684324864_n.png?_nc_cat=108&cb=846ca55b-ee17756f&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeEsUI1T5pNQn0-meLJX-PiA4kIPQzQ--Q7iQg9DND75DlbZ5sr8h1bLA3YJ-jI0y58&_nc_ohc=hz7zx1GD-EsAX8b0-AB&_nc_ht=scontent.faep5-1.fna&oh=e3f964c0f18a49379ae40d59768668e1&oe=5FC1C9D3" group-title="LOCALES", CNR TV JUJUY
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
-#EXTINF:-1 tvg-logo="http://dsrmedios.com.ar/diario/wp-content/uploads/2019/03/Banner-cabezera.png" group-title="LOCALES", RED DIFUSORA CARHUE
-https://panel.dattalive.com/8114/8114/chunklist_w719155802.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="LOCALES", CELTV
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
@@ -562,8 +552,7 @@ https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8
 #EXTINF:-1 tvg-logo="https://www.infomedia24.com.ar/v2/wp-content/uploads/2017/04/logo-infomediax2.png" group-title="LOCALES", LM 24 RIO GALLEGOS
 https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/chunklist_w71587724.m3u8?_=1
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStlnFPjVRcWdMwQ9iitZXLF63xf3Ai-9JXsA&usqp=CAU" group-title="LOCALES", CTVO VILLA OCAMPO SANTA FE
-https://inliveserver.com:1936/8050_1/8050_1/chunklist_w792587498.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KCqAdPir4u0/XrYMI6iIs_I/AAAAAAAA0h4/UaFlSVSv3Foz_7161A3vWWA5kkH4RTZbQCK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES", Canal 7 Salta
 https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/chunklist_w1679493773.m3u8
@@ -619,14 +608,10 @@ http://arcast.net:1935/correadigital/canal12/chunklist_w1419872618.m3u8
 #EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="LOCALES", TSN NECOCHEA
 https://panel.dattalive.com/8130/8130/chunklist_w1683036471.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://cabledigital.com.ar/wp-content/uploads/2020/03/cropped-Logo-Cabledigital-PNG-para-web-3.png" group-title="LOCALES", CABLEDIGITAL HUINCA RENANCO
-https://vivo.solumedia.com:19360/huinca/huinca.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Telenord-en-vivo-Online.png?resize=100%2C70" group-title="LOCALES", TELENORD CORRIENTES
-http://www.coninfo.net:1935/previsoratv/live/chunklist_w840674151.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.itel.com.ar/ico/pro_tv.png" group-title="LOCALES", ITEL CHAJARI
-http://66.128.32.245/output/iteltv/track_2_3000/playlist.m3u8
+http://66.128.32.245/output/iteltv/audio_3/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-STbVB0Kn5jk/XCP4RN14aKI/AAAAAAAAB8g/FqOz9Aqyh7AOrcXD-JIpVtHwY_sppGbhQCLcBGAs/w1200-h630-p-k-no-nu/canal-8-mendoza.jpg" group-title="LOCALES", CANAL 8 TUNUYAN
@@ -641,15 +626,20 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg" group-title="LOCALES", CANAL 10 SENILLOSA
 https://stmv6.srvstm.com/senillosa/senillosa/chunklist_w961378979.m3u8
 
-#EXTINF:-1 group-title="LOCALES", KZO
-https://www.youtube.com/watch?v=sROputO1x54
 
-#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="LOCALES", 5900 TV CORDOBA
-https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
+#EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2018/10/tvulogotexto.png" group-title="LOCALES", TV UNIVERSIDAD LA PLATA
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+
+#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="LOCALES", RADIO LA VOZ TUCUMAN
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0238
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_12.png" group-title="LOCALES", CANAL 12 TRENQUE LAUQUEN
+https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1143954653/66993_163849490308516_100000503985212_473029_5369149_n.jpg" group-title="LOCALES", EPS BRAGADO
+https://inliveserver.com:1936/8012_1/8012_1/chunklist_w467151091.m3u8
 
 
-#EXTINF:-1 group-title="LOCALES", FOUR SEASONS BUENOS AIRES
-https://www.youtube.com/watch?v=if91GyWP3zQ
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoDQLkIwY3J1UioFIBiSuyg2ocyNotWpOdw&usqp=CAU" group-title="INTERNACIONAL", 24 HORAS ESPAÑA
 https://rtvehlslivestream.akamaized.net/hls/live/2021620/24H_AKA_HLS_DVR_GL8/bitrate_3.m3u8
@@ -772,11 +762,17 @@ https://59537faa0729a.streamlock.net/beatsradio/beatsradio/chunklist_w154598638.
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/107187_Canal_907_FM_Comunicar.png" group-title="RADIO", FM COMUNICAR 90.7 FM - COLONIA CAROYA
 https://panel.dattalive.com/canal907/canal907/chunklist_w1205944599.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="RADIO", AIRE DE SANTA FE
+https://g5.vxral-slo.transport.edge-access.net/a14/ngrp:gcba_video5-100042_all/gcba_video5-100042_360p.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/96/85/9685b44d-67a3-4c50-84e6-76888b1599cb.png" group-title="RADIO", FM PLUS 93.1 ROSARIO
 https://g3.vxral-slo.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_all/rosario3_live01-100168_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="RADIO", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dsrmedios.com.ar/diario/wp-content/uploads/2019/03/Banner-cabezera.png" group-title="RADIO", RED DIFUSORA CARHUE - 99.5 FM
+https://panel.dattalive.com/8114/8114/chunklist_w719155802.m3u8
 
 
 #EXTINF:-1 group-title="RADIO", VORTERIX - 92.1 FM
@@ -840,8 +836,7 @@ https://rtmp1.painelvideo.com/belislehd/belislehd/chunklist_w947079878.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Avatar_redes_positivo_1024.png" group-title="RADIO", CADENA TIEMPO TRELEW CHUBUT
 https://panel.dattalive.com/8034/8034/chunklist_w1515375048.m3u8
 
-#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="RADIO", RADIO LA VOZ TUCUMAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0238
+
 
 #EXTINF:-1 tvg-logo="https://www.dialradio.tv/wp-content/uploads/2018/05/DIAL-RADIO-LOGO-WEB.png" group-title="RADIO", RADIO DIAL SAN RAFAEL
 https://cda1.alsolnet.com/dialradiotv/live/chunklist_w232073357.m3u8
@@ -876,7 +871,11 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0059
 #EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="RADIO", POWER FM PINAMAR 100.3 FM
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0094
 
+#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM", 5900 TV CORDOBA
+https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
 
+#EXTINF:-1 group-title="WEB CAM", FOUR SEASONS BUENOS AIRES
+https://www.youtube.com/watch?v=if91GyWP3zQ
 
 
 
@@ -889,4 +888,20 @@ https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="LOCALES", CANAL 9 MENDOZA
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w1030855432.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES", KZO
+https://e1.hor.entrypoint.edge-access.net/transport/hls/5eaa642772b3a25e2c28699e_720p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLm1vYmluY3ViZS52YWxsZV90di5zY19ETUhKMzdfaWNvbl8xNTM3ODA1OTk5XzA4NQ/icon.png?w=170&fakeurl=1" group-title="LOCALES", VALLE TV NEUQUEN
+http://stmv6.srvstm.com/valletv/valletv/chunklist_w801060800.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.faep5-1.fna.fbcdn.net/v/t1.0-9/119917856_1578469605690020_6783670580559554562_n.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_eui2=AeGbcLrIN2q4AnWS4JRWl6u0Y1nQ9eVvFEFjWdD15W8UQWc7Sl_omxZn66mQImS824A&_nc_ohc=r0NRcffKDVwAX9otDBh&_nc_ht=scontent.faep5-1.fna&oh=274801e5c445541876d704be927f235f&oe=5FAFCBC6" group-title="LOCALES", ATV ARGENTINA
+http://arcast.com.ar:1935/atbargentina/atbargentina/chunklist_w1102858042.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStlnFPjVRcWdMwQ9iitZXLF63xf3Ai-9JXsA&usqp=CAU" group-title="LOCALES", CTVO VILLA OCAMPO SANTA FE
+https://inliveserver.com:1936/8050_1/8050_1/chunklist_w792587498.m3u8
+
+#EXTINF:-1 tvg-logo="http://cabledigital.com.ar/wp-content/uploads/2020/03/cropped-Logo-Cabledigital-PNG-para-web-3.png" group-title="LOCALES", CABLEDIGITAL HUINCA RENANCO
+https://vivo.solumedia.com:19360/huinca/huinca.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Telenord-en-vivo-Online.png?resize=100%2C70" group-title="LOCALES", TELENORD CORRIENTES
+http://www.coninfo.net:1935/previsoratv/live/chunklist_w840674151.m3u8
