@@ -915,3 +915,6 @@ https://vivo.solumedia.com:19360/huinca/huinca.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Telenord-en-vivo-Online.png?resize=100%2C70" group-title="LOCALES", TELENORD CORRIENTES
 http://www.coninfo.net:1935/previsoratv/live/chunklist_w840674151.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES", PRUEBA
+https://vmf.edge-apps.net/embed/live.php?streamname=sc_rad1-100131&autoplay=true
