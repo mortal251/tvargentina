@@ -636,6 +636,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0238
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_12.png" group-title="LOCALES", CANAL 12 TRENQUE LAUQUEN
 https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108679_UNIRIO.png" group-title="LOCALES", UNIRIO TV
+https://5f700d5b2c46f.streamlock.net/uniriotv/uniriotv/chunklist_w1054745392.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1143954653/66993_163849490308516_100000503985212_473029_5369149_n.jpg" group-title="LOCALES", EPS BRAGADO
 https://inliveserver.com:1936/8012_1/8012_1/chunklist_w467151091.m3u8
 
@@ -877,7 +880,14 @@ https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
 #EXTINF:-1 group-title="WEB CAM", FOUR SEASONS BUENOS AIRES
 https://www.youtube.com/watch?v=if91GyWP3zQ
 
+#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM", BUNGE Y EL MAR PINAMAR
+https://wowza.telpin.com.ar:1935/camara-bunge/camara-bunge.smil/chunklist_w2009678093_b1344100_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="WEB CAM", MONTE HERMOSO
+https://streaming.reltid.com.ar/hls/monte.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.infonecochea.com/wp-content/uploads/2019/12/80269676_10220947284128059_1955026176351141888_o.jpg" group-title="WEB CAM", NECOCHEA
+https://streaming.reltid.com.ar/hls/neco.m3u8
 
 
 
