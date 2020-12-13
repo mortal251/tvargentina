@@ -724,6 +724,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0016
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png" group-title="INTERNACIONAL", ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xASWlBiFGcE/WQlMfADc5EI/AAAAAAAAAZU/ER8-D-CZJScGhycjIvQGEJ0tinJ8J99JQCLcB/s1600/cv-int-logo.png" group-title="INTERNACIONAL", CUBAVISION
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b596000.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/large.1365812628_BoliviaTV20191b.png.ed374f34c0627622a7f2492628abb066.png" group-title="INTERNACIONAL", BOLIVIA TV
@@ -732,6 +735,17 @@ https://5fc584f3f19c9.streamlock.net/boliviatv/videoboliviatv/chunklist_w5937744
 #EXTINF:-1 group-title="INTERNACIONAL", RT - 25.5
 https://www.youtube.com/watch?v=9DXGrOU5wKQ
 
+#EXTINF:-1 group-title="INTERNACIONAL", CARACOL NOTICIAS COLOMBIA
+https://www.youtube.com/watch?v=8XL8Qk4qzyA
+
+#EXTINF:-1 group-title="INTERNACIONAL", TELEVISA NOTICIAS MEXICO
+https://www.youtube.com/watch?v=qM8RYN1MAh8
+
+#EXTINF:-1 group-title="INTERNACIONAL", KBS WORLD 24
+https://www.youtube.com/watch?v=4gwqZYZ-OSw
+
+#EXTINF:-1 tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/ntn24-logo.png" group-title="INTERNACIONAL", NTN 24 COLOMBIA
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlwJJgaEjCX2C5wHk3cI3oZw)/dm/3/x7w4okl/s/live-1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.arzbaires.org.ar/inicio/images/canalorbe21.jpg" group-title="RELIGION", ORBE 21 - 21.2
