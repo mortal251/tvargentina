@@ -42,7 +42,7 @@ https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhw
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpIFIdG7Wk6rZalzzGD49OJqDdNCohf8lGK3NOEOnyi_QuJ6W_oGfbnJQumfqCR-mSrn-kKizVei_AJaz2rFRzO6Sly6-6YRRVEZNCmrZ_QGYd2t9vJcCGKEYj0358C0l9-RfKYOiWzqm-NNUubPdaTZ_5lejhSh0neXzQLCqCw9Z9hQ2u60ABtpA8u8Sb-RiNv008ri110uIaVBXrVIRDVm1cjJegjQHFhfW3UP8DCFRXlvMrnjvnondrqkWUzvlmPdLR4FWI896pbcj4rPabaSu3bWICS5lt9E_O3F63TEsgJqN6B_Nz50nggWUFhGS-33uHXA3Hz4URLFrpuJNxagH98Oo-60V3FAwXvDVetah8tEhRnZhqvcNMeQ1xxGUqWqs90QZQ8TLQdB-9Ayxv4UHDzgXdCsVf0FNUqzuam-C5MBp6gfvUPDHdrsVBDO3uxAOcenGzlnxwVSZkbDuB3zt89dY2ub-XJYBIWpuYWN7O1gdRbjq-Wujt4PM8y1QAn_sOU7n_oh0qL3jofQNOq5Yrurxjmj_NTCc8ltqWYsxQgqFJBzXgN-XJK0p8U1grYwvVk-wb-xDWNdC5qmSGo5QrCXzyxmVXzf2NiF82jx6EbU7-AyR_r9zAfUzd2n03Ao1kqIl0a16TFfHCnL77kzQp54Sf33XWdLgu32YGCjkIiHPjxt7lR9K4kpLfCq52Uwy22WrDvcznxPmOoyObTSLa_Cv1sGpr-4dJYFZcdYhWu9bA8wxfLqFWtqc77BUBUrymjeYSS4rb00CA2iR1YEaZ7pwMRtzMg7RQB4GeXxaJU4UC442H6_ygmw_WHgtOJIRUl1Onum6rYQVCWpcs4oJi_O7ERlIsMXBCvi5vmmzjFAgxIQIrcUgQ5LWMLmR9y0G9MbmxoMlVFrUGPjhfEkWduo.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpQFTWq99CZ8szpCHilYAMnz9EtP0xiW5a0OAZSzYt6FcJqGc-kRai-Zry6-BwEcCXhG-jqy-Jh2dw2PjBjW4cS-C9ucyEnolWHN1_YjD0fDluR5iXH3MJUlD5SN_qGMyNB3GX2bU4rlAKk8sQtdgMSoRZ2YSlzMlHmdK4rTTUsFpN7I8d_GElIM8Wh1_y-Xf63J39o0ODq0Je4m_2qogCisPyySRuX-8-rlDCfX9zIk1BcY0Zi_hhIdTlzn2pxZydma7OImEG1Z8Jrmb8LHWKL_Rr1aWeMwKqLUbq3pI4MP8Zl5tSXLtSa6_1ZO7M0eaTZH_vzh3-_un5rTsDY1M1AYEFmiLCma0Iyd-acOpY_Y8wKvADVAmWG4Ji0zy6_vrDOgPog1Wbq2xCJlSjWIu176BjccadcUoJXmE750AAGNFmhUz1yU4kSzWKFsI9yMZ0cMIp72-gr-anC_UCUhQe2KBJWOsD-yQmV8I0B5oRiZSVfYXfeDLi2hH72tKHolJzHPwxNlpV_aYx3O8FAozDoUV1UwQwEozjRMDsbsluCAoW3JTOynrGf2qY0toSsGL4R_qB0ajWspPR-Jk25IB06k_VvcY-XKS1eQ7uPOR9PiNgcjdk1M12KmouEgeGMfL-yZKOjgXmyc_6jjwUTI-BJ3sLa8L32hNva9xG5wyeBMeSnBWsDbcQDOJ7IVF45NUmihGsMP1hr8Jhg-loAOBtsuczbadPO48fao9UvaEvShNHxV5Dl4ccVyW9WFyJ5jW0nlMvGvzq8KAm6RE9kahcwOlomkcKaiSznE80dImzq2DjUkn3HuaG3fuGwzPjz1iYTa5VRD1YJ7y7FMQiDBFH1D4IrBTWMFxYFQobttejis4ISstI2JEhDmqJPb3AhJMPHcIvFw_OMEGgwf2kgNCYHUAJ-82hE.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES", NET TV - 27.2
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043 
@@ -639,8 +639,13 @@ https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108679_UNIRIO.png" group-title="LOCALES", UNIRIO TV
 https://5f700d5b2c46f.streamlock.net/uniriotv/uniriotv/chunklist_w1054745392.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1143954653/66993_163849490308516_100000503985212_473029_5369149_n.jpg" group-title="LOCALES", EPS BRAGADO
-https://inliveserver.com:1936/8012_1/8012_1/chunklist_w467151091.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStlnFPjVRcWdMwQ9iitZXLF63xf3Ai-9JXsA&usqp=CAU" group-title="LOCALES", CTVO VILLA OCAMPO SANTA FE
+https://inliveserver.com:1936/8050_1/8050_1/chunklist_w792587498.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112899_Tele_Estrella.png" group-title="LOCALES", TELEESTRELLA BUENOS AIRES
+https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
+
+
 
 
 
@@ -653,7 +658,7 @@ https://rtvehlslivestream.akamaized.net/hls/live/2021620/24H_AKA_HLS_DVR_GL8/bit
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL._SR600,315_SCLZZZZZZZ_.png" group-title="INTERNACIONAL", NHK JAPON
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL", 24 HORAS CHILE
 https://www.youtube.com/watch?v=-dha9EjsMyI
@@ -891,8 +896,7 @@ https://streaming.reltid.com.ar/hls/neco.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112899_Tele_Estrella.png" group-title="LOCALES", TELEESTRELLA BUENOS AIRES
-https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="LOCALES", CANAL 9 MENDOZA
@@ -907,8 +911,7 @@ http://stmv6.srvstm.com/valletv/valletv/chunklist_w801060800.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.faep5-1.fna.fbcdn.net/v/t1.0-9/119917856_1578469605690020_6783670580559554562_n.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_eui2=AeGbcLrIN2q4AnWS4JRWl6u0Y1nQ9eVvFEFjWdD15W8UQWc7Sl_omxZn66mQImS824A&_nc_ohc=r0NRcffKDVwAX9otDBh&_nc_ht=scontent.faep5-1.fna&oh=274801e5c445541876d704be927f235f&oe=5FAFCBC6" group-title="LOCALES", ATV ARGENTINA
 http://arcast.com.ar:1935/atbargentina/atbargentina/chunklist_w1102858042.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStlnFPjVRcWdMwQ9iitZXLF63xf3Ai-9JXsA&usqp=CAU" group-title="LOCALES", CTVO VILLA OCAMPO SANTA FE
-https://inliveserver.com:1936/8050_1/8050_1/chunklist_w792587498.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://cabledigital.com.ar/wp-content/uploads/2020/03/cropped-Logo-Cabledigital-PNG-para-web-3.png" group-title="LOCALES", CABLEDIGITAL HUINCA RENANCO
 https://vivo.solumedia.com:19360/huinca/huinca.m3u8
@@ -916,4 +919,5 @@ https://vivo.solumedia.com:19360/huinca/huinca.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Telenord-en-vivo-Online.png?resize=100%2C70" group-title="LOCALES", TELENORD CORRIENTES
 http://www.coninfo.net:1935/previsoratv/live/chunklist_w840674151.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1143954653/66993_163849490308516_100000503985212_473029_5369149_n.jpg" group-title="LOCALES", EPS BRAGADO
+https://inliveserver.com:1936/8012_1/8012_1/chunklist_w467151091.m3u8
