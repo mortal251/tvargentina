@@ -894,6 +894,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0059
 #EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="RADIO", POWER FM PINAMAR 100.3 FM
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0094
 
+#EXTINF:-1 tvg-logo="http://www.citricaradio.com/assets/img/cropped-logo-web.png" group-title="RADIO", RADIO CITRICA 88.5 FM - AVELLANEDA
+https://5f700d5b2c46f.streamlock.net/citricaradio/citricaradio/chunklist_w180174396.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM", 5900 TV CORDOBA
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
 
