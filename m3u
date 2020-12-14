@@ -712,8 +712,6 @@ https://www.youtube.com/watch?v=aqPIiyPI10c
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="INTERNACIONAL", RT - 25.5
-https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL", EURONEWS
 https://www.youtube.com/watch?v=JbKgQhFlMdU
@@ -740,17 +738,8 @@ https://www.youtube.com/watch?v=9DXGrOU5wKQ
 #EXTINF:-1 group-title="INTERNACIONAL", CARACOL NOTICIAS COLOMBIA
 https://www.youtube.com/watch?v=8XL8Qk4qzyA
 
-#EXTINF:-1 group-title="INTERNACIONAL", TELEVISA NOTICIAS MEXICO
+#EXTINF:-1 group-title="INTERNACIONAL", FORO TV
 https://www.youtube.com/watch?v=qM8RYN1MAh8
-
-#EXTINF:-1 group-title="INTERNACIONAL", Bloomberg Global Financial News
-https://www.youtube.com/watch?v=dp8PhLsUcFE
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png" group-title="INTERNACIONAL",BBC NEWS REINO UNIDO
-https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="INTERNACIONAL", MILENIO MEXICO
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
