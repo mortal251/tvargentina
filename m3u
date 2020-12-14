@@ -931,7 +931,7 @@ https://panel.dattalive.com/8130/8130/chunklist_w1683036471.m3u8?PlaylistM3UCL
 http://66.128.32.245/output/iteltv/audio_3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStlnFPjVRcWdMwQ9iitZXLF63xf3Ai-9JXsA&usqp=CAU" group-title="LOCALES", CTVO VILLA OCAMPO SANTA FE
-https://inliveserver.com:1936/8050_1/8050_1/chunklist_w792587498.m3u8
+https://inliveserver.com:1936/8050_1/8050_1/chunklist_w792587498.m3u8 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112899_Tele_Estrella.png" group-title="LOCALES", TELEESTRELLA BUENOS AIRES
 https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
