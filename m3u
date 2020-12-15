@@ -111,7 +111,7 @@ http://45.77.154.172:8080/hls/show.m3u8
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
 #EXTINF:-1 group-title="LOCALES", DTV DIPUTADOS TELEVISION
-https://www.youtube.com/watch?v=jXgbJFeWXMk
+https://www.youtube.com/watch?v=2xPcd8_lSQY
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/tectv.png" group-title="LOCALES", TEC TV - 22.5
 https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough/tectv_3/chunks.m3u8
