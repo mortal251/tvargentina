@@ -912,6 +912,9 @@ https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
 #EXTINF:-1 group-title="WEB CAM", FOUR SEASONS BUENOS AIRES
 https://www.youtube.com/watch?v=if91GyWP3zQ
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM", CANAL 79 MAR DEL PLATA
+https://5f6e1fe8f2d2e.streamlock.net/mardelplata/mardelplata/chunklist_w1280736091.m3u8
+
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM", BUNGE Y EL MAR PINAMAR
 https://wowza.telpin.com.ar:1935/camara-bunge/camara-bunge.smil/chunklist_w2009678093_b1344100_sleng.m3u8
 
