@@ -130,7 +130,11 @@ https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Logo.png" group-title="DEPORTE", ESPN
-https://e10.stephn.xyz/ingestnb4s/espn_sur/f.m3u8
+https://e10.stephn.xyz/ingestnb4s/espn_sur/d.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20181116/bea/kisspng-logo-brand-high-definition-television-product-vacalocatv-5bee65b62610b2.3527521815423502621559.jpg" group-title="DEPORTE", ESPN 2
+https://e10.stephn.xyz/ingestnb4s/espn2_sur/f.m3u8
+
 
 #EXTINF:-1 group-title="DEPORTE", HIPODROMO DE PALERMO
 https://www.youtube.com/watch?v=OnW5qGG8fAA
