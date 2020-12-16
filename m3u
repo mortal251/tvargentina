@@ -775,7 +775,7 @@ https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough/iurd_2/chunks.m3u
 https://g5.mc-slo.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/MITREHD-10002_240p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="RADIO", LA 100
-https://g4.vxral-slo.transport.edge-access.net/a10/ngrp:MITREHD-10002_all/MITREHD-10002_720p.m3u8
+https://g5.vxral-hor.transport.edge-access.net/b13/ngrp:cienradioshd-10002_all/cienradioshd-10002_240p.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIRIO969.png" group-title="RADIO", Rioja TV - 96.9 FM
 http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w2048008042.m3u8
