@@ -136,7 +136,7 @@ https://e10.stephn.xyz/ingestnb4s/espn_sur/d.m3u8
 https://e10.stephn.xyz/ingestnb4s/espn2_sur/f.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="DEPORTE", RCM SPORT
-https://e1.stephn.xyz/ingest02/56900.m3u8?sf=c3loc0VHY2M1MA==&token=Tf4bHThgHS35edj5s91bFA&expires=1608140341&rnd=
+https://dai.google.com/linear/hls/event/hj7NDZ5ZSE2m2MWQPiKp3Q/master.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTE", HIPODROMO DE PALERMO
