@@ -650,7 +650,21 @@ https://inliveserver.com:1936/8050_1/8050_1/chunklist_w792587498.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1143954653/66993_163849490308516_100000503985212_473029_5369149_n.jpg" group-title="LOCALES", EPS BRAGADO
 https://inliveserver.com:1936/8012_1/8012_1/chunklist_w467151091.m3u8
 
+#EXTINF:-1 tvg-logo="https://66.media.tumblr.com/f1138b6d236d9787c1960cdd1ae51b26/tumblr_inline_polydyA71Z1ttmwm1_1280.png" group-title="LOCALES", CORREA RADIOVISION
+http://arcast.net:1935/correadigital/canal12/chunklist_w1419872618.m3u8
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-STbVB0Kn5jk/XCP4RN14aKI/AAAAAAAAB8g/FqOz9Aqyh7AOrcXD-JIpVtHwY_sppGbhQCLcBGAs/w1200-h630-p-k-no-nu/canal-8-mendoza.jpg" group-title="LOCALES", CANAL 8 TUNUYAN
+https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/chunklist_w804877626.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108679_UNIRIO.png" group-title="LOCALES", UNIRIO TV
+https://5f700d5b2c46f.streamlock.net/uniriotv/uniriotv/chunklist_w1054745392.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.trutv.com.ar/wp-content/uploads/2018/05/logro-tru.png" group-title="LOCALES", Television Regional Unimar
+https://vivo.solumedia.com:19360/trutv/trutv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Telenord-en-vivo-Online.png?resize=100%2C70" group-title="LOCALES", TELENORD CORRIENTES
+http://www.coninfo.net:1935/previsoratv/live/chunklist_w840674151.m3u8
 
 
 
@@ -943,8 +957,7 @@ https://e1.hor.entrypoint.edge-access.net/transport/hls/5eaa642772b3a25e2c28699e
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLm1vYmluY3ViZS52YWxsZV90di5zY19ETUhKMzdfaWNvbl8xNTM3ODA1OTk5XzA4NQ/icon.png?w=170&fakeurl=1" group-title="LOCALES", VALLE TV NEUQUEN
 http://stmv6.srvstm.com/valletv/valletv/chunklist_w801060800.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Telenord-en-vivo-Online.png?resize=100%2C70" group-title="LOCALES", TELENORD CORRIENTES
-http://www.coninfo.net:1935/previsoratv/live/chunklist_w840674151.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://scontent.faep5-1.fna.fbcdn.net/v/t1.0-9/31949503_949186011922962_7373549748684324864_n.png?_nc_cat=108&cb=846ca55b-ee17756f&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeEsUI1T5pNQn0-meLJX-PiA4kIPQzQ--Q7iQg9DND75DlbZ5sr8h1bLA3YJ-jI0y58&_nc_ohc=hz7zx1GD-EsAX8b0-AB&_nc_ht=scontent.faep5-1.fna&oh=e3f964c0f18a49379ae40d59768668e1&oe=5FC1C9D3" group-title="LOCALES", CNR TV JUJUY
@@ -953,17 +966,9 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 #EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="LOCALES", TSN NECOCHEA
 https://panel.dattalive.com/8130/8130/chunklist_w1683036471.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://www.trutv.com.ar/wp-content/uploads/2018/05/logro-tru.png" group-title="LOCALES", Television Regional Unimar
-https://vivo.solumedia.com:19360/trutv/trutv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-mLylha1dLwQ/TzGoHDDbtJI/AAAAAAAADpQ/HhtpgV0lOs4/s1600/logo+canal+21.JPG" group-title="LOCALES", CANAL 21 POSADAS
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0182
 
-#EXTINF:-1 tvg-logo="https://66.media.tumblr.com/f1138b6d236d9787c1960cdd1ae51b26/tumblr_inline_polydyA71Z1ttmwm1_1280.png" group-title="LOCALES", CORREA RADIOVISION
-http://arcast.net:1935/correadigital/canal12/chunklist_w1419872618.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-STbVB0Kn5jk/XCP4RN14aKI/AAAAAAAAB8g/FqOz9Aqyh7AOrcXD-JIpVtHwY_sppGbhQCLcBGAs/w1200-h630-p-k-no-nu/canal-8-mendoza.jpg" group-title="LOCALES", CANAL 8 TUNUYAN
-https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/chunklist_w804877626.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108679_UNIRIO.png" group-title="LOCALES", UNIRIO TV
-https://5f700d5b2c46f.streamlock.net/uniriotv/uniriotv/chunklist_w1054745392.m3u8
