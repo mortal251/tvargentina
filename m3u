@@ -129,10 +129,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1230309204.
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/TNT_Sports_logo.svg/1200px-TNT_Sports_logo.svg.png" group-title="DEPORTE", TNT SPORT
-https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_240_av-b.m3u8?sd=10&rebase=on&id=AgC1LIFHtSxKB7QK2l9cKTfe+UycEYtksgbonGFN9pqsz+cgxPGPYwK40DLnOumOXGuLkw4l0jxM+Q%3d%3d&hdntl=exp=1608146708~acl=%2f*~data=hdntl~hmac=98ae078981317e5cd1d783f4865734d8bd0cb82bb642e758ca5e5396da3a1f29
-
-
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Logo.png" group-title="DEPORTE", ESPN
+https://e10.stephn.xyz/ingestnb4s/espn_sur/f.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", HIPODROMO DE PALERMO
 https://www.youtube.com/watch?v=OnW5qGG8fAA
