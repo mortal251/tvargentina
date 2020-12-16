@@ -129,14 +129,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1230309204.
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Logo.png" group-title="DEPORTE", ESPN
-https://e10.stephn.xyz/ingestnb4s/espn_sur/d.m3u8
 
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20181116/bea/kisspng-logo-brand-high-definition-television-product-vacalocatv-5bee65b62610b2.3527521815423502621559.jpg" group-title="DEPORTE", ESPN 2
-https://e10.stephn.xyz/ingestnb4s/espn2_sur/f.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="DEPORTE", RCM SPORT
-https://dai.google.com/linear/hls/event/hj7NDZ5ZSE2m2MWQPiKp3Q/master.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTE", HIPODROMO DE PALERMO
