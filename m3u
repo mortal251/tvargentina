@@ -934,7 +934,7 @@ https://www.youtube.com/watch?v=if91GyWP3zQ
 https://5f6e1fe8f2d2e.streamlock.net/mardelplata/mardelplata/chunklist_w1280736091.m3u8
 
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM", BUNGE Y EL MAR PINAMAR
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w207669738_b1344100_sleng.m3u8
+https://wowza.telpin.com.ar:1935/camara-bunge/camara-bunge.smil/chunklist_w4047103_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="WEB CAM", MONTE HERMOSO
 https://streaming.reltid.com.ar/hls/monte.m3u8
