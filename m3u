@@ -909,6 +909,10 @@ https://streamcasthd.com:19360/radiotradicional1340/radiotradicional1340.m3u8
 #EXTINF:-1 tvg-logo="https://www.am660.com.ar/img/index_r1_c1.jpg" group-title="RADIO", AM 660 SAN JUSTO
 https://clientes.videostreaming.ar:19360/radioamplitud/radioamplitud.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://www.labrador955.com.ar/img/logo-labrador.png" group-title="RADIO", FM 91.5 SAN ISIDRO
+https://render.avstreaming.net/webservices/statistics/ping?playerID=02556213454242&sessionID=70589036028558&status=%7B%22streamingName%22%3A%22SILaudio1ice-20045%22%2C%22reportAccount%22%3A%2220045%22%2C%22status%22%3A%22playing%22%2C%22currentBw%22%3A%22-1%22%2C%22volume%22%3A%220%22%2C%22buffering%22%3Afalse%7D
+
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM", 5900 TV CORDOBA
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
 
