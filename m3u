@@ -928,11 +928,14 @@ https://streaming.reltid.com.ar/hls/monte.m3u8
 #EXTINF:-1 tvg-logo="http://www.infonecochea.com/wp-content/uploads/2019/12/80269676_10220947284128059_1955026176351141888_o.jpg" group-title="WEB CAM", NECOCHEA
 https://streaming.reltid.com.ar/hls/neco.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM", CANAL 79 SANTA CLARA DEL MAR
+https://5f6e1fe8f2d2e.streamlock.net/santaclara/santaclara/chunklist_w675009168.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM", CANAL 79 SAN JUAN
 https://5f6e1fe8f2d2e.streamlock.net/sanjuan/sanjuan/chunklist_w508004298.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM", CANAL 79 PUAN
-https://5f6e1fe8f2d2e.streamlock.net/puan/puan/chunklist_w54678441.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM", CANAL 79 LA COSTA
+https://5f6e1fe8f2d2e.streamlock.net/lacosta/lacosta/chunklist_w555218362.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1phsO-ubizU/Xjs7vHKVggI/AAAAAAAAvno/rT7oXAbNr_gKAdV3lKdf9tJjftYLEG9-wCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", Quatro TV SANTA FE
