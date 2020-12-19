@@ -585,25 +585,8 @@ https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/yMO4rHGySvtrY36cCcXrgxIXL0971x-yDydA0hITmoJ_FM2Lke4Hli3n52bImPMjOgvxE1TxiqwmnjeVDJUSU4tredyjOtUwja5d6RPFUbRv7nRHNTGzPImG_nPPGgZ9" group-title="LOCALES", UNITEVE VILLA MARIA CORDOBA
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", ZONDA TV 35.1 - SAN JUAN
 http://186.129.252.150:1935/canal/351/chunklist_w311969865.m3u8
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg" group-title="LOCALES", CANAL 10 SENILLOSA
@@ -615,6 +598,9 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="LOCALES", LA VOZ TUCUMAN TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0238
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/rSuzI5x7x_TFjKeJNeP2pVL_MkNEJWoJCNQgANLgyamgyUaDFiovvzZe7osneQHO6tJVHPiLxcdnM9LzyaC0xpfmOK2q" group-title="LOCALES", CANAL 2 MISIONES
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0178
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_12.png" group-title="LOCALES", CANAL 12 TRENQUE LAUQUEN
 https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
@@ -666,6 +652,24 @@ https://vivo.solumedia.com:19360/trutv/trutv.m3u8
 https://5975e06a1f292.streamlock.net:4443/casse/casse/chunklist_w1958021516.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES", CANAL 10 TUCUMAN
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1608430569&h=d882adc2349beda229c26497f0458fe7
+
+#EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", XAMA TV SAN JUAN
+https://sc1.stweb.tv/unisanjuan/live/chunklist_w697668907.m3u8
+
+#EXTINF:-1 tvg-logo="https://catriel25noticias.com/alastv/canal-logo.gif" group-title="LOCALES", CANAL 2 CATRIEL TV
+https://589ff3c36f7e8.streamlock.net/alastv/alastv/chunklist_w1717531425.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Posadas-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES", CANAL 4 POSADAS
+https://589ff3c36f7e8.streamlock.net/canal4/canal4/chunklist_w689650871.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/Logo-horizontal-canal-21tv.png" group-title="LOCALES", CANAL 21 POSADAS
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8?nimblesessionid=3573073
+
+#EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="LOCALES", TVEO MENDOZA
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w1681833885.m3u8
 
 
 
