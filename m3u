@@ -910,8 +910,8 @@ https://streamcasthd.com:19360/radiotradicional1340/radiotradicional1340.m3u8
 https://clientes.videostreaming.ar:19360/radioamplitud/radioamplitud.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://nacionalypopular.nvc.org.ar/wp-content/uploads/2017/04/logo.png" group-title="RADIO", FM 100.9 NACIONAL Y POPULAR 
-https://streamcasthd.com:1936/nacionalypopular/nacionalypopular/chunklist_w1882129452.m3u8
+#EXTINF:-1 tvg-logo="http://www.fm891.com.ar/wp-content/uploads/2020/07/logo_horizontal_20.png" group-title="RADIO", FM 89.1 UNIVERSIDAD
+http://s8.stweb.tv/unlam/video2/chunks.m3u8?nimblesessionid=68095892
 
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM", 5900 TV CORDOBA
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
