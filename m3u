@@ -923,7 +923,7 @@ https://5f6e1fe8f2d2e.streamlock.net/mardelplata/mardelplata/chunklist_w12807360
 https://wowza.telpin.com.ar:1935/camara-bunge/camara-bunge.smil/chunklist_w4047103_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="WEB CAM", MONTE HERMOSO
-https://streaming.reltid.com.ar/hls/monte.m3u8
+https://streaming.reltid.com.ar/hls/montedvr5.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.infonecochea.com/wp-content/uploads/2019/12/80269676_10220947284128059_1955026176351141888_o.jpg" group-title="WEB CAM", NECOCHEA
 https://streaming.reltid.com.ar/hls/neco.m3u8
