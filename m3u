@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="LOCALES", IP - 24.5
-https://hddn00.skylinewebcams.com/live.m3u8?a=asis6kjn62f2k9g2uron9dmie5
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="LOCALES", IP - 24.5
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
@@ -664,7 +663,7 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoDQLkIwY3J1UioFIBiSuyg2ocyNotWpOdw&usqp=CAU" group-title="INTERNACIONAL", 24 HORAS ESPAÑA
-https://rtvehlslivestream.akamaized.net/hls/live/2021620/24H_AKA_HLS_DVR_GL8/bitrate_3.m3u8
+https://rtvelivestream.akamaized.net/24h_dvr_1850.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246468579622400000/2PZnQjrY_400x400.jpg" group-title="INTERNACIONAL", CGTN Español
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
@@ -724,7 +723,7 @@ https://www.youtube.com/watch?v=aqPIiyPI10c
 https://www.youtube.com/watch?v=JbKgQhFlMdU
 
 #EXTINF:-1 group-title="INTERNACIONAL", ARIRANG KOREA
-https://www.youtube.com/watch?v=tw1Bl8huNHg
+https://www.youtube.com/watch?v=Rxkw4UoMv5k
 
 #EXTINF:-1 group-title="INTERNACIONAL", MEGANOTICIAS CHILE
 https://www.youtube.com/watch?v=Et4i_BymLGQ
@@ -752,7 +751,7 @@ https://www.youtube.com/watch?v=qM8RYN1MAh8
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 #EXTINF:-1 tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/ntn24-logo.png" group-title="INTERNACIONAL", NTN 24 COLOMBIA
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlwJJgaEjCX2C5wHk3cI3oZw)/dm/3/x7w4okl/s/live-1.m3u8
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlwv56GWyQn2KUI0W2HWq3Zs)/dm/3/x7w4okl/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1&qos_geostore=1
 
 #EXTINF:-1 tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" group-title="INTERNACIONAL", ABC ESTADOS UNIDOS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
