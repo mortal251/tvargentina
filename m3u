@@ -930,6 +930,9 @@ http://s8.stweb.tv/unlam/video2/chunks.m3u8?nimblesessionid=68133786
 #EXTINF:-1 tvg-logo="https://radiotv.ar/img/logo/fmzetaradio.jpg" group-title="RADIO", FM 100.1 ZETA
 https://clientes.videostreaming.ar:19360/fmzetaradio/fmzetaradio.m3u8
 
+#EXTINF:-1 tvg-logo="http://fmtrujui.com/wp-content/uploads/2018/08/logo_normal_mobile-1.png" group-title="RADIO", FM 100.1 TRUJUI
+https://inliveserver.com:1936/14102/14102/chunklist_w2019086911.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM", 5900 TV CORDOBA
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
 
