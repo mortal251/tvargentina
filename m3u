@@ -656,20 +656,23 @@ https://5975e06a1f292.streamlock.net:4443/casse/casse/chunklist_w1958021516.m3u8
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES", CANAL 10 TUCUMAN
 https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1608430569&h=d882adc2349beda229c26497f0458fe7
 
-#EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", XAMA TV SAN JUAN
-https://sc1.stweb.tv/unisanjuan/live/chunklist_w697668907.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://catriel25noticias.com/alastv/canal-logo.gif" group-title="LOCALES", CANAL 2 CATRIEL TV
-https://589ff3c36f7e8.streamlock.net/alastv/alastv/chunklist_w1717531425.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0189
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Posadas-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES", CANAL 4 POSADAS
-https://589ff3c36f7e8.streamlock.net/canal4/canal4/chunklist_w689650871.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0179
 
 #EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/Logo-horizontal-canal-21tv.png" group-title="LOCALES", CANAL 21 POSADAS
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8?nimblesessionid=3573073
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0182
 
 #EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="LOCALES", TVEO MENDOZA
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w1681833885.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.telecreativa.com/logos/enc_TELECREATIVA_movil.gif" group-title="LOCALES", TELECREATIVA LANUS
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0152
+
 
 
 
@@ -968,4 +971,6 @@ http://149.56.98.124:9090/hls/canal5montecaceros_low.m3u8
 #EXTINF:-1 tvg-logo="https://canal2mdp.com.ar/wp-content/uploads/2016/04/13427954_1104019889671271_5647949923378659701_n-1.jpg" group-title="LOCALES", Canal 2 Mar del Plata
 https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", XAMA TV SAN JUAN
+https://sc1.stweb.tv/unisanjuan/live/chunklist_w697668907.m3u8
 
