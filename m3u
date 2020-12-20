@@ -106,6 +106,9 @@ http://45.77.154.172:8080/hls/show.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", Locomotion
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV_Series.png" group-title="INFANTIL", CACHIPUM TV
+https://tls.cdnz.cl/cachipuntv/live/chunklist_w1195011282.m3u8?WebM3UCL
+
 #EXTINF:-1 group-title="LOCALES", DTV DIPUTADOS TELEVISION
 https://www.youtube.com/watch?v=G5mPgf4dwaU
 
@@ -289,6 +292,9 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w20824752
 
 #EXTINF:-1 tvg-logo="https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg" group-title="CINE Y SERIES", WMS HD
 https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="CINE Y SERIES", SOL TV
+https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/chunklist_w1124562929_b563840_DVR.m3u8?WebM3UCL
 
 
 
