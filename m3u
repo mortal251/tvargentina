@@ -145,8 +145,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w78966593_b1296000_sl
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTE", TENIS CHANNEL
 https://dai.google.com/linear/hls/pa/event/hj7NDZ5ZSE2m2MWQPiKp3Q/stream/9f0d2187-4d0a-40c5-abfa-0bb091f57b89:SCL/variant/f9fa59d613ad7cde17fdcb44b7ad1d79/bandwidth/2973420.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTE", TENIS CHANNEL
-https://e2.stephn.xyz/ingest01/68691.m3u8?sf=cWE4QUg3TmRPNw==&token=JVI58ExGd2mXR0jx7joU6g&expires=1608495831&rnd=
+
 
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/musictop.png" group-title="MUSICA", Music Top
