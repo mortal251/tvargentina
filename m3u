@@ -139,6 +139,9 @@ https://www.youtube.com/watch?v=1SmKEIpmcLU
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w78966593_b1296000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", TENIS CHANNEL
+https://dai.google.com/linear/hls/pa/event/hj7NDZ5ZSE2m2MWQPiKp3Q/stream/9f0d2187-4d0a-40c5-abfa-0bb091f57b89:SCL/variant/f9fa59d613ad7cde17fdcb44b7ad1d79/bandwidth/2973420.m3u8
+
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/musictop.png" group-title="MUSICA", Music Top
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w607515073_b2028000_sleng.m3u8
 
@@ -671,7 +674,13 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0182
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w1681833885.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.telecreativa.com/logos/enc_TELECREATIVA_movil.gif" group-title="LOCALES", TELECREATIVA LANUS
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0152
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0052
+
+#EXTINF:-1 tvg-logo="https://canal2mdp.com.ar/wp-content/uploads/2016/04/13427954_1104019889671271_5647949923378659701_n-1.jpg" group-title="LOCALES", Canal 2 Mar del Plata
+https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", XAMA TV SAN JUAN
+https://sc1.stweb.tv/unisanjuan/live/chunklist_w697668907.m3u8
 
 
 
@@ -971,9 +980,5 @@ https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0Zxj7gGFIPTrI9V3xyRvBgKUoIg4pTfDnlQ&usqp=CAU" group-title="LOCALES", CANAL 5 MONTE CASEROS
 http://149.56.98.124:9090/hls/canal5montecaceros_low.m3u8
 
-#EXTINF:-1 tvg-logo="https://canal2mdp.com.ar/wp-content/uploads/2016/04/13427954_1104019889671271_5647949923378659701_n-1.jpg" group-title="LOCALES", Canal 2 Mar del Plata
-https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", XAMA TV SAN JUAN
-https://sc1.stweb.tv/unisanjuan/live/chunklist_w697668907.m3u8
 
