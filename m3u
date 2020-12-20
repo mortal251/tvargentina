@@ -951,34 +951,34 @@ https://clientes.videostreaming.ar:19360/fmzetaradio/fmzetaradio.m3u8
 #EXTINF:-1 tvg-logo="http://fmtrujui.com/wp-content/uploads/2018/08/logo_normal_mobile-1.png" group-title="RADIO", FM 100.1 TRUJUI
 https://inliveserver.com:1936/14102/14102/chunklist_w2019086911.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM", 5900 TV CORDOBA
+#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM Y CLIMA", 5900 TV CORDOBA
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
 
-#EXTINF:-1 group-title="WEB CAM", FOUR SEASONS BUENOS AIRES
+#EXTINF:-1 group-title="WEB CAM Y CLIMA", FOUR SEASONS BUENOS AIRES
 https://www.youtube.com/watch?v=if91GyWP3zQ
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM", CANAL 79 MAR DEL PLATA
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 MAR DEL PLATA
 https://5f6e1fe8f2d2e.streamlock.net/mardelplata/mardelplata/chunklist_w1280736091.m3u8
 
-#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM", BUNGE Y EL MAR PINAMAR
+#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BUNGE Y EL MAR PINAMAR
 https://wowza.telpin.com.ar:1935/camara-bunge/camara-bunge.smil/chunklist_w4047103_b1344100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="WEB CAM", MONTE HERMOSO
+#EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="WEB CAM Y CLIMA", MONTE HERMOSO
 https://streaming.reltid.com.ar/hls/montedvr5.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.infonecochea.com/wp-content/uploads/2019/12/80269676_10220947284128059_1955026176351141888_o.jpg" group-title="WEB CAM", NECOCHEA
+#EXTINF:-1 tvg-logo="http://www.infonecochea.com/wp-content/uploads/2019/12/80269676_10220947284128059_1955026176351141888_o.jpg" group-title="WEB CAM Y CLIMA", NECOCHEA
 https://streaming.reltid.com.ar/hls/neco.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM", CANAL 79 SANTA CLARA DEL MAR
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 SANTA CLARA DEL MAR
 https://5f6e1fe8f2d2e.streamlock.net/santaclara/santaclara/chunklist_w675009168.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM", CANAL 79 SAN JUAN
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 SAN JUAN
 https://5f6e1fe8f2d2e.streamlock.net/sanjuan/sanjuan/chunklist_w508004298.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM", CANAL 79 LA COSTA
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 LA COSTA
 https://5f6e1fe8f2d2e.streamlock.net/lacosta/lacosta/chunklist_w555218362.m3u8
 
-#EXTINF:-1 group-title="WEB CAM", CANAL BEAGLE - USHUAIA
+#EXTINF:-1 group-title="WEB CAM Y CLIMA", CANAL BEAGLE - USHUAIA
 https://www.youtube.com/watch?v=vsO2az_72C4
 
 
