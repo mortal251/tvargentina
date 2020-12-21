@@ -144,8 +144,10 @@ https://www.youtube.com/watch?v=1SmKEIpmcLU
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w78966593_b1296000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTE", TENIS CHANNEL
-https://dai.google.com/linear/hls/pa/event/hj7NDZ5ZSE2m2MWQPiKp3Q/stream/9f0d2187-4d0a-40c5-abfa-0bb091f57b89:SCL/variant/f9fa59d613ad7cde17fdcb44b7ad1d79/bandwidth/2973420.m3u8
+https://sv.tsnt.xyz/espn/espn1o_sur.m3u8?ul9t7g
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTE", TENIS CHANNEL
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_240_av-b.m3u8?sd=10&rebase=on&id=AgC1LIFHtSxKBzKZ4F+vJG+MkPHGIOZjusKTaBML4%2fqQMxjtb2Ux9zim8jhleEttuAeRzepZ9LmgoA%3d%3d&hdntl=exp=1608576402~acl=%2f*~data=hdntl~hmac=31ac00c24153bf998384e4e0bf795a959e28ca8f71df9d872f624ab8d1c3805d
 
 
 
