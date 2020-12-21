@@ -528,7 +528,7 @@ http://190.103.192.6:8080/hls/mystreamkey.m3u8
 https://panel.dattalive.com/8128/8128/chunklist_w1227557188.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES", VEO TV SANTA FE
-https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
+https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_360p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES", CANAL 12 TUCUMAN
