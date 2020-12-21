@@ -128,7 +128,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1230309204.
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TYC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN
+https://sv.tsnt.xyz/espn/espn1o_sur.m3u8?ul9t7g
 
 
 
@@ -143,11 +144,8 @@ https://www.youtube.com/watch?v=1SmKEIpmcLU
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w78966593_b1296000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTE", TENIS CHANNEL
-https://sv.tsnt.xyz/espn/espn1o_sur.m3u8?ul9t7g
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTE", TENIS CHANNEL
-https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_240_av-b.m3u8?sd=10&rebase=on&id=AgC1LIFHtSxKBzKZ4F+vJG+MkPHGIOZjusKTaBML4%2fqQMxjtb2Ux9zim8jhleEttuAeRzepZ9LmgoA%3d%3d&hdntl=exp=1608576402~acl=%2f*~data=hdntl~hmac=31ac00c24153bf998384e4e0bf795a959e28ca8f71df9d872f624ab8d1c3805d
+
 
 
 
