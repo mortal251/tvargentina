@@ -27,12 +27,11 @@ https://www.youtube.com/watch?v=Lnsp9CFTIh4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="LOCALES", Canal de la Ciudad
 http://g4.vxral-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8
 
+#EXTINF:-1 group-title="LOCALES", ENCUENTRO - 22.1
+https://www.youtube.com/watch?v=c0LaUlqTjHo
 
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-a-xOmMTkpX_HDWTW6xIpksPFdDIQlMoaA&usqp=CAU" group-title="LOCALES", ENCUENTRO - 22.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w576200856.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
@@ -1000,6 +999,9 @@ https://www.youtube.com/watch?v=tCe8P4CXR7A
 
 #EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="WEB CAM Y CLIMA", CORONEL PRINGLES
 https://streaming.reltid.com.ar/hls/pringles.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-a-xOmMTkpX_HDWTW6xIpksPFdDIQlMoaA&usqp=CAU" group-title="LOCALES", ENCUENTRO - 22.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w576200856.m3u8
 
 
 
