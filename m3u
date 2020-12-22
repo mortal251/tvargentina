@@ -994,6 +994,10 @@ https://5f6e1fe8f2d2e.streamlock.net/lacosta/lacosta/chunklist_w555218362.m3u8
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CANAL BEAGLE - USHUAIA
 https://www.youtube.com/watch?v=vsO2az_72C4
 
+
+#EXTINF:-1 group-title="WEB CAM Y CLIMA", CAMARAS USHUAIA
+https://www.youtube.com/watch?v=tCe8P4CXR7A
+
 #EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="WEB CAM Y CLIMA", CORONEL PRINGLES
 https://streaming.reltid.com.ar/hls/pringles.m3u8
 
