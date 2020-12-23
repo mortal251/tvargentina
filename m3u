@@ -630,8 +630,7 @@ https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/chunklist_w5906
 
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Telenord-en-vivo-Online.png?resize=100%2C70" group-title="LOCALES", TELENORD CORRIENTES
-http://www.coninfo.net:1935/previsoratv/live/chunklist_w840674151.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="LOCALES", TSN NECOCHEA
 https://panel.dattalive.com/8130/8130/chunklist_w1683036471.m3u8?PlaylistM3UCL
@@ -650,7 +649,7 @@ https://5975e06a1f292.streamlock.net:4443/casse/casse/chunklist_w1958021516.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1608672472&h=c5babaec46b5a220e42403eeb377ceca
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1608761334&h=4d6d2d002a7e03de5eeaec9525c2e016
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU" group-title="LOCALES", TELEDIEZ PASO DE LOS LIBRES
 http://inliveserver.com:1935/8670/8670/chunklist_w2109042663.m3u8
@@ -691,8 +690,7 @@ https://inliveserver.com:1936/8012_1/8012_1/chunklist_w283758103.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1phsO-ubizU/Xjs7vHKVggI/AAAAAAAAvno/rT7oXAbNr_gKAdV3lKdf9tJjftYLEG9-wCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", Quatro TV SANTA FE
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0Zxj7gGFIPTrI9V3xyRvBgKUoIg4pTfDnlQ&usqp=CAU" group-title="LOCALES", CANAL 5 MONTE CASEROS
-http://149.56.98.124:9090/hls/canal5montecaceros_low.m3u8
+
 
 
 
@@ -1009,6 +1007,12 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w576200856
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="LOCALES", Canal de la Ciudad
 http://g4.vxral-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Telenord-en-vivo-Online.png?resize=100%2C70" group-title="LOCALES", TELENORD CORRIENTES
+http://www.coninfo.net:1935/previsoratv/live/chunklist_w840674151.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0Zxj7gGFIPTrI9V3xyRvBgKUoIg4pTfDnlQ&usqp=CAU" group-title="LOCALES", CANAL 5 MONTE CASEROS
+http://149.56.98.124:9090/hls/canal5montecaceros_low.m3u8
 
 
 
