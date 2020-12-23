@@ -227,6 +227,9 @@ https://www.youtube.com/watch?v=gBbMbqILzXU
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="LOCALES", CANAL 9 MENDOZA
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w1030855432.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Canal_Siete_Bah%C3%ADa_Blanca_%28Logo_2015%29.png/revision/latest/scale-to-width-down/340?cb=20200423151246" group-title="LOCALES", CANAL 7 BAHIA BLANCA
+https://dcunilive56-lh.akamaihd.net/i/dclive_1@771044/master.m3u8?hdnea=st=1608740234~exp=1608740634~acl=/i/dclive_1@771044*~hmac=5808d6e2a03e86b609bb4ee53e8821a54d0877378f253fbddf7782dbb4e15503
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo_elonce_tv_2019.png.jpg/177px-Logo_elonce_tv_2019.png.jpg" group-title="LOCALES", EL ONCE PARANA
 https://elonce.zapto.org/hls/live_240p1000kbs.m3u8
 
@@ -806,6 +809,9 @@ https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlwv56GWyQn2KUI0W2H
 
 #EXTINF:-1 tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" group-title="INTERNACIONAL", ABC ESTADOS UNIDOS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-logo="https://news.sky.com/resources/sky-news-logo.png?v=1?bypass-service-worker" group-title="INTERNACIONAL", SKY NEWS REINO UNIDO
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.arzbaires.org.ar/inicio/images/canalorbe21.jpg" group-title="RELIGION", ORBE 21 - 21.2
