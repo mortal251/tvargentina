@@ -1001,6 +1001,10 @@ https://www.youtube.com/watch?v=tCe8P4CXR7A
 #EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="WEB CAM Y CLIMA", CORONEL PRINGLES
 https://streaming.reltid.com.ar/hls/pringles.m3u8
 
+
+#EXTINF:-1 group-title="WEB CAM Y CLIMA", RESISTENCIA - CHACO
+https://www.youtube.com/watch?v=qio6kOb2BZw
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-a-xOmMTkpX_HDWTW6xIpksPFdDIQlMoaA&usqp=CAU" group-title="LOCALES", ENCUENTRO - 22.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w576200856.m3u8
 
