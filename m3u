@@ -43,7 +43,7 @@ https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpMFcGFuluhpfjcc8vGBQUHKOwM
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES", CANAL 9 - 35.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpMFcGFuluhpfjcc8vGBQUHKOwMYQDEYcowAPa1fwE8ltpsNO2Oby-yStSpFhV7WAzetV98bWX-du3rsRaT_CoTiN726YUb-ADpr41REKaRG2MggIoBsXtsod1IsW1durpdxUaT8lcNdrprd9hYX_WGRE6afas6t7h6YZwNX0wm3B0duV2W6zauKXTmToZjWKjDoamk43LCNoqPo58oXbsV3VxqP8Iyo4gXXBzApvBG8UTreuKZR44ThdCA_WzuYvlqkpqiGMx7ntHpHLd5kq_EAbXvZnPBN3CQtzjCaE0l5aA0d0H1RoL5N_7RTuMjXKmodq1MeplWfpqbdf59Y3XNauZJOG3m_gm4YGKjgSeT3eiGyPeOOQ53KShQucJGpEg3vIO-oU8EtkUswxvKekuNLSBzsvx2ylOxikV_goiUGradOSBBSNFO7XewJMwZrPEjncmPBfnRFGDXeZKYDqjrn2lx1Bn1E6FrEZYZp0qjW71QwpdW-a_NXc-eDo8cQAdTV2lnjtl6aEl7I_jffzXUh5511esw3EE6sNWKLmj8tUiuPX3Z3j5EnO0PBzjGEzuZb4otljnENVRaSYCjYozvrFd5HieyyxB7R6nMmfP6pVSllYN4Bdvgt6kEKavCtSRhz_m92CaXDNp6SpUVj2PZmYMt5qwhTSBDilV30X7mh4FBW_z-BZo2MZpAsk4SOsK3yk3Z0MywqnnrwFdy7Dz81rcgKS-MWTZ_TXQRjABi16XK1cj5RLy8ydtzyWzAXKoF5Rm50nJmwy6roPPpESxxyCUAhS5tqc3F-iNtOM3kdR50JMnQj8HZq4o_zYZq-pEYAMMtLctMsCsokYsq-9qkAcQVHWuyY3ouXCFv7ZPA3l2BnUEsSEDbK_rK1hQ36XFUo0J2n-qAaDDxtNXOac314YG9lpQ.m3u8
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA4ODEyOTM4LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyI0NS4xNzguMi4xODgiLCIyODAwOjgxMDo0NzM6N2VmOmY5YTM6NTY5ZDoyY2EzOjliMmMiXX0sInNpZ25hdHVyZSI6ImNkZWMxOWJkMmJhYmU1ZWE5ZjM4NDU3ZGZhMWIxNzUwZGMxZTNmNDUifQ%3D%3D
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
@@ -82,7 +82,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w678055608.m
 https://inliveserver.com:1936/14030/14030/chunklist_w1277190161.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", CINCO TV Tigre - 30.1
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
+https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w172622627.m3u8
 
 
 
@@ -116,10 +116,10 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 https://tls.cdnz.cl/cachipuntv/live/chunklist_w1195011282.m3u8?WebM3UCL
 
 #EXTINF:-1 group-title="LOCALES", DTV DIPUTADOS TELEVISION
-https://www.youtube.com/watch?v=G5mPgf4dwaU
+https://www.youtube.com/watch?v=Ez5EelKTBKo
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/tectv.png" group-title="LOCALES", TEC TV - 22.5
-https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough/tectv_3/chunks.m3u8
+https://g5.proy-hor.transport.edge-access.net/b06/ngrp:gcba_video3-100042_all/gcba_video3-100042_128Kp.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU" group-title="LOCALES", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
