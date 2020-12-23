@@ -535,7 +535,7 @@ http://190.103.192.6:8080/hls/mystreamkey.m3u8
 https://panel.dattalive.com/8128/8128/chunklist_w1227557188.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES", VEO TV SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0230
+https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_360p/index.m3u8
 
 
 
@@ -593,8 +593,7 @@ http://186.129.252.150:1935/canal/351/chunklist_w311969865.m3u8
 https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w563112316.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2018/10/tvulogotexto.png" group-title="LOCALES", TV UNIVERSIDAD LA PLATA
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="LOCALES", LA VOZ TUCUMAN TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0238
@@ -1014,7 +1013,8 @@ http://www.coninfo.net:1935/previsoratv/live/chunklist_w840674151.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0Zxj7gGFIPTrI9V3xyRvBgKUoIg4pTfDnlQ&usqp=CAU" group-title="LOCALES", CANAL 5 MONTE CASEROS
 http://149.56.98.124:9090/hls/canal5montecaceros_low.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2018/10/tvulogotexto.png" group-title="LOCALES", TV UNIVERSIDAD LA PLATA
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 
 
