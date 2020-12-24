@@ -800,7 +800,7 @@ https://www.youtube.com/watch?v=qM8RYN1MAh8
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 #EXTINF:-1 tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/ntn24-logo.png" group-title="INTERNACIONAL", NTN 24 COLOMBIA
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlwv56GWyQn2KUI0W2HWq3Zs)/dm/3/x7w4okl/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1&qos_geostore=1
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8l3Mv_zbS26_vsXTPHdLmo)/dm/3/x7w4okl/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" group-title="INTERNACIONAL", ABC ESTADOS UNIDOS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -808,6 +808,11 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://news.sky.com/resources/sky-news-logo.png?v=1?bypass-service-worker" group-title="INTERNACIONAL", SKY NEWS REINO UNIDO
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPdd_IvUUP3jvtHrETRVozcBzaKkycpun-MN2OnA4lW-29IaRGYdfzt1J-RryBAVRxmnn6gvz_a6GAnJyQVbcYxMX9SONVCgpAw&usqp=CAU&ec=45750088" group-title="INTERNACIONAL", EARTH TV
+https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge0/cdnedge/HicYJzEAB5E/playlist.m3u8?token=EAIY6wE4z7zsLECIHUgF.CgdlYXJ0aHR2EAEyC0hpY1lKeTZBQjVBOgtIaWNZSnpFQUI1RQ.FBpQwLx3C1vpkKzF2lDVLOPKjXXmbCq4EWPSrJx8VZdQgK-aRpu8gPD4HO0tts5pWMnxS_9YgzJ7V8fwwjyC0g
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/CNC_TV_2020_2.svg/revision/latest/scale-to-width-down/340?cb=20200910013723" group-title="INTERNACIONAL", CNC CHINA
+https://source07.v.news.cn/live/CNC_CN/playlist.m3u8?wsSession=bed2e3a67ad6d4269809e919-160881726993209&wsIPSercert=b45b1734986e59cef74116f016f4b676&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="https://www.arzbaires.org.ar/inicio/images/canalorbe21.jpg" group-title="RELIGION", ORBE 21 - 21.2
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
