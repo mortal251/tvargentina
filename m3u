@@ -833,6 +833,9 @@ http://csvl03.manasat.com:1935/tvar/tvmanaar2/chunklist_w1786046739.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000256543676/cad59d963ae7777d7ba7c1ac0db7c001_400x400.png" group-title="RELIGION", TV UNIVERSAL
 https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough/iurd_2/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.ewtn.com/assets/ewtn-badge-58f0dd80b4f161197d2d55f4af30ac2a7d29fcd9677c9f84afd61b53890fffe7.jpg" group-title="RELIGION", EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="RADIO", RADIO MITRE
 https://g5.mc-slo.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/MITREHD-10002_240p.m3u8
 
