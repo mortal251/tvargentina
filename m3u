@@ -116,8 +116,7 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV_Series.png" group-title="INFANTIL", CACHIPUM TV
 https://tls.cdnz.cl/cachipuntv/live/chunklist_w1195011282.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102655_Dreiko_TV.png" group-title="INFANTIL", DREIKO TV
-https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1138477104.m3u8?WebM3UCL
+
 
 #EXTINF:-1 group-title="LOCALES", DTV DIPUTADOS TELEVISION
 https://www.youtube.com/watch?v=Ez5EelKTBKo
@@ -283,6 +282,9 @@ https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w165756078.m3u8?WebM3U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102655_Dreiko_TV.png" group-title="CINE Y SERIES", DREIKO TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1138477104.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LnXLukJpoCw/maxresdefault.jpg" group-title="CINE Y SERIES", MI TV TELEVISION CLASICA
