@@ -698,19 +698,12 @@ https://inliveserver.com:1936/8012_1/8012_1/chunklist_w283758103.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1phsO-ubizU/Xjs7vHKVggI/AAAAAAAAvno/rT7oXAbNr_gKAdV3lKdf9tJjftYLEG9-wCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", Quatro TV SANTA FE
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
 
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", XAMA TV SAN JUAN
 https://sc1.stweb.tv/unisanjuan/live/chunklist_w697668907.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Canal_Siete_Bah%C3%ADa_Blanca_%28Logo_2015%29.png/revision/latest/scale-to-width-down/340?cb=20200423151246" group-title="LOCALES", CANAL 7 BAHIA BLANCA
+https://dcunilive56-lh.akamaihd.net/i/dclive_1@771044/master.m3u8?hdnea=st=1608824046~exp=1608824446~acl=/i/dclive_1@771044*~hmac=903473adaef03c4f664070ae8d7eb34e64c991fadf48ed69495abdde6e5e7001
+
 
 
 
@@ -1043,8 +1036,6 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES", VEO TV SANTA FE
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0230
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Canal_Siete_Bah%C3%ADa_Blanca_%28Logo_2015%29.png/revision/latest/scale-to-width-down/340?cb=20200423151246" group-title="LOCALES", CANAL 7 BAHIA BLANCA
-https://dcunilive56-lh.akamaihd.net/i/dclive_1@771044/master.m3u8?hdnea=st=1608740234~exp=1608740634~acl=/i/dclive_1@771044*~hmac=5808d6e2a03e86b609bb4ee53e8821a54d0877378f253fbddf7782dbb4e15503
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="LOCALES", CANAL 10 SAN RAFAEL
 https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
