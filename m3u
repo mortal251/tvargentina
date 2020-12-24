@@ -824,6 +824,9 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/chunklist_w1570569280_b1500000.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBnC7sRGLASDshCkB59UCjnSLufGe5H3hQbw&usqp=CAU" group-title="INTERNACIONAL", CBS NEWS
 https://dai.google.com/linear/hls/pa/event/TxSbNMu4R5anKrjV02VOBg/stream/c9b41601-7bc7-41c9-b16c-ca77fca1da95:SCL/variant/a33b0fadf1f16c83d11dcc7c1a9148b4/bandwidth/1092929.m3u8
 
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6042/240/default.jpg" group-title="INTERNACIONAL", TNU URUGUAY
+https://vxlive.cdn.antel.net.uy/auth_livesignal_835,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODM1JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MDg4NzE5NjImcmFuZG9tPVhaR25QdUlwS0YmYy1pcD0xODEuNDQuMTI5LjcxLGNjZDc2MDNmOThhYjc5ZWU3MjFiYjc4ZmNmMzE1MDcxM2I2NWFjMThmMDdlYWI5MGNmMTRkZTdlMDNhYjAyYmY=/vxfmt=hls/h_e2bcc1d5b2b6deece6477ebc69a69929/var3000000/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.arzbaires.org.ar/inicio/images/canalorbe21.jpg" group-title="RELIGION", ORBE 21 - 21.2
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 
