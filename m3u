@@ -563,7 +563,7 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQveDDw-1eyCiqykUajXQ8IqRRCfTehbi_mj0jwSc3lm2t0754lpZIiZSEMyQWo1cVk0Im6X96FsFSwIeuHNcn_mg2xvOLDiGrxrlwN&usqp=CAU&ec=45688578" group-title="LOCALES", CEEL 4 MISIONES
 https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/chunklist_w1246446932.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.faep5-1.fna.fbcdn.net/v/t1.0-9/35206725_1926563554030041_522159034103496704_n.png?_nc_cat=107&cb=846ca55b-ee17756f&ccb=2&_nc_sid=174925&_nc_eui2=AeGTfd046URV8_880I6YY4XHSNnUwTsZ0UdI2dTBOxnRR0cfvzjjTKanDcMqICKmAxI&_nc_ohc=rHiC8yg4s8cAX9RA2zH&_nc_oc=AQk_cHxcdesHLycNP_gbYYhSYobZbGaLpzrRLSy3UunuIVtvDfp1PKJ0hSJ8IA4qhYFZI-l3NarooKYluHib45Cy&_nc_ht=scontent.faep5-1.fna&oh=9b44809b2bd754a7186ad164550b6402&oe=5FC34529" group-title="LOCALES", ENTRE RIOS TV
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES", ENTRE RIOS TV
 https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.infomedia24.com.ar/v2/wp-content/uploads/2017/04/logo-infomediax2.png" group-title="LOCALES", LM 24 RIO GALLEGOS
@@ -707,6 +707,9 @@ https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", XAMA TV SAN JUAN
 https://sc1.stweb.tv/unisanjuan/live/chunklist_w697668907.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100568_Canal_3_Las_Flores_Digital.jpg" group-title="LOCALES", CANAL 3 LAS FLORES
+https://inliveserver.com:1936/8436/8436/chunklist_w568250728.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Canal_Siete_Bah%C3%ADa_Blanca_%28Logo_2015%29.png/revision/latest/scale-to-width-down/340?cb=20200423151246" group-title="LOCALES", CANAL 7 BAHIA BLANCA
 https://dcunilive56-lh.akamaihd.net/i/dclive_1@771044/master.m3u8?hdnea=st=1608824046~exp=1608824446~acl=/i/dclive_1@771044*~hmac=903473adaef03c4f664070ae8d7eb34e64c991fadf48ed69495abdde6e5e7001
 
@@ -773,8 +776,9 @@ https://www.youtube.com/watch?v=aqPIiyPI10c
 #EXTINF:-1 group-title="INTERNACIONAL", EURONEWS
 https://www.youtube.com/watch?v=JbKgQhFlMdU
 
-#EXTINF:-1 group-title="INTERNACIONAL", ARIRANG KOREA
-https://www.youtube.com/watch?v=DgQnsR_H-XQ
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83643_Arirang.png" group-title="INTERNACIONAL", ARIRANG KOREA
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8?WebM3UCL
 
 #EXTINF:-1 group-title="INTERNACIONAL", MEGANOTICIAS CHILE
 https://www.youtube.com/watch?v=Et4i_BymLGQ
@@ -813,6 +817,12 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/CNC_TV_2020_2.svg/revision/latest/scale-to-width-down/340?cb=20200910013723" group-title="INTERNACIONAL", CNC CHINA
 https://source07.v.news.cn/live/CNC_CN/playlist.m3u8?wsSession=bed2e3a67ad6d4269809e919-160881726993209&wsIPSercert=b45b1734986e59cef74116f016f4b676&wsMonitor=0
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112080_TVGE_Internacional.png" group-title="INTERNACIONAL", TVGE INTERNACIONAL
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/chunklist_w1181862229_b550000.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBnC7sRGLASDshCkB59UCjnSLufGe5H3hQbw&usqp=CAU" group-title="INTERNACIONAL", CBS NEWS
+https://dai.google.com/linear/hls/pa/event/TxSbNMu4R5anKrjV02VOBg/stream/c9b41601-7bc7-41c9-b16c-ca77fca1da95:SCL/variant/a33b0fadf1f16c83d11dcc7c1a9148b4/bandwidth/1092929.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.arzbaires.org.ar/inicio/images/canalorbe21.jpg" group-title="RELIGION", ORBE 21 - 21.2
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
