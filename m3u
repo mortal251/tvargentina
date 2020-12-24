@@ -808,8 +808,6 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://news.sky.com/resources/sky-news-logo.png?v=1?bypass-service-worker" group-title="INTERNACIONAL", SKY NEWS REINO UNIDO
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPdd_IvUUP3jvtHrETRVozcBzaKkycpun-MN2OnA4lW-29IaRGYdfzt1J-RryBAVRxmnn6gvz_a6GAnJyQVbcYxMX9SONVCgpAw&usqp=CAU&ec=45750088" group-title="INTERNACIONAL", EARTH TV
-https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge0/cdnedge/HicYJzEAB5E/playlist.m3u8?token=EAIY6wE4z7zsLECIHUgF.CgdlYXJ0aHR2EAEyC0hpY1lKeTZBQjVBOgtIaWNZSnpFQUI1RQ.FBpQwLx3C1vpkKzF2lDVLOPKjXXmbCq4EWPSrJx8VZdQgK-aRpu8gPD4HO0tts5pWMnxS_9YgzJ7V8fwwjyC0g
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/CNC_TV_2020_2.svg/revision/latest/scale-to-width-down/340?cb=20200910013723" group-title="INTERNACIONAL", CNC CHINA
 https://source07.v.news.cn/live/CNC_CN/playlist.m3u8?wsSession=bed2e3a67ad6d4269809e919-160881726993209&wsIPSercert=b45b1734986e59cef74116f016f4b676&wsMonitor=0
@@ -1018,6 +1016,9 @@ https://streaming.reltid.com.ar/hls/pringles.m3u8
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", RESISTENCIA - CHACO
 https://www.youtube.com/watch?v=qio6kOb2BZw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPdd_IvUUP3jvtHrETRVozcBzaKkycpun-MN2OnA4lW-29IaRGYdfzt1J-RryBAVRxmnn6gvz_a6GAnJyQVbcYxMX9SONVCgpAw&usqp=CAU&ec=45750088" group-title="WEB CAM Y CLIMA", EARTH TV
+https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge0/cdnedge/HicYJzEAB5E/chunklist.m3u8?token=EAIY6wE4x-PsLECIHUgF.CgdlYXJ0aHR2EAEyC0hpY1lKeTZBQjVBOgtIaWNZSnpFQUI1RQ.jexElVtz3NQCtyBraI7HbKNKntVva4QqXH3gflEv6RBhUn77qN0gQc1o3nFfOpTcXAzwaHauq-pa1XhiENMy6w&domain=www.earthtv.com
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-a-xOmMTkpX_HDWTW6xIpksPFdDIQlMoaA&usqp=CAU" group-title="LOCALES", ENCUENTRO - 22.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w576200856.m3u8
