@@ -148,6 +148,9 @@ https://sv.tsnt.xyz/espn/espn1o_sur.m3u8?ul9t7g
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
 https://sv.tsnt.xyz/espn/espn2o_sur.m3u8?dd.m3u8NjY2MzgwNzM=
 
+#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 3
+https://e10.stephn.xyz/ingestnb4s/espn3_sur/d.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_teletrak_m.png" group-title="DEPORTE", TELETRAK
 https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
