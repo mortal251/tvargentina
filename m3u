@@ -694,6 +694,9 @@ https://sc1.stweb.tv/unisanjuan/live/chunklist_w697668907.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="LOCALES", CANAL 10 SAN RAFAEL
 https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="LOCALES", EL DIARIO DE PRINGLES
+https://streaming.reltid.com.ar/hls/pringles.m3u8
+
 
 
 
@@ -1010,8 +1013,7 @@ https://www.youtube.com/watch?v=Xfoj7dZPBbE
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CAMARAS USHUAIA
 https://www.youtube.com/watch?v=tCe8P4CXR7A
 
-#EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="WEB CAM Y CLIMA", CORONEL PRINGLES
-https://streaming.reltid.com.ar/hls/pringles.m3u8
+
 
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", RESISTENCIA - CHACO
