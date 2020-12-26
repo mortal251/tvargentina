@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="LOCALES", prueba
-https://sv.tsnt.xyz/espn/espn3o_sur.m3u8?ul9t7g
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="LOCALES", IP - 24.5
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
@@ -221,8 +220,10 @@ https://www.youtube.com/watch?v=EnA520DyDaI
 #EXTINF:-1 group-title="LOCALES", EL DOCE CORDOBA
 https://www.youtube.com/watch?v=gBbMbqILzXU
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="LOCALES", CANAL 9 MENDOZA
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w1030855432.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" group-title="LOCALES", Canal 10 RIO NEGRO
+https://panel.dattalive.com/8204/8204/chunklist_w2116861350.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg" group-title="LOCALES", LITUS TV
 https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/chunklist_w633739157_b1531904.m3u8
@@ -265,9 +266,8 @@ http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/canal22web.com/wp-content/uploads/2018/05/cropped-logo-canal22.gif?fit=512%2C512&ssl=1" group-title="LOCALES", CANAL 22 BUENOS AIRES
 http://api.new.livestream.com/accounts/27390802/events/8239465/live.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo="https://t5satelital.com/theme/img/T5logo.png" group-title="LOCALES", T5 CORRIENTES
+http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-2-Jujuy-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="LOCALES", CANAL 2 JUJUY
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
@@ -527,11 +527,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Telefe_Mar_del_Plata_%282018%29.png/133px-Telefe_Mar_del_Plata_%282018%29.png" group-title="LOCALES", TELEFE MAR DEL PLATA
 https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1608826276~exp=1609002676~acl=/i/mdqdistri02_1@829747/*~hmac=909a2e231c89cfb6b7e1b9b2af37cafad8c04dc6749157973880df1750385e6a
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Telefe_Bah%C3%ADa_Blanca_%282018%29.png/133px-Telefe_Bah%C3%ADa_Blanca_%282018%29.png" group-title="LOCALES", TELEFE BAHIA BLANCA
-https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1608771249~exp=1608947649~acl=/I/canal9bahiablanca_1@685725/*~hmac=403524699f4b73a4d117f3401804867644f097f6bb487d54c4f8deb8eb9895a7
 
-#EXTINF:-1 tvg-logo="https://www.telejunin.com.ar/images/telejunin%20logo.png" group-title="LOCALES", TELEJUNIN
-https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/chunklist_w1616525863.m3u8
 
 
 
@@ -639,7 +635,7 @@ https://5975e06a1f292.streamlock.net:4443/casse/casse/chunklist_w1958021516.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1608936358&h=950be6725dff1e54dbb613a8c3a774d1
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1609018290&h=5d8f6a7fda9d02b00c28aec5d868306b
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU" group-title="LOCALES", TELEDIEZ PASO DE LOS LIBRES
 http://inliveserver.com:1935/8670/8670/chunklist_w2109042663.m3u8
@@ -1017,11 +1013,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w576200856
 
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Telenord-en-vivo-Online.png?resize=100%2C70" group-title="LOCALES", TELENORD CORRIENTES
-http://www.coninfo.net:1935/previsoratv/live/chunklist_w840674151.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0Zxj7gGFIPTrI9V3xyRvBgKUoIg4pTfDnlQ&usqp=CAU" group-title="LOCALES", CANAL 5 MONTE CASEROS
-http://149.56.98.124:9090/hls/canal5montecaceros_low.m3u8
 
 
 
@@ -1036,11 +1028,9 @@ http://149.56.98.124:9090/hls/canal5montecaceros_low.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" group-title="LOCALES", Canal 10 RIO NEGRO
-https://panel.dattalive.com/8204/8204/chunklist_w2116861350.m3u8
 
-#EXTINF:-1 tvg-logo="https://t5satelital.com/theme/img/T5logo.png" group-title="LOCALES", T5 CORRIENTES
-http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo_elonce_tv_2019.png.jpg/177px-Logo_elonce_tv_2019.png.jpg" group-title="LOCALES", EL ONCE PARANA
 https://elonce.zapto.org/hls/live_240p1000kbs.m3u8
@@ -1048,3 +1038,13 @@ https://elonce.zapto.org/hls/live_240p1000kbs.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-8-Catamarca-en-vivo.png" group-title="LOCALES", CANAL 8 CATAMARCA
 https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w1025085291.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="LOCALES", CANAL 9 MENDOZA
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w1030855432.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Telefe_Bah%C3%ADa_Blanca_%282018%29.png/133px-Telefe_Bah%C3%ADa_Blanca_%282018%29.png" group-title="LOCALES", TELEFE BAHIA BLANCA
+https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1608771249~exp=1608947649~acl=/I/canal9bahiablanca_1@685725/*~hmac=403524699f4b73a4d117f3401804867644f097f6bb487d54c4f8deb8eb9895a7
+
+#EXTINF:-1 tvg-logo="https://www.telejunin.com.ar/images/telejunin%20logo.png" group-title="LOCALES", TELEJUNIN
+https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/chunklist_w1616525863.m3u8
