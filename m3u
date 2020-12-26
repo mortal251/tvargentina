@@ -793,6 +793,9 @@ https://source07.v.news.cn/live/CNC_CN/playlist.m3u8?wsSession=bed2e3a67ad6d4269
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112080_TVGE_Internacional.png" group-title="INTERNACIONAL", TVGE INTERNACIONAL
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/chunklist_w1570569280_b1500000.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png" group-title="INTERNACIONAL", VOA ESTADOS UNIDOS
+https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
+
 
 
 
