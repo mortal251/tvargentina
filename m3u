@@ -681,8 +681,11 @@ https://inliveserver.com:1936/8012_1/8012_1/chunklist_w283758103.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1phsO-ubizU/Xjs7vHKVggI/AAAAAAAAvno/rT7oXAbNr_gKAdV3lKdf9tJjftYLEG9-wCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", Quatro TV SANTA FE
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", XAMA TV SAN JUAN
-https://sc1.stweb.tv/unisanjuan/live/chunklist_w697668907.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108929_Airevision_Digital.jpg" group-title="LOCALES", AIREVISION PUNTA ALTA
+http://airevision.ddns.net:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-8-Catamarca-en-vivo.png" group-title="LOCALES", CANAL 8 CATAMARCA
+https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w1025085291.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="LOCALES", CANAL 10 SAN RAFAEL
 https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
@@ -1040,8 +1043,7 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo_elonce_tv_2019.png.jpg/177px-Logo_elonce_tv_2019.png.jpg" group-title="LOCALES", EL ONCE PARANA
 https://elonce.zapto.org/hls/live_240p1000kbs.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-8-Catamarca-en-vivo.png" group-title="LOCALES", CANAL 8 CATAMARCA
-https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w1025085291.m3u8
+
 
 
 
@@ -1054,5 +1056,7 @@ https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?h
 #EXTINF:-1 tvg-logo="https://www.telejunin.com.ar/images/telejunin%20logo.png" group-title="LOCALES", TELEJUNIN
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/chunklist_w1616525863.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108929_Airevision_Digital.jpg" group-title="LOCALES", AIREVISION PUNTA ALTA
-http://airevision.ddns.net:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", XAMA TV SAN JUAN
+https://sc1.stweb.tv/unisanjuan/live/chunklist_w697668907.m3u8
+
+
