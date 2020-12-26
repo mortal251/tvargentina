@@ -975,6 +975,11 @@ https://inliveserver.com:1936/14102/14102/chunklist_w2019086911.m3u8
 #EXTINF:-1 tvg-logo="http://www.fantastica1017.com.ar/images/logoOK.jpg" group-title="RADIO", FM FANTASTICA FM 101.7 FM
 https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiotvsierras.com/imagenes/logo2.png" group-title="RADIO", RADIO SIERRAS DE CORDOBA
+https://videostream.shockmedia.com.ar:1936/radiotvsierras/radiotvsierras/chunklist_w26644054.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM Y CLIMA", 5900 TV CORDOBA
