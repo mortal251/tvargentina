@@ -978,6 +978,9 @@ https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
 #EXTINF:-1 tvg-logo="https://radiotvsierras.com/imagenes/logo2.png" group-title="RADIO", RADIO SIERRAS DE CORDOBA ALTA GRACIA CORDOBA
 https://videostream.shockmedia.com.ar:1936/radiotvsierras/radiotvsierras/chunklist_w26644054.m3u8
 
+#EXTINF:-1 tvg-logo="https://srt-assets.tadevel.xyz/5fa5d96d56d98e0c4b6eb930/img.webp" group-title="RADIO", 102.3 FM CORDOBA
+https://vcp.myplaytv.com/canalusrt/canalusrt/chunklist_w926070690.m3u8
+
 
 
 
