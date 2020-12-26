@@ -698,8 +698,7 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL._SR600,315_SCLZZZZZZZ_.png" group-title="INTERNACIONAL", NHK JAPON
 https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONAL", 24 HORAS CHILE
-https://www.youtube.com/watch?v=-dha9EjsMyI
+
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80324_TV_Peru_Noticias.png" group-title="INTERNACIONAL", TV PERU NOTICIAS
@@ -708,12 +707,9 @@ https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTP.svg/1200px-RTP.svg.png" group-title="INTERNACIONAL", RTP PORTUGAL
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONAL", ANN JAPAN
-https://www.youtube.com/watch?v=coYw-eVU0Ks
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Novo-logo-da-tv-brasil.jpg" group-title="INTERNACIONAL", TV BRASIL
-https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(Fj-1fRINEbg)r(fVR9ug)a(tSyBRw)p(d(2xc)k(q8E)m(O23GhNU-ErBHrFPwJquBUg)n(a(z2BSdQ)s(aSU)'a(YvYkuQ)s(msQ)))s(s(Cd0)b(usJMZzGjjaoOMY9stK4Jh2U_dazZjWOe9KAdFJpD002taPjZd8jEADl6nmD46XZR6W9CePs7JvobQGBStQ)'s(ssc)b(Ucrv05fO6vg7xrWVgXovpQa1SdBdN8lGyZpWdb3Reg-PxB4ZIFEuceBpe_YqD3eri1gUqIntRIJIfrUAWYJHan4XL1RrkD4CZW_ESdzh)'s(MZ8)b(gFRBlji2))m(0))/30_index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSc-TKCQe6pb7OpPC4tprynHyWiNuFJh7h7H8DIwDL2B-pfAHPURhXP90v61gQnufz0SKWbgJ6rdxTAxryYfqJl2TJpXOhHM8aWxw&usqp=CAU&ec=45702846" group-title="INTERNACIONAL", NTV 24 NEWS JAPON
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -739,22 +735,25 @@ https://live1.presstv.com/live/hispan_360p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/245px-Rai_3_-_Logo_2016.svg.png" group-title="INTERNACIONAL", RAI 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w1480246840.m3u8
 
+#EXTINF:-1 group-title="INTERNACIONAL", ANN JAPAN
+https://www.youtube.com/watch?v=coYw-eVU0Ks
+
+#EXTINF:-1 group-title="INTERNACIONAL", 24 HORAS CHILE
+https://www.youtube.com/watch?v=-dha9EjsMyI
 
 #EXTINF:-1 group-title="INTERNACIONAL", T13 CHILE
 https://www.youtube.com/watch?v=aqPIiyPI10c
 
-
-
-
 #EXTINF:-1 group-title="INTERNACIONAL", EURONEWS
 https://www.youtube.com/watch?v=JbKgQhFlMdU
+
+#EXTINF:-1 group-title="INTERNACIONAL", MEGANOTICIAS CHILE
+https://www.youtube.com/watch?v=Et4i_BymLGQ
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83643_Arirang.png" group-title="INTERNACIONAL", ARIRANG KOREA
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8?WebM3UCL
 
-#EXTINF:-1 group-title="INTERNACIONAL", MEGANOTICIAS CHILE
-https://www.youtube.com/watch?v=Et4i_BymLGQ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="INTERNACIONAL", Galicia TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0016
@@ -794,11 +793,8 @@ https://source07.v.news.cn/live/CNC_CN/playlist.m3u8?wsSession=bed2e3a67ad6d4269
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112080_TVGE_Internacional.png" group-title="INTERNACIONAL", TVGE INTERNACIONAL
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/chunklist_w1570569280_b1500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBnC7sRGLASDshCkB59UCjnSLufGe5H3hQbw&usqp=CAU" group-title="INTERNACIONAL", CBS NEWS
-https://s3.ustv24h.live/CBS/myStream/chunks.m3u8?nimblesessionid=24020205&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyMCAzOjMxOjM4IFBNJmhhc2hfdmFsdWU9b1BiZGFLbXlWNEJ5UkxnUWtRVEVCQT09JnZhbGlkbWludXRlcz0yNDA=
 
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6042/240/default.jpg" group-title="INTERNACIONAL", TNU URUGUAY
-https://vxlive.cdn.antel.net.uy/auth_livesignal_835,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODM1JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MDg5MzEyNDImcmFuZG9tPVVXdEw4RWhqMlcmYy1pcD0xODEuNDQuMTI5LjcxLDdmOTgxMzY2NTQ1NjcwNzA5ZjQwMGQwNzQ3ZTQ4NmViMTMxZTcxNzkzYmM2MTMwNmRkODNiZjFjZTEzZTdiZDY=/vxfmt=hls/h_e2bcc1d5b2b6deece6477ebc69a69929/var3000000/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.arzbaires.org.ar/inicio/images/canalorbe21.jpg" group-title="RELIGION", ORBE 21 - 21.2
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
