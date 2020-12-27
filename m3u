@@ -979,7 +979,7 @@ https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
 https://videostream.shockmedia.com.ar:1936/radiotvsierras/radiotvsierras/chunklist_w26644054.m3u8
 
 #EXTINF:-1 tvg-logo="https://srt-assets.tadevel.xyz/5fa5d96d56d98e0c4b6eb930/img.webp" group-title="RADIO", 102.3 FM CORDOBA
-https://vcp.myplaytv.com/canalusrt/canalusrt/chunklist_w926070690.m3u8
+https://vcp.myplaytv.com/canalusrt/canalusrt/chunklist_w1789901049.m3u8
 
 
 
@@ -1067,13 +1067,6 @@ https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/chunklist_w161652
 
 #EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", XAMA TV SAN JUAN
 https://sc1.stweb.tv/unisanjuan/live/chunklist_w697668907.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", PRUEBA 1
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609039836/ei/fKvnX_urOJTg1AGG-JzQCg/ip/179.40.109.11/id/Lnsp9CFTIh4.1/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/hls_chunk_host/r11---sn-uxax4vopj55gb-x1xl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/5340/mh/1o/mm/44/mn/sn-uxax4vopj55gb-x1xl/ms/lva/mv/m/mvi/11/pl/24/dover/11/keepalive/yes/c/MWEB/cver/2.20201216.02.00/ptk/youtube_none/pltype/contentugclive/mt/1609017879/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAI_Srb8sItBbNMiraJaGQDulhofN4uHvB5ZWDxYYrcH-AiBWSNXtFmCXkUQFiG853cCyhWhKhIeZZ3zTMeZKkWOwNw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAMySz72IVaf9ktVi9Y5MkRdG1dE2RPnb9pZ8nbEbwjhmAiEA1rhHup4-sjSAq_7d9clxkPfLdMcJa_kaizbyiNqvRyo%3D/playlist/index.m3u8?cpn=gLoDQBBFiYYMNcnN
-
-
-#EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", PRUEBA 2
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1609039924/ei/1KvnX8GRDMqUwAS25IiYDQ/ip/179.40.109.11/id/wHn1_QVoXGM.3/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/hls_chunk_host/r4---sn-uxax4vopj55gb-x1xe.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/hcs/yes/initcwndbps/5500/mh/rv/mm/44/mn/sn-uxax4vopj55gb-x1xe/ms/lva/mv/m/mvi/4/pl/24/rmhost/r10---sn-uxax4vopj55gb-x1xe.googlevideo.com/shardbypass/yes/dover/11/keepalive/yes/c/MWEB/cver/2.20201216.02.00/ptk/youtube_single/oid/HngWScJH21s8YR3x3g77jA/ptchn/j6PcyLvpnIRT_2W_mwa9Aw/pltype/contentlive/mt/1609017879/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgJ5WTqdwG0ertz7-mpe2Y8lBEo7PJoBS2fk-rs-ARXQkCIQC9O9rKMsFy8Jr7pDQjHV2YnLDpr7P_x60--jBdJqxJmA%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,mh,mm,mn,ms,mv,mvi,pl,rmhost,shardbypass/lsig/AG3C_xAwRQIgFJ5vOXDayP_YS8TN8YMDSJqsbpzwrEL2SufOAZ_a51ACIQDSb_CMEe9bPJkKhiqBl1aGbGC3EYel234V1xlgylEmBQ%3D%3D/playlist/index.m3u8?cpn=MIUiqEj8Mgizhstn
 
 
 
