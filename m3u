@@ -987,6 +987,9 @@ https://panel.dattalive.com/8098/8098/chunklist_w1144261783.m3u8
 #EXTINF:-1 tvg-logo="http://fmsoledad885.com.ar/wp-content/uploads/2020/11/Logo-header-1-1024x132.png" group-title="RADIO", FM SOLEDAD 88.5 LAS HIGHERAS CORDOBA
 https://59537faa0729a.streamlock.net/fmsoledad885/fmsoledad885/chunklist_w1826920025.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiomarull.com.ar/wp-content/uploads/2019/07/puente-logox1.png" group-title="RADIO", RADIO PUENTE 88.3 MARULL CORDOBA
+https://5975e06a1f292.streamlock.net:4443/radio/marull.stream/chunklist_w77693252.m3u8
+
 
 
 
