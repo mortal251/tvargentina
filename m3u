@@ -697,6 +697,9 @@ https://streaming.reltid.com.ar/hls/pringles.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
 https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", MONTE MAIZ MIRA TV CORDOBA 
+http://streamingvideo.com.ar:1935/millan/live/chunklist_w847570507.m3u8
+
 
 
 
