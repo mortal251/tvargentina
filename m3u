@@ -227,6 +227,9 @@ https://www.youtube.com/watch?v=EnA520DyDaI
 #EXTINF:-1 group-title="LOCALES", EL DOCE CORDOBA
 https://www.youtube.com/watch?v=gBbMbqILzXU
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="LOCALES", CANAL 9 MENDOZA
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w1030855432.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" group-title="LOCALES", Canal 10 RIO NEGRO
@@ -698,8 +701,8 @@ https://streaming.reltid.com.ar/hls/pringles.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
 https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
 
-#EXTINF:-1 tvg-logo="https://montemaizmira.com.ar/06-2018/952a89341a58feef2df965af33516227.png" group-title="LOCALES", MONTE MAIZ MIRA TV CORDOBA 
-http://streamingvideo.com.ar:1935/millan/live/chunklist_w847570507.m3u8
+#EXTINF:-1 tvg-logo="https://www.telejunin.com.ar/images/telejunin%20logo.png" group-title="LOCALES", TELEJUNIN
+https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/chunklist_w1616525863.m3u8
 
 
 
@@ -1083,14 +1086,12 @@ https://elonce.zapto.org/hls/live_240p1000kbs.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="LOCALES", CANAL 9 MENDOZA
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w1030855432.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Telefe_Bah%C3%ADa_Blanca_%282018%29.png/133px-Telefe_Bah%C3%ADa_Blanca_%282018%29.png" group-title="LOCALES", TELEFE BAHIA BLANCA
 https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1608771249~exp=1608947649~acl=/I/canal9bahiablanca_1@685725/*~hmac=403524699f4b73a4d117f3401804867644f097f6bb487d54c4f8deb8eb9895a7
 
-#EXTINF:-1 tvg-logo="https://www.telejunin.com.ar/images/telejunin%20logo.png" group-title="LOCALES", TELEJUNIN
-https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/chunklist_w1616525863.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", XAMA TV SAN JUAN
 https://sc1.stweb.tv/unisanjuan/live/chunklist_w697668907.m3u8
