@@ -591,13 +591,13 @@ https://5f93e494d5906.streamlock.net/elecotv/elecotv/chunklist_w140387765.m3u8
 http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="http://www.valletv.com/Graficos/logo.jpg" group-title="LOCALES", VALLE TV NEUQUEN
+https://stmv1.srvstm.com/valletv/valletv/chunklist_w678120974.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/yMO4rHGySvtrY36cCcXrgxIXL0971x-yDydA0hITmoJ_FM2Lke4Hli3n52bImPMjOgvxE1TxiqwmnjeVDJUSU4tredyjOtUwja5d6RPFUbRv7nRHNTGzPImG_nPPGgZ9" group-title="LOCALES", UNITEVE VILLA MARIA CORDOBA
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", ZONDA TV 35.1 - SAN JUAN
-http://186.129.252.150:1935/canal/351/chunklist_w311969865.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg" group-title="LOCALES", CANAL 10 SENILLOSA
@@ -606,8 +606,7 @@ https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w563112316.m3u8
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="LOCALES", LA VOZ TUCUMAN TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0238
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_12.png" group-title="LOCALES", CANAL 12 TRENQUE LAUQUEN
-https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="LOCALES", ITEL CHAJARI
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0139
@@ -623,8 +622,7 @@ https://inliveserver.com:1936/8050_1/8050_1/chunklist_w792587498.m3u8
 #EXTINF:-1 tvg-logo="https://66.media.tumblr.com/f1138b6d236d9787c1960cdd1ae51b26/tumblr_inline_polydyA71Z1ttmwm1_1280.png" group-title="LOCALES", CORREA RADIOVISION
 http://arcast.net:1935/correadigital/canal12/chunklist_w1419872618.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-STbVB0Kn5jk/XCP4RN14aKI/AAAAAAAAB8g/FqOz9Aqyh7AOrcXD-JIpVtHwY_sppGbhQCLcBGAs/w1200-h630-p-k-no-nu/canal-8-mendoza.jpg" group-title="LOCALES", CANAL 8 TUNUYAN
-https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/chunklist_w59067841.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="LOCALES", TSN NECOCHEA
@@ -638,19 +636,6 @@ https://vivo.solumedia.com:19360/trutv/trutv.m3u8
 
 #EXTINF:-1 tvg-logo="https://cablearmstrong.com.ar/wp-content/uploads/2018/11/cia-logox1.png" group-title="LOCALES", CABLE IMAGEN ARMSTRONG SANTA FE
 https://5975e06a1f292.streamlock.net:4443/casse/casse/chunklist_w1958021516.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU" group-title="LOCALES", TELEDIEZ PASO DE LOS LIBRES
-http://inliveserver.com:1935/8670/8670/chunklist_w2109042663.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://catriel25noticias.com/alastv/canal-logo.gif" group-title="LOCALES", CANAL 2 CATRIEL TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0189
-
 
 
 #EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/Logo-horizontal-canal-21tv.png" group-title="LOCALES", CANAL 21 POSADAS
@@ -691,8 +676,7 @@ https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w1025085291.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="LOCALES", CANAL 10 SAN RAFAEL
 https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="LOCALES", EL DIARIO DE PRINGLES
-https://streaming.reltid.com.ar/hls/pringles.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
 https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
@@ -700,7 +684,8 @@ https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
 #EXTINF:-1 tvg-logo="https://www.telejunin.com.ar/images/telejunin%20logo.png" group-title="LOCALES", TELEJUNIN
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/chunklist_w1616525863.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_12.png" group-title="LOCALES", CANAL 12 TRENQUE LAUQUEN
+https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 
 
 
@@ -997,8 +982,14 @@ https://panel.dattalive.com/8098/8098/chunklist_w1299609230.m3u8
 #EXTINF:-1 tvg-logo="http://fmsoledad885.com.ar/wp-content/uploads/2020/11/Logo-header-1-1024x132.png" group-title="RADIO", FM SOLEDAD 88.5 LAS HIGHERAS CORDOBA
 https://59537faa0729a.streamlock.net/fmsoledad885/fmsoledad885/chunklist_w1826920025.m3u8
 
+#EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="RADIO", CATRIEL NOTICIAS
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0189
+
 #EXTINF:-1 tvg-logo="https://radiomarull.com.ar/wp-content/uploads/2019/07/puente-logox1.png" group-title="RADIO", RADIO PUENTE 88.3 MARULL CORDOBA
 https://5975e06a1f292.streamlock.net:4443/radio/marull.stream/chunklist_w1984862840.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="RADIO", EL DIARIO DE PRINGLES
+https://streaming.reltid.com.ar/hls/pringles.m3u8
 
 
 
@@ -1049,12 +1040,18 @@ https://panel.dattalive.com/8128/8128/chunklist_w1227557188.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES", CANAL 12 TUCUMAN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU" group-title="LOCALES", TELEDIEZ PASO DE LOS LIBRES
+http://inliveserver.com:1935/8670/8670/chunklist_w2109042663.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES", CANAL 12 TUCUMAN
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-STbVB0Kn5jk/XCP4RN14aKI/AAAAAAAAB8g/FqOz9Aqyh7AOrcXD-JIpVtHwY_sppGbhQCLcBGAs/w1200-h630-p-k-no-nu/canal-8-mendoza.jpg" group-title="LOCALES", CANAL 8 TUNUYAN
+https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/chunklist_w59067841.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", ZONDA TV 35.1 - SAN JUAN
+http://186.129.252.150:1935/canal/351/chunklist_w311969865.m3u8
 
 
 
