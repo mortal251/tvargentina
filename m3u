@@ -254,7 +254,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdne
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1175110925835284481/wRJimpYE_400x400.png" group-title="LOCALES", 5RTV SANTA FE
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0229
 
 
 #EXTINF:-1 tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2019/03/CANAL-2-SANAGASTA.png" group-title="LOCALES", Canal 2 Sanagasta
@@ -504,7 +504,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/chunklist_w55164
 https://coopmorteros.online/canal50/vivo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES", UNIVERSIDAD TV MAR DEL PLATA
-https://stream-02.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54whYz7nmRra4o0E-niHeYEQ)/dm/3/x7kvvgi/s/live-1.m3u8
+https://stream-02.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54wDd3uQQZhPkibbzOCXCnqI)/dm/3/x7kvvgi/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="LOCALES", C5SF SANTA FE
 https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/chunklist_w588262797.m3u8
@@ -553,16 +553,7 @@ https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?h
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="LOCALES", CELTV
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
 
-#EXTINF:-1 tvg-logo="https://linktvcanal.com/portal/wp-content/uploads/2017/07/logo.png" group-title="LOCALES", LINK TV SANTA FE
-https://panel.dattalive.com/8128/8128/chunklist_w1227557188.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES", CANAL 12 TUCUMAN
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQveDDw-1eyCiqykUajXQ8IqRRCfTehbi_mj0jwSc3lm2t0754lpZIiZSEMyQWo1cVk0Im6X96FsFSwIeuHNcn_mg2xvOLDiGrxrlwN&usqp=CAU&ec=45688578" group-title="LOCALES", CEEL 4 MISIONES
 https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/chunklist_w1246446932.m3u8
@@ -619,7 +610,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0238
 https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="LOCALES", ITEL CHAJARI
-https://www.itel.com.ar/tv-vivo/track_2_3000/playlist.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0139
+
 
 #EXTINF:-1 tvg-logo="https://scontent.faep5-1.fna.fbcdn.net/v/t1.0-9/119917856_1578469605690020_6783670580559554562_n.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_eui2=AeGbcLrIN2q4AnWS4JRWl6u0Y1nQ9eVvFEFjWdD15W8UQWc7Sl_omxZn66mQImS824A&_nc_ohc=r0NRcffKDVwAX9otDBh&_nc_ht=scontent.faep5-1.fna&oh=274801e5c445541876d704be927f235f&oe=5FAFCBC6" group-title="LOCALES", ATV ARGENTINA
 http://arcast.com.ar:1935/atbargentina/atbargentina/chunklist_w1102858042.m3u8
@@ -1045,17 +1037,24 @@ https://www.youtube.com/watch?v=Xfoj7dZPBbE
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CAMARAS USHUAIA
 https://www.youtube.com/watch?v=tCe8P4CXR7A
 
-
-
-
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", RESISTENCIA - CHACO
 https://www.youtube.com/watch?v=437oyNs0uDM
 
 
 
+#EXTINF:-1 tvg-logo="https://linktvcanal.com/portal/wp-content/uploads/2017/07/logo.png" group-title="LOCALES", LINK TV SANTA FE
+https://panel.dattalive.com/8128/8128/chunklist_w1227557188.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES", CANAL 12 TUCUMAN
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
 
 
+
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES", CANAL 12 TUCUMAN
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 
 
