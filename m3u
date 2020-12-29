@@ -791,13 +791,6 @@ https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/large.1365812628_BoliviaTV20191b.png.ed374f34c0627622a7f2492628abb066.png" group-title="INTERNACIONAL", BOLIVIA TV
 https://5fc584f3f19c9.streamlock.net/boliviatv/videoboliviatv/chunklist_w593774435.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyMCA0OjE4OjUwIFBNJmhhc2hfdmFsdWU9MEZwdmdnRnFIT1JLb1Y4QUpFa3RCdz09JnZhbGlkbWludXRlcz01MCZpZD0%3D
 
-#EXTINF:-1 tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/6bd7afe/2147483647/strip/true/crop/978x96+0+0/resize/978x96!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2F01%2F94%2Fd440d9ef48b2bb3d5809c3a47758%2Flogo-2020-3x.png" group-title="INTERNACIONAL", CARACOL NOTICIAS COLOMBIA
-https://track.mdstrm.com/track/F7bdMinwS279zTXfRHQUO15fytKgeca5/live/58dc3d471cbe05ff3c8e463e?iG=Olr8DEb4lJl4sF4Uw0lc4zq29IlvKKhs&LE=589b13f631f1bebd088ff753&jE=30&Vv=1&bw=5180526&ref=https%3A%2F%2Fnoticias.caracoltv.com%2F&pt=html5%2Fmse-hls&es=us-b4-p-e-by2.cdn.mdstrm.com&Bb=1609161696111&MAlt=1396.7400000001362&fpt=-5.245000000286382
-
-#EXTINF:-1 tvg-logo="https://selectra.mx/sites/default/files/styles/_default/public/images/logos/foro-tv-200x300.png?itok=iz5LDoxc" group-title="INTERNACIONAL", FORO TV
-https://adinsertprimeforotv.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/ce094f2d-8309-4a86-ac9e-8b8928a271d2:SCL/variant/7984b26d271dc33ebf8052bca213ae51/bandwidth/1214049.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="INTERNACIONAL", MILENIO MEXICO
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
@@ -821,8 +814,7 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/chunklist_w1570569280_b1500000.m3u
 #EXTINF:-1 tvg-logo="https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png" group-title="INTERNACIONAL", VOA ESTADOS UNIDOS
 https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONAL", RT - 25.5
-https://www.youtube.com/watch?v=9DXGrOU5wKQ
+
 
 #EXTINF:-1 group-title="INTERNACIONAL", CARACOL NOTICIAS COLOMBIA
 https://www.youtube.com/watch?v=8XL8Qk4qzyA
