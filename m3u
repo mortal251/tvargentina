@@ -254,7 +254,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdne
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1175110925835284481/wRJimpYE_400x400.png" group-title="LOCALES", 5RTV SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0229
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2019/03/CANAL-2-SANAGASTA.png" group-title="LOCALES", Canal 2 Sanagasta
@@ -1044,8 +1044,7 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 http://inliveserver.com:1935/8670/8670/chunklist_w2109042663.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES", CANAL 12 TUCUMAN
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-STbVB0Kn5jk/XCP4RN14aKI/AAAAAAAAB8g/FqOz9Aqyh7AOrcXD-JIpVtHwY_sppGbhQCLcBGAs/w1200-h630-p-k-no-nu/canal-8-mendoza.jpg" group-title="LOCALES", CANAL 8 TUNUYAN
 https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/chunklist_w59067841.m3u8
