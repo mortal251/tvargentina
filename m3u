@@ -256,6 +256,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdne
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1175110925835284481/wRJimpYE_400x400.png" group-title="LOCALES", 5RTV SANTA FE
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
+
 #EXTINF:-1 tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2019/03/CANAL-2-SANAGASTA.png" group-title="LOCALES", Canal 2 Sanagasta
 https://stmv1.srvif.com/canal2/canal2/playlist.m3u8
 
@@ -284,6 +285,9 @@ http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", 13 MAX CORRIENTES
 http://coninfo.net:1935/13maxhd/live/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo_elonce_tv_2019.png.jpg/177px-Logo_elonce_tv_2019.png.jpg" group-title="LOCALES", EL ONCE PARANA
+https://elonce.zapto.org/hls/live_240p1000kbs.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
 https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w165756078.m3u8?WebM3UCL
@@ -1048,43 +1052,11 @@ https://www.youtube.com/watch?v=tCe8P4CXR7A
 https://www.youtube.com/watch?v=437oyNs0uDM
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-a-xOmMTkpX_HDWTW6xIpksPFdDIQlMoaA&usqp=CAU" group-title="LOCALES", ENCUENTRO - 22.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w576200856.m3u8
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo_elonce_tv_2019.png.jpg/177px-Logo_elonce_tv_2019.png.jpg" group-title="LOCALES", EL ONCE PARANA
-https://elonce.zapto.org/hls/live_240p1000kbs.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", XAMA TV SAN JUAN
-https://sc1.stweb.tv/unisanjuan/live/chunklist_w697668907.m3u8
 
 
     
