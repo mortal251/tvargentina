@@ -687,6 +687,12 @@ https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/chunklist_w161652
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_12.png" group-title="LOCALES", CANAL 12 TRENQUE LAUQUEN
 https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES", CANAL 12 TUCUMAN
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU" group-title="LOCALES", TELEDIEZ PASO DE LOS LIBRES
+http://inliveserver.com:1935/8670/8670/chunklist_w2109042663.m3u8
+
 
 
 
@@ -832,7 +838,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m
 https://g5.mc-slo.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/MITREHD-10002_240p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="RADIO", LA 100
-https://g2.vxral-hor.transport.edge-access.net/a11/ngrp:cienradioshd-10002_all/cienradioshd-10002_360p.m3u8
+https://g3.mc-hor.transport.edge-access.net/b13/ngrp:cienradioshd-10002_all/cienradioshd-10002_240p.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIRIO969.png" group-title="RADIO", Rioja TV - 96.9 FM
 http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w2048008042.m3u8
@@ -986,7 +992,7 @@ https://59537faa0729a.streamlock.net/fmsoledad885/fmsoledad885/chunklist_w182692
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0189
 
 #EXTINF:-1 tvg-logo="https://radiomarull.com.ar/wp-content/uploads/2019/07/puente-logox1.png" group-title="RADIO", RADIO PUENTE 88.3 MARULL CORDOBA
-https://5975e06a1f292.streamlock.net:4443/radio/marull.stream/chunklist_w1984862840.m3u8
+https://5975e06a1f292.streamlock.net:4443/radio/marull.stream/chunklist_w2067351478.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="RADIO", EL DIARIO DE PRINGLES
 https://streaming.reltid.com.ar/hls/pringles.m3u8
@@ -1037,11 +1043,7 @@ https://www.youtube.com/watch?v=437oyNs0uDM
 https://panel.dattalive.com/8128/8128/chunklist_w1227557188.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES", CANAL 12 TUCUMAN
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU" group-title="LOCALES", TELEDIEZ PASO DE LOS LIBRES
-http://inliveserver.com:1935/8670/8670/chunklist_w2109042663.m3u8
 
 
 
