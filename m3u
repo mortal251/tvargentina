@@ -1023,7 +1023,7 @@ https://5f6e1fe8f2d2e.streamlock.net/sanjuan/sanjuan/chunklist_w508004298.m3u8
 https://5f6e1fe8f2d2e.streamlock.net/lacosta/lacosta/chunklist_w555218362.m3u8
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CANAL BEAGLE - USHUAIA
-https://www.youtube.com/watch?v=Xfoj7dZPBbE
+https://www.youtube.com/watch?v=Z5AAJsrzEeE
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CAMARAS USHUAIA
 https://www.youtube.com/watch?v=tCe8P4CXR7A
@@ -1052,7 +1052,8 @@ https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/chunklist_w5906
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", ZONDA TV 35.1 - SAN JUAN
 http://186.129.252.150:1935/canal/351/chunklist_w311969865.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="LOCALES", A24 - 36.3
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
     
 
