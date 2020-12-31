@@ -122,8 +122,10 @@ https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/g
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://scontent.faep5-1.fna.fbcdn.net/v/t1.0-9/108921750_3108255435967482_4020775555334501387_n.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_eui2=AeFJuqsKJNkSJJ3MMfgVQYPqcM-MKCnwUARwz4woKfBQBI66IEaXSsUHyL8LP8-G828&_nc_ohc=VINWAQ8eaDkAX9hPU8v&_nc_ht=scontent.faep5-1.fna&oh=ee493ff08334016102bedc1442c82c94&oe=5FE69204" group-title="DEPORTE", DEPORTV - 24.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1230309204.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTE", DEPORTV - 24.1
+https://www.youtube.com/watch?v=q4CTql4ZWOc
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TYC SPORT
@@ -1084,6 +1086,9 @@ https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/chunklist_w5906
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", CHILECITO TV
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.faep5-1.fna.fbcdn.net/v/t1.0-9/108921750_3108255435967482_4020775555334501387_n.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_eui2=AeFJuqsKJNkSJJ3MMfgVQYPqcM-MKCnwUARwz4woKfBQBI66IEaXSsUHyL8LP8-G828&_nc_ohc=VINWAQ8eaDkAX9hPU8v&_nc_ht=scontent.faep5-1.fna&oh=ee493ff08334016102bedc1442c82c94&oe=5FE69204" group-title="DEPORTE", DEPORTV - 24.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1230309204.m3u8
 
 
 
