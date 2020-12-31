@@ -1039,6 +1039,12 @@ https://inliveserver.com:1936/14084/14084/chunklist_w1529177501.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiojai.com/wp-content/uploads/2019/07/logo-m-2.png" group-title="RADIO", RADIO JAI FM 96.3
 https://streamyes.alsolnet.com/radiojaitv/live/chunklist_w1915904993.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.fmlapatriada.com.ar/wp-content/uploads/2019/12/Banner.png" group-title="RADIO", RADIO PATRIADA 102.1 FM
+http://server4.stweb.tv:1935/lapatriada/live/chunks.m3u8?nimblesessionid=1009579210
+
+#EXTINF:-1 tvg-logo="http://fm1049.com.ar/wp-content/uploads/2017/10/TOP.jpg" group-title="RADIO", RADIO TOP 104.9 FM
+http://inliveserver.com:1935/14082/14082/chunklist_w1408409646.m3u8
+
 
 
 
