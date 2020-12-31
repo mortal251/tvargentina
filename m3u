@@ -1002,6 +1002,8 @@ https://5975e06a1f292.streamlock.net:4443/radio/marull.stream/chunklist_w2067351
 #EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="RADIO", EL DIARIO DE PRINGLES
 https://streaming.reltid.com.ar/hls/pringles.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100568_Canal_3_Las_Flores_Digital.jpgg" group-title="RADIO", LAS FLORES DIGITAL
+https://inliveserver.com:1936/8436/8436/chunklist_w104689326.m3u8
 
 
 
