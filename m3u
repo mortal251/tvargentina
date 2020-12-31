@@ -1033,6 +1033,11 @@ https://inliveserver.com:1936/8436/8436/chunklist_w104689326.m3u8
 #EXTINF:-1 tvg-logo="https://www.radioconvos.com.ar/public/img/brand.jpg" group-title="RADIO", RADIO CON VOZ 89.9 FM
 https://server1.stweb.tv/rcvos/live/chunks.m3u8?nimblesessionid=1009565372
 
+#EXTINF:-1 tvg-logo="http://laradioteescucha.com/2016/wp-content/uploads/2016/06/logomoviles.png" group-title="RADIO", LA RADIO TE ESCUCHA 91.3 FM
+https://inliveserver.com:1936/14084/14084/chunklist_w1529177501.m3u8
+
+
+
 
 
 
