@@ -222,7 +222,7 @@ https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/chunklist_w1452003155.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/133px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="LOCALES", TELEFE CORDOBA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1609241057~exp=1609417457~acl=/i/canal8cordoba_1@685726/*~hmac=abeaab2a55a78c60593b41ba31d9ba7b8b70bb85fbc723b769be2fc869ac796b
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1609418364~exp=1609594764~acl=/i/canal8cordoba_1@685726/*~hmac=e55c2feab0c98c122935106b5ed2c90842efb885d87408f47db139deceff0b85
 
 #EXTINF:-1 group-title="LOCALES", CANAL 7 MENDOZA
 https://www.youtube.com/watch?v=EnA520DyDaI
@@ -253,8 +253,7 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?s
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Telefe_Santa_Fe.png/133px-Telefe_Santa_Fe.png" group-title="LOCALES", TELEFE SANTA FE
-https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1609240989~exp=1609417389~acl=/i/canal13santafe_1@751190/*~hmac=3d5bd2a4c7a71510658d3b54ceb94e4d7c88fed00d26233e7f0ade18a10db992
-
+https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1609418171~exp=1609594571~acl=/i/canal13santafe_1@751190/*~hmac=bb63d8644ae3ab41121cd1f6e29ec2a89e0dca630aaed4b893f8c85cd105ccb0
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1175110925835284481/wRJimpYE_400x400.png" group-title="LOCALES", 5RTV SANTA FE
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
@@ -561,8 +560,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea
 https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1609241425~exp=1609417825~acl=/i/mdqdistri02_1@829747/*~hmac=32e40f37af59b85ac4e377c6d9baf077437ca990303d8594403bd96216e34650
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Telefe_Bah%C3%ADa_Blanca_%282018%29.png/133px-Telefe_Bah%C3%ADa_Blanca_%282018%29.png" group-title="LOCALES", TELEFE BAHIA BLANCA
-https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1609206216~exp=1609382616~acl=/I/canal9bahiablanca_1@685725/*~hmac=e4831ce9397b96698dc3cecafa68269618680af4b20e6d3cee5b2c49fb166747
-
+https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1609418491~exp=1609594891~acl=/I/canal9bahiablanca_1@685725/*~hmac=e234bea18727eaa76e3990999d2280b29bba4714995daefbd2b6baccc6516161
 
 
 
@@ -710,6 +708,12 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU" group-title="LOCALES", TELEDIEZ PASO DE LOS LIBRES
 http://inliveserver.com:1935/8670/8670/chunklist_w2109042663.m3u8
+
+#EXTINF:-1 tvg-logo="https://linktvcanal.com/portal/wp-content/uploads/2017/07/logo.png" group-title="LOCALES", LINK TV SANTA FE
+https://panel.dattalive.com/8128/8128/chunklist_w1227557188.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", ZONDA TV 35.1 - SAN JUAN
+http://186.129.252.150:1935/canal/351/chunklist_w799535828.m3u8
 
 
 
@@ -1066,8 +1070,7 @@ https://www.youtube.com/watch?v=437oyNs0uDM
 
 
 
-#EXTINF:-1 tvg-logo="https://linktvcanal.com/portal/wp-content/uploads/2017/07/logo.png" group-title="LOCALES", LINK TV SANTA FE
-https://panel.dattalive.com/8128/8128/chunklist_w1227557188.m3u8
+
 
 
 
@@ -1078,8 +1081,7 @@ https://panel.dattalive.com/8128/8128/chunklist_w1227557188.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-STbVB0Kn5jk/XCP4RN14aKI/AAAAAAAAB8g/FqOz9Aqyh7AOrcXD-JIpVtHwY_sppGbhQCLcBGAs/w1200-h630-p-k-no-nu/canal-8-mendoza.jpg" group-title="LOCALES", CANAL 8 TUNUYAN
 https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/chunklist_w59067841.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", ZONDA TV 35.1 - SAN JUAN
-http://186.129.252.150:1935/canal/351/chunklist_w311969865.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", CHILECITO TV
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
