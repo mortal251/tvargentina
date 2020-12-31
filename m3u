@@ -800,8 +800,7 @@ https://5fc584f3f19c9.streamlock.net/boliviatv/videoboliviatv/chunklist_w5937744
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="INTERNACIONAL", MILENIO MEXICO
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
-#EXTINF:-1 tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/ntn24-logo.png" group-title="INTERNACIONAL", PRUEBA
-https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" group-title="INTERNACIONAL", ABC ESTADOS UNIDOS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -1081,7 +1080,8 @@ https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/chunklist_w5906
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
 
-    
+#EXTINF:-1 tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/ntn24-logo.png" group-title="INTERNACIONAL", PRUEBA
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
 
 
 
