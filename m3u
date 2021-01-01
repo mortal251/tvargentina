@@ -1083,14 +1083,13 @@ https://www.youtube.com/watch?v=tCe8P4CXR7A
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", RESISTENCIA - CHACO
 https://www.youtube.com/watch?v=437oyNs0uDM
 
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", PRUEBA
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="WEB CAM Y CLIMA", PRUEBA
-https://www.youtube.com/user/encuentro/live
+http://test_deportv-lh.akamaihd.net/i/TelefeHD_1@7273/index_1_av-p.m3u8
 
 
 
