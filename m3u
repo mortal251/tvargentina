@@ -209,6 +209,9 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109952_Karibena_TV.jpg" group-title="MUSICA", KARIBEÑA
 https://cu.onliv3.com/livevd/user1_low/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/106258_Urban_TV.png" group-title="MUSICA", URBAN TV
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://americatucuman.com/wp-content/uploads/2020/03/LOGO-AMERICA-TUCUMAN-2020.png" group-title="LOCALES", AMERICA TUCUMAN 
 http://45.6.4.50:50601/America_Tucuman/video.m3u8
 
@@ -354,6 +357,9 @@ http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w227848239.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHIA1rsAT97xfM2Im6IQ9u-kDubSt4-l_Y8Q&usqp=CAU" group-title="CINE Y SERIES", FLIXTUBE
 https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/73546656_2122336911201127_6942721828330668032_n.png?_nc_cat=106&ccb=2&_nc_sid=dd9801&_nc_ohc=opYhdTmAB7sAX_2se11&_nc_ht=scontent.fepa11-1.fna&oh=b89115bb991bd2505086a634f1d17394&oe=601404AA" group-title="CINE Y SERIES", READY
+http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/canal-rural-tv.png" group-title="LOCALES", RURAL TV
@@ -698,14 +704,16 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0014
 #EXTINF:-1 tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg" group-title="MODA Y SOCIEDAD", HOLA TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngqtDnzzen9SgbziIySesx-8wvp-fIGlYasqQh_rQ=s88-c-k-c0x00ffffff-no-rj" group-title="MODA Y SOCIEDAD", NUEVA IMAGEN
-http://server.miamitvchannel.com/externos/nuevaimagen/chunklist_w892996509.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/106258_Urban_TV.png" group-title="MODA Y SOCIEDAD", URBAN TV
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/117670_Chic_Magazine.png" group-title="MODA Y SOCIEDAD", CHIC MAGAZINE
 https://paneltv.online:1936/8200/8200/chunklist_w1713603211.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.cosmopolitantv.es/img/logorrss.png" group-title="MODA Y SOCIEDAD", COSMO TV
+http://91.126.141.201:1935/live/cosmoHD/.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngqtDnzzen9SgbziIySesx-8wvp-fIGlYasqQh_rQ=s88-c-k-c0x00ffffff-no-rj" group-title="MODA Y SOCIEDAD", NUEVA IMAGEN
+http://server.miamitvchannel.com/externos/nuevaimagen/chunklist_w892996509.m3u8
+
 
 
 
