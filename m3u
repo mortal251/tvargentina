@@ -222,7 +222,7 @@ https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/chunklist_w1452003155.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/133px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="LOCALES", TELEFE CORDOBA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1609418364~exp=1609594764~acl=/i/canal8cordoba_1@685726/*~hmac=e55c2feab0c98c122935106b5ed2c90842efb885d87408f47db139deceff0b85
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1609506202~exp=1609682602~acl=/i/canal8cordoba_1@685726/*~hmac=014e5f12b3345de8a9218518b0f01a48b2d915eae7a251ae7b077f10e80bc608
 
 #EXTINF:-1 group-title="LOCALES", CANAL 7 MENDOZA
 https://www.youtube.com/watch?v=EnA520DyDaI
