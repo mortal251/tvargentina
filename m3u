@@ -714,6 +714,9 @@ https://panel.dattalive.com/8128/8128/chunklist_w1227557188.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", ZONDA TV 35.1 - SAN JUAN
 http://186.129.252.150:1935/canal/351/chunklist_w799535828.m3u8
 
+#EXTINF:-1 tvg-logo="http://canal2perico.com.ar/canal2/images/logo.png", CANAL 2 PERICO JUJUY
+https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8
+
 
 
 
