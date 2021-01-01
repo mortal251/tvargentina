@@ -587,7 +587,7 @@ http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 #EXTINF:-1 tvg-logo="http://www.valletv.com/Graficos/logo.jpg" group-title="LOCALES", VALLE TV NEUQUEN
 https://stmv1.srvstm.com/valletv/valletv/chunklist_w678120974.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/yMO4rHGySvtrY36cCcXrgxIXL0971x-yDydA0hITmoJ_FM2Lke4Hli3n52bImPMjOgvxE1TxiqwmnjeVDJUSU4tredyjOtUwja5d6RPFUbRv7nRHNTGzPImG_nPPGgZ9" group-title="LOCALES", UNITEVE VILLA MARIA CORDOBA
+#EXTINF:-1 tvg-logo="http://uniteve.com.ar/wp-content/themes/uniteve-2017/img/header-logo.png" group-title="LOCALES", UNITEVE VILLA MARIA CORDOBA
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
 
@@ -605,7 +605,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0238
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0139
 
 
-#EXTINF:-1 tvg-logo="https://scontent.faep5-1.fna.fbcdn.net/v/t1.0-9/119917856_1578469605690020_6783670580559554562_n.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_eui2=AeGbcLrIN2q4AnWS4JRWl6u0Y1nQ9eVvFEFjWdD15W8UQWc7Sl_omxZn66mQImS824A&_nc_ohc=r0NRcffKDVwAX9otDBh&_nc_ht=scontent.faep5-1.fna&oh=274801e5c445541876d704be927f235f&oe=5FAFCBC6" group-title="LOCALES", ATV ARGENTINA
+#EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2019/12/atv-x1.png" group-title="LOCALES", ATV ARGENTINA
 http://arcast.com.ar:1935/atbargentina/atbargentina/chunklist_w1102858042.m3u8
 
 
