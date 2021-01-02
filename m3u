@@ -77,7 +77,8 @@ https://inliveserver.com:1936/14030/14030/chunklist_w1277190161.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", CINCO TV Tigre - 30.1
 https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w172622627.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/118771331_3307587225988810_8104136484730855699_n.jpg?_nc_cat=110&ccb=2&_nc_sid=9e2e56&_nc_ohc=Ft6icl7-L2cAX_eQe1F&_nc_ht=scontent.fepa11-1.fna&oh=b00ce9d5b4f994d183ef128549f4ca4b&oe=6016CAF0" group-title="LOCALES", CANAL 29 QUILMES - 18.1
+http://inliveserver.com:1935/8386/8386/chunklist_w237176165.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="LOCALES", MAGAZINE
 https://g2.vxral-hor.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
@@ -1088,11 +1089,9 @@ https://www.youtube.com/watch?v=437oyNs0uDM
 
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", PRUEBA
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", PRUEBA
-http://inliveserver.com:1935/8136/8136/chunklist_w947680493.m3u8
+
+
 
 
 
