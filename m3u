@@ -412,7 +412,7 @@ https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?h
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/chunklist_w1847941210.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="LOCALES", TELESOL
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0211
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0215
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES", ENTRE RIOS TV
 https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8
@@ -613,12 +613,12 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w563112316.m3u8
 
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="LOCALES", LA VOZ TUCUMAN TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0238
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0242
 
 
 
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="LOCALES", ITEL CHAJARI
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0139
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0143
 
 
 #EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2019/12/atv-x1.png" group-title="LOCALES", ATV ARGENTINA
@@ -648,7 +648,7 @@ https://5975e06a1f292.streamlock.net:4443/casse/casse/chunklist_w1958021516.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/Logo-horizontal-canal-21tv.png" group-title="LOCALES", CANAL 21 POSADAS
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0182
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0186
 
 
 
@@ -959,7 +959,7 @@ https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/chunklist_w2882118.m
 http://streamyes.alsolnet.com/azaharesfm/live/chunklist_w1890757658.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="RADIO", LRJ214 Mil20 SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0212
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0216
 
 #EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="RADIO", POWER MAX 104.1 RECREO SANTA FE
 https://59537faa0729a.streamlock.net/radio1045/radio1045/chunklist_w1351704474.m3u8
@@ -1031,7 +1031,7 @@ https://panel.dattalive.com/8098/8098/chunklist_w1299609230.m3u8
 https://59537faa0729a.streamlock.net/fmsoledad885/fmsoledad885/chunklist_w1826920025.m3u8
 
 #EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="RADIO", CATRIEL NOTICIAS
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0189
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0193
 
 #EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="RADIO", EL DIARIO DE PRINGLES
 https://streaming.reltid.com.ar/hls/pringles.m3u8
