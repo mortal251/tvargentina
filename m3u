@@ -531,8 +531,7 @@ http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969209126470455297/vLw5LpAB_400x400.jpg" group-title="LOCALES", CIUDAD TV CHACO
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 
-#EXTINF:-1 tvg-logo="http://canal7.tv/wp-content/uploads/2018/02/canal7-logos-02.png" group-title="LOCALES", CANAL 7 SANTIAGO DEL ESTERO
-https://5975e06a1f292.streamlock.net:4443/envivo/castv/chunklist_w1037436923.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-j9I0buhulss/VxrWQ9llwXI/AAAAAAAACtQ/L2fSLfI0ujcLQbrzCfw8rX0dx4X1P2jvACLcB/s1600/canal-20-villa-maria-en-vivo.jpg" group-title="LOCALES", CANAL 20 VILLA MARIA CORDOBA
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
@@ -1098,7 +1097,8 @@ https://www.youtube.com/watch?v=tCe8P4CXR7A
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", RESISTENCIA - CHACO
 https://www.youtube.com/watch?v=437oyNs0uDM
 
-
+#EXTINF:-1 tvg-logo="http://canal7.tv/wp-content/uploads/2018/02/canal7-logos-02.png" group-title="LOCALES", CANAL 7 SANTIAGO DEL ESTERO
+https://5975e06a1f292.streamlock.net:4443/envivo/castv/chunklist_w1037436923.m3u8
 
 
 
