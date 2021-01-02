@@ -837,8 +837,11 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="INTERNACIONAL", AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/NipponTV.png/revision/latest/top-crop/width/220/height/220?cb=20180322020204" group-title="INTERNACIONAL", NIPPON TV
+https://193.42.99.133:23455/3810/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/NipponTV.png/revision/latest/top-crop/width/220/height/220?cb=20180322020204" group-title="INTERNACIONAL", FUJI TV
+https://193.42.99.133:23455/3770/playlist.m3u8
 
 
 
