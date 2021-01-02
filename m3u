@@ -1089,9 +1089,10 @@ https://www.youtube.com/watch?v=437oyNs0uDM
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", PRUEBA
-http://test_deportv-lh.akamaihd.net/i/TelefeHD_1@7273/index_1_av-p.m3u8
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", PRUEBA
+http://inliveserver.com:1935/8136/8136/chunklist_w947680493.m3u8
 
 
 
