@@ -122,14 +122,8 @@ https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/g
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU" group-title="LOCALES", DEPORTV - 24.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w2018799795.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU" group-title="LOCALES", ENCUENTRO - 22.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w1827592514.m3u8
-
-#EXTINF:-1 group-title="DEPORTE", DEPORTV - 24.1
-https://www.youtube.com/watch?v=q4CTql4ZWOc
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="DEPORTE", DEPORTV - 24.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TYC SPORT
@@ -1092,6 +1086,9 @@ https://www.youtube.com/watch?v=tCe8P4CXR7A
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", RESISTENCIA - CHACO
 https://www.youtube.com/watch?v=437oyNs0uDM
+
+#EXTINF:-1 group-title="DEPORTE", DEPORTV - 24.1
+https://www.youtube.com/watch?v=q4CTql4ZWOc
 
 #EXTINF:-1 tvg-logo="http://canal7.tv/wp-content/uploads/2018/02/canal7-logos-02.png" group-title="LOCALES", CANAL 7 SANTIAGO DEL ESTERO
 https://5975e06a1f292.streamlock.net:4443/envivo/castv/chunklist_w1037436923.m3u8
