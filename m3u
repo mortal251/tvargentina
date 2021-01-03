@@ -45,7 +45,7 @@ https://ar-elnueve-elnueve-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhw
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpIFxwSvLXGsuRuGs8ZmunrsSW1clreSbDkpp7Dm60FK1sbwJwEBulJAMOniWOj869SzxOS5ThPAxaeYYvMZ8mE04sJ5T5JU1ATY8B2ShC_X-UUk8bQb0au3mb-4fk4a3zgZ3X6Zyu9gKk_jO8zsRE8Xe-eca2O8J92bhlf9BqdcB9dQZQWhNk0_tVBQjSqoBlIcFZNptJMdI3fOWch6B42Ze9qnoaXE-nRD3m-i_MrtRd7sL1RAgPLf3zxhrWq2QKSvwiRqjHA_c98774VxGjRNT9DMkWmcLW7D7CD2g6iVtxclP4aBT7H1h0M9mzSG_Z0raTc4XGqQXNqoEBLoATbSZEy6_8zquG1RMrIwFzAFvDcUSNqUs5vv3lbdFOB944VRDWA_woZiwTBDExOn43Nrw13qiS3c2bJP3x6lgC9vswr22YAep3_AmbVe4QuHBSyA5PyL-P0ABqEXZhkkr1enLMMMzokjFzz5KwdnOMFRWketN95EglJCI-7w1lgf3l7DCRXQcM7GgBpnYrh1RaUG6MQd0g4XaDH3mz7Y4PTf2lraucDn0srx25rAxQwaCCoGpI7MwzGD1QzHtbd5EdTHQvLWngSn8iu9rGQGu2uGTtM01DF_ywo4E0voNumnuSdwYAVcXk575PEyRi5UEI9MQVqHurTAks1CxqrNJMhAHw4u1mZs_wpq7qwtHV-4rlsy0bVIl8xXsI8RJT7lJ5TO2Iu1wnms6nUIpW7PK7p3wERY3CLl-tE0jT2bpWq5qrgHUh6tsFjLmFFk9ksoGwGwdv46HsVmrP87YGSJJPCJQ9nOtkVBFCp_lwp2fJQN5hxpKJyavIfwC8Z_iGIIMWAcEcp_l1C6XH0LgjhkgPSrJo_kYxIQjxKXJ5zvHxijzLYf1RLdjhoMWVHpAa3fhFQc1pGe.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpIFhY3p2jN7fr_Ev3sb1NEzyCXw5zbd2Myk3FiA4wFcjR4kNH6p6XIkV6k3JDeezZc1Y8sJrJoez3_GTbcZssrQKqzb_3O8oW0h8Z2PWNb13ruJ_Wf2LrBY9exf5rCg4dbMV1LbQfzhw2rl2XX_30wT0YXTNX3dsf2fiQKd5asWbogRdMIOZVB9rTlOuWstpXbN2N77tPcW_uwbEgoqx_gST37T5XchCCXJIvAy6m0tSCSMagmj6q7qqP-sK6s1ptm4Uw5R2hGq6el49KtKwDFGLtZri2XG1CSvA8RSBhvSwTbHuf9dTAv3owdGzjDAtatgqjaoeHXKkx2zt-ZPMO7x7trkilKFXc9QAcI4p7brD7Oip9wqBP9VBc54Yg0r5QOs8rWU06aLCPyl9Ei7jpA66mcB9B0hN_L2yLZHyt9-PHjOk6OxSe8MoTeeB2AV2h6ePk9S5ANIpXj001hlOmExTDEAC8MvJwtdQoxsWcsJrpxeBrK4VFJyNtTnFmU13Lw7sTZl4b-Y3WXL1twFTln3cbLFKqSxvqV_rx9FLvUveGmT3TVMl2AI3qk1GXaEhRkDJfIBVlLNk1FIElH9RRdcpPyorkmXlrISElYkkCgSdis8ceO19QJxUg5yWYA0B3ahUJHYrZnHK-Mnrb9ryQ0sfPUUOQajLh7LvQq8wLv-0vrj5imn1J0eYqfpUkVp4lhybSXj-ATK2ASth-WxSCVonAketGBfvzQm4P675-E-mXbY2wtrpUTWQj2uhyw1SzxtbzBNVA6mGfK-3RlEcSO_pFqmKuiQCaP64K1MxQc1J-GbzO6OEbCNLWT1Uy3Q98CDd_GN50iELxuojnl5SWqpGZ540rFovSPfPEHwL7Sf57AN0RIQ-8vZBqUs3CMbEacJ_o21TxoM0cQdnGYK3nJPb_pZ.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES", NET TV - 27.2
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -111,6 +111,8 @@ https://tls.cdnz.cl/cachipuntv/live/chunklist_w1195011282.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102655_Dreiko_TV.png" group-title="INFANTIL", DREIKO TV
 https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1138477104.m3u8?WebM3UCL
+
+
 
 
 #EXTINF:-1 group-title="LOCALES", DTV DIPUTADOS TELEVISION
@@ -319,8 +321,7 @@ http://streamyes.alsolnet.com:1935/canal4sanjuan/live/playlist.m3u8?PlaylistM3UC
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/98871_EvaStream.png" group-title="CINE Y SERIES", EVASTREAM
-https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/chunklist_w953071300.m3u8?WebM3UCL
-
+https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/chunklist_w191787199.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
 https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w165756078.m3u8?WebM3UCL
