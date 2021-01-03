@@ -64,10 +64,7 @@ https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/play
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w1656956317.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3jYt6EbTTKLIDDy6bBZQQWhNHU9wukG0NdQ&usqp=CAU" group-title="INFANTIL", DRAGON BALL
-
-https://live.televisiongratishd.com/tvplus2021/191_.m3u8?token=zNV3zvpdGqURepcqTnPBeg&expires=1609650940&ip=2800:810:473:9e99:a530:e947:b6af:442e
-
-
+http://89.105.194.59:25461/live/spen!$F10$/spen!$F10$/69.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg" group-title="LOCALES", MIRADOR - 22.3
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w678055608.m3u8
@@ -221,7 +218,7 @@ http://45.6.4.50:50601/America_Tucuman/video.m3u8
 https://www.youtube.com/watch?v=gBbMbqILzXU
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/133px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="LOCALES", TELEFE CORDOBA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1609506202~exp=1609682602~acl=/i/canal8cordoba_1@685726/*~hmac=014e5f12b3345de8a9218518b0f01a48b2d915eae7a251ae7b077f10e80bc608
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1609700006~exp=1609876406~acl=/i/canal8cordoba_1@685726/*~hmac=f595e6eec0480925502737a7dc7396f32235f79db29ea112235536054ff3f375
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", CANAL 10 CORDOBA
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?PlaylistM3UCL
