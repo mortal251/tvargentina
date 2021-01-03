@@ -122,7 +122,11 @@ https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/g
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU" group-title="LOCALES", DEPORTV - 24.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w2018799795.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU" group-title="LOCALES", ENCUENTRO - 22.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w1827592514.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", DEPORTV - 24.1
 https://www.youtube.com/watch?v=q4CTql4ZWOc
