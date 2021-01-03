@@ -26,8 +26,9 @@ https://www.youtube.com/watch?v=Lnsp9CFTIh4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="LOCALES", Canal de la Ciudad
 http://g4.vxral-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8
 
-#EXTINF:-1 group-title="LOCALES", ENCUENTRO - 22.1
-https://www.youtube.com/watch?v=c0LaUlqTjHo
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES", CANAL ENCUENTRO - 22.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w1733579940.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
@@ -38,13 +39,13 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES", CANAL 9 - 35.1
-https://ar-elnueve-elnueve-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA5NzE1MDQ5LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6OWU5OTphNTMwOmU5NDc6YjZhZjo0NDJlIl19LCJzaWduYXR1cmUiOiJhNjlkMjNiNmQ2YTgyMGEzMzFkMWM5NGU4NDNkZDlhMTc3OWRhMDhkIn0%3D
+https://ar-elnueve-elnueve-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA5NzY2NzU2LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiIyNmI1ZTA5NzVhMGE1ZWZmNmE0MmQwY2M4YzM5NGMxNDNlZGEzZmFmIn0%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpMF_pCK-UBZVE5Reys0-EEUqv60xmpP_MsA1ICjjqgBeGIsxVAXT9CdQA6IIYfFC2-Xl0KYbFpWIoM3P3OiF_ONiL6KJ5u_ZBmwJiw2dlTG8LnSr6SZsNL9DCN9tHbREM6QnkBuRNjnHdZclVID_SWrF3Cpu4xwFsuL4aRGLBOHn1BbRKfDDtpOxX7IouptCOFXFVpABNFdcIls9rM6DEIcrM4P8v8qia6MBvwYlV70L6CQdISel-TYqEouruiDUpYMJj6HR9oYmPc3--tgogqXMlnrICtZqIS1hwwrUIj02gPd2EhGIdMi5jxIB5VvKWWaGBsqHzTzL0o_AXcUUNLbsA2JySW-mkHzUG7xMUMr5pRYUCz4kjfgKVJz7FTb2U0CIa3-u6iLYp1jIUr1wWOMoeU546X33h5Pb76ytiv529T0s24x3KJ9ojCh94YnwdPGWys-Zwg-wNLbsti_RMUnDe_A4qTYHtauGkBt-79t6aVCFH92mMw0fu0zoGFmJuZiUSDTjm3scBSYWYIF1iRsRAhWBj3bwQKQ316O92W2MYOm_ZhvXwOQvO9axOEF2uJpYDl5D5Z2InziDDPCI3H4hnfZd-Dj_eGhip6L4TbM_-eGZdhFSudNZ1OKh91aPaCW35RRX9His5zLgDo5B9pgWqcpb8FtOx5d1PPBDyNU7nGdbyz_ocR_8D-S-zhajCPUoY-OavbnzUj6VLBc6pehm_PaXZoP36KcQ5q7L8UtFtBBU8iZD1JIU-ZI-NoBOmpiMXKOaMsM4MX2HFbArfpuu83NIhUYRBarLpXj8qpRUiFwjGaDnLjgQeRpDkq7q9T6l9jqwrRGrkXdW5a43ddKlwZNRg4D97NQT64uL09FwiSRXD0SEFx77gvhuShFP0lsWhlchn0aDCvjdNP2l-OTe87I8g.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpIFxwSvLXGsuRuGs8ZmunrsSW1clreSbDkpp7Dm60FK1sbwJwEBulJAMOniWOj869SzxOS5ThPAxaeYYvMZ8mE04sJ5T5JU1ATY8B2ShC_X-UUk8bQb0au3mb-4fk4a3zgZ3X6Zyu9gKk_jO8zsRE8Xe-eca2O8J92bhlf9BqdcB9dQZQWhNk0_tVBQjSqoBlIcFZNptJMdI3fOWch6B42Ze9qnoaXE-nRD3m-i_MrtRd7sL1RAgPLf3zxhrWq2QKSvwiRqjHA_c98774VxGjRNT9DMkWmcLW7D7CD2g6iVtxclP4aBT7H1h0M9mzSG_Z0raTc4XGqQXNqoEBLoATbSZEy6_8zquG1RMrIwFzAFvDcUSNqUs5vv3lbdFOB944VRDWA_woZiwTBDExOn43Nrw13qiS3c2bJP3x6lgC9vswr22YAep3_AmbVe4QuHBSyA5PyL-P0ABqEXZhkkr1enLMMMzokjFzz5KwdnOMFRWketN95EglJCI-7w1lgf3l7DCRXQcM7GgBpnYrh1RaUG6MQd0g4XaDH3mz7Y4PTf2lraucDn0srx25rAxQwaCCoGpI7MwzGD1QzHtbd5EdTHQvLWngSn8iu9rGQGu2uGTtM01DF_ywo4E0voNumnuSdwYAVcXk575PEyRi5UEI9MQVqHurTAks1CxqrNJMhAHw4u1mZs_wpq7qwtHV-4rlsy0bVIl8xXsI8RJT7lJ5TO2Iu1wnms6nUIpW7PK7p3wERY3CLl-tE0jT2bpWq5qrgHUh6tsFjLmFFk9ksoGwGwdv46HsVmrP87YGSJJPCJQ9nOtkVBFCp_lwp2fJQN5hxpKJyavIfwC8Z_iGIIMWAcEcp_l1C6XH0LgjhkgPSrJo_kYxIQjxKXJ5zvHxijzLYf1RLdjhoMWVHpAa3fhFQc1pGe.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES", NET TV - 27.2
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
