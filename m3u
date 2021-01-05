@@ -288,6 +288,9 @@ https://5c21f7ec1999d.streamlock.net/8070/8070/chunklist_w456228667.m3u8?_=1
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-movies-tv-en-vivo-271x190.jpg" group-title="CINE Y SERIES", FMTV 2
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/chunklist_w66673837.m3u8?_=1
 
+#EXTINF:-1 tvg-logo="https://fmtvmundo.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-01-at-6.07.09-AM-1.jpeg" group-title="CINE Y SERIES", FMTV 3
+https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0X7REz4ISXLJloQhacO1qP2R3vnMm-uncrw&usqp=CAU" group-title="CINE Y SERIES", ZEE TV
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?_=1
 
