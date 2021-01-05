@@ -97,7 +97,7 @@ http://lavozdetucuman.com/peliculas1.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.kanadetv.com/imgs/loco/logo_white.png" group-title="INFANTIL", KANADE TV
-http://155.138.216.118:8080/hls/show.m3u8
+http://207.246.84.143:8080/hls/Kanade.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", Locomotion
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
@@ -332,11 +332,7 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe_Senal_2.png" group-title="CINE Y SERIES", 74 TV
 https://stmv1.zcastbr.com/canal74hd/canal74hd/chunklist_w333835106.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Iz8re8Z.png" group-title="CINE Y SERIES", CINE SERIES
-https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wWKyJDs.png" group-title="CINE Y SERIES", CINE FILMS
-https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV_Series.png" group-title="INFANTIL", CACHIPUM TV
 https://tls.cdnz.cl/cachipuntv/live/chunklist_w1195011282.m3u8?WebM3UCL
@@ -574,8 +570,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/chunklist_w55164
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgHZgj0j0s3y22Xu7XjBqMSGaRJJHIdGmkrg&usqp=CAU" group-title="LOCALES", CANAL 50 MORTEROS
 https://coopmorteros.online/canal50/vivo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES", UNIVERSIDAD TV MAR DEL PLATA
-https://stream-02.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54wDd3uQQZhPkibbzOCXCnqI)/dm/3/x7kvvgi/s/live-1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="LOCALES", C5SF SANTA FE
 https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/chunklist_w588262797.m3u8
@@ -734,6 +729,13 @@ https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Telenord-en-vivo-Online.png?resize=100%2C70" group-title="LOCALES", TELENORD
 http://www.coninfo.net:1935/previsoratv/live/chunklist_w457877534.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES", UNIVERSIDAD TV MAR DEL PLATA
+https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL541tKZJqMvRb6ObIJl2KgRMI)/dm/3/x7kvvgi/s/live-2.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://canal7.tv/wp-content/uploads/2018/02/canal7-logos-02.png" group-title="LOCALES", CANAL 7 SANTIAGO DEL ESTERO
+https://5975e06a1f292.streamlock.net:4443/envivo/castv/chunklist_w1037436923.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="MODA Y SOCIEDAD", Fashion TV
@@ -787,6 +789,7 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_18
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ53hTwyXPWKI-cBOV7uJuJrp6sX1JMpxeMRQ&usqp=CAU" group-title="INTERNACIONAL", DW ESPAÑOL
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
+
 
 #EXTINF:-1 tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="INTERNACIONAL", NPY PARAGUAY
 https://rds3.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?k=5f9e81d2b3dedf5c280fd91444b5378d7ecd49d8422980833afb9beb6e267a42&exp=1604585421
@@ -918,7 +921,7 @@ https://fm999.info/test/index.m3u8
 https://panel.dattalive.com/8114/8114/chunklist_w719155802.m3u8
 
 #EXTINF:-1 tvg-logo="https://vorterix.com/assets/img/logo-icon.png" group-title="RADIO", VORTERIX - 92.1 FM
-https://prepublish.f.qaotic.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
+https://prepublish.f.qaotic.net/b12/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lacoope.net/img/imgcope/La_Coope.png" group-title="RADIO", COOPE TV 102.7 FM MENDOZA
 https://ingest-wza.bustream.com/coopetv/coopetv/chunklist_w1034186856.m3u8
@@ -965,8 +968,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0216
 #EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="RADIO", POWER MAX 104.1 RECREO SANTA FE
 https://59537faa0729a.streamlock.net/radio1045/radio1045/chunklist_w1351704474.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRClPwREaGKlj9j-YRh1NXlYrNJmnrROinOkJwmOH5NWwL9g3XzVOR6243fM4r0zJ02eB8vieDNk88KwiaeTF1dYrJc6ndi7oPY0Q&usqp=CAU&ec=45702846" group-title="RADIO", 87.9 TV BESLISLE RIO NEGRO
-https://rtmp1.painelvideo.com/belislehd/belislehd/chunklist_w947079878.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Avatar_redes_positivo_1024.png" group-title="RADIO", CADENA TIEMPO TRELEW CHUBUT
 https://panel.dattalive.com/8034/8034/chunklist_w1515375048.m3u8
@@ -1016,8 +1018,7 @@ https://videostream.shockmedia.com.ar:1936/radiotvsierras/radiotvsierras/chunkli
 #EXTINF:-1 tvg-logo="https://okfmarroyito.com/wp-content/uploads/2018/03/RADIO-EN-VIVO.jpg" group-title="RADIO", FM 95.5 FM OK ARROYITO CORDOBA
 https://inliveserver.com:1936/14062/14062/chunklist_w2092654517.m3u8
 
-#EXTINF:-1 tvg-logo="http://rcm88.com.ar/wp-content/uploads/2018/04/cropped-logo-web-1-1.png" group-title="RADIO", RADIO CIUDAD 100.3 FM CORONEL MOLDES
-https://panel.dattalive.com/8098/8098/chunklist_w1299609230.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://fmsoledad885.com.ar/wp-content/uploads/2020/11/Logo-header-1-1024x132.png" group-title="RADIO", FM SOLEDAD 88.5 LAS HIGHERAS CORDOBA
 https://59537faa0729a.streamlock.net/fmsoledad885/fmsoledad885/chunklist_w1826920025.m3u8
@@ -1073,16 +1074,20 @@ https://5f6e1fe8f2d2e.streamlock.net/sanjuan/sanjuan/chunklist_w508004298.m3u8
 https://5f6e1fe8f2d2e.streamlock.net/lacosta/lacosta/chunklist_w555218362.m3u8
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CANAL BEAGLE - USHUAIA
-https://www.youtube.com/watch?v=oFi4QF2Wy-Q
+https://www.youtube.com/watch?v=pB_tcoZUsgI
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CAMARAS USHUAIA
 https://www.youtube.com/watch?v=tCe8P4CXR7A
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", RESISTENCIA - CHACO
-https://www.youtube.com/watch?v=437oyNs0uDM
+https://www.youtube.com/watch?v=hIcF5ofAW8I
 
 
 
-#EXTINF:-1 tvg-logo="http://canal7.tv/wp-content/uploads/2018/02/canal7-logos-02.png" group-title="LOCALES", CANAL 7 SANTIAGO DEL ESTERO
-https://5975e06a1f292.streamlock.net:4443/envivo/castv/chunklist_w1037436923.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRClPwREaGKlj9j-YRh1NXlYrNJmnrROinOkJwmOH5NWwL9g3XzVOR6243fM4r0zJ02eB8vieDNk88KwiaeTF1dYrJc6ndi7oPY0Q&usqp=CAU&ec=45702846" group-title="RADIO", 87.9 TV BESLISLE RIO NEGRO
+https://rtmp1.painelvideo.com/belislehd/belislehd/chunklist_w947079878.m3u8
+
+#EXTINF:-1 tvg-logo="http://rcm88.com.ar/wp-content/uploads/2018/04/cropped-logo-web-1-1.png" group-title="RADIO", RADIO CIUDAD 100.3 FM CORONEL MOLDES
+https://panel.dattalive.com/8098/8098/chunklist_w1299609230.m3u8
 
