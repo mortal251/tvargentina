@@ -140,6 +140,9 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w78966593_b1296000_sl
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_teletrak_m.png" group-title="DEPORTE", TELETRAK
 https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTE", TENIS CHANNEL
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
 
 
 #EXTINF:-1 group-title="DEPORTE", AMERICA SPORT
@@ -394,6 +397,9 @@ https://cu.onliv3.com/livevd/user1_low/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/106258_Urban_TV.png" group-title="MUSICA", URBAN TV
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-en8hZg-ydAg/XhM37CW34WI/AAAAAAAApbY/kkIzMk9g_IM8m0Mzn-DLoM-Bu4JKlaUawCLcBGAsYHQ/s320/Telemusica.png" group-title="MUSICA", TELEMUSICA
+http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/canal-rural-tv.png" group-title="LOCALES", RURAL TV
