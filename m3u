@@ -400,7 +400,7 @@ https://cu.onliv3.com/livevd/user1_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-en8hZg-ydAg/XhM37CW34WI/AAAAAAAApbY/kkIzMk9g_IM8m0Mzn-DLoM-Bu4JKlaUawCLcBGAsYHQ/s320/Telemusica.png" group-title="MUSICA", TELEMUSICA
 http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
 
-#EXTINF:-1 tvg-logo="http://canal2perico.com.ar/canal2/images/logo.png" group-title="MUSICA", FARRA PLAY
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logog.png" group-title="MUSICA", FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
 
 
