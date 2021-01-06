@@ -30,8 +30,10 @@ http://g4.vxral-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES", CANAL ENCUENTRO - 22.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w1733579940.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
-https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA HD - 36.1
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 
 
@@ -45,7 +47,7 @@ https://ar-elnueve-elnueve-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhw
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpQFTUmvtU_rxNTUOMsaKIStkPKdXmf6PBt--kPCm6VshOhsO0BCrTZZqhVu1i0uvMgxqwa5TVxEwQPau1yzNHVfSn7r7Ku60fC7Ql5Nzt5dRkmtVkSQjI9iMW7F09eDtYBBERnyjEzkayBTaFa5s3UzL3LfNMoAFNHHMaA2BJoG6e5MNHs5xAlULnKYFaxT7YJj0lBOVzI6l7ckU-tCkXpn_Wp3HC_XmiUvXjWSOzMkPuLTPWPAsmmoU5qxGKqnAMIXdLdje8X5hE6_w9sNNHKNFJWI1ffZ5S_67R7u9OWCaEVRSNEUfCknmtp3XetyMwftLjdQtKjRLkZ2MurHztQf1GnRe-uBR2RTjY6kha8iSvZiDRFGhDXKCYrItCf1zbG3fnYmIjgOepzNMecBZZNVxmHLmmVt5GaqRBNcJOeth7ZYIPtJItSshr8eFVl0ikl0PxwIAD4YcvhIfWZaGdRCMJYusq2o3vCS21KAKB8nRCVLfUXca1K8XSSkKgDWbC3pPd7VRbOGwVqByK4f3F1G1Ppdwygr94bOEGPCJL8SxnoKezBei7XrcpY7U2kXbij-6Ua5LbxW2hK-seJYf0Pg1xd5eDy73eHsM-m0nVtVXnYfMdyBY4CElA_SP9px7_o0QBYr0J9j3P6Y4um_2rxiOiwwJr0bPHiH93kFQAyJy2Mj8B9Je5v8NU7ctXVPi3lo4nYYoqh7vYtBhhz4kNJLl2rD7-VkhtoYJfXQqoeOl-VyWQeupb_N-nj95gufa1ijVtluuTJ1Br696Q4glcOz8tQNz7h1ZdoNpZBJLmE-2Eq-6iORu2Y4NEQ7ob4uYdwegYNpxuFAbVSFmydE75qoFzGU2iI0nGO3xvEjNgsWGDkOJgGAEhDNEfpq8Qgg74Ik04Kcp6vAGgy2-fhzAqPd5P0exBY.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpQFfI_DApiQxyKColKLiolDd6GndyjLef1_MPCGN0tI8taKwjvSSodRrtelBJbgk6cGW3rOeI-FeCrNaZFQ6vDDgZ1tHWZZwHuKG6gMLXNo8_G12BAfH1FoUqtX_tktYcNhNXz0qQG2fylSdKCYFUIIA-Q0Id_DtN-0Spw9aRfbwpPGjoGqUXozln26W4ljoE40EuICZ3lIze2hQ_Yp0bOKv-XWh_TE85GBtutFqbtuoh-A3yg12Jg3ykNdCXLE8_lstaIfWnkrAsKroR3YMOsHXffJoQqDD7WgIQ4maaQMRkvyhqFMPaZ5UH9KJhuSL2CZRGIT84PBVMX7IIumkpxWZ-e0NTbqYI7NpjH5gadcepM4BG6Xy_D1F0dJcctQy7JTR8XD_o8S1L9I0XBlsIWCRZfKjHxnFTSKwA21bFawD1tLUvcB0hlDLKUY2yus27EPEd5vsqaHjO3S5UVi_y__4FjrbypF7TI6Ep2ekhJT4Ae1dsvur19-cljFeiXmU1JJN5wm8_14UO9Zn64dNUPg9MnvoXsNkj0AaNu1Xc_c9ZOGEsyOoKGfjZp9l1kL4LqrDo5olMA2avreu9kcPxPSkAJVS80vM6-8v5ON7asJ1Sc8GNcXIGDKQXqMULP2xTubv6DVR0r4c2VPBf85qxsXc_4q68dNcA8v71J04asmMGKv21QagytqJepxjLi5AVfMflUtWSZI82jQuXWsOC1akH6Xim72uCn0H1O2wrneXsP7Ldum4TKCkE9-jS1tUlfC9SLrphAyFRk5FxX6wRhQNwkAyaLETel03teFDVmpJ-dmj2uaMHBH--Isjv3h6h5wZvARjNbNNuQnccKz9SytcZ8hx_wtvDdxBGpgH2yKWJLaWA2bEhBwQW4taQVv1Fws3EZjEDJ0Ggxn6aqAz32BFcu7FCY.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES", NET TV - 27.2
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -69,7 +71,7 @@ https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w165695631
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w678055608.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="LOCALES", GEN TV - 17.3
-https://inliveserver.com:1936/14030/14030/chunklist_w1277190161.m3u8
+https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", CINCO TV Tigre - 30.1
 https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w172622627.m3u8
@@ -140,9 +142,8 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w78966593_b1296000_sl
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_teletrak_m.png" group-title="DEPORTE", TELETRAK
 https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTE", TENIS CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTE", TENIS CHANNEL
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-
 
 
 #EXTINF:-1 group-title="DEPORTE", AMERICA SPORT
@@ -150,9 +151,6 @@ https://www.youtube.com/watch?v=1SmKEIpmcLU
 
 #EXTINF:-1 group-title="DEPORTE", HIPODROMO DE PALERMO
 https://www.youtube.com/watch?v=OnW5qGG8fAA
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png?3" group-title="MUSICA", Music Top
@@ -170,7 +168,7 @@ http://45.6.4.50:50601/America_Tucuman/video.m3u8
 https://www.youtube.com/watch?v=gBbMbqILzXU
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/133px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="LOCALES", TELEFE CORDOBA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1609700006~exp=1609876406~acl=/i/canal8cordoba_1@685726/*~hmac=f595e6eec0480925502737a7dc7396f32235f79db29ea112235536054ff3f375
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1609931124~exp=1610107524~acl=/i/canal8cordoba_1@685726/*~hmac=37a08179ceaa0868b98739f713de1615b39d6669c52a716679d0aea09fa74795
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", CANAL 10 CORDOBA
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?PlaylistM3UCL
@@ -407,8 +405,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0009
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_senal-argentinisima-satelital-1_p_m.jpg" group-title="LOCALES", ARGENTINISIMA SATELITAL
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1353448793_b1912000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA HD - 36.1
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
 
 #EXTINF:-1 group-title="LOCALES", TV PUBLICA - 23.2
 https://www.youtube.com/watch?v=i-T7WDv9Z8k
@@ -736,6 +733,9 @@ https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL541tKZJqMvRb6ObIJl2
 #EXTINF:-1 tvg-logo="http://canal7.tv/wp-content/uploads/2018/02/canal7-logos-02.png" group-title="LOCALES", CANAL 7 SANTIAGO DEL ESTERO
 https://5975e06a1f292.streamlock.net:4443/envivo/castv/chunklist_w1037436923.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="MODA Y SOCIEDAD", Fashion TV
@@ -753,6 +753,7 @@ http://91.126.141.201:1935/live/cosmoHD/.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngqtDnzzen9SgbziIySesx-8wvp-fIGlYasqQh_rQ=s88-c-k-c0x00ffffff-no-rj" group-title="MODA Y SOCIEDAD", NUEVA IMAGEN
 http://server.miamitvchannel.com/externos/nuevaimagen/chunklist_w892996509.m3u8
+
 
 
 
