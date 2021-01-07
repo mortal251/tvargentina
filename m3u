@@ -1135,5 +1135,25 @@ https://panel.dattalive.com/8130/8130/chunklist_w1683036471.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://canal2perico.com.ar/canal2/images/logo.png" group-title="LOCALES", CANAL 2 PERICO JUJUY
 https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8
 
+#EXTINF:-1 tvg-logo="http://canal2perico.com.ar/canal2/images/logo.png" group-title="INTERNACIONAL", CANAL SUR ANDALUCIA
+https://cdnlive.shooowit.net/rtvlive/channelDVR.smil/chunklist_b2200000_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="http://canal2perico.com.ar/canal2/images/logo.png" group-title="INTERNACIONAL", CANAL ONCE INTERNACIONAL
+https://live.canalonce.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://canal2perico.com.ar/canal2/images/logo.png" group-title="INTERNACIONAL", TELEMADRID
+https://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://canal2perico.com.ar/canal2/images/logo.png" group-title="INTERNACIONAL", LA 2
+https://hlsliveamdgl0-akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://canal2perico.com.ar/canal2/images/logo.png" group-title="INTERNACIONAL", TV GALICIA AMERICA
+https://america-crtvg.flumotion.com/playlist.m3u8
+
+
+
+
+
 
 
