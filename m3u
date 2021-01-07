@@ -853,8 +853,7 @@ https://www.youtube.com/watch?v=Et4i_BymLGQ
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="INTERNACIONAL", Galicia TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0016
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png" group-title="INTERNACIONAL", ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
@@ -911,8 +910,9 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png" group-title="INTERNACIONAL", LA 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7a54123d9b00987656ac69debd56e6bc.jpg" group-title="INTERNACIONAL", TV GALICIA AMERICA
-http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="INTERNACIONAL", Galicia TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0016
+
 
 
 
