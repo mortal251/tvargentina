@@ -898,7 +898,7 @@ http://gmsiptv.ddns.net:8080/hls/cnne.m3u8
 http://190.122.96.187:8888/http/010
 
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg" group-title="INTERNACIONAL", CANAL SUR ANDALUCIA
-https://cdnlive.shooowit.net/rtvlive/channelDVR.smil/chunklist_b2200000_DVR.m3u8
+https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="INTERNACIONAL", CANAL ONCE INTERNACIONAL
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
