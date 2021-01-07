@@ -738,6 +738,11 @@ https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL541tKZJqMvRb6ObIJl2
 #EXTINF:-1 tvg-logo="http://canal7.tv/wp-content/uploads/2018/02/canal7-logos-02.png" group-title="LOCALES", CANAL 7 SANTIAGO DEL ESTERO
 https://5975e06a1f292.streamlock.net:4443/envivo/castv/chunklist_w1037436923.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="LOCALES", CELTV
+http://190.103.192.6:8080/hls/mystreamkey.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
@@ -912,7 +917,8 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 https://g5.mc-slo.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/MITREHD-10002_240p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="RADIO", LA 100
-https://g5.vxral-slo.transport.edge-access.net/a11/ngrp:cienradioshd-10002_all/cienradioshd-10002_360p.m3u8
+https://g3.vxral-slo.transport.edge-access.net/b13/ngrp:cienradioshd-10002_all/cienradioshd-10002_240p.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIRIO969.png" group-title="RADIO", Rioja TV - 96.9 FM
 http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w2048008042.m3u8
@@ -984,7 +990,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0216
 https://59537faa0729a.streamlock.net/radio1045/radio1045/chunklist_w1351704474.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Avatar_redes_positivo_1024.png" group-title="RADIO", CADENA TIEMPO TRELEW CHUBUT
 https://panel.dattalive.com/8034/8034/chunklist_w1515375048.m3u8
 
@@ -1032,8 +1037,6 @@ https://videostream.shockmedia.com.ar:1936/radiotvsierras/radiotvsierras/chunkli
 
 #EXTINF:-1 tvg-logo="https://okfmarroyito.com/wp-content/uploads/2018/03/RADIO-EN-VIVO.jpg" group-title="RADIO", FM 95.5 FM OK ARROYITO CORDOBA
 https://inliveserver.com:1936/14062/14062/chunklist_w2092654517.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="http://fmsoledad885.com.ar/wp-content/uploads/2020/11/Logo-header-1-1024x132.png" group-title="RADIO", FM SOLEDAD 88.5 LAS HIGHERAS CORDOBA
 https://59537faa0729a.streamlock.net/fmsoledad885/fmsoledad885/chunklist_w1826920025.m3u8
@@ -1100,50 +1103,17 @@ https://www.youtube.com/watch?v=tCe8P4CXR7A
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", RESISTENCIA - CHACO
 https://www.youtube.com/watch?v=hIcF5ofAW8I
 
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRClPwREaGKlj9j-YRh1NXlYrNJmnrROinOkJwmOH5NWwL9g3XzVOR6243fM4r0zJ02eB8vieDNk88KwiaeTF1dYrJc6ndi7oPY0Q&usqp=CAU&ec=45702846" group-title="RADIO", 87.9 TV BESLISLE RIO NEGRO
 https://rtmp1.painelvideo.com/belislehd/belislehd/chunklist_w947079878.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2019/03/CANAL-2-SANAGASTA.png" group-title="LOCALES", Canal 2 Sanagasta
 https://stmv1.srvif.com/canal2/canal2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="LOCALES", CELTV
-http://190.103.192.6:8080/hls/mystreamkey.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="LOCALES", TSN NECOCHEA
 https://panel.dattalive.com/8130/8130/chunklist_w1683036471.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://canal2perico.com.ar/canal2/images/logo.png" group-title="LOCALES", CANAL 2 PERICO JUJUY
 https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOCALES 2", CANAL 9
-http://disfruta.net:80/RAULZERON0202/H8TVMV1iRE/358
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/DM_LOGO_RGB.svg/1200px-DM_LOGO_RGB.svg.png" group-title="LOCALES 2", DISCOVERY MAX
-http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOCALES 2",Los Simpsons HD
-http://disfruta.net:80/RAULZERON0202/H8TVMV1iRE/1058
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOCALES 2",DRAGON BALL SUPER
-http://disfruta.net:80/RAULZERON0202/H8TVMV1iRE/2352
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOCALES 2",CANAL 13 HD
-http://disfruta.net:80/RAULZERON0202/H8TVMV1iRE/359
-
-
-
-
-
-
-
-
-
 
 
 
