@@ -747,13 +747,13 @@ https://5975e06a1f292.streamlock.net:4443/envivo/castv/chunklist_w1037436923.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="LOCALES", CELTV
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
 
-#EXTINF:-1 tvg-logo="http://canal2perico.com.ar/canal2/images/logo.png" group-title="LOCALES", CANAL 4 ESQUEL
+#EXTINF:-1 tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2020/12/logo-web-retina-ok-si-300x99.png" group-title="LOCALES", CANAL 4 ESQUEL
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0109
 
-#EXTINF:-1 tvg-logo="http://canal2perico.com.ar/canal2/images/logo.png" group-title="LOCALES", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0210
+#EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES", CUIDAR TV SAN JUAN
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0210
 
-#EXTINF:-1 tvg-logo="http://canal2perico.com.ar/canal2/images/logo.png" group-title="LOCALES", UTN TV SAN CRUZ
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjM9L5np1zJaHHi76GKFzOWBPzuOswBWEsnUp7Q=s48-c-k-c0xffffffff-no-rj-mo" group-title="LOCALES", UTN TV SAN CRUZ
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0207
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
@@ -929,7 +929,7 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/615586776267288576/hZWD4Yev.jpg" group-title="RELIGION", RADIO MURIALDO 1290 AM MENDOZA
 https://stmv1.srvif.com/murialdoestudio/murialdoestudio/chunklist_w459659698.m3u8
 
-#EXTINF:-1 tvg-logo="http://canal2perico.com.ar/canal2/images/logo.png" group-title="RELIGION", CANAL 13 JUJUY
+#EXTINF:-1 tvg-logo="http://www.canal13jujuy.com/img/logo-web.png" group-title="RELIGION", CANAL 13 JUJUY
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0158
 
 
