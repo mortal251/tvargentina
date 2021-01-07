@@ -66,6 +66,9 @@ https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/play
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" group-title="INFANTIL", EL CHAVO
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w1656956317.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbrP181dXPviq5QieC9sOlZjtt5OduLcOspQ&usqp=CAU" group-title="INFANTIL", DRAGON BALL
+http://89.105.194.59:25461/live/spen!$F10$/spen!$F10$/69.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg" group-title="LOCALES", MIRADOR - 22.3
@@ -914,6 +917,13 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110978_Dios_Te_Ve_Kids.png" group-title="RELIGION", DIOS TV KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/615586776267288576/hZWD4Yev.jpg" group-title="RELIGION", RADIO MURIALDO 1290 AM MENDOZA
+https://stmv1.srvif.com/murialdoestudio/murialdoestudio/chunklist_w459659698.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="RADIO", RADIO MITRE
 https://g5.mc-slo.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/MITREHD-10002_240p.m3u8
 
@@ -1066,8 +1076,6 @@ https://panel.dattalive.com/8098/8098/chunklist_w1299609230.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM Y CLIMA", 5900 TV CORDOBA
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
 
@@ -1104,8 +1112,7 @@ https://www.youtube.com/watch?v=tCe8P4CXR7A
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", RESISTENCIA - CHACO
 https://www.youtube.com/watch?v=hIcF5ofAW8I
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRClPwREaGKlj9j-YRh1NXlYrNJmnrROinOkJwmOH5NWwL9g3XzVOR6243fM4r0zJ02eB8vieDNk88KwiaeTF1dYrJc6ndi7oPY0Q&usqp=CAU&ec=45702846" group-title="RADIO", 87.9 TV BESLISLE RIO NEGRO
-https://rtmp1.painelvideo.com/belislehd/belislehd/chunklist_w947079878.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2019/03/CANAL-2-SANAGASTA.png" group-title="LOCALES", Canal 2 Sanagasta
 https://stmv1.srvif.com/canal2/canal2/playlist.m3u8
