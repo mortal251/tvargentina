@@ -759,8 +759,17 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0207
 #EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="LOCALES", TSN NECOCHEA
 https://panel.dattalive.com/tsnnecochea/tsnnecochea/chunklist_w420557208.m3u8
 
+#EXTINF:-1 group-title="LOCALES", TSR24 SANTA FE
+https://www.youtube.com/watch?v=mRqMEh8rHcc
+
+#EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-ohrxmwyu219car5qjnmnky0ll0mfu6yuk15jy6idgw.png" group-title="LOCALES", MILENIUM TV SALTA
+https://www.mileniumtv.com.ar/wp-content/uploads/2020/07/macaya.jpg
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+
+
+
 
 
 
@@ -950,6 +959,8 @@ https://stmv1.srvif.com/murialdoestudio/murialdoestudio/chunklist_w459659698.m3u
 
 #EXTINF:-1 tvg-logo="http://www.canal13jujuy.com/img/logo-web.png" group-title="RELIGION", CANAL 13 JUJUY
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0158
+
+
 
 
 
