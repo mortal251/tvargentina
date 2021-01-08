@@ -118,6 +118,9 @@ https://www.youtube.com/watch?v=r8I7EJwIn00
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/tectv.png" group-title="LOCALES", TEC TV - 22.5
 https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_240p.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzYpeA4-oJxDlV34Xfha8HNUXOlqucrQMQQ&usqp=CAU" group-title="LOCALES", VIAJAR TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0025
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU" group-title="LOCALES", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
