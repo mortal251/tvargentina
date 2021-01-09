@@ -350,6 +350,9 @@ https://www.youtube.com/watch?v=OnW5qGG8fAA
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_teletrak_m.png" group-title="DEPORTE", TELETRAK
 https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lacoope.net/img/imgcope/La_Coope.png" group-title="MUSICA", COOPE TV
+https://ingest-wza.bustream.com/coopetv/coopetv/chunklist_w1034186856.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcOBhiBSAwXzwsKeM-S34gHhr7HLulFxChbA&usqp=CAU" group-title="MUSICA", KPOP TV
 https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/.m3u8
 
@@ -1002,8 +1005,7 @@ https://panel.dattalive.com/8114/8114/chunklist_w719155802.m3u8
 #EXTINF:-1 tvg-logo="https://vorterix.com/assets/img/logo-icon.png" group-title="RADIO", VORTERIX - 92.1 FM
 https://prepublish.f.qaotic.net/b12/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lacoope.net/img/imgcope/La_Coope.png" group-title="RADIO", COOPE TV 102.7 FM MENDOZA
-https://ingest-wza.bustream.com/coopetv/coopetv/chunklist_w1034186856.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI974.png" group-title="RADIO", LRI974 La 90
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w2063503956.m3u8
@@ -1017,8 +1019,7 @@ https://mediacp.hostradios.com.ar:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.faep5-1.fna.fbcdn.net/v/t1.0-9/35852518_1982366235170030_5582042344615575552_n.jpg?_nc_cat=109&cb=846ca55b-ee17756f&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeHphhA31kyFI_IV1JcTSCvoMcRLpBPOk2sxxEukE86TawyzxB7-RcyUml6v6YXw_cY&_nc_ohc=02I4BicXyFIAX9djev5&_nc_ht=scontent.faep5-1.fna&oh=f6bd1fe3dfb800c94aeb51cfc058eb93&oe=5FC34C77" group-title="RADIO", CARDINAL TV MIRAMAR CORDOBA
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTawQavXm0sl9VVZanpEdf3JcdaWm62b-7ZLA&usqp=CAU" group-title="RADIO", RADIO CAPICUA  99.3 VILLA MARIA CORDOBA
-https://mediacp.hostradios.com.ar:19360/8066/8066.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/2/2852.v5.png" group-title="RADIO", FM RITUAL 106.1 FM TDF
 http://streamyes.alsolnet.com/fmritualvideo/live/playlist.m3u8
@@ -1120,6 +1121,9 @@ http://inliveserver.com:1935/14082/14082/chunklist_w1408409646.m3u8
 #EXTINF:-1 tvg-logo="http://rcm88.com.ar/wp-content/uploads/2018/04/cropped-logo-web-1-1.png" group-title="RADIO", RADIO CIUDAD 100.3 FM CORONEL MOLDES
 https://panel.dattalive.com/8098/8098/chunklist_w1299609230.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTawQavXm0sl9VVZanpEdf3JcdaWm62b-7ZLA&usqp=CAU" group-title="RADIO", RADIO CAPICUA  99.3 VILLA MARIA CORDOBA
+https://mediacp.hostradios.com.ar:19360/8066/8066.m3u8
+
 
 
 
@@ -1163,9 +1167,9 @@ https://www.youtube.com/watch?v=DbjYKKue3L4
 #EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="WEB CAM Y CLIMA", MONTE HERMOSO
 https://streaming.reltid.com.ar/hls/monte.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="PRUEBA", CARACOL
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="PRUEBA", CBN ESPAÑOL
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="PRUEBA", FORO TV
-https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8
+#EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="PRUEBA", BBC NEWS
+http://51.52.156.22:8888/http/004
 
