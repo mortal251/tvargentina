@@ -933,6 +933,12 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="INTERNACIONAL", Galicia TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0016
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/100px-BBC_News.svg.png" group-title="INTERNACIONAL", BBC NEWS
+http://51.52.156.22:8888/http/004
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="INTERNACIONAL", TV CULTURA BRASIL
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+
 
 
 
@@ -967,6 +973,9 @@ https://stmv1.srvif.com/murialdoestudio/murialdoestudio/chunklist_w459659698.m3u
 
 #EXTINF:-1 tvg-logo="http://www.canal13jujuy.com/img/logo-web.png" group-title="RELIGION", CANAL 13 JUJUY
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0158
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaK5id3ywW85veHfSdEKh4SM7r6Hk4wkrCNA&usqp=CAU" group-title="RELIGION", CBN ESPAÑOL
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 
 
 
@@ -1167,21 +1176,7 @@ https://www.youtube.com/watch?v=DbjYKKue3L4
 #EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="WEB CAM Y CLIMA", MONTE HERMOSO
 https://streaming.reltid.com.ar/hls/monte.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="PRUEBA", CBN ESPAÑOL
-http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="PRUEBA", BBC NEWS
-http://51.52.156.22:8888/http/004
-
-#EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="PRUEBA", MEGA PLUS
-http://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8
+#EXTINF:-1 tvg-logo="https://www.sierradelaventana.org/images/stories/logos/logo.png" group-title="WEB CAM Y CLIMA", SIERRA DE LA VENTANA
+https://streaming.reltid.com.ar/hls/sierra.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="PRUEBA", RADIO CLASICA
-http://hlsliveamdgl0-lh.akamaihd.net/i/rnerc_1@586399/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="PRUEBA", RADIO CLASICA
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="PRUEBA", TV CULTURA BRASIL
-http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
