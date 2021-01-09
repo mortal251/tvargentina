@@ -1173,3 +1173,15 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="PRUEBA", BBC NEWS
 http://51.52.156.22:8888/http/004
 
+#EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="PRUEBA", MEGA PLUS
+http://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="PRUEBA", RADIO CLASICA
+http://hlsliveamdgl0-lh.akamaihd.net/i/rnerc_1@586399/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="PRUEBA", RADIO CLASICA
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="PRUEBA", TV CULTURA BRASIL
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
