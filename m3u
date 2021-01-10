@@ -47,7 +47,7 @@ https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhw
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpMFnYnINXTMYKgzxcdoocAeL-m6unEFbdLbk5J_VL1_Y69iHGGkQKlLJffao7GYH25JwmRxUM96H5_pBIY-D1l5-ntzrkTNCMsP99smFCzhPIuTZo8p_RIwJs0k_-ftxu9HZIWF47bkpJujoMbtVN7s1hEpWYhR722MQTKUzlikeWs_Z-A1uQxs7K3YvElz0by3-MNqFU-y5eECO6Mvm_QPaVkPYuIh1atdMkfdrToIRdf9DROkHTUhUr2uqSjkmQQRYBtkB5aoqhAYQvsRRfSbtCufVBcs-aI15vrZn2zXVr9woRXQqgjxLrQmmtxgU-D5Rvs2AHMXeGkCNxk8oHxqSU-XKOsSIv8zLOIVtz_bEMA10COuTVBEwAKL5Z1BZUeGDBcx_irCUVUf9f2U7e0pjJ5cce8_tbq12UvCd3yqZFYSGKGLQMTS7z8D-Xd1DelEhjBdoANJB8jaBrpVNevHh_u3gOld3Wp0GJiuDGw5Dz7R3NgxXV63ijJ9C7KrW6yDQ5uH92E3qhesxkhFCNVCThT0FkyuzoNNWIxk-BLIlAlu2sD5X6l4YodR0JN14hut9HEAAJyjFVE3os_qKYGeVTFrNpEWDUi5-cVpiBdZTX3GFNOcxwOUV2q-rYeXpG_2LLGJhDyu49grxRSy36_lsGcf9x75s67ywGA0cud3X3aRI5CVt4cby0yKHUET_I7oVbOoi4s-OoUVPGZIcJaFknaPZbVK6aiSLqzVJ0X5v4PgMa3fcFL5GM947r6KeE96ItGcfRCeW0A42BSm4fjGsusJ994rGkXYT5ZqSTGQixhhDrfzUf3RrzTXkhdFGtUq1r3g6m86sMUl4WMO1haMnpvqUuch-uo7W6G_l8uw6BvYl2QSEOHum3AVH5JCtP-1ZGwnm7saDHdMUIsLInQtY9fbEQ.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpMFKmQ_qZsuPAsQC4_xjGKd6zhBo7R7rwrNADQR73TuJbl2ZTUwvYpqp0CD5dfBCqqrmyAe93LsyEo6yvcNpvbmlk3KR4tVU51rkGlrjffdm9fQS1LL1iB5PixcRWwXt7Ku6_-tjr6S_GwLseRX47IvyzVheRz41LBxB8DxROwtBXxqhx8hKOtrzSDsjRYGkzEt0c9FkH3qwvJZ9UfRWlkZaPlEXh9iNbpDpne8nrzjKIsfMqNzLq9KDOV9jxIH66g3ya8iMBce1dwNWG6z_HPLLcTby-oJS1V90_tPDnNloa2rQaD2cSJxeCKj35fDqnnt_5NzEo5UE2ZjUhhADxj_wVkju1cdGleLQqZSjxHW9Nu9e73T8e7psGtATvu190kCvGVFdyCqZfOEbLPvfqiTvAdG-LsrPNYlYRJPRFMzNOac3ByZ2UgoBT789WTVLHvMqI5t1x2RgvkTeJAh80_qMBGnSnIsuApXK3mWh8vX0URh5crLjV0FGObXpoOLQ27RxXgqnP6ceClMSjW_8bDvKUzB9jucQEhFFZjcTXv3dX_uC9hchluH3tAUvcrhhSPw_GYv7xHHxomXyRPO0m2sfaDsJHpAEtLVqndfKbG1LkcQtAtL1vbdJ7Rf2RlSc-_h0BM6WFwGmthYnRjd70QbD-nMU_Oj9E3UdqPV_sqCnFRVNpWFNAZCaTvjx-l1pcsIjM1y90vg5Yi9Lq5DHWxBlmRQKgnT_giCSawSG-YkXcx2ka2J-BBjiLoCU8fkAdt16nFfN3c4z4LeBnYbKKwWKhb48hiT6HLR2DWdIiBcndMtJTLkM1izkjRS30Cigm0GRwVBlm1Gg3i1WeavmCx1rBUR1NyZPZXCDetqlB16X6o6XxcSEEFB8uI4b5SII3OdhB9mtk4aDOyhzbPItRS3ldM2Hw.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES", NET TV - 27.2
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -139,6 +139,9 @@ https://sv.tsnt.xyz/espn/espn2o_sur.m3u8?dd.m3u8NjY2MzgwNzM=
 
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
 https://sv.tsnt.xyz/espn/espn1o_sur.m3u8?ul9t7g
+
+#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 3
+https://e10.stephn.xyz/ingestnb4s/espn3_sur/d.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w78966593_b1296000_sleng.m3u8
