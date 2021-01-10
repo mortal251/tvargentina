@@ -429,10 +429,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0009
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1353448793_b1912000_sleng.m3u8
 
 
-
-#EXTINF:-1 group-title="LOCALES", TV PUBLICA - 23.2
-https://www.youtube.com/watch?v=i-T7WDv9Z8k
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/800px-Telefe_Salta_%282018%29.png" group-title="LOCALES", TELEFE SALTA
 https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1610279467~exp=1610455867~acl=/i/canal11salta_1@722934/*~hmac=ed8aff42956ab7961550fd51493f6d648dd56cb5d117cd484ea7130e4d9ae84f
 
@@ -452,7 +448,7 @@ https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?h
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/chunklist_w1847941210.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="LOCALES", TELESOL
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0215
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0216
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES", ENTRE RIOS TV
 https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8
@@ -649,7 +645,7 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="LOCALES", LA VOZ TUCUMAN TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0242
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0243
 
 
 
@@ -681,7 +677,7 @@ https://5975e06a1f292.streamlock.net:4443/casse/casse/chunklist_w1958021516.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/Logo-horizontal-canal-21tv.png" group-title="LOCALES", CANAL 21 POSADAS
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0186
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0187
 
 
 
@@ -998,10 +994,13 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 https://stmv1.srvif.com/murialdoestudio/murialdoestudio/chunklist_w459659698.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canal13jujuy.com/img/logo-web.png" group-title="RELIGION", CANAL 13 JUJUY
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0158
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0159
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaK5id3ywW85veHfSdEKh4SM7r6Hk4wkrCNA&usqp=CAU" group-title="RELIGION", CBN ESPAÑOL
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/131935763_105597551438190_1918370879810546414_n.png?_nc_cat=105&ccb=2&_nc_sid=85a577&_nc_ohc=ZZMkXQCxF8gAX9_aimA&_nc_ht=scontent.fepa11-1.fna&oh=5ad76c4d45b1415f1e9e28e99c77b627&oe=601FF375" group-title="RELIGIOSO", SUBLIME GRACIA TV
+https://vivo.solumedia.com:19360/sublime/sublime.m3u8
 
 
 
@@ -1078,7 +1077,7 @@ https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/chunklist_w2882118.m
 http://streamyes.alsolnet.com/azaharesfm/live/chunklist_w1890757658.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="RADIO", LRJ214 Mil20 SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0216
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0217
 
 #EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="RADIO", POWER MAX 104.1 RECREO SANTA FE
 https://59537faa0729a.streamlock.net/radio1045/radio1045/chunklist_w1351704474.m3u8
@@ -1136,7 +1135,7 @@ https://inliveserver.com:1936/14062/14062/chunklist_w2092654517.m3u8
 https://59537faa0729a.streamlock.net/fmsoledad885/fmsoledad885/chunklist_w1826920025.m3u8
 
 #EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="RADIO", CATRIEL NOTICIAS
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0193
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0194
 
 #EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="RADIO", EL DIARIO DE PRINGLES
 https://streaming.reltid.com.ar/hls/pringles.m3u8
