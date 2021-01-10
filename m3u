@@ -140,8 +140,7 @@ https://sv.tsnt.xyz/espn/espn2o_sur.m3u8?dd.m3u8NjY2MzgwNzM=
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
 https://sv.tsnt.xyz/espn/espn1o_sur.m3u8?ul9t7g
 
-#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 3
-https://e10.stephn.xyz/ingestnb4s/espn3_sur/d.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w78966593_b1296000_sleng.m3u8
@@ -351,7 +350,7 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_f331914d260442069047f8fd3f5b90e5~mv2.png/v1/fill/w_96,h_72,al_c,q_85,usm_0.66_1.00_0.01/Mosca-1280x720_color_edited%20editado_edit.webp" group-title="INFANTIL", PEQUERADIO
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 group-title="DEPORTE", Cartoon Network Stream
+#EXTINF:-1 group-title="INFANTIL", Cartoon Network Stream
 https://www.youtube.com/watch?v=urTdDSueSDI
 
 #EXTINF:-1 group-title="DEPORTE", HIPODROMO DE PALERMO
@@ -826,11 +825,12 @@ https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRct7d60SEIxHlgbGr4904_mLl2yDhoauli-yKNiEOTrrOFKmTe1n8KJNuZF_BAUlOl5pBAiVNDgu9TQ-DkQpWNydOMBxi5-w1Adg&usqp=CAU&ec=45750088" group-title="MODA Y SOCIEDAD", VE PLUS
 http://190.122.96.187:8888/http/006
 
-#EXTINF:-1 tvg-logo="https://cdn.elnacional.com/wp-content/uploads/2017/06/mtmad-estrena-serie-docurealities-mis-quince_187342.jpg2" group-title="INTERNACIONAL", MTMAD
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/master.m3u8?hdnts=st=1610205875~exp=1610220275~acl=/i/mtmad_1@744785/*~hmac=49d87d6d3104efc8a4af6176dd2e41b83c499681671d75d1c2486d68ac5029ec
+
 
 #EXTINF:-1 tvg-logo="https://tentv.es/images/logo-white.png" group-title="MODA Y SOCIEDAD", TEN
 http://91.126.141.201:1935/live/ten/chunklist_w162002972.m3u8
+
+
 
 
 
