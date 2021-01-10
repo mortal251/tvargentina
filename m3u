@@ -757,10 +757,10 @@ http://190.103.192.6:8080/hls/mystreamkey.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0109
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0210
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0211
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjM9L5np1zJaHHi76GKFzOWBPzuOswBWEsnUp7Q=s48-c-k-c0xffffffff-no-rj-mo" group-title="LOCALES", UTN TV SAN CRUZ
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0207
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0208
 
 #EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="LOCALES", TSN NECOCHEA
 https://panel.dattalive.com/tsnnecochea/tsnnecochea/chunklist_w420557208.m3u8
@@ -769,8 +769,7 @@ https://panel.dattalive.com/tsnnecochea/tsnnecochea/chunklist_w420557208.m3u8
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-ohrxmwyu219car5qjnmnky0ll0mfu6yuk15jy6idgw.png" group-title="LOCALES", MILENIUM TV SALTA
 https://panel.tuvideostreaming.com:19360/8002/8002.m3u8
 
-#EXTINF:-1 group-title="LOCALES", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=zxih_1xEyMw
+
 
 #EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", XAMA SAN JUAN
 https://ny1.stweb.tv/unisanjuan/live/chunklist_w2097976899.m3u8
