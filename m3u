@@ -335,14 +335,11 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/101693_Retro_TV_Palmares.png" group-title="CINE Y SERIES", RETRO TV
 http://tvretropalmares.com:8090/hls/envivo.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://www.canal74.cl/wp-content/uploads/2020/05/canal74logo-1.png" group-title="INFANTIL", 74 TV
+#EXTINF:-1 tvg-logo="https://www.canal74.cl/wp-content/uploads/2020/05/canal74logo-1.png" group-title="CINE Y SERIES", 74 TV
 https://stmv1.zcastbr.com/canal74hd/canal74hd/chunklist_w333835106.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV_Series.png" group-title="INFANTIL", CACHIPUM TV
 https://tls.cdnz.cl/cachipuntv/live/chunklist_w1195011282.m3u8?WebM3UCL
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102655_Dreiko_TV.png" group-title="INFANTIL", DREIKO TV
-https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1138477104.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83648_Canal_IPE.png" group-title="INFANTIL", CANAL IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?WebM3UCL
@@ -1208,4 +1205,7 @@ https://5f6e1fe8f2d2e.streamlock.net/puan/puan/chunklist_w1564398990.m3u8
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", WORLD LIVE
 https://www.youtube.com/watch?v=9SjA-mKutVU
 
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102655_Dreiko_TV.png" group-title="INFANTIL", DREIKO TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1138477104.m3u8?WebM3UCL
 
