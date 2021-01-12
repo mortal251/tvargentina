@@ -73,8 +73,7 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w172622627.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/118771331_3307587225988810_8104136484730855699_n.jpg?_nc_cat=110&ccb=2&_nc_sid=9e2e56&_nc_ohc=Ft6icl7-L2cAX_eQe1F&_nc_ht=scontent.fepa11-1.fna&oh=b00ce9d5b4f994d183ef128549f4ca4b&oe=6016CAF0" group-title="LOCALES", CANAL 29 QUILMES - 18.1
 http://inliveserver.com:1935/8386/8386/chunklist_w237176165.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="LOCALES", MAGAZINE
-https://g2.vxral-hor.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
+
 
 #EXTINF:-1 group-title="LOCALES", KZO
 https://www.youtube.com/watch?v=sROputO1x54
@@ -1115,8 +1114,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0194
 #EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="RADIO", EL DIARIO DE PRINGLES
 https://streaming.reltid.com.ar/hls/pringles.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100568_Canal_3_Las_Flores_Digital.jpgg" group-title="RADIO", LAS FLORES DIGITAL
-https://inliveserver.com:1936/8436/8436/chunklist_w104689326.m3u8
 
 #EXTINF:-1 tvg-logo="http://laradioteescucha.com/2016/wp-content/uploads/2016/06/logomoviles.png" group-title="RADIO", LA RADIO TE ESCUCHA 91.3 FM
 https://inliveserver.com:1936/14084/14084/chunklist_w1529177501.m3u8
@@ -1151,8 +1148,7 @@ https://wowza.telpin.com.ar:1935/camara-bunge/camara-bunge.smil/chunklist_w40471
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BUNGE Y LIBERTADOR PINAMAR
 https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/chunklist_w696116699_b1344100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.infonecochea.com/wp-content/uploads/2019/12/80269676_10220947284128059_1955026176351141888_o.jpg" group-title="WEB CAM Y CLIMA", NECOCHEA
-https://streaming.reltid.com.ar/hls/neco.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 SANTA CLARA DEL MAR
 https://5f6e1fe8f2d2e.streamlock.net/santaclara/santaclara/chunklist_w675009168.m3u8
@@ -1182,10 +1178,16 @@ https://streaming.reltid.com.ar/hls/sierra.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 PUAN
 https://5f6e1fe8f2d2e.streamlock.net/puan/puan/chunklist_w1564398990.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100568_Canal_3_Las_Flores_Digital.jpgg" group-title="WEB CAM Y CLIMA", LAS FLORES DIGITAL
+https://inliveserver.com:1936/8436/8436/chunklist_w104689326.m3u8
+
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", WORLD LIVE
 https://www.youtube.com/watch?v=9SjA-mKutVU
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102655_Dreiko_TV.png" group-title="INFANTIL", DREIKO TV
-https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1138477104.m3u8?WebM3UCL
+L
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="LOCALES", MAGAZINE
+https://g2.vxral-hor.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
 
