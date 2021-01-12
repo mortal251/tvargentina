@@ -4,7 +4,6 @@
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="LOCALES", IP - 24.5
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="LOCALES", Cronica HD - 24.4
 https://g3.mc-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
@@ -26,32 +25,26 @@ https://www.youtube.com/watch?v=Lnsp9CFTIh4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="LOCALES", Canal de la Ciudad
 http://g4.vxral-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES", CANAL ENCUENTRO - 22.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w1733579940.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA HD - 36.1
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg" group-title="LOCALES", TV PUBLICA - 23.2
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES", CANAL 9 - 35.1
-https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEwNDU3NDYwLCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIzMS41Ny4yMDMuMTQ3IiwiMjgwMDo4MTA6NDczOjdlZjpiOWFlOmE4Yjg6NGFmNDphOWZmIl19LCJzaWduYXR1cmUiOiIzYzYwYTgyNTQ3ZTNmMzhjMzk3NzZjMDNlMDllYWU3N2NlZjBkMzA0In0%3D
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEwNTQ0ODgwLCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6N2VmOjE0ZGI6OTg3MjplZjA4OmI1MGUiLCI2NC4yMzcuMjMwLjUzIl19LCJzaWduYXR1cmUiOiJhZjY0ZWQzZTliMzA3ZGNlMTU2YzQyMzFkNjY5NjgyNDM5ZThkZjI0In0%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpMFXPY7VlYLos0DgUQBr4Gm2DNeHkdeMgYX5cJJS7GScjTODlDV8KmqwvkyChxUIKl5o1uedVBylmu0oHLJ-jvdpQFoiTcAFrZF6qwP6grKPQVuVmd6kX7LuiTdiquFNt9bwMex4tFhITqvR8fMDP-5DdnMwsU0WiFPt6ogbCkj3j1zL76jWPEOuAQy6LggQ3PdOeyMhotZ7qrWWe3KAqhwiMyQXd6y0EvToE6lOjxq3Tb4uvUk_etIvhLOr2ppA3z6F3coXmkuBRZlwnhZ4chJuK3oSAyCkx_BrkmuEdVrWtPdJkAPUOqVdDm9c24GkuDDif23lkT5yI91agHH-avFHnxWFtS_OEaThcO9-zA0J9TEHxWZbNu9Q6fgHluWoI_Fo2rDPNksGZzCtGpJLitgkGJZliAwkny6wONKOFMWuNu166AGCjmqXKDf_6G4-PsybxxP72goWbeo-541PNYzt0GOBoRcE0AdKCDYaICo4DV4spzE8Wt-G9DMYZbLHFafthYXFNm211b3ZDKHmzE1vm7_OkA_o-3SKFVi_GX34xAFH65j_3EoiU_XYnnZIlKKVosioWvGuiC8gavAYQi2VfjATfOXMtiOjApfZ189nJwB14ImAOIKOu2-RuKMcbIXsGAI5bft68dGLYFQgcRn5eRq24cjb_6sKvEvoN8Vkk5ePT94FgzhUcXW72aa8GG3Vx24p3UDEnMKDobsq6xejCkvxddQIdMIlbQJ-CLKneg-4ONAoivk3nRKNGKv1FdxYuBIPGOpSexZmMcV8n9hmiSwRozh8OMsfgw50BdVE9TbjpKKg_DJNRVkJ7elqRg9-ejI0xOIvbdPphiYo42N8hqKKm0eRALPigT5z6JH8l621uUSECl-ISrLBsekV1SSNABSQVQaDCT6b98IzohsrNM77g.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpIFkWElu0nqdKNLHRU_jqABH57D9WI4AKcPyDBadg-rpjChT1wAaZze2xfpGtzAU8zYOEl2iQ_KJ8Nqp6RrSIm_6Lk3udS7rTAn1WDUJZ_X9FWD4JsT1jqDE1QIVlnRXpblksDqtX63A9QuspS7BFQTu-bdKWVNKYBM_qXDvJFWW9bOlyTb5HohQNmRyNiAxXZlqa_tpvxZEx931amfbcxzogAUF-ecHu-FF69bOdUgqXKEuip8KHnje3RJRyjFH9Xtd0nX-FVWp08Iw4F6cK3Z4xyhSfaH3gD110k4GzqP2MGkcGrkYdXklCvjQs1yVWRBe8245dccoNMRgBRyflVO67LkLCsX6Ilko_JQzAFkfXJ6RQ9S_umHm-R-tcWvyvhzvne8NjUpLVOXowylDarOmxrFrkRNkcGw7W89Y9Wx_ypVfPZg-KvAiRUtejUSf4D-QG1_QFR6kU1vvc3N9PsMUesjhTlPmnaeI83JEsFae1j1qVegVKo1joyzMXSI7dPhnTewnoAQgyC05oV3apBFFRi8bBtQwPtVRRGhQYfk3S1IyiidOITC-vS-n6qF584ZtlBTLYi8JUd288Ggpp7rbBygwNGxOk7qyXNRNa-V-ing1CxDGx17wCwZXtEE2j5QiHZmeypAbqT2YEJxgYB9SQZGlzHMs0RU2U9EFCaalLsQZ9opCJOtqTksbpQU30q62wM5x8PcyBkroBDeFxVprKZV04B004xonizAZD12c8H2tnxx7LYc_pSHih__1OWs4NuMANqHePnVxMfLnQPVd-eoe5T1EY2WBhgN_clX7AJ_cIEmuc86r8iP5jBWtU9be3WucyMiVav0NIHKjLLbiPH3TSiz5aqgiZ7qlao3RI5_TBIQuJHqMI_d5QrvfRF644cXrhoMt_q_cAXzFLw2G2a5.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES", NET TV - 27.2
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU" group-title="INFANTIL", PAKA PAKA - 22.2
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w190057400.m3u8
@@ -68,8 +61,6 @@ https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w165695631
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbrP181dXPviq5QieC9sOlZjtt5OduLcOspQ&usqp=CAU" group-title="INFANTIL", DRAGON BALL
 http://89.105.194.59:25461/live/spen!$F10$/spen!$F10$/69.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg" group-title="LOCALES", MIRADOR - 22.3
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w678055608.m3u8
 
@@ -85,8 +76,6 @@ http://inliveserver.com:1935/8386/8386/chunklist_w237176165.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="LOCALES", MAGAZINE
 https://g2.vxral-hor.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
 
-
-
 #EXTINF:-1 group-title="LOCALES", KZO
 https://www.youtube.com/watch?v=sROputO1x54
 
@@ -99,18 +88,11 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m
 #EXTINF:-1 tvg-logo="https://www.bitacine.com/wp-content/uploads/2015/04/BitaCine-BORRADOR-Series-y-Cine-1.png" group-title="CINE Y SERIES", PELICULAS
 http://lavozdetucuman.com/peliculas1.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://www.kanadetv.com/imgs/loco/logo_white.png" group-title="INFANTIL", KANADE TV
 http://207.246.84.143:8080/hls/Kanade.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", Locomotion
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-
-
-
-
-
 
 #EXTINF:-1 group-title="LOCALES", DTV DIPUTADOS TELEVISION
 https://www.youtube.com/watch?v=r8I7EJwIn00
@@ -127,9 +109,9 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="DEPORTE", DEPORTV - 24.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TYC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
@@ -140,20 +122,16 @@ https://sv.tsnt.xyz/espn/espn2o_sur.m3u8?dd.m3u8NjY2MzgwNzM=
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
 https://sv.tsnt.xyz/espn/espn1o_sur.m3u8?ul9t7g
 
-
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w78966593_b1296000_sleng.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTE", TENIS CHANNEL
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
-
 #EXTINF:-1 group-title="DEPORTE", AMERICA SPORT
 https://www.youtube.com/watch?v=1SmKEIpmcLU
+
+
 
 
 
@@ -163,6 +141,7 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w6075150
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jE3Rb32vLEQ/XjtGJpQeqWI/AAAAAAAAvp4/P09Q1wK1oCwNhEhncQUUSJDGFBZzjErCwCK8BGAsYHg/s0/2020-02-05.png" group-title="MUSICA", Terramia TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
+
 
 
 
@@ -270,6 +249,7 @@ https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", Canal 4 San Juan
 http://streamyes.alsolnet.com:1935/canal4sanjuan/live/playlist.m3u8?PlaylistM3UCL3
+
 
 
 
