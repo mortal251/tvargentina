@@ -741,24 +741,13 @@ https://panel.tuvideostreaming.com:19360/8002/8002.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", XAMA SAN JUAN
-https://ny1.stweb.tv/unisanjuan/live/chunklist_w2097976899.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
-https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s88-c-k-c0x00ffffff-no-rj" group-title="LOCALES", CNR TV JUJUY
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0155
 
 #EXTINF:-1 tvg-logo="https://www.trutv.com.ar/wp-content/uploads/2018/05/logro-tru.png" group-title="LOCALES", Television Regional Unimar
 https://vivo.solumedia.com:19360/trutv/trutv.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStlnFPjVRcWdMwQ9iitZXLF63xf3Ai-9JXsA&usqp=CAU" group-title="LOCALES", CTVO VILLA OCAMPO SANTA FE
-https://inliveserver.com:1936/8050_1/8050_1/chunklist_w792587498.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg" group-title="LOCALES", CANAL 10 SENILLOSA
-https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w563112316.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
@@ -1190,4 +1179,19 @@ https://g2.vxral-hor.transport.edge-access.net/a09/ngrp:magazine_live01-100083_a
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/118771331_3307587225988810_8104136484730855699_n.jpg?_nc_cat=110&ccb=2&_nc_sid=9e2e56&_nc_ohc=Ft6icl7-L2cAX_eQe1F&_nc_ht=scontent.fepa11-1.fna&oh=b00ce9d5b4f994d183ef128549f4ca4b&oe=6016CAF0" group-title="LOCALES", CANAL 29 QUILMES - 18.1
 http://inliveserver.com:1935/8386/8386/chunklist_w237176165.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", XAMA SAN JUAN
+https://ny1.stweb.tv/unisanjuan/live/chunklist_w2097976899.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
+https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s88-c-k-c0x00ffffff-no-rj" group-title="LOCALES", CNR TV JUJUY
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0155
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStlnFPjVRcWdMwQ9iitZXLF63xf3Ai-9JXsA&usqp=CAU" group-title="LOCALES", CTVO VILLA OCAMPO SANTA FE
+https://inliveserver.com:1936/8050_1/8050_1/chunklist_w792587498.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg" group-title="LOCALES", CANAL 10 SENILLOSA
+https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w563112316.m3u8
 
