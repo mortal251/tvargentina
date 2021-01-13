@@ -407,7 +407,7 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w135344
 https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1610457279~exp=1610633679~acl=/i/canal11salta_1@722934/*~hmac=ccac98a6f35a731ac30b97d918c296ab9ae32c8d585cde1e2fc0eca992d980c6
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png/133px-Telefe_Neuqu%C3%A9n_%282018%29.png" group-title="LOCALES", TELEFE NEUQUEN
-https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1610368533~exp=1610544933~acl=/i/canal7neuquen_1@751158/*~hmac=992850fcf5e7edefacf51a1ce6b3bc16a1815ce5e36a80e45b3c30e0092960d7
+https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1610548337~exp=1610724737~acl=/i/canal7neuquen_1@751158/*~hmac=d575045c52c98dc5f06199798b31a16cd2c97151ee67c5eea9ac3c5ba26e43e6
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/133px-Telefe_Tucum%C3%A1n_%282018%29.png" group-title="LOCALES", TELEFE TUCUMAN
 https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1610457150~exp=1610633550~acl=/i/canal8tucuman_1@787002/*~hmac=833e23490ba8cf6171f17ca0ee55945b0c0bedcd97debf50c21477871b8ca59c
