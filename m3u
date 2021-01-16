@@ -318,6 +318,9 @@ http://tvretropalmares.com:8090/hls/envivo.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://www.canal74.cl/wp-content/uploads/2020/05/canal74logo-1.png" group-title="CINE Y SERIES", 74 TV
 https://stmv1.zcastbr.com/canal74hd/canal74hd/chunklist_w333835106.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/98882_Geovision.jpg" group-title="CINE Y SERIES", GEOVISION
+https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/chunklist_w1981183958.m3u8?WebM3UCL
+
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV_Series.png" group-title="INFANTIL", CACHIPUM TV
 https://tls.cdnz.cl/cachipuntv/live/chunklist_w1195011282.m3u8?WebM3UCL
 
@@ -742,17 +745,14 @@ https://panel.dattalive.com/tsnnecochea/tsnnecochea/chunklist_w420557208.m3u8
 https://panel.tuvideostreaming.com:19360/8002/8002.m3u8
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg" group-title="LOCALES", CANAL 10 SENILLOSA
 https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w563112316.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
 https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.trutv.com.ar/wp-content/uploads/2018/05/logro-tru.png" group-title="LOCALES", Television Regional Unimar
+https://vivo.solumedia.com:19360/trutv/trutv.m3u8
 
 
 
@@ -1203,8 +1203,7 @@ https://panel.dattalive.com/8012/8012/chunklist_w1492926011.m3u8
 #EXTINF:-1 tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2020/12/logo-web-retina-ok-si-300x99.png" group-title="LOCALES", CANAL 4 ESQUEL
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0109
 
-#EXTINF:-1 tvg-logo="https://www.trutv.com.ar/wp-content/uploads/2018/05/logro-tru.png" group-title="LOCALES", Television Regional Unimar
-https://vivo.solumedia.com:19360/trutv/trutv.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="RADIO", CATRIEL NOTICIAS
