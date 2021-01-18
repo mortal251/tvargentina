@@ -221,6 +221,9 @@ http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="LOCALES", 9LINK CHACO
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png" group-title="LOCALES", CANAL 2 SANAGASTA
+https://stmv1.srvif.com/canal2/canal2/chunklist_w1598891661.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg" group-title="LOCALES", Fenix La Rioja
 http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
@@ -373,13 +376,8 @@ https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
 #EXTINF:-1 group-title="MUSICA", CLASIC MUSIC PIANO
 https://www.youtube.com/watch?v=OowUi602GdU
 
-
-
-
 #EXTINF:-1 tvg-logo="https://onradiochile.cl/wp-content/themes/onair2/img/play.png" group-title="MUSICA", ON RADIO KPOP CHILE
 https://tls.cdnz.cl/onradio4/live/chunklist_w676363120.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA", RETROPLUS TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w110532990.m3u8?WebM3UCL
@@ -399,13 +397,16 @@ https://cu.onliv3.com/livevd/user1_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="MUSICA", V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/67657013_2493383847561162_8934152675763683328_n.png?_nc_cat=101&ccb=2&_nc_sid=85a577&_nc_ohc=8pI1fWuJFOgAX-TLXX0&_nc_ht=scontent.fepa11-1.fna&oh=314191001452db5ce9e99daed5f3bf3e&oe=60257494" group-title="MUSICA", TU MUSICA HD
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logog.png" group-title="MUSICA", FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="MUSICA", CHILECITO TV
+https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/canal-rural-tv.png" group-title="LOCALES", RURAL TV
