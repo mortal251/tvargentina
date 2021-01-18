@@ -76,7 +76,8 @@ http://inliveserver.com:1935/8386/8386/chunklist_w237176165.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="LOCALES", MAGAZINE
-https://g2.vxral-hor.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u
+https://g2.vxral-hor.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
+
 
 #EXTINF:-1 group-title="LOCALES", KZO
 https://www.youtube.com/watch?v=sROputO1x54
