@@ -980,6 +980,9 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/131935763_105597551438190_1918370879810546414_n.png?_nc_cat=105&ccb=2&_nc_sid=85a577&_nc_ohc=ZZMkXQCxF8gAX9_aimA&_nc_ht=scontent.fepa11-1.fna&oh=5ad76c4d45b1415f1e9e28e99c77b627&oe=601FF375" group-title="RELIGION", SUBLIME GRACIA TV
 https://vivo.solumedia.com:19360/sublime/sublime.m3u8
 
+#EXTINF:-1 tvg-logo="https://jtamendoza.com/images/icon_144.png" group-title="RELIGION", JTA TV 21.1 MENDOZA
+https://vps230094.vps.ovh.ca:5443/LiveApp/streams/393652112954910559315368.m3u8?token=null
+
 
 
 
@@ -1133,8 +1136,7 @@ https://panel.dattalive.com/8098/8098/chunklist_w1299609230.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTawQavXm0sl9VVZanpEdf3JcdaWm62b-7ZLA&usqp=CAU" group-title="RADIO", RADIO CAPICUA  99.3 VILLA MARIA CORDOBA
 https://mediacp.hostradios.com.ar:19360/8066/8066.m3u8
 
-#EXTINF:-1 tvg-logo="https://jtamendoza.com/images/icon_144.png" group-title="RADIO", JTA RADIO MENDOZA
-https://vps230094.vps.ovh.ca:5443/LiveApp/streams/393652112954910559315368.m3u8?token=null
+
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", WORLD LIVE
 https://www.youtube.com/watch?v=9SjA-mKutVU
