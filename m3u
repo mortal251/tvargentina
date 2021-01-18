@@ -133,6 +133,11 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 #EXTINF:-1 group-title="DEPORTE", AMERICA SPORT
 https://www.youtube.com/watch?v=1SmKEIpmcLU
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTE", TNT SPORT
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/kqfqxg.m3u8?s=9z93KqfCtaWHIR7N96pbPg&e=1610998501
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="DEPORTE", FOX SPORT PREMIUN ARG
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/nqr8ua5ep6t.m3u8?s=pq0lD4297s5n5xgqMM4jBw&e=1610998650
 
 
 
