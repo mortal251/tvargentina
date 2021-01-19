@@ -45,7 +45,6 @@ https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpIFvtiKuEG_FWWDY2da4U7BslT
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES", NET TV - 27.2
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
-8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU" group-title="INFANTIL", PAKA PAKA - 22.2
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w190057400.m3u8
@@ -949,8 +948,7 @@ http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL", GLOBOVISION
 https://www.youtube.com/watch?v=19lwOww2-LU
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Telecafe2017.png" group-title="INTERNACIONAL", TELECAFE
-https://liveingesta118.cdnmedia.tv/telecafelive/smil:live.smil/chunklist_b2000000.m3u8
+
 
 
 
@@ -1113,7 +1111,7 @@ https://clientes.videostreaming.ar:19360/radioamplitud/radioamplitud.m3u8
 https://clientes.videostreaming.ar:19360/fmzetaradio/fmzetaradio.m3u8
 
 #EXTINF:-1 tvg-logo="http://fmtrujui.com/wp-content/uploads/2018/08/logo_normal_mobile-1.png" group-title="RADIO", FM 100.1 TRUJUI
-https://inliveserver.com:1936/14102/14102/chunklist_w2019086911.m3u8
+https://inliveserver.com:1936/14102/14102/chunklist_w1509303225.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fantastica1017.com.ar/images/logoOK.jpg" group-title="RADIO", FM FANTASTICA FM 101.7 FM
 https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
@@ -1148,8 +1146,7 @@ https://panel.dattalive.com/8098/8098/chunklist_w1299609230.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTawQavXm0sl9VVZanpEdf3JcdaWm62b-7ZLA&usqp=CAU" group-title="RADIO", RADIO CAPICUA  99.3 VILLA MARIA CORDOBA
 https://mediacp.hostradios.com.ar:19360/8066/8066.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/98270925_3045740575464478_4229091096203886592_n.jpg?_nc_cat=108&ccb=2&_nc_sid=09cbfe&_nc_ohc=jYYv6ohyk3kAX80UfTh&_nc_ht=scontent.fepa11-1.fna&oh=a60c69c884eaa720fa6e429d906364ca&oe=602B95B1" group-title="RADIO", FM 93.1 MONTE CASEROS
-https://tna5.bozztv.com/RADIO2MC/index.m3u8
+
 
 
 
