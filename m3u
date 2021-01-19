@@ -35,7 +35,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES", CANAL 9 - 35.1
-https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjExMDU5ODA2LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6N2VmOmJjMTA6Y2IyYjpmNzI4OjUxMzAiXX0sInNpZ25hdHVyZSI6ImVmODNiYjhmNGRlNDZhNGQ5OWViMjBkM2NlNjE3YWZkNDFlYjE1NTIifQ%3D%3D
+https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjExMTcwNDk0LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiJiZTZjMjI4NWVlMmJjNjc4YWJiN2NlN2ExNmI1MzZmMTY5MjE5MDcxIn0=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0046
@@ -881,7 +881,7 @@ https://www.youtube.com/watch?v=aqPIiyPI10c
 https://www.youtube.com/watch?v=JbKgQhFlMdU
 
 #EXTINF:-1 group-title="INTERNACIONAL", MEGANOTICIAS CHILE
-https://www.youtube.com/watch?v=Et4i_BymLGQ
+https://www.youtube.com/watch?v=Y7XnBmV6InE
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83643_Arirang.png" group-title="INTERNACIONAL", ARIRANG KOREA
@@ -952,7 +952,7 @@ http://51.52.156.22:8888/http/004
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL", GLOBOVISION
-https://www.youtube.com/watch?v=19lwOww2-LU
+https://www.youtube.com/watch?v=MdbOvvYof0Q
 
 
 
