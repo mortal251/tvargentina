@@ -136,12 +136,11 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 #EXTINF:-1 group-title="DEPORTE", AMERICA SPORT
 https://www.youtube.com/watch?v=1SmKEIpmcLU
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTE", TNT SPORT
-https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/kqfqxg.m3u8?s=k6MP2eT2MlQF3O_hzOztzQ&e=1611171081
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" group-title="DEPORTE", TNT SPORT
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/kqfqxg.m3u8?s=3paC3G1_REiW2RirSg47BQ&e=1611250514
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="DEPORTE", FOX SPORT PREMIUN ARG
-https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/nqr8ua5ep6t.m3u8?s=nLPNreqwBCGhm-YkwUdKKQ&e=1611170981
-
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/nqr8ua5ep6t.m3u8?s=7t5BBHLDjrVEJpPnX1zT5w&e=1611250368
 
 
 #EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png?3" group-title="MUSICA", Music Top
