@@ -31,8 +31,10 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w173357994
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA HD - 36.1
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg" group-title="LOCALES", TV PUBLICA - 23.2
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
+
+
+#EXTINF:-1 group-title="LOCALES", TV PUBLICA - 23.2
+https://www.youtube.com/watch?v=fm58cvmeADY
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES", CANAL 9 - 35.1
 https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjExMzE0NTgxLCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6N2VmOmQ5MTk6ZWMzYzphNzZmOjQxNjQiLCIxOTAuMy4zMC4xMDUiXX0sInNpZ25hdHVyZSI6IjA5MjU5ZjExNzdkMGUwYjdjZTc3MjgzNDI3YzkzMTVkODY4YTY4NDgifQ%3D%3D
@@ -1245,6 +1247,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0027
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo_elonce_tv_2019.png.jpg/177px-Logo_elonce_tv_2019.png.jpg" group-title="LOCALES", EL ONCE PARANA
 https://elonce.zapto.org/hls/live_240p1000kbs.m3u8
+
+#EXTINF:-1 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg" group-title="LOCALES", TV PUBLICA - 23.2
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 
 
