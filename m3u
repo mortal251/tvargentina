@@ -238,6 +238,9 @@ http://coninfo.net:1935/13maxhd/live/.m3u8
 #EXTINF:-1 group-title="LOCALES", ONCE PARANA
 https://www.youtube.com/watch?v=9wKhEJCwwFo
 
+#EXTINF:-1 group-title="LOCALES", CANAL 13 SAN JUAN
+https://www.youtube.com/watch?v=3ox0jJEsekg
+
 #EXTINF:-1 tvg-logo="https://i1.wp.com/canalnueve.tv/wp-content/uploads/2019/06/c9_1.png" group-title="LOCALES", CANAL 9 COMODORO RIVADAVIA
 https://live.canalnueve.tv/canal.m3u8
 
@@ -960,8 +963,8 @@ http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="INTERNACIONAL", TV CULTURA BRASIL
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONAL", GLOBOVISION
-https://www.youtube.com/watch?v=MdbOvvYof0Q
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="INTERNACIONAL", FOX NEWS
+https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 
 
 
@@ -1158,12 +1161,11 @@ http://inliveserver.com:1935/14082/14082/chunklist_w1408409646.m3u8
 #EXTINF:-1 tvg-logo="http://rcm88.com.ar/wp-content/uploads/2018/04/cropped-logo-web-1-1.png" group-title="RADIO", RADIO CIUDAD 100.3 FM CORONEL MOLDES
 https://panel.dattalive.com/8098/8098/chunklist_w1299609230.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTawQavXm0sl9VVZanpEdf3JcdaWm62b-7ZLA&usqp=CAU" group-title="RADIO", RADIO CAPICUA  99.3 VILLA MARIA CORDOBA
-https://mediacp.hostradios.com.ar:19360/8066/8066.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="RADIO", CATRIEL NOTICIAS
 https://589ff3c36f7e8.streamlock.net/alastv/alastv/chunklist_w90452060.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTawQavXm0sl9VVZanpEdf3JcdaWm62b-7ZLA&usqp=CAU" group-title="RADIO", RADIO CAPICUA  99.3 VILLA MARIA CORDOBA
+https://mediacp.hostradios.com.ar:19360/8066/8066.m3u8
 
 
 
@@ -1171,8 +1173,6 @@ https://589ff3c36f7e8.streamlock.net/alastv/alastv/chunklist_w90452060.m3u8
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", WORLD LIVE
 https://www.youtube.com/watch?v=9SjA-mKutVU
-
-
 
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM Y CLIMA", 5900 TV CORDOBA
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
@@ -1189,8 +1189,6 @@ https://wowza.telpin.com.ar:1935/camara-bunge/camara-bunge.smil/chunklist_w40471
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BUNGE Y LIBERTADOR PINAMAR
 https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/chunklist_w696116699_b1344100_sleng.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 SANTA CLARA DEL MAR
 https://5f6e1fe8f2d2e.streamlock.net/santaclara/santaclara/chunklist_w675009168.m3u8
 
@@ -1206,11 +1204,6 @@ https://www.youtube.com/watch?v=HbIw193HQpM
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CAMARAS USHUAIA
 https://www.youtube.com/watch?v=tCe8P4CXR7A
 
-#EXTINF:-1 group-title="WEB CAM Y CLIMA", RESISTENCIA - CHACO
-https://www.youtube.com/watch?v=iaZlv5cLwfg
-
-#EXTINF:-1 tvg-logo="https://www.montehermoso.gov.ar/images/logo%20master.png" group-title="WEB CAM Y CLIMA", MONTE HERMOSO
-https://streaming.reltid.com.ar/hls/montedvr5.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sierradelaventana.org/images/stories/logos/logo.png" group-title="WEB CAM Y CLIMA", SIERRA DE LA VENTANA
 https://streaming.reltid.com.ar/hls/sierra.m3u8
@@ -1219,8 +1212,6 @@ https://streaming.reltid.com.ar/hls/sierra.m3u8
 https://5f6e1fe8f2d2e.streamlock.net/puan/puan/chunklist_w1564398990.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100568_Canal_3_Las_Flores_Digital.jpgg" group-title="WEB CAM Y CLIMA", LAS FLORES DIGITAL
-https://inliveserver.com:1936/8436/8436/chunklist_w314802230.m3u8
 
 
 
@@ -1228,13 +1219,7 @@ https://inliveserver.com:1936/8436/8436/chunklist_w314802230.m3u8
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2020/12/logo-web-retina-ok-si-300x99.png" group-title="LOCALES", CANAL 4 ESQUEL
+XTINF:-1 tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2020/12/logo-web-retina-ok-si-300x99.png" group-title="LOCALES", CANAL 4 ESQUEL
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0111
 
 #EXTINF:-1 group-title="LOCALES", KZO
