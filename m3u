@@ -1211,9 +1211,8 @@ https://streaming.reltid.com.ar/hls/monte.m3u8
 #EXTINF:-1 tvg-logo="https://nden.com.ar/uploads/noticias/5/2019/12/20191216131706_logo.jpg" group-title="WEB CAM Y CLIMA", NECOCHEA
 https://streaming.reltid.com.ar/hls/neco.m3u8
 
-#EXTINF:-1 group-title="WEB CAM Y CLIMA", RESISTENCIA CHACO
+#EXTINF:-1 group-title="WEB CAM Y CLIMA", RESISTENCIA - CHACO
 https://www.youtube.com/watch?v=79yE_8yzgSw
-
 
 
 
