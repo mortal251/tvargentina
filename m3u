@@ -95,7 +95,7 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1811294487_b
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bitacine.com/wp-content/uploads/2015/04/BitaCine-BORRADOR-Series-y-Cine-1.png" group-title="CINE Y SERIES", PELICULAS
-http://lavozdetucuman.com/peliculas1.m3u8
+http://lavozdetucuman.com/peliculas1.m3u8  
 
 #EXTINF:-1 tvg-logo="http://www.kanadetv.com/imgs/loco/logo_white.png" group-title="INFANTIL", KANADE TV
 http://207.246.84.143:8080/hls/Kanade.m3u8
