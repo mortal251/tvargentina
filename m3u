@@ -282,12 +282,10 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSje85UeM53ryOshSR3o7E5NyU0euKVAd-xqQ&usqp=CAU" group-title="CINE Y SERIES", FMTV
-https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-movies-tv-en-vivo-271x190.jpg" group-title="CINE Y SERIES", FMTV 2
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/chunklist_w66673837.m3u8?_=1
 
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-movies-tv-en-vivo-271x190.jpg" group-title="CINE Y SERIES", FMTV 2
+https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0X7REz4ISXLJloQhacO1qP2R3vnMm-uncrw&usqp=CAU" group-title="CINE Y SERIES", ZEE TV
@@ -1211,8 +1209,7 @@ https://streaming.reltid.com.ar/hls/monte.m3u8
 #EXTINF:-1 tvg-logo="https://nden.com.ar/uploads/noticias/5/2019/12/20191216131706_logo.jpg" group-title="WEB CAM Y CLIMA", NECOCHEA
 https://streaming.reltid.com.ar/hls/neco.m3u8
 
-#EXTINF:-1 group-title="WEB CAM Y CLIMA", RESISTENCIA - CHACO
-https://www.youtube.com/watch?v=79yE_8yzgSw
+
 
 
 
