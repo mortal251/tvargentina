@@ -253,7 +253,7 @@ https://www.youtube.com/watch?v=vesSRckAX94
 https://live.canalnueve.tv/canal.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-12-Misiones-en-vivo-Online.png" group-title="LOCALES", CANAL 12 MISIONES
-https://g3.vxral-hor.transport.edge-access.net/a12/ngrp:c12_live01-100129_all/c12_live01-100129_720p.m3u8
+https://g4.vxral-hor.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-3-La-Pampa-en-vivo-Online.png" group-title="LOCALES", CANAL 3 LA PAMPA
 https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/chunklist_w740163255_b1480704.m3u8
@@ -805,7 +805,8 @@ https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=161
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES", VEO SANTO TOME
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_360p/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.canal9chabas.com.ar/LOGO%20FACEBOOK%20LIVE.png" group-title="LOCALES", CANAL 9 CHABAS
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpEFrIK3EPHG-CaEbFm8eoD5KEYq35YTdJV8mEwcrwMrWO0ueyrAXC48hHzJ1Kqz9ksGYrfhAP9vDaLI8SY-ijcIhYxPpHC2HFJ5OqB6TQ9jXLmm3X6HtDzFYR6wW80QUEWUTOL2Ii4K27WvNezjTpPqRURxtp-UvXJ4p3jxH6ffTtDA_rN-UDSSUezmSA7rpp8s2z0EGq3mGSDxBXFVjXpCE8AwLBMa2ngMVZVDX1DEQoucKWGaJ9ABdea5m7WLJT30myArTtJgO-fp_H35k4uBRtu2suKblDzT4xtnGmQGTqI_JtW9kNy22lIUb1BH0ylnUwtKLa1jKQTDH9FVVAV5Qdrkved-_ksHoPj2r2hIwGyCNadmR18WCOBF66N1xpIP6Svmg5tbnlUDDzZ-19ZKIXQELPpzzn-UrpVsTu3UEK1unlFEzcwNWDzaTYw7HHnH9eieyuKDjTsGA3VQf6YYorZLWF_j2Q7m2L9L5zikGMexpvuLCbhedwaqcYgCaOuip92fRbjrUFiUfObgFexDmvO1rEOV9gNOp7Zq7TnGmRxN3p3IFp8fS1mPSEcgrUykJ8bLM2bV2egDAjTiVD6_ZgjOWSsSy10tO09te_-HEzG5u8fyKLCWUBOe2BAELXmxr7xv3pbOQmP1qBbBxNbKaGhSbbKB_bUlL8ABJeeeAlSr_WLzvFlBMFu09-bs6A8Tn-jtkNJMIIm8tPkMydvUGHKkHuqxYFN_TdfQ3awXz585ODJixnFCjHiw4NSfjm09iIYPsTAv3p4eUVbdT6kx9i6fiHqDTQwXHoG4aKCnrrQGeJ8rdmhfANQjkaczJq9VZSg09E3y0mbR0uMf5tqsslxWuYLvut33qzXqrCEYbl4PEhDAXpkqXzZH6CUbbkMmd1YYGgxdlUTb3t14Retlz-c.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
