@@ -22,8 +22,10 @@ https://www.youtube.com/watch?v=eO9CLpZlrKc
 #EXTINF:-1 group-title="LOCALES", LN +  - 25.3
 https://www.youtube.com/watch?v=Lnsp9CFTIh4
 
-#EXTINF:-1 group-title="LOCALES", Canal de la Ciudad
-https://www.youtube.com/watch?v=ntxK0tog7lU
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="LOCALES", Canal de la Ciudad
+https://ny1.stweb.tv/gcba/ngrp:live_all/chunklist_w466822703_b946000.m3u8
 
 
 
@@ -39,13 +41,13 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://www.youtube.com/watch?v=fm58cvmeADY
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES", CANAL 9 - 35.1
-https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjExNDQzNjc0LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6N2VmOjQ4MTc6MThkNjplMmY1OjY4ZjMiXX0sInNpZ25hdHVyZSI6ImJhNGVhYjgxZDI2YjQ3ZTIxNjZiOTZlNzk2YTAyMjk4MzMzYmY4NTUifQ%3D%3D
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjExNDk5MjkyLCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiJiYjUzNDY3ZjBhNTYwYWQzYjIzMjJkYzEwZTM2MmIyZjAzNzM3ZmE2In0%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0046
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpIFvEEkmWlu5m8LyjxHi2Bmcf9iTDA0LOVsh2SktHRY2hGryPOD6v3hVRnk0k2-6gmSHRh30g8PntASJZkAIVbu-I3thq9DwLUYwbN6pJK_DczhAmjqmvu-FB7sl0nsmSwUakB_oLQsbH2K4FJnlldX2RuXDahn9TsHcn8oVU3Co0WuKXbzXeobbuTVWrXmeHllOGillmIKBIDm7-uSHvbu7guzFOhW2I2WdO8ax3_-Vd_42KcBuL3c8dyynvv3fvKlA8YQ40xVkWTmA4zHt-etBY_s6TIXcu7Rjtfj65ogvAVBJYrgz4OGhtHU84yXL98ZO98d7nZxtbPrybQ03iwJu7JikYMtgCYwddBFzT_oTFZyim0g_TFi4ZDAMd18X59x92odLUB-DymVATxai4_rtVYp3OpeQwyUl4K1SttJzWkFeGhkYcxtTy7Rf6mEJVCpvjyGbVyrTdfzmU5uS7kl5EnH9tX0sAFPBUZ-YLVcqxl3qzOlUkkuL_j45cJ_e0M4ItXshfXeAQlz1QUS9loWjb-A22hyXbcgLCxs6rLxZ3uDgOVGcA3ZZCMPvyAapMsZmw5VxySQtwfri6Q7zo0mHym71hE6B220VWKlizB-9mUWe91JS5qvh3v7kwanOhIpl7V7LnriH4Ow12SIZo_wRHce-N0FHuZwYY1AIHe7BrruFmrOV68Dq_Z9UGEl_Y6CX45PXz_byQsHuXMMaoyWvWsexTGNZq51ducIPEoVbVDWq-NTMU24e3Q4rAAsOlpUv2QdJ7GnJGLdObqrseKZQADtUIXV-HAnF31Ps3eSD9ne-Kc8r-RR4mkN5TjZaNAHiTvRQsbg9sLAuSrvpCOCNXEoKJmKZEcZQbhG8oH07V7MyRIQvkbW0-dC7E5Hz1CsZeY_GRoMW4Y97mWuKV9AtiMd.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpMFoCyrjfWohtho67p_y9mcydfoygB0pRfwwbpJ43nZJV9YsmgeqDTjOcmubnTPxFN3soOmbVR-NBlwwU9xBz13w91IHuqD6BJ3a52hsYC-BtZbdrWJKhzbu9Y5SNELIXKfV7CRnT2zhxPI8kTDqtGqq4JQeGI3-ZMnO_zaldKJ5sHGuWnWeoWFmduugehfKHWZf16DVtK7SUSVPTZOi2SsMGV6asT8okngm5OZZybc5Xk_jPoMLrVw1-pOlJNXjTpTYgb3m3ZbsCHaMX4g99pOsmEQiBDs8whsgheXQ0tihytuDmYzEE8SOQlMQyaFUd-5Fi1e9ehqnvqdY1PyeoKWAFGc7-aKByS2S2l3u0BgQkru1q4egCNSnhkZim8n-4cC5c3U2-GxNv9BE8vSZasPlETi4dAbr9xNuXVBBDVn5h6dFYm2w1vV8nFGzMtfdDAFn0uHy5pgYSlj_vZWk72_L6S1MN7OI-b04_qHUyb9W5KMhYZwVwoFkBb0Djs9fzlwKZo_dK2YV30b3E65lTb0nBxj0HGM2QsgjLlEDO6Bxzbco9yaW6P3_wFoTGqoEcsiIQ42amiFl5U6uktUG0_truhwIuwpqWzlIHjroWc-bb_KQ8L-qkNiQjaL0mlrStFHhze241sZQMBHftnWqYP8jYPXfja6akr2F37rU5e_P9Vl04idUu-7fxGCvHBOdy5X3kZyVa_2yeGZcks_FKUc80fRQ7VcBcOoV0h_xAnKLV_xs9z6x3WslGLzU6cRfZMTxuOQKLpg8GWPwxXcdACM0wIJ8hKl4jMbiiYUYMTQyUgXrhYQSQ0o9H6fRouVHyww6LkpJgB-eXIs9aRUu1ff34sSlQMOSdDToMwdCAUfMCW9UXoSEDk6DfhWkhaLMAPQaYBS7xMaDKbSSWtYDpNmXQFe_A.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES", NET TV - 27.2
@@ -110,11 +112,11 @@ https://www.youtube.com/watch?v=r8I7EJwIn00
 https://g4.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU" group-title="LOCALES", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzYpeA4-oJxDlV34Xfha8HNUXOlqucrQMQQ&usqp=CAU" group-title="LOCALES", VIAJAR TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0027
 
 
 
@@ -138,6 +140,12 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 
 #EXTINF:-1 group-title="DEPORTE", AMERICA SPORT
 https://www.youtube.com/watch?v=1SmKEIpmcLU
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="DEPORTE", FOX SPORT PREMIUN
+http://tv.nousiptv.com:8080/Lucy/123456/4193
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TNT_Sports_Logo_Vertical_%282017%29.png/800px-TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTE", TNT SPORT
+http://tv.nousiptv.com:8080/Lucy/123456/33457
 
 
 
@@ -785,6 +793,12 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 #EXTINF:-1 tvg-logo="http://www.telecreativa.com/logos/enc_TELECREATIVA_movil.gif" group-title="LOCALES", TELECREATIVA LANUS
 https://panel.dattalive.com/8012/8012/chunklist_w1492926011.m3u8
 
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/LogoCTVpng.png" group-title="LOCALES", CONSTRUIR
+http://tv.nousiptv.com:8080/Lucy/123456/29354
+
+EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_volver_p_m.jpg" group-title="LOCALES", VOLVER
+http://tv.nousiptv.com:8080/Lucy/123456/7978
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
@@ -1209,8 +1223,6 @@ https://streaming.reltid.com.ar/hls/sierra.m3u8
 #EXTINF:-1 tvg-logo="http://www.tornquistdistrital.com.ar/wp-content/uploads/2012/07/Logo-Monte.jpg" group-title="WEB CAM Y CLIMA", MONTE HERMOSO
 https://streaming.reltid.com.ar/hls/monte.m3u8
 
-#EXTINF:-1 tvg-logo="https://nden.com.ar/uploads/noticias/5/2019/12/20191216131706_logo.jpg" group-title="WEB CAM Y CLIMA", NECOCHEA
-https://streaming.reltid.com.ar/hls/neco.m3u8
 
 
 
@@ -1223,14 +1235,9 @@ https://streaming.reltid.com.ar/hls/neco.m3u8
 
 
 
-XTINF:-1 tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2020/12/logo-web-retina-ok-si-300x99.png" group-title="LOCALES", CANAL 4 ESQUEL
+
+#EXTINF:-1 tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2020/12/logo-web-retina-ok-si-300x99.png" group-title="LOCALES", CANAL 4 ESQUEL
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0111
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzYpeA4-oJxDlV34Xfha8HNUXOlqucrQMQQ&usqp=CAU" group-title="LOCALES", VIAJAR TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0027
-
 
 #EXTINF:-1 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg" group-title="LOCALES", TV PUBLICA - 23.2
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
@@ -1238,22 +1245,5 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStlnFPjVRcWdMwQ9iitZXLF63xf3Ai-9JXsA&usqp=CAU" group-title="LOCALES", CTVO VILLA OCAMPO SANTA FE
 https://inliveserver.com:1936/8050_1/8050_1/chunklist_w792587498.m3u8
 
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="DEPORTE", FOX SPORT PREMIUN
-http://tv.nousiptv.com:8080/Lucy/123456/4193
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TNT_Sports_Logo_Vertical_%282017%29.png/800px-TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTE", TNT SPORT
-http://tv.nousiptv.com:8080/Lucy/123456/33457
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="LOCALES", Canal de la Ciudad
-http://g4.vxral-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/LogoCTVpng.png" group-title="LOCALES", CONSTRUIR
-http://tv.nousiptv.com:8080/Lucy/123456/29354
-
-EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_volver_p_m.jpg" group-title="LOCALES", VOLVER
-http://tv.nousiptv.com:8080/Lucy/123456/7978
-
-
-
-
+#EXTINF:-1 group-title="LOCALES", Canal de la Ciudad
+https://www.youtube.com/watch?v=ntxK0tog7lU
