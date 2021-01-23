@@ -35,10 +35,10 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w173357994
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA HD - 36.1
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg" group-title="LOCALES", TV PUBLICA - 23.2
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 
-#EXTINF:-1 group-title="LOCALES", TV PUBLICA - 23.2
-https://www.youtube.com/watch?v=fm58cvmeADY
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES", CANAL 9 - 35.1
 https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjExNDk5MjkyLCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiJiYjUzNDY3ZjBhNTYwYWQzYjIzMjJkYzEwZTM2MmIyZjAzNzM3ZmE2In0%3D
@@ -760,7 +760,7 @@ http://190.103.192.6:8080/hls/mystreamkey.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0211
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0214
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjM9L5np1zJaHHi76GKFzOWBPzuOswBWEsnUp7Q=s48-c-k-c0xffffffff-no-rj-mo" group-title="LOCALES", UTN TV SAN CRUZ
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0211
@@ -798,6 +798,12 @@ http://tv.nousiptv.com:8080/Lucy/123456/29354
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_volver_p_m.jpg" group-title="LOCALES", VOLVER
 http://tv.nousiptv.com:8080/Lucy/123456/7978
+
+#EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES", CANAL 10 TUCUMAN
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1611443904&h=264f572dc09a604b902266457dda55a6
+
+#EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES", VEO SANTO TOME
+https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_360p/index.m3u8
 
 
 
@@ -1225,25 +1231,8 @@ https://streaming.reltid.com.ar/hls/monte.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2020/12/logo-web-retina-ok-si-300x99.png" group-title="LOCALES", CANAL 4 ESQUEL
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0111
-
-#EXTINF:-1 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg" group-title="LOCALES", TV PUBLICA - 23.2
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStlnFPjVRcWdMwQ9iitZXLF63xf3Ai-9JXsA&usqp=CAU" group-title="LOCALES", CTVO VILLA OCAMPO SANTA FE
-https://inliveserver.com:1936/8050_1/8050_1/chunklist_w792587498.m3u8
-
 #EXTINF:-1 group-title="LOCALES", Canal de la Ciudad
 https://www.youtube.com/watch?v=ntxK0tog7lU
+
+#EXTINF:-1 group-title="LOCALES", TV PUBLICA - 23.2
+https://www.youtube.com/watch?v=fm58cvmeADY
