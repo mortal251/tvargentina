@@ -27,8 +27,8 @@ https://www.youtube.com/watch?v=Lnsp9CFTIh4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="LOCALES", Canal de la Ciudad
 https://ny1.stweb.tv/gcba/ngrp:live_all/chunklist_w466822703_b946000.m3u8
 
-#EXTINF:-1 group-title="LOCALES", CANAL ENCUENTRO - 22.1
-https://www.youtube.com/watch?v=I5Sinb-YA6I
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES", CANAL ENCUENTRO - 22.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w1733579940.m3u8
 
 
 
@@ -807,13 +807,11 @@ http://tv.nousiptv.com:8080/Lucy/123456/29354
 http://tv.nousiptv.com:8080/Lucy/123456/7978
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1611605008&h=41e537dff898a9888c4fe41180aeac40
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1611695634&h=5d9f2cb6594c51d27eac34530a3163d7
 
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES", VEO SANTO TOME
-https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_360p/index.m3u8
+https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canal9chabas.com.ar/LOGO%20FACEBOOK%20LIVE.png" group-title="LOCALES", CANAL 9 CHABAS
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/Co8FwKenXZCxFqErtvFrkBbcDD2PpkOtIOPFGpZQznPARqHFJznElNTTC5OzcW0HDYFA9b3anDQ9e5mvnewOf1uiZ9q1MpStd8m1qpaQ-DrL8W73vFygqf_aw3cjnafpMVNs69oOT9MTajkeWHxnOUflOQRZO-Bbs6DqcdJOzDU2XXxNWbl-OHiicl8fC0ZI7JOrLGOHr_BcUTuK6bU9Or5rzxPg_nynvokNszjqupzHc7aOsQSHHRm7wr_sjRjCoASyk5s3RuAkRNdjeYyviionTseJTBu1j2tsKdCKMwGfouHY2PaZD07fDMCmsB-I-kDTqC-Bn4qZZ_Ag2A62lyUlWzerVa0EoZw7TgXzMQEYoFhNdQLSYBExKPkXm-AcFOrSh1vCoQ7W8cdmQp3tLM-I8nkDWKKVkXsQ61dlhQ-ju73tsmK814wQAwHDonm87IDX0kOskuU3qYQmwvBDp19-n1Z_VtH1L0Ihins53aIqDE7_b7jSe16ZAfTDaMmSpFsGExph21nG1iQ7PcjQsbhUREj6OBqsOsB6SKI60AHfvP3Bbff8TlOs0Cs69JUPApADabHUhKQzCmMlIwRbvehlPkgQWLc2Pk_whqH8lrTA4_qFHH5Bbo9cL_t-9bKQPFX2PhziOKqb3LTj96v4NIChg1b9tPM4E27l1YLOW5_UKx5SP3rkOLqMjoBzMtqv3EzFC74quMWffFTlX4-17xW5Yy9qfecoPgNHjcSoS08v8oXbfSxAoWc84KBS4F8u6xBQvpWyivXnxcndPrROtgc8xYHV4Lwe7gMhaF8SoE_cvzuDPStfL2_47FWpIMdn017l4iXJ-f3JqNv8YVa6MaS3TDJXZPwhTWvBrC8QW91VCxIQitLjjdJ82SuBQgZODMuKtRoMNeztmrWoreB_PUaY.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
@@ -1239,14 +1237,10 @@ https://streaming.reltid.com.ar/hls/monte.m3u8
 
 
 
-#EXTINF:-1 group-title="LOCALES", Canal de la Ciudad
-https://www.youtube.com/watch?v=ntxK0tog7lU
+
 
 #EXTINF:-1 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg" group-title="LOCALES", TV PUBLICA - 23.2
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES", CANAL ENCUENTRO - 22.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w1733579940.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU" group-title="INFANTIL", PAKA PAKA - 22.2
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w190057400.m3u8
