@@ -203,7 +203,7 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="LOCALES", CANAL 8 SAN JUAN
-https://www.youtube.com/watch?v=sHfUuBimXGI
+https://www.youtube.com/watch?v=3O3LeuXZmGQ
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gU0LdOci1cE/XrYL7uefhAI/AAAAAAAA0h0/N9ww7QKwrrY9kCL4fMrD3mroXZHoYMudACK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES", CANAL 7 JUJUY
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
@@ -235,7 +235,7 @@ http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8?PlaylistM3UCL
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png" group-title="LOCALES", CANAL 2 SANAGASTA
-https://stmv1.srvif.com/canal2/canal2/chunklist_w1598891661.m3u8
+https://stmv1.srvif.com/canal2/canal2/chunklist_w1235544654.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg" group-title="LOCALES", Fenix La Rioja
@@ -249,11 +249,12 @@ https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/playlist.m3u8
 http://coninfo.net:1935/13maxhd/live/.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo_elonce_tv_2019.png.jpg/177px-Logo_elonce_tv_2019.png.jpg" group-title="LOCALES", EL ONCE PARANA
-https://elonce.zapto.org/hls/live_240p1000kbs.m3u8
+
+#EXTINF:-1 group-title="LOCALES", ONCE PARANA
+https://www.youtube.com/watch?v=yRF-H6JEozU
 
 #EXTINF:-1 group-title="LOCALES", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=QSGQz1lBxqw
+https://www.youtube.com/watch?v=ercx7guI4V0
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/canalnueve.tv/wp-content/uploads/2019/06/c9_1.png" group-title="LOCALES", CANAL 9 COMODORO RIVADAVIA
 https://live.canalnueve.tv/canal.m3u8
@@ -363,8 +364,7 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network Stream
 https://www.youtube.com/watch?v=urTdDSueSDI
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102655_Dreiko_TV.png" group-title="INFANTIL", DREIKO TV
-https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1259715161.m3u8
+
 
 #EXTINF:-1 group-title="DEPORTE", HIPODROMO DE PALERMO
 https://www.youtube.com/watch?v=OnW5qGG8fAA
@@ -807,7 +807,7 @@ http://tv.nousiptv.com:8080/Lucy/123456/29354
 http://tv.nousiptv.com:8080/Lucy/123456/7978
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1611695634&h=5d9f2cb6594c51d27eac34530a3163d7
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1611782570&h=8cf29f9ae83be71a43734e30b46462a4
 
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES", VEO SANTO TOME
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
@@ -1079,7 +1079,7 @@ http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w2063503956.m3u8
 http://videostream.shockmedia.com.ar:1935/lightfm/lightfm/chunklist_w998628812.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu9w1RZeP-9qPRH7EEj8WGxlLE2smh1hCv-Q&usqp=CAU" group-title="RADIO", RADIO CENTRO 92.9 VILLA MARIA CORDOBA
-https://mediacp.hostradios.com.ar:19360/8016/8016.m3u8
+https://stmvideo2.livecastv.com/centro/centro/chunklist_w1801160913.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.faep5-1.fna.fbcdn.net/v/t1.0-9/35852518_1982366235170030_5582042344615575552_n.jpg?_nc_cat=109&cb=846ca55b-ee17756f&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeHphhA31kyFI_IV1JcTSCvoMcRLpBPOk2sxxEukE86TawyzxB7-RcyUml6v6YXw_cY&_nc_ohc=02I4BicXyFIAX9djev5&_nc_ht=scontent.faep5-1.fna&oh=f6bd1fe3dfb800c94aeb51cfc058eb93&oe=5FC34C77" group-title="RADIO", CARDINAL TV MIRAMAR CORDOBA
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
@@ -1187,7 +1187,7 @@ https://panel.dattalive.com/8098/8098/chunklist_w1299609230.m3u8
 https://589ff3c36f7e8.streamlock.net/alastv/alastv/chunklist_w90452060.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTawQavXm0sl9VVZanpEdf3JcdaWm62b-7ZLA&usqp=CAU" group-title="RADIO", RADIO CAPICUA  99.3 VILLA MARIA CORDOBA
-https://mediacp.hostradios.com.ar:19360/8066/8066.m3u8
+https://stmvideo2.livecastv.com/capicua/capicua/chunklist_w219207970.m3u8
 
 
 
@@ -1224,7 +1224,7 @@ https://5f6e1fe8f2d2e.streamlock.net/lacosta/lacosta/chunklist_w555218362.m3u8
 https://5f6e1fe8f2d2e.streamlock.net/puan/puan/chunklist_w1564398990.m3u8
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CANAL BEAGLE - USHUAIA
-https://www.youtube.com/watch?v=joepayWaa40
+https://www.youtube.com/watch?v=e7LGfcOaYyM
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CAMARAS USHUAIA
 https://www.youtube.com/watch?v=tCe8P4CXR7A
@@ -1235,14 +1235,9 @@ https://streaming.reltid.com.ar/hls/sierra.m3u8
 #EXTINF:-1 tvg-logo="http://www.tornquistdistrital.com.ar/wp-content/uploads/2012/07/Logo-Monte.jpg" group-title="WEB CAM Y CLIMA", MONTE HERMOSO
 https://streaming.reltid.com.ar/hls/monte.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo_elonce_tv_2019.png.jpg/177px-Logo_elonce_tv_2019.png.jpg" group-title="LOCALES", EL ONCE PARANA
+https://elonce.zapto.org/hls/live_240p1000kbs.m3u8
 
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102655_Dreiko_TV.png" group-title="INFANTIL", DREIKO TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1259715161.m3u8
 
