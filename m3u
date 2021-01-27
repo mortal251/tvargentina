@@ -39,8 +39,8 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 
 
-#EXTINF:-1 group-title="LOCALES", TV PUBLICA - 23.2
-https://www.youtube.com/watch?v=fm58cvmeADY
+#EXTINF:-1 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg" group-title="LOCALES", TV PUBLICA - 23.2
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES", CANAL 9 - 35.1
@@ -56,8 +56,8 @@ https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpQFzhS1Nz7huEAAOC0M0vB0atN
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES", NET TV - 27.2
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="LOCALES", PAKA PAKA - 22.2
-https://www.youtube.com/watch?v=foTAdsY-p8I
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU" group-title="INFANTIL", PAKA PAKA - 22.2
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w190057400.m3u8
 
 
 
@@ -1239,11 +1239,9 @@ https://streaming.reltid.com.ar/hls/monte.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg" group-title="LOCALES", TV PUBLICA - 23.2
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU" group-title="INFANTIL", PAKA PAKA - 22.2
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w190057400.m3u8
+
+
 
 
 
