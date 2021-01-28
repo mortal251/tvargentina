@@ -347,6 +347,9 @@ https://stmv1.zcastbr.com/canal74hd/canal74hd/chunklist_w333835106.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/98882_Geovision.jpg" group-title="CINE Y SERIES", GEOVISION
 https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/chunklist_w1981183958.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115431_G_Vision.png" group-title="CINE Y SERIES", G VISION
+https://tls.cdnz.cl/escgabrielamistral/live/chunklist_w1505791736.m3u8?WebM3UCL
+
 
 
 
@@ -847,6 +850,9 @@ http://190.122.96.187:8888/http/006
 
 #EXTINF:-1 group-title="MODA Y SOCIEDAD", Amazing Creative Cake Decorating Ideas
 https://www.youtube.com/watch?v=yN44qpoJNN4
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/90570_TV_Salud.png" group-title="MODA Y SOCIEDAD", TV SALUD
+https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2049380939.m3u8?WebM3UCL
 
 
 
