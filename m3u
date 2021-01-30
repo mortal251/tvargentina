@@ -52,8 +52,7 @@ https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhw
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0046
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpMFf0OL3r0Owku0dclkMrJsDLY_9mchTQ0Id9iMVZSzge-8BT8pWWOEhGXUtfP6EadVC3opVEQkOQeX1L9JaYUBfE0xdLSbB8zvj00TkrVcOgvLi9Ig9VJpQ7uoQQC5E8fzUo89bNlTBKlZ6ndzdyzfNO5t7Ag6CbHMFmJIeSAy99WmbD4eq7FxvaocI7BLa9Fmh6m6UPyOUOmDL7JGui1Zenf1kP4cSnahhppmCfuWvWXv3mHvOjFosrkMfHDcKHHEmJ2xs1dqkBBXSrXRBaeFn3sixmbWhM83w_o61ciCVDiBWk2dYtqftestUQVpTlM1mciO-psKuNW8C5cUFlzrjvvb5okTw3DBDjibAenNB_0kyXxHCHDmZYneJldHdXzgLhwsC9J58oDREulAS7nQZEVGabgEX9hc5NPdR1n34zSk2QeHJuQF-T7GwVKvQhTeJYHvtL8gs9uo-ArDMYgYITpZOngUyXEDyIsZcd-7nTwcgJbWj8N3MYmZvkhRqCf1qyXij2NtyCw-RYBFfvKAebNlTXgm0MySh0A_y2dPhX-aSeew-EvDDBq5h5i3Cyg7SYNU18V7guQr_IgKiRnTgFtcrXnCkEBEA2JgnZ5wxWDKDaqdOmAWNRKkfLiyd8l89_2eswSLmZ4vzvlgsJZmZ0k_n0p7PdOxzIoB7UMOR7CMklZodk3UgKoB_sCfgR3BoNhXawr-UiwP9B5x0aKdT4tWjXWg1_7x9pXNTxEeIYY8GHDj6KR5nCMesvyEv5gupJ7KrYRyBq8eXg1yx9M-3La4gWkXNxG0Z3cdBtT0y6u_v9KVLge1EozhPUMI2MdYK-gqwOI4lU8QAUqsA1L_6l-Br6inWWKHy1WiCQ_QrkauKn0SEMmIjwFHg0ry8ReUl517UZ0aDKsw5nQp3Z77q8g47Q.m3u8
-
+http://tv.nousiptv.com:8080/Lucy/123456/7431
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES", NET TV - 27.2
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -93,7 +92,8 @@ https://g2.vxral-hor.transport.edge-access.net/a09/ngrp:magazine_live01-100083_a
 #EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_360p/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/LogoCTVpng.png" group-title="LOCALES", CONSTRUIR -23.3
+http://tv.nousiptv.com:8080/Lucy/123456/29354
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="LOCALES", TELEMAX - 26.3
@@ -104,6 +104,9 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m
 
 #EXTINF:-1 tvg-logo="https://www.bitacine.com/wp-content/uploads/2015/04/BitaCine-BORRADOR-Series-y-Cine-1.png" group-title="CINE Y SERIES", PELICULAS
 http://lavozdetucuman.com/peliculas1.m3u8  
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_volver_p_m.jpg" group-title="LOCALES", VOLVER
+http://tv.nousiptv.com:8080/Lucy/123456/7978
 
 #EXTINF:-1 tvg-logo="http://www.kanadetv.com/imgs/loco/logo_white.png" group-title="INFANTIL", KANADE TV
 http://207.246.84.143:8080/hls/Kanade.m3u8
@@ -145,6 +148,12 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 
 #EXTINF:-1 group-title="DEPORTE", AMERICA SPORT
 https://www.youtube.com/watch?v=1SmKEIpmcLU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTE", TNT SPORT
+http://tv.nousiptv.com:8080/Lucy/123456/4193
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="DEPORTE", FOX SPORT PREMIUN ARG
+http://tv.nousiptv.com:8080/Lucy/123456/33457
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="DEPORTE", DIRECTV SPORT
 http://tv.nousiptv.com:8080/Lucy/123456/33512
@@ -274,6 +283,7 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-C_wI8P7fPY4/XrYSA1hre4I/AAAAAAAA0jM/fPA9M7hoGeYRd2DAHtOIvQzlFlF0ezrbACK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES", TV Publica Fueguina
 https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", Canal 4 San Juan
 http://streamyes.alsolnet.com:1935/canal4sanjuan/live/playlist.m3u8?PlaylistM3UCL3
@@ -431,6 +441,7 @@ https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logog.png" group-title="MUSICA", FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="MUSICA", CHILECITO TV
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
@@ -801,11 +812,9 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 #EXTINF:-1 tvg-logo="http://www.telecreativa.com/logos/enc_TELECREATIVA_movil.gif" group-title="LOCALES", TELECREATIVA LANUS
 https://panel.dattalive.com/8012/8012/chunklist_w1492926011.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/LogoCTVpng.png" group-title="LOCALES", CONSTRUIR
-http://tv.nousiptv.com:8080/Lucy/123456/29354
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_volver_p_m.jpg" group-title="LOCALES", VOLVER
-http://tv.nousiptv.com:8080/Lucy/123456/7978
+
+
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES", CANAL 10 TUCUMAN
 https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1612052339&h=1cee46063e7c494d01c34bc2eddba23a
@@ -1265,6 +1274,8 @@ http://videostream.shockmedia.com.ar:1935/mediadoroficialtv/_definst_/mediadorof
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1143954653/66993_163849490308516_100000503985212_473029_5369149_n.jpg" group-title="LOCALES", EPS BRAGADO
 https://inliveserver.com:1936/8012_1/8012_1/chunklist_w283758103.m3u8
+
+
 
 
 
