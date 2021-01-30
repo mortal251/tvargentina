@@ -171,7 +171,7 @@ http://45.6.4.50:50601/America_Tucuman/video.m3u8
 https://www.youtube.com/watch?v=gBbMbqILzXU
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/133px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="LOCALES", TELEFE CORDOBA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1611838242~exp=1612014642~acl=/i/canal8cordoba_1@685726/*~hmac=95dbc4c33457b56d5646ad007bdad5bab821c69903a5751d28527e5c696cd6f5
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1612014026~exp=1612190426~acl=/i/canal8cordoba_1@685726/*~hmac=3c02d47bbfd18424d592afbb44a76e593097f0ee4ca8bf52166bac57251d4c6b
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", CANAL 10 CORDOBA
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?PlaylistM3UCL
@@ -194,7 +194,7 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?s
 https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/chunklist_w1452003155.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Telefe_Santa_Fe.png/133px-Telefe_Santa_Fe.png" group-title="LOCALES", TELEFE SANTA FE
-https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1611838278~exp=1612014678~acl=/i/canal13santafe_1@751190/*~hmac=3cdf8038d02dd5e65a3feee930efe06b8082c473c5d49c479b9b1db78dc52d3f
+https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1612013947~exp=1612190347~acl=/i/canal13santafe_1@751190/*~hmac=1587e8c0398406e63066ef9ee1c4a7dcdc36a961697d3107792477d4eeb71d55
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1175110925835284481/wRJimpYE_400x400.png" group-title="LOCALES", 5RTV SANTA FE
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
@@ -452,19 +452,19 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w135344
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/800px-Telefe_Salta_%282018%29.png" group-title="LOCALES", TELEFE SALTA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1611837702~exp=1612014102~acl=/i/canal11salta_1@722934/*~hmac=d148452fb36dbd2083a64c9c152317b6ad5c85f23d238cb5722a9ba9593f4811
+https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1612013554~exp=1612189954~acl=/i/canal11salta_1@722934/*~hmac=8f98740afa0b9bac7b07e330aa0d6adb8453e8827e320cd96a1d598c04737b26
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png/133px-Telefe_Neuqu%C3%A9n_%282018%29.png" group-title="LOCALES", TELEFE NEUQUEN
-https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1611838210~exp=1612014610~acl=/i/canal7neuquen_1@751158/*~hmac=96ae183bb8223d304693230f144f3ac2b9675b2dd959dd9de6fa884c15f422ae
+https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1612014669~exp=1612191069~acl=/i/canal7neuquen_1@751158/*~hmac=24b99d02f81b41706619a6ee861acbd00e6a39439d2e7aaa27bd0ab5970eb285
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/133px-Telefe_Tucum%C3%A1n_%282018%29.png" group-title="LOCALES", TELEFE TUCUMAN
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1611838144~exp=1612014544~acl=/i/canal8tucuman_1@787002/*~hmac=9e78149b08c2d1fe96b6eeccc17f07fc3dd2c829553ef6cac7e920e5355b582e
+https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1612014669~exp=1612191069~acl=/i/canal7neuquen_1@751158/*~hmac=24b99d02f81b41706619a6ee861acbd00e6a39439d2e7aaa27bd0ab5970eb285
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Telefe_Mar_del_Plata_%282018%29.png/133px-Telefe_Mar_del_Plata_%282018%29.png" group-title="LOCALES", TELEFE MAR DEL PLATA
-https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1611838098~exp=1612014498~acl=/i/mdqdistri02_1@829747/*~hmac=10058219e0886e67ea05073d58ad577a9d21e06d5f0ede15fe82424892166b1e
+https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1612014606~exp=1612191006~acl=/i/mdqdistri02_1@829747/*~hmac=d7a34e90f5ccae3a98392959f55b20feb78e53344cc3958b383cd19ab83f116c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Telefe_Bah%C3%ADa_Blanca_%282018%29.png/133px-Telefe_Bah%C3%ADa_Blanca_%282018%29.png" group-title="LOCALES", TELEFE BAHIA BLANCA
-https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1611838662~exp=1612015062~acl=/I/canal9bahiablanca_1@685725/*~hmac=bdf18f4b5f07779683a3f974bc650b69f6e644dd7ba35cc74ab317504c715f04
+https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1611961654~exp=1612138054~acl=/I/canal9bahiablanca_1@685725/*~hmac=b1ebd3af780b2b0d133118f8936a25c8c75002a4490c0aacfa09ff26ebb3cbe6
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="LOCALES", CANAL 7 CATAMARCA
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/chunklist_w1847941210.m3u8
