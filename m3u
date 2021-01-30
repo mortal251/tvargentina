@@ -711,11 +711,7 @@ https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
 #EXTINF:-1 tvg-logo="http://www.crossingcontenidos.com.ar/wp-content/uploads/2020/10/LOGO-CROSSING-IPTV-300x282.png" group-title="LOCALES", CROSSING TV RIO GALLEGOS
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8
 
-#EXTINF:-1 tvg-logo="http://calleangostatv.com/wp-content/uploads/2019/10/logo27.png" group-title="LOCALES", CALLE ANGOSTA SAN LUIS
-http://videostream.shockmedia.com.ar:1935/mediadoroficialtv/_definst_/mediadoroficialtv/chunklist_w198310256.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1143954653/66993_163849490308516_100000503985212_473029_5369149_n.jpg" group-title="LOCALES", EPS BRAGADO
-https://inliveserver.com:1936/8012_1/8012_1/chunklist_w283758103.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1phsO-ubizU/Xjs7vHKVggI/AAAAAAAAvno/rT7oXAbNr_gKAdV3lKdf9tJjftYLEG9-wCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", Quatro TV SANTA FE
@@ -759,7 +755,7 @@ http://186.129.252.150:1935/canal/351/chunklist_w799535828.m3u8
 http://www.coninfo.net:1935/previsoratv/live/chunklist_w457877534.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES", UNIVERSIDAD TV MAR DEL PLATA
-https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL547G0rTqzRiYa3lnfjmVcy7o)/dm/3/x7kvvgi/s/live-1.m3u8
+https://stream-02.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54wb_xbAswYo4kdzbu7NzIvs)/dm/3/x7kvvgi/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="http://canal7.tv/wp-content/uploads/2018/02/canal7-logos-02.png" group-title="LOCALES", CANAL 7 SANTIAGO DEL ESTERO
 https://5975e06a1f292.streamlock.net:4443/envivo/castv/chunklist_w1037436923.m3u8
@@ -816,6 +812,10 @@ https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=161
 
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES", VEO SANTO TOME
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
+
+
+#EXTINF:-1 group-title="LOCALES", TRS24r
+https://www.youtube.com/watch?v=bXv4TxKbAEU
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
@@ -1259,6 +1259,12 @@ http://tv.nousiptv.com:8080/Lucy/123456/3438
 
 #EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2019/12/atv-x1.png" group-title="LOCALES", ATV ARGENTINA
 http://arcast.com.ar:1935/atbargentina/atbargentina/chunklist_w1102858042.m3u8
+
+#EXTINF:-1 tvg-logo="http://calleangostatv.com/wp-content/uploads/2019/10/logo27.png" group-title="LOCALES", CALLE ANGOSTA SAN LUIS
+http://videostream.shockmedia.com.ar:1935/mediadoroficialtv/_definst_/mediadoroficialtv/chunklist_w198310256.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1143954653/66993_163849490308516_100000503985212_473029_5369149_n.jpg" group-title="LOCALES", EPS BRAGADO
+https://inliveserver.com:1936/8012_1/8012_1/chunklist_w283758103.m3u8
 
 
 
