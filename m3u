@@ -650,7 +650,7 @@ https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1982113012.m3
 https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm4lKe3uMzJnjq38A3QLkgbFduVklg1mHu2g&usqp=CAU" group-title="LOCALES", EL ECO TV
-https://5f93e494d5906.streamlock.net/elecotv/elecotv/chunklist_w1065322147.m3u8
+https://5f93e494d5906.streamlock.net/elecotv/elecotv/chunklist_w226316927.m3u8
 
 
 
@@ -674,8 +674,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0246
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0145
 
 
-#EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2019/12/atv-x1.png" group-title="LOCALES", ATV ARGENTINA
-http://arcast.com.ar:1935/atbargentina/atbargentina/chunklist_w1102858042.m3u8
+
 
 
 
@@ -1257,6 +1256,9 @@ http://inliveserver.com:1935/8386/8386/chunklist_w237176165.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES", CANAL 9 - 35.1
 http://tv.nousiptv.com:8080/Lucy/123456/3438
+
+#EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2019/12/atv-x1.png" group-title="LOCALES", ATV ARGENTINA
+http://arcast.com.ar:1935/atbargentina/atbargentina/chunklist_w1102858042.m3u8
 
 
 
