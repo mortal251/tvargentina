@@ -291,8 +291,7 @@ http://streamyes.alsolnet.com:1935/canal4sanjuan/live/playlist.m3u8?PlaylistM3UC
 
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/98871_EvaStream.png" group-title="CINE Y SERIES", EVASTREAM
-https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/chunklist_w191787199.m3u8?WebM3UCL
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
 https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w165756078.m3u8?WebM3UCL
@@ -328,12 +327,15 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w20824752
 #EXTINF:-1 tvg-logo="https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg" group-title="CINE Y SERIES", WMS HD
 https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="CINE Y SERIES", SOL TV
-https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/chunklist_w1124562929_b563840_DVR.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80097_Maxima_Movie.jpg" group-title="CINE Y SERIES", TV MAXIMA MOVIE
+http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/chunklist_w1808691800.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/120437_Huasco_TV.jpg" group-title="CINE Y SERIES", HUASCO TV
+https://paneltv.online:1936/8062/8062/chunklist_w540309538.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102985_Exprezion_TV.png" group-title="CINE Y SERIES", EXPREZION TV
-https://srv3.zcast.com.br/expreszion/expreszion/chunklist_w2079695085.m3u8?WebM3UCL
+https://srv3.zcast.com.br/expreszion/expreszion/chunklist_w2079695085.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="CINE Y SERIES", RETROPLUS SERIES
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w458806239.m3u8?WebM3UCL
@@ -362,6 +364,8 @@ https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/chunklist_w1981183958.m
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115431_G_Vision.png" group-title="CINE Y SERIES", G VISION
 https://tls.cdnz.cl/escgabrielamistral/live/chunklist_w1505791736.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/98871_EvaStream.png" group-title="CINE Y SERIES", EVASTREAM
+https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/chunklist_w191787199.m3u8?WebM3UCL
 
 
 
@@ -441,6 +445,9 @@ https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logog.png" group-title="MUSICA", FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96700_Telemusica.png" group-title="MUSICA", TELEMUSICA
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/chunklist_b448304.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="MUSICA", CHILECITO TV
