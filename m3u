@@ -824,10 +824,11 @@ https://panel.dattalive.com/8012/8012/chunklist_w1492926011.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1612052339&h=1cee46063e7c494d01c34bc2eddba23a
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1612129138&h=3059602bdbb3c22a599bb107f9a5937b
 
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES", VEO SANTO TOME
-https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0238
+
 
 
 #EXTINF:-1 group-title="LOCALES", TRS24r
@@ -850,7 +851,7 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/117670_Chic_Magazine.png" group-title="MODA Y SOCIEDAD", CHIC MAGAZINE
-https://paneltv.online:1936/8200/8200/chunklist_w1713603211.m3u8?WebM3UCL
+https://paneltv.online:1936/8056/8056/chunklist_w830950687.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/250px-DKISS_2019_logo.svg.png" group-title="MODA Y SOCIEDAD", DKISS
 http://91.126.141.201:1935/live/kiss/chunklist_w553605122.m3u8
