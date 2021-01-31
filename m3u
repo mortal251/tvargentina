@@ -44,8 +44,7 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES", CANAL 9 - 35.1
-https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEyMTAwNzMzLCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6OWU5OTplMDcxOmQ3YWE6ZDc5YjpjOGVmIl19LCJzaWduYXR1cmUiOiJiNGQ5MjUzNTZmYWUzYTM3ZDZmZDcwOTIwZmJjYzMzMDQzMmYwNGI2In0%3D
-
+http://tv.nousiptv.com:8080/Lucy/123456/3438
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES", TELEFE - 34.1
@@ -879,6 +878,10 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2049380939.m3u8?Web
 
 #EXTINF:-1 tvg-logo="https://tentv.es/images/logo-white.png" group-title="MODA Y SOCIEDAD", TEN
 http://91.126.141.201:1935/live/ten/chunklist_w162002972.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="LOCALES", GOURMET
+http://tv.nousiptv.com:8080/Lucy/123456/4042
 
 
 
