@@ -264,7 +264,7 @@ http://coninfo.net:1935/13maxhd/live/.m3u8
 
 
 #EXTINF:-1 group-title="LOCALES", ONCE PARANA
-https://www.youtube.com/watch?v=LdHYaQAhkjI
+https://www.youtube.com/watch?v=65TIcSs45mg
 
 #EXTINF:-1 group-title="LOCALES", CANAL 13 SAN JUAN
 https://www.youtube.com/watch?v=0F9uCnywO-Q
@@ -468,7 +468,7 @@ https://streamyes.alsolnet.com/wtmradio/live/chunklist_w862370769.m3u8?WebM3UCL
 https://cda2.streaming.ws/elrural/live/chunklist_w135960963.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png" group-title="LOCALES", Chacra TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0011
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0012
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_senal-argentinisima-satelital-1_p_m.jpg" group-title="LOCALES", ARGENTINISIMA SATELITAL
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1353448793_b1912000_sleng.m3u8
@@ -493,7 +493,7 @@ https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?h
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/chunklist_w1847941210.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="LOCALES", TELESOL
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0219
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0220
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES", ENTRE RIOS TV
 https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8
@@ -689,12 +689,12 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="LOCALES", LA VOZ TUCUMAN TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0246
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0247
 
 
 
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="LOCALES", ITEL CHAJARI
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0145
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0146
 
 
 
@@ -720,7 +720,7 @@ https://5975e06a1f292.streamlock.net:4443/casse/casse/chunklist_w1958021516.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/Logo-horizontal-canal-21tv.png" group-title="LOCALES", CANAL 21 POSADAS
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0190
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0191
 
 
 
@@ -791,10 +791,10 @@ http://190.103.192.6:8080/hls/mystreamkey.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0214
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0215
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjM9L5np1zJaHHi76GKFzOWBPzuOswBWEsnUp7Q=s48-c-k-c0xffffffff-no-rj-mo" group-title="LOCALES", UTN TV SAN CRUZ
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0211
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0212
 
 #EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="LOCALES", TSN NECOCHEA
 https://panel.dattalive.com/tsnnecochea/tsnnecochea/chunklist_w420557208.m3u8
@@ -845,7 +845,7 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="MODA Y SOCIEDAD", Fashion TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0016
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0017
 
 #EXTINF:-1 tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg" group-title="MODA Y SOCIEDAD", HOLA TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
@@ -1007,7 +1007,7 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="INTERNACIONAL", Galicia TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0018
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0019
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/100px-BBC_News.svg.png" group-title="INTERNACIONAL", BBC NEWS
 http://51.52.156.22:8888/http/004
@@ -1052,7 +1052,7 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 https://stmv1.srvif.com/murialdoestudio/murialdoestudio/chunklist_w459659698.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canal13jujuy.com/img/logo-web.png" group-title="RELIGION", CANAL 13 JUJUY
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0161
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0162
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaK5id3ywW85veHfSdEKh4SM7r6Hk4wkrCNA&usqp=CAU" group-title="RELIGION", CBN ESPAÑOL
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
