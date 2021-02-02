@@ -1051,7 +1051,7 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 https://vivo.solumedia.com:19360/sublime/sublime.m3u8
 
 #EXTINF:-1 tvg-logo="https://jtamendoza.com/images/icon_144.png" group-title="RELIGION", JTA TV 21.1 MENDOZA
-https://vps230094.vps.ovh.ca:5443/LiveApp/streams/393652112954910559315368.m3u8?token=null
+https://vps230094.vps.ovh.ca:5443/LiveApp/streams/393652112954910559315368.m3u8
 
 
 
@@ -1208,7 +1208,7 @@ https://589ff3c36f7e8.streamlock.net/alastv/alastv/chunklist_w90452060.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTawQavXm0sl9VVZanpEdf3JcdaWm62b-7ZLA&usqp=CAU" group-title="RADIO", RADIO CAPICUA  99.3 VILLA MARIA CORDOBA
 https://stmvideo2.livecastv.com/capicua/capicua/chunklist_w219207970.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTawQavXm0sl9VVZanpEdf3JcdaWm62b-7ZLA&usqp=CAU" group-title="RADIO", RPO RADIO PUNTO AM 1400
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s135098/images/logog.jpg?t=151946" group-title="RADIO", RPO RADIO PUNTO AM 1400
 https://videohd.live:19360/8012/8012.m3u8
 
 
