@@ -936,7 +936,7 @@ https://www.youtube.com/watch?v=aqPIiyPI10c
 https://www.youtube.com/watch?v=JbKgQhFlMdU
 
 #EXTINF:-1 group-title="INTERNACIONAL", MEGANOTICIAS CHILE
-https://www.youtube.com/watch?v=a6DG21Tc6Co
+https://www.youtube.com/watch?v=26zWPckHsuM
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83643_Arirang.png" group-title="INTERNACIONAL", ARIRANG KOREA
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8?WebM3UCL
@@ -1008,7 +1008,8 @@ http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="INTERNACIONAL", FOX NEWS
 https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanal452x70.png" group-title="INTERNACIONAL", UNICANAL PARAGUAY
+http://45.55.127.106/live/unicanal.m3u8
 
 
 
