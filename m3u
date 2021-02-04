@@ -111,7 +111,7 @@ http://lavozdetucuman.com/peliculas1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_volver_p_m.jpg" group-title="LOCALES", VOLVER
 http://tv.nousiptv.com:8080/Lucy/123456/7978
 
-#EXTINF:-1 tvg-logo="http://www.kanadetv.com/imgs/loco/logo_white.png" group-title="INFANTIL", KANADE TV
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116107_Kanade_TV.png" group-title="INFANTIL", KANADE TV
 http://207.246.84.143:8080/hls/Kanade.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", Locomotion
