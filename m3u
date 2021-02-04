@@ -29,8 +29,8 @@ https://ny1.stweb.tv/gcba/ngrp:live_all/chunklist_w466822703_b946000.m3u8
 
 
 
-#EXTINF:-1 group-title="LOCALES", CANAL ENCUENTRO - 22.1
-https://www.youtube.com/watch?v=I5Sinb-YA6I
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES", CANAL ENCUENTRO - 22.1
+http://tv.nousiptv.com:8080/Lucy/123456/7974
 
 
 
@@ -45,15 +45,14 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES", CANAL 9 - 35.1
-https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEyNDM1NTcyLCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6OWU5OTozOGJmOjRjYmM6NmViMjo4MjVlIl19LCJzaWduYXR1cmUiOiIyNDMwYmFkNDU5OWMyOWNmYTdlMjJmNDZjY2M4MDYzMzUwNzE3N2Q3In0%3D
+http://tv.nousiptv.com:8080/Lucy/123456/3438
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0047
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpMFLhTJRAeHJ7oc9LvWn8NYWOQUOrF4zOQIsW_uOah7_w5VLU8D4WejGVkoOKSp0tBMVDH59PzpFKJQunVd1L5OJKDCWx3k5KTXT7ojrvjZArfCB5CA-hBp6QPklGiRN7QhPTxdYcBid-UTI3X7h4y_mxOuiSwdWIUiY0B4sk1XXLnCzIWZ7PuDFrPCy-2KAqgHjr1e-yNbPQG1_vmqv7nPhWAORwThg2kMPeasSqtDReXAl_rA7oxvEEw1KVknayehNkAcPt7iZRvkXd7Jz3t7t9btjFc0XV-QFgBjc_uDgTeRVJWMcmVQLtTp4IsBz5aX1mE8gbloMfvdFrj3qOoZKkKZqmEqUfiWLv0UHk6o5lHtLQAfNEJf1oSLRT_yZY347gYJ88c3oR40_8EKl1sZdS2Zdm7ArGIvnjXZBorKygfp1if2SXu9b4wWXZXaDRXa-yMECTgCYvVSCp7VHwN8BxVwxjM43O5KVigeQvEwOd2KhRZCimLxpSH5NLikV5MqVUmma3fig0JGrC5vUrDxXvbsknVCAp_C9-3MtFmOR1AEoUS80ZIOFPWx-NAgz6jGy3YtpznTa2WwXCLcr8sDm_hdNU-_o5GyEaUWlVDNch72ppYGl4EQPnG9o599tLsLMjXPmsmffb2_TYfsiYYlXTqk4LojwErd-0C6Dwu1bpYwFVUarwC9m7BYA7PB3R33OjmEKniW3FKN91FSTGaeirvHJOPlS5xGySWqxHEKxDWxt38W10S8XuCAQgQEKMT5G8qczFwMUSARpiQPon0gYxSKSNaMUABDHyP4ITGj-rcptnMKSX9N7QfjLWKvvoqkLCS7_rrERfEbkSjeRr_iVm5n1_qLTOesTF7HY3WsuPdBQ2oSEKAQ6xJqijn1I5hkOXT_l-0aDCuAoDfFgaqby_xjZQ.m3u8
-
+http://tv.nousiptv.com:8080/Lucy/123456/7431
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES", NET TV - 27.2
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -262,7 +261,7 @@ http://coninfo.net:1935/13maxhd/live/.m3u8
 
 
 #EXTINF:-1 group-title="LOCALES", ONCE PARANA
-https://www.youtube.com/watch?v=65TIcSs45mg
+https://www.youtube.com/watch?v=j-6wrZPaqDk
 
 #EXTINF:-1 group-title="LOCALES", CANAL 13 SAN JUAN
 https://www.youtube.com/watch?v=0F9uCnywO-Q
@@ -823,7 +822,7 @@ https://panel.dattalive.com/8012/8012/chunklist_w1492926011.m3u8
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w354333646.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1612389665&h=ad324489610d672bbf98f56f3bf7829f
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1612471460&h=2bac54a7139a96f991ff82600c39da71
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
 https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
