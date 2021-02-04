@@ -153,10 +153,10 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://www.youtube.com/watch?v=1SmKEIpmcLU
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTE", TNT SPORT
-http://tv.nousiptv.com:8080/Lucy/123456/4193
+http://tv.nousiptv.com:8080/Lucy/123456/33457
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="DEPORTE", FOX SPORT PREMIUN ARG
-http://tv.nousiptv.com:8080/Lucy/123456/33457
+http://tv.nousiptv.com:8080/Lucy/123456/4193
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="DEPORTE", DIRECTV SPORT
 http://tv.nousiptv.com:8080/Lucy/123456/33512
