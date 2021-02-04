@@ -140,6 +140,7 @@ https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 
 https://sv.tsnt.xyz/espn/espn2o_sur.m3u8?dd.m3u8NjY2MzgwNzM=
 
+
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
 https://sv.tsnt.xyz/espn/espn1o_sur.m3u8?ul9t7g
 
@@ -400,7 +401,7 @@ https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 https://ingest-wza.bustream.com/coopetv/coopetv/chunklist_w1034186856.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcOBhiBSAwXzwsKeM-S34gHhr7HLulFxChbA&usqp=CAU" group-title="MUSICA", KPOP TV
-https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/.m3u8
+https://srv3.zcast.com.br/kpoptv/kpoptv/chunklist_w256610465.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT1c3PyXIcqxuCOYCxhVbQDPPtRAmtzSY59g&usqp=CAU" group-title="MUSICA", CM
 https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
@@ -422,6 +423,9 @@ https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
 
 #EXTINF:-1 group-title="MUSICA", CLASIC MUSIC PIANO
 https://www.youtube.com/watch?v=OowUi602GdU
+
+#EXTINF:-1 group-title="MUSICA", BAROQUE LIVE MUSIC
+https://www.youtube.com/watch?v=2gO1v2GPMFk
 
 #EXTINF:-1 tvg-logo="https://onradiochile.cl/wp-content/themes/onair2/img/play.png" group-title="MUSICA", ON RADIO KPOP CHILE
 https://tls.cdnz.cl/onradio4/live/chunklist_w676363120.m3u8
