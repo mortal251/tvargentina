@@ -103,7 +103,7 @@ http://tv.nousiptv.com:8080/Lucy/123456/29354
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1811294487_b864000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CINE Y SERIES", CINEAR - 22.4
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m3u8
+http://tv.nousiptv.com:8080/Lucy/123456/3438
 
 #EXTINF:-1 tvg-logo="https://www.bitacine.com/wp-content/uploads/2015/04/BitaCine-BORRADOR-Series-y-Cine-1.png" group-title="CINE Y SERIES", PELICULAS
 http://lavozdetucuman.com/peliculas1.m3u8  
@@ -387,7 +387,8 @@ https://www.youtube.com/watch?v=urTdDSueSDI
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102655_Dreiko_TV.png" group-title="INFANTIL", DREIKO TV
 https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1591272901.m3u8?WebM3UCL
 
-
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127494_Boomerang.png" group-title="INFANTIL", BOOMERANG
+http://8.9.4.128:8080/hls/boomerangtv.m3u8?WebM3UCL
 
 #EXTINF:-1 group-title="DEPORTE", HIPODROMO DE PALERMO
 https://www.youtube.com/watch?v=OnW5qGG8fAA
@@ -894,6 +895,9 @@ http://91.126.141.201:1935/live/ten/chunklist_w162002972.m3u8
 
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="MODA Y SOCIEDAD", GOURMET
 http://tv.nousiptv.com:8080/Lucy/123456/4042
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="MODA Y SOCIEDAD", VIBRA TV
+https://stmv1.zcastbr.com/vibratv/vibratv/chunklist_w511167806.m3u8
 
 
 
