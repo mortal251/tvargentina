@@ -877,8 +877,6 @@ https://www.youtube.com/watch?v=yN44qpoJNN4
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/90570_TV_Salud.png" group-title="MODA Y SOCIEDAD", TV SALUD
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2049380939.m3u8?WebM3UCL
 
-
-
 #EXTINF:-1 tvg-logo="https://tentv.es/images/logo-white.png" group-title="MODA Y SOCIEDAD", TEN
 http://91.126.141.201:1935/live/ten/chunklist_w162002972.m3u8
 
@@ -889,9 +887,11 @@ http://tv.nousiptv.com:8080/Lucy/123456/4042
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="MODA Y SOCIEDAD", VIBRA TV
 https://stmv1.zcastbr.com/vibratv/vibratv/chunklist_w511167806.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/83f9f0ddd6f6d0bd9394ab0b34fcc7daa84ea75a1b923b8872acdb36f26c034a.png" group-title="MODA Y SOCIEDAD", PET COLLECTIVE
+https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/48427210_325701461614645_8188794366064590848_o.jpg?_nc_cat=107&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeE0w6xxxggX9dwSkxkmZ_Wfo3l5ohkQmVOjeXmiGRCZU5PXVmFuZY-G90M3kz-GBPs&_nc_ohc=t0jauJRBNSEAX-Eus-y&_nc_ht=scontent.fepa11-1.fna&oh=85b7587a15fa481bb6b14002d1932594&oe=604416B9" group-title="MODA Y SOCIEDAD", HD FASHION
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8?_=1612527921
 
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="INTERNACIONAL", FRANCE 24 ESPAÑOL - 24.3
