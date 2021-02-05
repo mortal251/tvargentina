@@ -87,7 +87,7 @@ http://tv.nousiptv.com:8080/Lucy/123456/29354
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1811294487_b864000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CINE Y SERIES", CINEAR - 22.4
-http://tv.nousiptv.com:8080/Lucy/123456/3438
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bitacine.com/wp-content/uploads/2015/04/BitaCine-BORRADOR-Series-y-Cine-1.png" group-title="CINE Y SERIES", PELICULAS
 http://lavozdetucuman.com/peliculas1.m3u8  
