@@ -1182,7 +1182,7 @@ https://streamcasthd.com:19360/radiotradicional1340/radiotradicional1340.m3u8
 #EXTINF:-1 tvg-logo="https://www.am660.com.ar/img/index_r1_c1.jpg" group-title="RADIO", AM 660 SAN JUSTO
 https://clientes.videostreaming.ar:19360/radioamplitud/radioamplitud.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiotv.ar/img/logo/fmzetaradio.jpg" group-title="RADIO", FM 100.1 ZETA
+#EXTINF:-1 tvg-logo="https://radiotv.ar/img/logo/fmzetaradio.jpg" group-title="RADIO", FM 100.1 ZETA MORON
 https://clientes.videostreaming.ar:19360/fmzetaradio/fmzetaradio.m3u8
 
 #EXTINF:-1 tvg-logo="http://fmtrujui.com/wp-content/uploads/2018/08/logo_normal_mobile-1.png" group-title="RADIO", FM 100.1 TRUJUI
