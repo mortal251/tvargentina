@@ -1040,8 +1040,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110978_Dios_Te_Ve_Kids.png" group-title="RELIGION", DIOS TV KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/615586776267288576/hZWD4Yev.jpg" group-title="RELIGION", RADIO MURIALDO 1290 AM MENDOZA
-https://stmv1.srvif.com/murialdoestudio/murialdoestudio/chunklist_w459659698.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.canal13jujuy.com/img/logo-web.png" group-title="RELIGION", CANAL 13 JUJUY
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0162
@@ -1248,7 +1247,7 @@ https://5f6e1fe8f2d2e.streamlock.net/lacosta/lacosta/chunklist_w555218362.m3u8
 https://5f6e1fe8f2d2e.streamlock.net/puan/puan/chunklist_w1564398990.m3u8
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CANAL BEAGLE - USHUAIA
-https://www.youtube.com/watch?v=Pu7MXjo_LtM
+https://www.youtube.com/watch?v=SYEVMz9uUWs
 
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CAMARAS USHUAIA
