@@ -89,7 +89,7 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1811294487_b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CINE Y SERIES", CINEAR - 22.4
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.bitacine.com/wp-content/uploads/2015/04/BitaCine-BORRADOR-Series-y-Cine-1.png" group-title="CINE Y SERIES", PELICULAS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mF6hKYP.png" group-title="CINE Y SERIES", PELICULAMANIA
 http://lavozdetucuman.com/peliculas1.m3u8  
 
 
@@ -346,6 +346,9 @@ https://tls.cdnz.cl/escgabrielamistral/live/chunklist_w1505791736.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/98871_EvaStream.png" group-title="CINE Y SERIES", EVASTREAM
 https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/chunklist_w191787199.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://numerocero.es/wp-content/uploads/2019/04/Plataformas-de-pago-online.jpg" group-title="CINE Y SERIES", MEGA CINE TV
+https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV_Series.png" group-title="INFANTIL", CACHIPUM TV
@@ -423,8 +426,7 @@ https://cu.onliv3.com/livevd/user1_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="MUSICA", V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/67657013_2493383847561162_8934152675763683328_n.png?_nc_cat=101&ccb=2&_nc_sid=85a577&_nc_ohc=8pI1fWuJFOgAX-TLXX0&_nc_ht=scontent.fepa11-1.fna&oh=314191001452db5ce9e99daed5f3bf3e&oe=60257494" group-title="MUSICA", TU MUSICA HD
-https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logog.png" group-title="MUSICA", FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
