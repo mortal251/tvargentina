@@ -22,8 +22,9 @@ https://www.youtube.com/watch?v=Ri26JRy2yzw
 #EXTINF:-1 group-title="LOCALES", LN +  - 25.3
 https://www.youtube.com/watch?v=Lnsp9CFTIh4
 
-#EXTINF:-1 group-title="LOCALES", CANAL DE LA CIUDAD
-https://www.youtube.com/watch?v=fYrrLfvmZO0
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="LOCALES", CANAL DE LA CIUDAD
+https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES", CANAL ENCUENTRO - 22.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w1733579940.m3u8
@@ -815,6 +816,12 @@ https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL541sI3eT5yp5W-FgZKn
 #EXTINF:-1 tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2020/12/logo-web-retina-ok-si-300x99.png" group-title="LOCALES", CANAL 4 ESQUEL
 https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/chunklist_w1655714283.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES", CANAL 12 TUCUMAN
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s88-c-k-c0x00ffffff-no-rj" group-title="LOCALES", CNR TV JUJUY
+https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
@@ -1247,7 +1254,7 @@ https://www.youtube.com/watch?v=Pu7MXjo_LtM
 https://www.youtube.com/watch?v=tCe8P4CXR7A
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", RESISTENCIA CHACO
-https://www.youtube.com/watch?v=LfDnrnaZ1U8
+https://www.youtube.com/watch?v=Bi3qw4p1W0g
 
 #EXTINF:-1 tvg-logo="https://www.sierradelaventana.org/images/stories/logos/logo.png" group-title="WEB CAM Y CLIMA", SIERRA DE LA VENTANA
 https://streaming.reltid.com.ar/hls/sierra.m3u8
@@ -1264,28 +1271,20 @@ https://streaming.reltid.com.ar/hls/monte.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES", CANAL 13 - 33.1
-http://tv.nousiptv.com:8080/Lucy/123456/7431
+
 
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108929_Airevision_Digital.jpg" group-title="LOCALES", AIREVISION PUNTA ALTA
 http://airevision.ddns.net:1935/live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES", CANAL 12 TUCUMAN
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s88-c-k-c0x00ffffff-no-rj" group-title="LOCALES", CNR TV JUJUY
-https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.telecreativa.com/logos/enc_TELECREATIVA_movil.gif" group-title="LOCALES", TELECREATIVA LANUS
 https://panel.dattalive.com/8012/8012/chunklist_w1492926011.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="LOCALES", CANAL DE LA CIUDAD
-https://ny1.stweb.tv/gcba/ngrp:live_all/chunklist_w466822703_b946000.m3u8
 
-#EXTINF:-1 group-title="LOCALES", ONCE PARANA
-https://www.youtube.com/watch?v=j-6wrZPaqDk
+
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/118771331_3307587225988810_8104136484730855699_n.jpg?_nc_cat=110&ccb=2&_nc_sid=9e2e56&_nc_ohc=Ft6icl7-L2cAX_eQe1F&_nc_ht=scontent.fepa11-1.fna&oh=b00ce9d5b4f994d183ef128549f4ca4b&oe=6016CAF0" group-title="LOCALES", CANAL 29 QUILMES - 18.1
 http://inliveserver.com:1935/8386/8386/chunklist_w237176165.m3u8
