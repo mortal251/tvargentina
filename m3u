@@ -823,6 +823,11 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s88-c-k-c0x00ffffff-no-rj" group-title="LOCALES", CNR TV JUJUY
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
+#EXTINF:-1 group-title="LOCALES", UNQ TV
+https://www.youtube.com/watch?v=r-MWfeHuHag
+
+#EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2018/10/tvulogotexto.png" group-title="LOCALES", TVU LA PLATA
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
@@ -1171,7 +1176,7 @@ https://clientes.videostreaming.ar:19360/radioamplitud/radioamplitud.m3u8
 #EXTINF:-1 tvg-logo="https://radiotv.ar/img/logo/fmzetaradio.jpg" group-title="RADIO", FM 100.1 ZETA MORON
 https://clientes.videostreaming.ar:19360/fmzetaradio/fmzetaradio.m3u8
 
-#EXTINF:-1 tvg-logo="http://fmtrujui.com/wp-content/uploads/2018/08/logo_normal_mobile-1.png" group-title="RADIO", FM 100.1 TRUJUI
+#EXTINF:-1 tvg-logo="http://fmtrujui.com/wp-content/uploads/2018/08/logo_normal_mobile-1.png" group-title="RADIO", FM 90.1 TRUJUI
 https://inliveserver.com:1936/14102/14102/chunklist_w1509303225.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fantastica1017.com.ar/images/logoOK.jpg" group-title="RADIO", FM FANTASTICA FM 101.7 FM
@@ -1211,6 +1216,13 @@ https://stmvideo2.livecastv.com/capicua/capicua/chunklist_w219207970.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s135098/images/logog.jpg?t=151946" group-title="RADIO", RPO RADIO PUNTO AM 1400
 https://videohd.live:19360/8012/8012.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.racsol.com.ar/images/logo.png" group-title="RADIO", RACSOL FM 94.1 LAS FLORES
+https://mediacp.hostradios.com.ar:19360/rascoltv/rascoltv.m3u8
+
+#EXTINF:-1 tvg-logo="https://fmvanguardia.com/wp-content/uploads/2020/03/Logo-FMV-106-Tel-980x210.png" group-title="RADIO", FM VANGUARDIA 106.1 CALETA OLIVIA
+https://streamcasthd.com:19360/fmvanguardia/fmvanguardia.m3u8
 
 
 
@@ -1261,8 +1273,6 @@ https://streaming.reltid.com.ar/hls/sierra.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tornquistdistrital.com.ar/wp-content/uploads/2012/07/Logo-Monte.jpg" group-title="WEB CAM Y CLIMA", MONTE HERMOSO
 https://streaming.reltid.com.ar/hls/monte.m3u8
-
-
 
 
 
