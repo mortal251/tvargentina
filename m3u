@@ -349,6 +349,9 @@ https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/chunklist_
 #EXTINF:-1 tvg-logo="https://numerocero.es/wp-content/uploads/2019/04/Plataformas-de-pago-online.jpg" group-title="CINE Y SERIES", MEGA CINE TV
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="CINE Y SERIES", PELICULAS
+https://tv.teleclub.xyz/noah/live-channel?smartv=247_PELICULAS&format=.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV_Series.png" group-title="INFANTIL", CACHIPUM TV
