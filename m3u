@@ -829,6 +829,13 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-logo="http://www.televideoinforma.com.ar/img/publicidades/Televideo_logo.jpg" group-title="LOCALES", TELEVIDEO OCAMPO SANTA FE
 https://inliveserver.com:1936/8050_1/8050_1/chunklist_w2107756929.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2018/03/logocanal3-x1.png" group-title="LOCALES", CANAL 3 LAS HERAS
+https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1982113012.m3u8
+
+#EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2019/12/atv-x1.png" group-title="LOCALES", ATV ARGENTINA
+https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/chunklist_w939984688.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
@@ -1044,6 +1051,9 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110978_Dios_Te_Ve_Kids.png" group-title="RELIGION", DIOS TV KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/615586776267288576/hZWD4Yev.jpg" group-title="RELIGION", RADIO MURIALDO AM 1290 MENDOZA
+https://stmv1.srvif.com/murialdoestudio/murialdoestudio/chunklist_w603323015.m3u8
 
 
 
@@ -1287,8 +1297,7 @@ http://inliveserver.com:1935/8386/8386/chunklist_w237176165.m3u8
 #EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", XAMA SAN JUAN
 https://sc1.stweb.tv/unisanjuan/live/chunklist_w1194083018.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2018/03/logocanal3-x1.png" group-title="LOCALES", CANAL 3 LAS HERAS
-https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1982113012.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQveDDw-1eyCiqykUajXQ8IqRRCfTehbi_mj0jwSc3lm2t0754lpZIiZSEMyQWo1cVk0Im6X96FsFSwIeuHNcn_mg2xvOLDiGrxrlwN&usqp=CAU&ec=45688578" group-title="LOCALES", CEEL 4 MISIONES
 https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/chunklist_w1246446932.m3u8
