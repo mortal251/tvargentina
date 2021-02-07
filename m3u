@@ -835,8 +835,6 @@ https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1982113012.m3
 #EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2019/12/atv-x1.png" group-title="LOCALES", ATV ARGENTINA
 https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/chunklist_w939984688.m3u8
 
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/canal-ucl-vivo.jpg" group-title="LOCALES", UCL
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu_4.m3u8?_=1&m=1576532279
 
 
 #EXTINF:-1 tvg-logo="http://canal2perico.com.ar/canal2/images/logo.png" group-title="LOCALES", CANAL 2 PERICO
@@ -886,7 +884,8 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2049380939.m3u8?Web
 http://91.126.141.201:1935/live/ten/chunklist_w162002972.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/canal-ucl-vivo.jpg" group-title="MODA Y SOCIEDAD", UCL
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu_4.m3u8?_=1&m=1576532279
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="MODA Y SOCIEDAD", VIBRA TV
 https://stmv1.zcastbr.com/vibratv/vibratv/chunklist_w511167806.m3u8
