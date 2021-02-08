@@ -126,8 +126,8 @@ https://e10.stephn.xyz/ingestnb4s/espn_sur/f.m3u8
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
 https://e10.stephn.xyz/ingestnb4s/espn2_sur/d.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 3
-https://e10.stephn.xyz/ingestnb4s/espn3_sur/f.m3u8
+#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", DIRECTV SPORT
+https://e4.stephn.xyz/ingest02/67118.m3u8?sf=UkxmY0lVaHNBRA==&token=a1XkWXT6i_qW_HQvgLSTnA&expires=1612807315&rnd=
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", Garage TV
