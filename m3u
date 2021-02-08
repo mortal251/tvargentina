@@ -121,13 +121,13 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 
-https://e10.stephn.xyz/ingestnb4s/espn_sur/f.m3u8
+https://sv.tsnt.xyz/espn/espn2o_sur.m3u8?161279325
 
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
-https://e10.stephn.xyz/ingestnb4s/espn2_sur/d.m3u8
+https://sv.tsnt.xyz/espn/espn1o_sur.m3u8?161279336
 
-#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", DIRECTV SPORT
-https://e4.stephn.xyz/ingest02/67118.m3u8?sf=UkxmY0lVaHNBRA==&token=a1XkWXT6i_qW_HQvgLSTnA&expires=1612807315&rnd=
+#EXTINF:-1 tvg-logo="http://newsroompw.dtvlaweb.com/site/assets/files/1660/directv_sports_logo_azul.png" group-title="DEPORTE", DIRECTV SPORT
+https://e4.stephn.xyz/ingest02/67118.m3u8?sf=UkxmY0lVaHNBRA==&token=TNfNgz3YqVivLnRZtJ9Jfg&expires=1612808065&rnd=
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", Garage TV
