@@ -1157,7 +1157,8 @@ https://streamcasthd.com:19360/fmvanguardia/fmvanguardia.m3u8
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", FOUR SEASONS BUENOS AIRES
 https://www.youtube.com/watch?v=if91GyWP3zQ
 
-
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnimEfH-t9YsO-FdLONV7UqSjRiqHm9VqMU_Vc1LuA=s48-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", EARTH TV
+https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge0/cdnedge/HicYJzEAB5E/chunklist.m3u8?token=EAIY6wE4yLDkLkCIHUgF.CgdlYXJ0aHR2EAEyC0hpY1lKeTZBQjVBOgtIaWNZSnpFQUI1RQ.j69IlR1lKv7dAXFv1IRCP5Hkf-gzuEbot3cTeg7jGM-U4jwx43PwhmrpiRr3LO2MEiFY35XE5xhGIOmn1td_mg&domain=www.earthtv.com
 
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM Y CLIMA", 5900 TV CORDOBA
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
