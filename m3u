@@ -941,6 +941,9 @@ http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45154_PinguinoTV.png" group-title="INTERNACIONAL", EL PINGUINO TV CHILE
 http://167.114.133.205:1935/live/pinguinotv/chunklist_w1565220602.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="INTERNACIONAL", MIAMI TV
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/.m3u8
+
 
 
 
