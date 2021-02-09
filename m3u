@@ -372,6 +372,9 @@ https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1591272901.m3u8?W
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127494_Boomerang.png" group-title="INFANTIL", BOOMERANG
 http://8.9.4.128:8080/hls/boomerangtv.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/02/23/48/44/360_F_223484421_lBeWtWOuCSn2qXNZFZ9NthbYyZHIOgA0.jpg" group-title="INFANTIL", KIDS TV
+https://livelist01.yowi.tv/lista/eede3daa45f98e0dce894da041ce520a22397517/index-f4-v1-a1.m3u8
+
 #EXTINF:-1 group-title="DEPORTE", HIPODROMO DE PALERMO
 https://www.youtube.com/watch?v=OnW5qGG8fAA
 
