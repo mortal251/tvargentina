@@ -758,8 +758,8 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="MODA Y SOCIEDAD", Fashion TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0017
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="MODA Y SOCIEDAD", FASHION TV
+https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg" group-title="MODA Y SOCIEDAD", HOLA TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
