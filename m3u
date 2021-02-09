@@ -941,8 +941,7 @@ http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45154_PinguinoTV.png" group-title="INTERNACIONAL", EL PINGUINO TV CHILE
 http://167.114.133.205:1935/live/pinguinotv/chunklist_w1565220602.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="INTERNACIONAL", MIAMI TV
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/.m3u8
+
 
 
 
@@ -1137,8 +1136,7 @@ https://streamyes.alsolnet.com/radiojaitv/live/chunklist_w1915904993.m3u8
 #EXTINF:-1 tvg-logo="http://rcm88.com.ar/wp-content/uploads/2018/04/cropped-logo-web-1-1.png" group-title="RADIO", RADIO CIUDAD 100.3 FM CORONEL MOLDES
 https://panel.dattalive.com/8098/8098/chunklist_w1299609230.m3u8
 
-#EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="RADIO", CATRIEL NOTICIAS
-https://589ff3c36f7e8.streamlock.net/alastv/alastv/chunklist_w90452060.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTawQavXm0sl9VVZanpEdf3JcdaWm62b-7ZLA&usqp=CAU" group-title="RADIO", RADIO CAPICUA  99.3 VILLA MARIA CORDOBA
 https://stmvideo2.livecastv.com/capicua/capicua/chunklist_w219207970.m3u8
@@ -1159,8 +1157,7 @@ https://streamcasthd.com:19360/fmvanguardia/fmvanguardia.m3u8
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", FOUR SEASONS BUENOS AIRES
 https://www.youtube.com/watch?v=if91GyWP3zQ
 
-#EXTINF:-1 group-title="WEB CAM Y CLIMA", WORLD LIVE
-https://www.youtube.com/watch?v=9SjA-mKutVU
+
 
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM Y CLIMA", 5900 TV CORDOBA
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
