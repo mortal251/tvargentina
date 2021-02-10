@@ -345,11 +345,11 @@ https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/chunklist_w1981183958.m
 #EXTINF:-1 tvg-logo="https://numerocero.es/wp-content/uploads/2019/04/Plataformas-de-pago-online.jpg" group-title="CINE Y SERIES", MEGA CINE TV
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", Europa Europa
-http://nano.zappingtv.com:1935/europa/europa.smil/chunklist_b4128000_sles.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", Cinecanal
+http://nano.zappingtv.com:1935/cinecanal/fxmoviesm.smil/chunklist_b1628000_sles.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", Film & Arts
-http://nano.zappingtv.com:1935/filmandart/filmandart.smil/chunklist_b4128000_sles.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", Eurochannel
+http://nano.zappingtv.com:1935/eurochannel/rtes.smil/chunklist_b2828000_sles.m3u8
 
 
 
