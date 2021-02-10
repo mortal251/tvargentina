@@ -238,7 +238,7 @@ http://coninfo.net:1935/13maxhd/live/.m3u8
 https://elonce.zapto.org/hls/live_240p1000kbs.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1612901213&h=95d9c92ae60f15ea921d708cf97cdf2e
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1612987160&h=07bdea1f3aa36770eed8267712028514
 
 #EXTINF:-1 group-title="LOCALES", CANAL 13 SAN JUAN
 https://www.youtube.com/watch?v=SVyXS0vXUyw
