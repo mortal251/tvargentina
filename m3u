@@ -234,8 +234,9 @@ https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", 13 MAX CORRIENTES
 http://coninfo.net:1935/13maxhd/live/.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo_elonce_tv_2019.png.jpg/120px-Logo_elonce_tv_2019.png.jpg" group-title="LOCALES", ONCE PARANA
-https://elonce.zapto.org/hls/live_240p1000kbs.m3u8
+
+#EXTINF:-1 group-title="LOCALES", ONCE PARANA
+https://www.youtube.com/watch?v=YNmRBerazA0
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES", CANAL 10 TUCUMAN
 https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1612987160&h=07bdea1f3aa36770eed8267712028514
@@ -464,7 +465,7 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w135344
 https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1612869027~exp=1613045427~acl=/i/canal11salta_1@722934/*~hmac=c929d3acf32348a2db8a5692bf788c06af9079df8ad163d4d38875dad9e28daf
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png/133px-Telefe_Neuqu%C3%A9n_%282018%29.png" group-title="LOCALES", TELEFE NEUQUEN
-https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1612632223~exp=1612808623~acl=/i/canal7neuquen_1@751158/*~hmac=ff7d624bc8509882842e65f826a44c713da5937ceb41a903e25dd22430e06bc9
+https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1612953599~exp=1613129999~acl=/i/canal7neuquen_1@751158/*~hmac=e9132226f3908260fe1a62ed692259c3ec8638b0ff77e182dd3988795c4bedb7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/133px-Telefe_Tucum%C3%A1n_%282018%29.png" group-title="LOCALES", TELEFE TUCUMAN
 https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1612868911~exp=1613045311~acl=/i/canal8tucuman_1@787002/*~hmac=73d2750513ce12e43f00efd42adca1cc51e90345bd44cfc13bffe2884dfda2b8
@@ -1213,16 +1214,11 @@ https://streaming.reltid.com.ar/hls/monte.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108929_Airevision_Digital.jpg" group-title="LOCALES", AIREVISION PUNTA ALTA
 http://airevision.ddns.net:1935/live/myStream/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/118771331_3307587225988810_8104136484730855699_n.jpg?_nc_cat=110&ccb=2&_nc_sid=9e2e56&_nc_ohc=Ft6icl7-L2cAX_eQe1F&_nc_ht=scontent.fepa11-1.fna&oh=b00ce9d5b4f994d183ef128549f4ca4b&oe=6016CAF0" group-title="LOCALES", CANAL 29 QUILMES - 18.1
 http://inliveserver.com:1935/8386/8386/chunklist_w237176165.m3u8
 
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo_elonce_tv_2019.png.jpg/120px-Logo_elonce_tv_2019.png.jpg" group-title="LOCALES", ONCE PARANA
+https://elonce.zapto.org/hls/live_240p1000kbs.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telejunin.com.ar/images/telejunin%20logo.png" group-title="LOCALES", TELEJUNIN
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/chunklist_w328886260.m3u8
