@@ -342,17 +342,15 @@ https://stmv1.zcastbr.com/canal74hd/canal74hd/chunklist_w333835106.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/98882_Geovision.jpg" group-title="CINE Y SERIES", GEOVISION
 https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/chunklist_w1981183958.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115431_G_Vision.png" group-title="CINE Y SERIES", G VISION
-https://tls.cdnz.cl/escgabrielamistral/live/chunklist_w1505791736.m3u8?WebM3UCL
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/98871_EvaStream.png" group-title="CINE Y SERIES", EVASTREAM
-https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/chunklist_w191787199.m3u8?WebM3UCL
-
 #EXTINF:-1 tvg-logo="https://numerocero.es/wp-content/uploads/2019/04/Plataformas-de-pago-online.jpg" group-title="CINE Y SERIES", MEGA CINE TV
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112899_Tele_Estrella.png" group-title="CINE Y SERIES", TELEESTRELLA ARG
-https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", Europa Europa
+http://nano.zappingtv.com:1935/europa/europa.smil/chunklist_b4128000_sles.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", Film & Arts
+http://nano.zappingtv.com:1935/filmandart/filmandart.smil/chunklist_b4128000_sles.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV_Series.png" group-title="INFANTIL", CACHIPUM TV
@@ -374,10 +372,10 @@ https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1591272901.m3u8?W
 http://8.9.4.128:8080/hls/boomerangtv.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL", Tooncast
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
+http://nano.zappingtv.com:1935/tooncast/cnnes.smil/chunklist_b2128000_sles.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tMfw42m.png" group-title="INFANTIL", Futurama Manía
-https://m3u-editor.com/serve/rokumaniatest/156476844
+#EXTINF:-1 tvg-logo="http://azxtv.com/animeloving.png" group-title="INFANTIL", ANIME LOVING TV
+http://animeloving.net/hls/stream.m3u8
 
 
 
