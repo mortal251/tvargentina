@@ -1162,8 +1162,8 @@ https://streamcasthd.com:19360/fmvanguardia/fmvanguardia.m3u8
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", FOUR SEASONS BUENOS AIRES
 https://www.youtube.com/watch?v=if91GyWP3zQ
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnimEfH-t9YsO-FdLONV7UqSjRiqHm9VqMU_Vc1LuA=s48-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", EARTH TV
-https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge0/cdnedge/HicYJzEAB5E/chunklist.m3u8?token=EAIY6wE4yLDkLkCIHUgF.CgdlYXJ0aHR2EAEyC0hpY1lKeTZBQjVBOgtIaWNZSnpFQUI1RQ.j69IlR1lKv7dAXFv1IRCP5Hkf-gzuEbot3cTeg7jGM-U4jwx43PwhmrpiRr3LO2MEiFY35XE5xhGIOmn1td_mg&domain=www.earthtv.com
+#EXTINF:-1 group-title="WEB CAM Y CLIMA", THE WORLD LIVE
+https://www.youtube.com/watch?v=9SjA-mKutVU
 
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM Y CLIMA", 5900 TV CORDOBA
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
@@ -1190,13 +1190,13 @@ https://5f6e1fe8f2d2e.streamlock.net/lacosta/lacosta/chunklist_w555218362.m3u8
 https://5f6e1fe8f2d2e.streamlock.net/puan/puan/chunklist_w1564398990.m3u8
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CANAL BEAGLE - USHUAIA
-https://www.youtube.com/watch?v=SYEVMz9uUWs
+https://www.youtube.com/watch?v=GRANe-srT58
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CAMARAS USHUAIA
 https://www.youtube.com/watch?v=tCe8P4CXR7A
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", RESISTENCIA CHACO
-https://www.youtube.com/watch?v=Bi3qw4p1W0g
+https://www.youtube.com/watch?v=vBy6i6hzjKg
 
 #EXTINF:-1 tvg-logo="https://www.sierradelaventana.org/images/stories/logos/logo.png" group-title="WEB CAM Y CLIMA", SIERRA DE LA VENTANA
 https://streaming.reltid.com.ar/hls/sierra.m3u8
