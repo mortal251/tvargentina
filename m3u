@@ -696,7 +696,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0215
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0212
 
 #EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="LOCALES", TSN NECOCHEA
-https://panel.dattalive.com/tsnnecochea/tsnnecochea/chunklist_w1266556313.m3u8
+https://panel.dattalive.com/tsnnecochea/tsnnecochea/chunklist_w551304780.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-ohrxmwyu219car5qjnmnky0ll0mfu6yuk15jy6idgw.png" group-title="LOCALES", MILENIUM TV SALTA
 https://panel.tuvideostreaming.com:19360/8002/8002.m3u8
@@ -710,14 +710,13 @@ https://vivo.solumedia.com:19360/trutv/trutv.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="LOCALES", 12 TARTAGAL
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w354333646.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
-https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="LOCALES", CANAL 2 CATRIEL RIO NEGRO
 https://589ff3c36f7e8.streamlock.net/alastv/alastv/chunklist_w147600633.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES", UNIVERSIDAD TV MAR DEL PLATA
-https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL549TOiA0iuX7F8npZBTnVhYM)/dm/3/x7kvvgi/s/live-1.m3u8
+https://stream-01.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL542nwa5O11ityFKORlS_dN8I)/dm/3/x7kvvgi/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2020/12/logo-web-retina-ok-si-300x99.png" group-title="LOCALES", CANAL 4 ESQUEL
 https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/chunklist_w1655714283.m3u8
@@ -1229,4 +1228,7 @@ https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/chunklist_w328886
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzf6AGK5BPmlw5-JzWhnSXze1WPGScfjTWLBDRI=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", CANAL 10 ENTRE RIOS
 http://streamingvideo.com.ar:1935/10tv/live/chunklist_w448721709.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
+https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
 
