@@ -37,7 +37,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES", CANAL 9 - 35.1
-https://v.lkqd.net/ad?pid=430&sid=1131731&formats=true&output=json2&support=html5&execution=outstream&placement=slider&playinit=auto&volume=0&width=400&height=225&gdpr=&gdprcs=&pageurl=https%3A%2F%2Fwww.elnueve.com.ar%2Fen-vivo%2F&dnt=0&c1=&c2=&c3=1.0%2C1!vidoomy.com%2C59240%2C1%2C&rnd=71536170&m=&rtv=1&thost=www.elnueve.com.ar
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEzMTY4MjY4LCJzZXNzaW9uIjoiMjAwLjMuMTEzLjE1MCIsIndoaXRlbGlzdCI6WyIyMDAuMy4xMTMuMTUwIl19LCJzaWduYXR1cmUiOiIxMjIzNDU5YTc2OWExMTA3MjY3Y2UxYTlhYzRlNzBlNzkyN2JiNTkwIn0%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0047 
