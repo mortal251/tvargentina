@@ -401,8 +401,6 @@ http://nano.zappingtv.com:1935/foxsports1/espn.smil/chunklist_b5328000_sles.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTE", Fox Sports 2
 http://nano.zappingtv.com:1935/foxsports2/fsmobile.smil/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTE", Fox Sports 3
-http://nano.zappingtv.com:1935/foxsports3/espn.smil/chunklist_b5328000_sles.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.golfchannel.com/sites/default/files/new_golf_channel_logo_304.jpg" group-title="DEPORTE", Golf Channel
 http://nano.zappingtv.com:1935/golfchannel/rtes.smil/chunklist_b2828000_sles.m3u8
@@ -885,8 +883,8 @@ http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w1480246840.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL", ANN JAPAN
 https://www.youtube.com/watch?v=coYw-eVU0Ks
 
-#EXTINF:-1 group-title="INTERNACIONAL", 24 HORAS CHILE
-https://www.youtube.com/watch?v=ZothDhWS1V8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="INTERNACIONAL", CANAL 24 HORAS CHILE
+http://nano.zappingtv.com:1935/24h/24h.smil/chunklist_b1928000_sles.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL", T13 CHILE
 https://www.youtube.com/watch?v=aqPIiyPI10c
@@ -972,6 +970,9 @@ http://45.55.127.106/live/unicanal.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45154_PinguinoTV.png" group-title="INTERNACIONAL", EL PINGUINO TV CHILE
 http://167.114.133.205:1935/live/pinguinotv/chunklist_w1565220602.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="INTERNACIONAL", CNN ESPAÑOL
+http://nano.zappingtv.com:1935/cnnes/cnnesmobile.smil/chunklist_b1128000_sles.m3u8
 
 
 
