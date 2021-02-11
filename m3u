@@ -1056,8 +1056,7 @@ https://g3.vxral-slo.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_a
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="RADIO", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://dsrmedios.com.ar/diario/wp-content/uploads/2019/03/Banner-cabezera.png" group-title="RADIO", RED DIFUSORA CARHUE - 99.5 FM
-https://panel.dattalive.com/8114/8114/chunklist_w719155802.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vorterix.com/assets/img/logo-icon.png" group-title="RADIO", VORTERIX - 92.1 FM
 https://prepublish.f.qaotic.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
@@ -1142,8 +1141,7 @@ https://clientes.videostreaming.ar:19360/radioamplitud/radioamplitud.m3u8
 #EXTINF:-1 tvg-logo="https://radiotv.ar/img/logo/fmzetaradio.jpg" group-title="RADIO", FM 100.1 ZETA MORON
 https://clientes.videostreaming.ar:19360/fmzetaradio/fmzetaradio.m3u8
 
-#EXTINF:-1 tvg-logo="http://fmtrujui.com/wp-content/uploads/2018/08/logo_normal_mobile-1.png" group-title="RADIO", FM 90.1 TRUJUI
-https://inliveserver.com:1936/14102/14102/chunklist_w1509303225.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.fantastica1017.com.ar/images/logoOK.jpg" group-title="RADIO", FM FANTASTICA FM 101.7 FM
 https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
@@ -1167,8 +1165,7 @@ https://inliveserver.com:1936/14084/14084/chunklist_w1529177501.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiojai.com/wp-content/uploads/2019/07/logo-m-2.png" group-title="RADIO", RADIO JAI FM 96.3
 https://streamyes.alsolnet.com/radiojaitv/live/chunklist_w1915904993.m3u8
 
-#EXTINF:-1 tvg-logo="http://rcm88.com.ar/wp-content/uploads/2018/04/cropped-logo-web-1-1.png" group-title="RADIO", RADIO CIUDAD 100.3 FM CORONEL MOLDES
-https://panel.dattalive.com/8098/8098/chunklist_w1299609230.m3u8
+
 
 
 
@@ -1183,6 +1180,15 @@ https://mediacp.hostradios.com.ar:19360/rascoltv/rascoltv.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmvanguardia.com/wp-content/uploads/2020/03/Logo-FMV-106-Tel-980x210.png" group-title="RADIO", FM VANGUARDIA 106.1 CALETA OLIVIA
 https://streamcasthd.com:19360/fmvanguardia/fmvanguardia.m3u8
+
+#EXTINF:-1 tvg-logo="http://dsrmedios.com.ar/diario/wp-content/uploads/2019/03/Banner-cabezera.png" group-title="RADIO", RED DIFUSORA CARHUE - 99.5 FM
+https://panel.dattalive.com/8114/8114/chunklist_w719155802.m3u8
+
+#EXTINF:-1 tvg-logo="http://fmtrujui.com/wp-content/uploads/2018/08/logo_normal_mobile-1.png" group-title="RADIO", FM 90.1 TRUJUI
+https://inliveserver.com:1936/14102/14102/chunklist_w1509303225.m3u8
+
+#EXTINF:-1 tvg-logo="http://rcm88.com.ar/wp-content/uploads/2018/04/cropped-logo-web-1-1.png" group-title="RADIO", RADIO CIUDAD 100.3 FM CORONEL MOLDES
+https://panel.dattalive.com/8098/8098/chunklist_w1299609230.m3u8
 
 
 
