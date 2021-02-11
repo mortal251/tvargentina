@@ -781,6 +781,9 @@ https://panel.dattalive.com/8012/8012/chunklist_w1492926011.m3u8
 #EXTINF:-1 tvg-logo="https://cable10.com/imagenes/logo.png" group-title="LOCALES", CABLE 10 HD RIO GALLEGOS
 https://inliveserver.com:1936/8292/8292/chunklist_w788098130.m3u8
 
+#EXTINF:-1 tvg-logo="https://noticiaseps.com.ar/wp-content/uploads/2018/06/cropped-noticiastitulo-3.png" group-title="LOCALES", NOTICIAS EPS BRAGADO
+https://inliveserver.com:1936/9504/9504/chunklist_w1174450250.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
@@ -1181,6 +1184,9 @@ https://mediacp.hostradios.com.ar:19360/rascoltv/rascoltv.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmvanguardia.com/wp-content/uploads/2020/03/Logo-FMV-106-Tel-980x210.png" group-title="RADIO", FM VANGUARDIA 106.1 CALETA OLIVIA
 https://streamcasthd.com:19360/fmvanguardia/fmvanguardia.m3u8
+
+#EXTINF:-1 tvg-logo="http://fm1049.com.ar/wp-content/uploads/2017/10/TOP.png" group-title="RADIO", RADIO TOP 104.9 FM
+http://inliveserver.com:1935/14082/14082/chunklist_w748756583.m3u8
 
 #EXTINF:-1 tvg-logo="http://dsrmedios.com.ar/diario/wp-content/uploads/2019/03/Banner-cabezera.png" group-title="RADIO", RED DIFUSORA CARHUE - 99.5 FM
 https://panel.dattalive.com/8114/8114/chunklist_w719155802.m3u8
