@@ -1204,8 +1204,6 @@ https://panel.dattalive.com/8098/8098/chunklist_w1299609230.m3u8
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", FOUR SEASONS BUENOS AIRES
 https://www.youtube.com/watch?v=if91GyWP3zQ
 
-#EXTINF:-1 group-title="WEB CAM Y CLIMA", THE WORLD LIVE
-https://www.youtube.com/watch?v=9SjA-mKutVU
 
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM Y CLIMA", 5900 TV CORDOBA
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
@@ -1237,8 +1235,7 @@ https://www.youtube.com/watch?v=GRANe-srT58
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CAMARAS USHUAIA
 https://www.youtube.com/watch?v=tCe8P4CXR7A
 
-#EXTINF:-1 group-title="WEB CAM Y CLIMA", RESISTENCIA CHACO
-https://www.youtube.com/watch?v=vBy6i6hzjKg
+
 
 #EXTINF:-1 tvg-logo="https://www.sierradelaventana.org/images/stories/logos/logo.png" group-title="WEB CAM Y CLIMA", SIERRA DE LA VENTANA
 https://streaming.reltid.com.ar/hls/sierra.m3u8
