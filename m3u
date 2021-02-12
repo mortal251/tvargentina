@@ -1198,6 +1198,9 @@ https://videohd.live:19360/8012/8012.m3u8
 #EXTINF:-1 tvg-logo="http://www.racsol.com.ar/images/logo.png" group-title="RADIO", RACSOL FM 94.1 LAS FLORES
 https://mediacp.hostradios.com.ar:19360/rascoltv/rascoltv.m3u8
 
+#EXTINF:-1 tvg-logo="http://rcm88.com.ar/wp-content/uploads/2018/04/cropped-logo-web-1-1.png" group-title="RADIO", RADIO CIUDAD 100.3 FM CORONEL MOLDES
+https://panel.dattalive.com/8098/8098/chunklist_w1299609230.m3u8
+
 #EXTINF:-1 tvg-logo="https://fmvanguardia.com/wp-content/uploads/2020/03/Logo-FMV-106-Tel-980x210.png" group-title="RADIO", FM VANGUARDIA 106.1 CALETA OLIVIA
 https://streamcasthd.com:19360/fmvanguardia/fmvanguardia.m3u8
 
@@ -1210,8 +1213,7 @@ https://panel.dattalive.com/8114/8114/chunklist_w719155802.m3u8
 #EXTINF:-1 tvg-logo="http://fmtrujui.com/wp-content/uploads/2018/08/logo_normal_mobile-1.png" group-title="RADIO", FM 90.1 TRUJUI
 https://inliveserver.com:1936/14102/14102/chunklist_w1509303225.m3u8
 
-#EXTINF:-1 tvg-logo="http://rcm88.com.ar/wp-content/uploads/2018/04/cropped-logo-web-1-1.png" group-title="RADIO", RADIO CIUDAD 100.3 FM CORONEL MOLDES
-https://panel.dattalive.com/8098/8098/chunklist_w1299609230.m3u8
+
 
 
 
