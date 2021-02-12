@@ -794,6 +794,9 @@ https://panel.dattalive.com/8012/8012/chunklist_w1492926011.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" group-title="LOCALES", TELECINCO TRELEW
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0118
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES", VIBRA TV MONTE CASEROS - COORIENTES
+https://stmv1.zcastbr.com/vibratv/vibratv/chunklist_w1896966747.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
@@ -843,8 +846,7 @@ http://91.126.141.201:1935/live/ten/chunklist_w162002972.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/canal-ucl-vivo.jpg" group-title="MODA Y SOCIEDAD", UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_4.m3u8?_=1&m=1576532279
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="MODA Y SOCIEDAD", VIBRA TV
-https://stmv1.zcastbr.com/vibratv/vibratv/chunklist_w511167806.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/83f9f0ddd6f6d0bd9394ab0b34fcc7daa84ea75a1b923b8872acdb36f26c034a.png" group-title="MODA Y SOCIEDAD", PET COLLECTIVE
 https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
