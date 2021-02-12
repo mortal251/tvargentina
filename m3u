@@ -245,6 +245,9 @@ https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=161
 #EXTINF:-1 group-title="LOCALES", CANAL 13 SAN JUAN
 https://www.youtube.com/watch?v=A9eOaSOvugI
 
+#EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="LOCALES", TVEO MENDOZA
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w1248238094.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/canalnueve.tv/wp-content/uploads/2019/06/c9_1.png" group-title="LOCALES", CANAL 9 COMODORO RIVADAVIA
 https://live.canalnueve.tv/canal.m3u8
@@ -515,8 +518,7 @@ https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XB7qQwxGgsY/WKsrFu7SEMI/AAAAAAAAUW4/nJA6XK03oeI0v0iYaxfb1J5P-zGHRWCKACLcB/s1600/logo%2Bcanal.jpg" group-title="LOCALES", CANAL 3 FORMOSA
 https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w1328638650.m3u8
 
-#EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="LOCALES", TVEO MENDOZA
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w77563229.m3u8
+
 
 
 
