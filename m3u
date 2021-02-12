@@ -315,8 +315,7 @@ https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80097_Maxima_Movie.jpg" group-title="CINE Y SERIES", TV MAXIMA MOVIE
 http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/chunklist_w1808691800.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/120437_Huasco_TV.jpg" group-title="CINE Y SERIES", HUASCO TV
-https://paneltv.online:1936/8062/8062/chunklist_w540309538.m3u8?WebM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102985_Exprezion_TV.png" group-title="CINE Y SERIES", EXPREZION TV
@@ -346,8 +345,7 @@ https://stmv1.zcastbr.com/canal74hd/canal74hd/chunklist_w333835106.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/98882_Geovision.jpg" group-title="CINE Y SERIES", GEOVISION
 https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/chunklist_w1981183958.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://numerocero.es/wp-content/uploads/2019/04/Plataformas-de-pago-online.jpg" group-title="CINE Y SERIES", MEGA CINE TV
-https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/cinecanal.svg" group-title="CINE Y SERIES", Cinecanal
 http://nano.zappingtv.com:1935/cinecanal/fxmoviesm.smil/chunklist_b1628000_sles.m3u8
@@ -476,6 +474,9 @@ https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/124237_Norterama.png" group-title="MUSICA", NORTERAMA TV
 https://streamyes.alsolnet.com/wtmradio/live/chunklist_w862370769.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/67657013_2493383847561162_8934152675763683328_n.png?_nc_cat=101&ccb=3&_nc_sid=85a577&_nc_ohc=P8eD8txjk5sAX9p1YsQ&_nc_ht=scontent.fepa11-1.fna&oh=79a9a33cce816d7cd256031d98b667e8&oe=604D0194" group-title="MUSICA", TU MUSICA HD
+https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
 
 
 
@@ -850,6 +851,9 @@ https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/48427210_325701461614645_8188794366064590848_o.jpg?_nc_cat=107&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeE0w6xxxggX9dwSkxkmZ_Wfo3l5ohkQmVOjeXmiGRCZU5PXVmFuZY-G90M3kz-GBPs&_nc_ohc=t0jauJRBNSEAX-Eus-y&_nc_ht=scontent.fepa11-1.fna&oh=85b7587a15fa481bb6b14002d1932594&oe=604416B9" group-title="MODA Y SOCIEDAD", HD FASHION
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8?_=1612527921
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/120437_Huasco_TV.jpg" group-title="MODA Y SOCIEDAD", HUASCO TV
+https://paneltv.online:1936/8062/8062/chunklist_w540309538.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="INTERNACIONAL", FRANCE 24 ESPAÑOL - 24.3
