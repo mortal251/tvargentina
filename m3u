@@ -723,6 +723,8 @@ https://panel.dattalive.com/tsnnecochea/tsnnecochea/chunklist_w741406926.m3u8
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-ohrxmwyu219car5qjnmnky0ll0mfu6yuk15jy6idgw.png" group-title="LOCALES", MILENIUM TV SALTA
 https://panel.tuvideostreaming.com:19360/8002/8002.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg" group-title="LOCALES", CANAL 10 SENILLOSA NEUQUEN
 https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w563112316.m3u8
 
@@ -787,6 +789,9 @@ https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/chunklis
 
 #EXTINF:-1 tvg-logo="http://www.telecreativa.com/logos/enc_TELECREATIVA_movil.gif" group-title="LOCALES", TELECREATIVA LANUS
 https://panel.dattalive.com/8012/8012/chunklist_w1492926011.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" group-title="LOCALES", TELECINCO TRELEW
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0118
 
 
 
