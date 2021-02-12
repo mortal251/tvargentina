@@ -622,8 +622,7 @@ https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="LOCALES", CANAL 9 NORTE MISIONES
 https://panel.dattalive.com/8076/8076/chunklist_w2013827728.m3u8
 
-#EXTINF:-1 tvg-logo="https://bragadotv.com.ar/wp-content/uploads/2020/08/logoicono.png" group-title="LOCALES", BRAGADO TV
-https://inliveserver.com:1936/9516/9516/chunklist_w1534893344.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2rWFai7wm5hmr6nAciUu7Esm8YcLq10du0w&usqp=CAU" group-title="LOCALES", Canal 2 SAN LUIS
 https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/chunklist_w551645566.m3u8
@@ -650,7 +649,7 @@ https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm4lKe3uMzJnjq38A3QLkgbFduVklg1mHu2g&usqp=CAU" group-title="LOCALES", EL ECO TV
-https://5f93e494d5906.streamlock.net/elecotv/elecotv/chunklist_w1287606215.m3u8
+https://5f93e494d5906.streamlock.net/elecotv/elecotv/chunklist_w899273053.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.valletv.com/Graficos/logo.jpg" group-title="LOCALES", VALLE TV NEUQUEN
 https://stmv1.srvstm.com/valletv/valletv/chunklist_w678120974.m3u8
@@ -719,7 +718,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0215
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0212
 
 #EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="LOCALES", TSN NECOCHEA
-https://panel.dattalive.com/tsnnecochea/tsnnecochea/chunklist_w551304780.m3u8
+https://panel.dattalive.com/tsnnecochea/tsnnecochea/chunklist_w741406926.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-ohrxmwyu219car5qjnmnky0ll0mfu6yuk15jy6idgw.png" group-title="LOCALES", MILENIUM TV SALTA
 https://panel.tuvideostreaming.com:19360/8002/8002.m3u8
@@ -754,7 +753,7 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 https://www.youtube.com/watch?v=r-MWfeHuHag
 
 #EXTINF:-1 group-title="LOCALES", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=xyUeMSBY6jE
+https://www.youtube.com/watch?v=FQwFeCwTR2g
 
 #EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2018/10/tvulogotexto.png" group-title="LOCALES", TVU LA PLATA
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
@@ -771,6 +770,15 @@ https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/chunklist_w9
 #EXTINF:-1 tvg-logo="http://canal2perico.com.ar/canal2/images/logo.png" group-title="LOCALES", CANAL 2 PERICO
 https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8
 
+#EXTINF:-1 tvg-logo="https://cable10.com/imagenes/logo.png" group-title="LOCALES", CABLE 10 HD RIO GALLEGOS
+https://inliveserver.com:1936/8292/8292/chunklist_w788098130.m3u8
+
+#EXTINF:-1 tvg-logo="https://noticiaseps.com.ar/wp-content/uploads/2018/06/cropped-noticiastitulo-3.png" group-title="LOCALES", NOTICIAS EPS BRAGADO
+https://inliveserver.com:1936/9504/9504/chunklist_w1174450250.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
+https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", XAMA SAN JUAN
 https://sc1.stweb.tv/unisanjuan/live/chunklist_w1194083018.m3u8
 
@@ -780,14 +788,7 @@ https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/chunklis
 #EXTINF:-1 tvg-logo="http://www.telecreativa.com/logos/enc_TELECREATIVA_movil.gif" group-title="LOCALES", TELECREATIVA LANUS
 https://panel.dattalive.com/8012/8012/chunklist_w1492926011.m3u8
 
-#EXTINF:-1 tvg-logo="https://cable10.com/imagenes/logo.png" group-title="LOCALES", CABLE 10 HD RIO GALLEGOS
-https://inliveserver.com:1936/8292/8292/chunklist_w788098130.m3u8
 
-#EXTINF:-1 tvg-logo="https://noticiaseps.com.ar/wp-content/uploads/2018/06/cropped-noticiastitulo-3.png" group-title="LOCALES", NOTICIAS EPS BRAGADO
-https://inliveserver.com:1936/9504/9504/chunklist_w1174450250.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
-https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
@@ -1267,6 +1268,9 @@ https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/chunklist_w328886
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzf6AGK5BPmlw5-JzWhnSXze1WPGScfjTWLBDRI=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", CANAL 10 ENTRE RIOS
 http://streamingvideo.com.ar:1935/10tv/live/chunklist_w448721709.m3u8
+
+#EXTINF:-1 tvg-logo="https://bragadotv.com.ar/wp-content/uploads/2020/08/logoicono.png" group-title="LOCALES", BRAGADO TV
+https://inliveserver.com:1936/9516/9516/chunklist_w1534893344.m3u8
 
 
 
