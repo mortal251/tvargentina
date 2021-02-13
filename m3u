@@ -312,12 +312,6 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w20824752
 #EXTINF:-1 tvg-logo="https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg" group-title="CINE Y SERIES", WMS HD
 https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80097_Maxima_Movie.jpg" group-title="CINE Y SERIES", TV MAXIMA MOVIE
-http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/chunklist_w1808691800.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102985_Exprezion_TV.png" group-title="CINE Y SERIES", EXPREZION TV
 https://srv3.zcast.com.br/expreszion/expreszion/chunklist_w2079695085.m3u8
 
@@ -345,10 +339,8 @@ https://stmv1.zcastbr.com/canal74hd/canal74hd/chunklist_w333835106.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/98882_Geovision.jpg" group-title="CINE Y SERIES", GEOVISION
 https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/chunklist_w1981183958.m3u8?WebM3UCL
 
-
-
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/cinecanal.svg" group-title="CINE Y SERIES", Cinecanal
-http://nano.zappingtv.com:1935/cinecanal/fxmoviesm.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109759_Latinos_Up__TV.png" group-title="CINE Y SERIES", LATINOS UP
+https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1931595051.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Eurochannel_Logo.jpg" group-title="CINE Y SERIES", Eurochannel
 http://nano.zappingtv.com:1935/eurochannel/rtes.smil/chunklist_b2828000_sles.m3u8
