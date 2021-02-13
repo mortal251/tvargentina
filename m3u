@@ -987,6 +987,9 @@ http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45154_PinguinoTV.png" group-title="INTERNACIONAL", EL PINGUINO TV CHILE
 http://167.114.133.205:1935/live/pinguinotv/chunklist_w1565220602.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_tv3x.png/729px-Logo_tv3x.png" group-title="INTERNACIONAL", TV3 CATALUÑA
+https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/.m3u8?dvr
+
 
 
 
