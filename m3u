@@ -1092,7 +1092,7 @@ https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/2/2852.v5.png" group-title="RADIO", FM RITUAL 106.1 FM TDF
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/2/2852.v5.png" group-title="RADIO", FM RITUAL 106.1 FM RIO GRANDE TIERRA DEL FUEGO
 http://streamyes.alsolnet.com/fmritualvideo/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.urbana98.com/uploads/logo/logo_5f8f30311e770.png" group-title="RADIO", SEÑAL URBANA 98.9 VERONICA
@@ -1113,7 +1113,7 @@ https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/chunklist_w2882118.m
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="RADIO", RADIO AZAHARES 101.5 CORRIENTES
 http://streamyes.alsolnet.com/azaharesfm/live/chunklist_w1890757658.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="RADIO", LRJ214 Mil20 SAN JUAN
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="RADIO", AM 1020 SAN JUAN
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0226
 
 #EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="RADIO", POWER MAX 104.1 RECREO SANTA FE
@@ -1126,7 +1126,7 @@ https://panel.dattalive.com/8034/8034/chunklist_w1515375048.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialradio.tv/wp-content/uploads/2018/05/DIAL-RADIO-LOGO-WEB.png" group-title="RADIO", RADIO DIAL SAN RAFAEL
 https://cda1.alsolnet.com/dialradiotv/live/chunklist_w232073357.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI966.png" group-title="RADIO", LRI966 Cadena 103
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI966.png" group-title="RADIO", CADENA 103
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0093
 
 #EXTINF:-1 tvg-logo="https://radioarg.net/assets/image/radio/180/wox1.png" group-title="RADIO", WOX ROSARIO 88.3
@@ -1172,7 +1172,7 @@ https://59537faa0729a.streamlock.net/fmsoledad885/fmsoledad885/chunklist_w182692
 
 
 #EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="RADIO", EL DIARIO DE PRINGLES
-https://streaming.reltid.com.ar/hls/pringles.m3u8
+https://streaming.reltid.com.ar/hls/pringles2.m3u8
 
 #EXTINF:-1 tvg-logo="http://laradioteescucha.com/2016/wp-content/uploads/2016/06/logomoviles.png" group-title="RADIO", LA RADIO TE ESCUCHA 91.3 FM
 https://inliveserver.com:1936/14084/14084/chunklist_w1529177501.m3u8
@@ -1202,9 +1202,6 @@ https://streamcasthd.com:19360/fmvanguardia/fmvanguardia.m3u8
 #EXTINF:-1 tvg-logo="http://fm1049.com.ar/wp-content/uploads/2017/10/TOP.png" group-title="RADIO", RADIO TOP 104.9 FM
 http://inliveserver.com:1935/14082/14082/chunklist_w748756583.m3u8
 
-#EXTINF:-1 tvg-logo="http://dsrmedios.com.ar/diario/wp-content/uploads/2019/03/Banner-cabezera.png" group-title="RADIO", RED DIFUSORA CARHUE - 99.5 FM
-https://panel.dattalive.com/8114/8114/chunklist_w719155802.m3u8
-
 #EXTINF:-1 tvg-logo="http://fmtrujui.com/wp-content/uploads/2018/08/logo_normal_mobile-1.png" group-title="RADIO", FM 90.1 TRUJUI
 https://inliveserver.com:1936/14102/14102/chunklist_w1509303225.m3u8
 
@@ -1220,6 +1217,7 @@ https://www.youtube.com/watch?v=if91GyWP3zQ
 
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM Y CLIMA", 5900 TV CORDOBA
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 MAR DEL PLATA
 https://5f6e1fe8f2d2e.streamlock.net/mardelplata/mardelplata/chunklist_w1280736091.m3u8
@@ -1243,12 +1241,10 @@ https://5f6e1fe8f2d2e.streamlock.net/lacosta/lacosta/chunklist_w555218362.m3u8
 https://5f6e1fe8f2d2e.streamlock.net/puan/puan/chunklist_w1564398990.m3u8
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CANAL BEAGLE - USHUAIA
-https://www.youtube.com/watch?v=GRANe-srT58
+https://www.youtube.com/watch?v=2VA7iHN8zT4
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CAMARAS USHUAIA
 https://www.youtube.com/watch?v=tCe8P4CXR7A
-
-
 
 #EXTINF:-1 tvg-logo="https://www.sierradelaventana.org/images/stories/logos/logo.png" group-title="WEB CAM Y CLIMA", SIERRA DE LA VENTANA
 https://streaming.reltid.com.ar/hls/sierra.m3u8
@@ -1275,8 +1271,6 @@ https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/chunklist_w328886
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzf6AGK5BPmlw5-JzWhnSXze1WPGScfjTWLBDRI=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", CANAL 10 ENTRE RIOS
 http://streamingvideo.com.ar:1935/10tv/live/chunklist_w448721709.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES", CANAL ENCUENTRO - 22.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w1733579940.m3u8
