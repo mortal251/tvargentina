@@ -899,8 +899,8 @@ http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w1480246840.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL", ANN JAPAN
 https://www.youtube.com/watch?v=coYw-eVU0Ks
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="INTERNACIONAL", CANAL 24 HORAS CHILE
-http://nano.zappingtv.com:1935/24h/24h.smil/chunklist_b1928000_sles.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL", 24 HORAS CHILE
+https://www.youtube.com/watch?v=ZothDhWS1V8
 
 #EXTINF:-1 group-title="INTERNACIONAL", T13 CHILE
 https://www.youtube.com/watch?v=aqPIiyPI10c
