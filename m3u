@@ -246,7 +246,7 @@ https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=161
 https://www.youtube.com/watch?v=A9eOaSOvugI
 
 #EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="LOCALES", TVEO MENDOZA
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w1248238094.m3u8
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w845720032.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/canalnueve.tv/wp-content/uploads/2019/06/c9_1.png" group-title="LOCALES", CANAL 9 COMODORO RIVADAVIA
@@ -650,7 +650,7 @@ https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm4lKe3uMzJnjq38A3QLkgbFduVklg1mHu2g&usqp=CAU" group-title="LOCALES", EL ECO TV
-https://5f93e494d5906.streamlock.net/elecotv/elecotv/chunklist_w899273053.m3u8
+https://5f93e494d5906.streamlock.net/elecotv/elecotv/chunklist_w1294847277.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.valletv.com/Graficos/logo.jpg" group-title="LOCALES", VALLE TV NEUQUEN
 https://stmv1.srvstm.com/valletv/valletv/chunklist_w678120974.m3u8
@@ -686,7 +686,7 @@ https://vivo.solumedia.com:19360/crossing/crossing.m3u8
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-8-Catamarca-en-vivo.png" group-title="LOCALES", CANAL 8 CATAMARCA
-https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w782535571.m3u8
+https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w567534735.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="LOCALES", CANAL 10 SAN RAFAEL
 https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
@@ -752,11 +752,10 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s88-c-k-c0x00ffffff-no-rj" group-title="LOCALES", CNR TV JUJUY
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
-#EXTINF:-1 group-title="LOCALES", UNQ TV
-https://www.youtube.com/watch?v=r-MWfeHuHag
+
 
 #EXTINF:-1 group-title="LOCALES", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=FQwFeCwTR2g
+https://www.youtube.com/watch?v=HE_HrWrBzFU
 
 #EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2018/10/tvulogotexto.png" group-title="LOCALES", TVU LA PLATA
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
@@ -793,9 +792,13 @@ https://panel.dattalive.com/8012/8012/chunklist_w1492926011.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" group-title="LOCALES", TELECINCO TRELEW
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0118
+http://188.165.227.203/startpage/telecinco
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES", VIBRA TV MONTE CASEROS - CORRIENTES
 https://stmv1.zcastbr.com/vibratv/vibratv/chunklist_w1896966747.m3u8
+
+#EXTINF:-1 tvg-logo="https://bragadotv.com.ar/wp-content/uploads/2020/08/logoicono.png" group-title="LOCALES", BRAGADO TV
+https://inliveserver.com:1936/9500/9500/chunklist_w282964138.m3u8
 
 
 
@@ -1281,8 +1284,7 @@ https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/chunklist_w328886
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzf6AGK5BPmlw5-JzWhnSXze1WPGScfjTWLBDRI=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", CANAL 10 ENTRE RIOS
 http://streamingvideo.com.ar:1935/10tv/live/chunklist_w448721709.m3u8
 
-#EXTINF:-1 tvg-logo="https://bragadotv.com.ar/wp-content/uploads/2020/08/logoicono.png" group-title="LOCALES", BRAGADO TV
-https://inliveserver.com:1936/9516/9516/chunklist_w1534893344.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES", CANAL ENCUENTRO - 22.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w1733579940.m3u8
