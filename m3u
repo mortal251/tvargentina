@@ -61,7 +61,10 @@ https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/play
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w1656956317.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbrP181dXPviq5QieC9sOlZjtt5OduLcOspQ&usqp=CAU" group-title="INFANTIL", DRAGON BALL
-http://89.105.194.59:25461/live/spen!$YG0/spen!$YG0/69.m3u8 
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/wkq698ctu2.m3u8?s=yTFP6yb80MWDvImnWXJDxg&e=1613364850
+
+
+
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg" group-title="LOCALES", MIRADOR - 22.3
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w678055608.m3u8
@@ -371,6 +374,9 @@ http://animeloving.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="INFANTIL", ETC TV
 http://nano.zappingtv.com:1935/etctv/etctv.smil/chunklist_b3628000_sles.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1200px-Logo_The_Simpsons.svg.png" group-title="INFANTIL", LOS SIMPSON 3
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/zgzowaznb.m3u8?s=XKmqYN5Dd-k7YuM_9vI1zQ&e=1613365410
 
 
 
