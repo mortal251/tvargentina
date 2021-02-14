@@ -369,6 +369,9 @@ http://nano.zappingtv.com:1935/tooncast/cnnes.smil/chunklist_b2128000_sles.m3u8
 #EXTINF:-1 tvg-logo="http://azxtv.com/animeloving.png" group-title="INFANTIL", ANIME LOVING TV
 http://animeloving.net/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="INFANTIL", ETC TV
+http://nano.zappingtv.com:1935/etctv/etctv.smil/chunklist_b3628000_sles.m3u8
+
 
 
 
@@ -773,8 +776,8 @@ https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/chunklis
 https://panel.dattalive.com/8012/8012/chunklist_w1492926011.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" group-title="LOCALES", TELECINCO TRELEW
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0118
-http://188.165.227.203/startpage/telecinco
+https://videohd.live:19360/8016/8016.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES", VIBRA TV MONTE CASEROS - CORRIENTES
 https://stmv1.zcastbr.com/vibratv/vibratv/chunklist_w1896966747.m3u8
@@ -1198,8 +1201,7 @@ http://inliveserver.com:1935/9014/9014/chunklist_w1072997195.m3u8
 #EXTINF:-1 tvg-logo="http://fm1049.com.ar/wp-content/uploads/2017/10/TOP.png" group-title="RADIO", RADIO TOP 104.9 FM
 http://inliveserver.com:1935/14082/14082/chunklist_w748756583.m3u8
 
-#EXTINF:-1 tvg-logo="http://fmtrujui.com/wp-content/uploads/2018/08/logo_normal_mobile-1.png" group-title="RADIO", FM 90.1 TRUJUI
-https://inliveserver.com:1936/14102/14102/chunklist_w1509303225.m3u8
+
 
 
 
@@ -1273,6 +1275,9 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w173357994
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzYpeA4-oJxDlV34Xfha8HNUXOlqucrQMQQ&usqp=CAU" group-title="LOCALES", VIAJAR TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0028
+
+#EXTINF:-1 tvg-logo="http://fmtrujui.com/wp-content/uploads/2018/08/logo_normal_mobile-1.png" group-title="RADIO", FM 90.1 TRUJUI
+https://inliveserver.com:1936/14102/14102/chunklist_w1509303225.m3u8
 
 
 
