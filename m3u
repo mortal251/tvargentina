@@ -400,8 +400,8 @@ http://nano.zappingtv.com:1935/espnplus/fsmobile.smil/chunklist_b1628000_sles.m3
 
 
 
-#EXTINF:-1 tvg-logo="https://www.golfchannel.com/sites/default/files/new_golf_channel_logo_304.jpg" group-title="DEPORTE", Golf Channel
-http://nano.zappingtv.com:1935/golfchannel/rtes.smil/chunklist_b2828000_sles.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/GINX_Esports_TV_Logo_flat.png/800px-GINX_Esports_TV_Logo_flat.png" group-title="DEPORTE", GINX Esports TV
+http://nano.zappingtv.com:1935/ginx/ginx.smil/chunklist_b3628000_sles.m3u8
 
 
 
