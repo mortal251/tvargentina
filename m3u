@@ -346,8 +346,8 @@ https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/chunklist_w1981183958.m
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109759_Latinos_Up__TV.png" group-title="CINE Y SERIES", LATINOS UP
 https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1931595051.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Eurochannel_Logo.jpg" group-title="CINE Y SERIES", Eurochannel
-http://nano.zappingtv.com:1935/eurochannel/rtes.smil/chunklist_b2828000_sles.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115431_G_Vision.png" group-title="CINE Y SERIES", G VISION
+https://tls.cdnz.cl/escgabrielamistral/live/chunklist_w2040783004.m3u8?WebM3UCL
 
 
 
