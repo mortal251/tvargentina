@@ -768,8 +768,6 @@ https://inliveserver.com:1936/8292/8292/chunklist_w788098130.m3u8
 #EXTINF:-1 tvg-logo="https://noticiaseps.com.ar/wp-content/uploads/2018/06/cropped-noticiastitulo-3.png" group-title="LOCALES", NOTICIAS EPS BRAGADO
 https://inliveserver.com:1936/9504/9504/chunklist_w1174450250.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", XAMA SAN JUAN
 https://sc1.stweb.tv/unisanjuan/live/chunklist_w1194083018.m3u8
 
@@ -784,6 +782,9 @@ https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 tvg-logo="https://bragadotv.com.ar/wp-content/uploads/2020/08/logoicono.png" group-title="LOCALES", BRAGADO TV
 https://inliveserver.com:1936/9500/9500/chunklist_w282964138.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.canal4teleba.com.ar/img/banner.png" group-title="LOCALES", TELEBA
+http://inliveserver.com:1935/8550/8550/chunklist_w1399633000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
@@ -1048,7 +1049,7 @@ https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/canal-medios-rioja.jpg" group-title="RADIO", MEDIOSRIOJA TV
-http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w2048008042.m3u8
+http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w747334093.m3u8
 
 #EXTINF:-1 tvg-logo="https://beatsradio.com.ar/imagenes/logo.png" group-title="RADIO", BEATS  - 100.5 FM - TIGRE
 https://59537faa0729a.streamlock.net/beatsradio/beatsradio/chunklist_w154598638.m3u8?_=1
@@ -1150,8 +1151,6 @@ https://clientes.videostreaming.ar:19360/radioamplitud/radioamplitud.m3u8
 #EXTINF:-1 tvg-logo="https://radiotv.ar/img/logo/fmzetaradio.jpg" group-title="RADIO", FM 100.1 ZETA MORON
 https://clientes.videostreaming.ar:19360/fmzetaradio/fmzetaradio.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://www.fantastica1017.com.ar/images/logoOK.jpg" group-title="RADIO", FM FANTASTICA FM 101.7 FM
 https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
 
@@ -1174,10 +1173,6 @@ https://inliveserver.com:1936/14084/14084/chunklist_w1529177501.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiojai.com/wp-content/uploads/2019/07/logo-m-2.png" group-title="RADIO", RADIO JAI FM 96.3
 https://streamyes.alsolnet.com/radiojaitv/live/chunklist_w1915904993.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTawQavXm0sl9VVZanpEdf3JcdaWm62b-7ZLA&usqp=CAU" group-title="RADIO", RADIO CAPICUA  99.3 VILLA MARIA CORDOBA
 https://stmvideo2.livecastv.com/capicua/capicua/chunklist_w219207970.m3u8
 
@@ -1198,6 +1193,9 @@ http://inliveserver.com:1935/9014/9014/chunklist_w1072997195.m3u8
 
 #EXTINF:-1 tvg-logo="http://fm1049.com.ar/wp-content/uploads/2017/10/TOP.png" group-title="RADIO", RADIO TOP 104.9 FM
 http://inliveserver.com:1935/14082/14082/chunklist_w748756583.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cadenamaxima.com.ar/cadmawp/wp-content/uploads/2017/04/logo-cadena-maxima-footer.png" group-title="RADIO", CADENA MAXIMA 106.7 - SALTA
+https://vivo.solumedia.com:19360/cadenamaxima/cadenamaxima.m3u8
 
 
 
