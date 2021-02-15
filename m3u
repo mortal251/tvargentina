@@ -644,7 +644,7 @@ https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm4lKe3uMzJnjq38A3QLkgbFduVklg1mHu2g&usqp=CAU" group-title="LOCALES", EL ECO TV
-https://5f93e494d5906.streamlock.net/elecotv/elecotv/chunklist_w1294847277.m3u8
+https://5f93e494d5906.streamlock.net/elecotv/elecotv/chunklist_w591863792.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.valletv.com/Graficos/logo.jpg" group-title="LOCALES", VALLE TV NEUQUEN
 https://stmv1.srvstm.com/valletv/valletv/chunklist_w678120974.m3u8
@@ -707,10 +707,10 @@ https://5975e06a1f292.streamlock.net:4443/envivo/castv/chunklist_w1037436923.m3u
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0220
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0218
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjM9L5np1zJaHHi76GKFzOWBPzuOswBWEsnUp7Q=s48-c-k-c0xffffffff-no-rj-mo" group-title="LOCALES", UTN TV SAN CRUZ
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0216
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0213
 
 #EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="LOCALES", TSN NECOCHEA
 https://panel.dattalive.com/tsnnecochea/tsnnecochea/chunklist_w741406926.m3u8
@@ -720,11 +720,7 @@ https://panel.tuvideostreaming.com:19360/8002/8002.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg" group-title="LOCALES", CANAL 10 SENILLOSA NEUQUEN
-https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w563112316.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.trutv.com.ar/wp-content/uploads/2018/05/logro-tru.png" group-title="LOCALES", Television Regional Unimar
-https://vivo.solumedia.com:19360/trutv/trutv.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="LOCALES", 12 TARTAGAL
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w354333646.m3u8
@@ -749,7 +745,7 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 
 #EXTINF:-1 group-title="LOCALES", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=HE_HrWrBzFU
+https://www.youtube.com/watch?v=d4HiEkNZ0ew
 
 #EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2018/10/tvulogotexto.png" group-title="LOCALES", TVU LA PLATA
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
@@ -772,8 +768,7 @@ https://inliveserver.com:1936/8292/8292/chunklist_w788098130.m3u8
 #EXTINF:-1 tvg-logo="https://noticiaseps.com.ar/wp-content/uploads/2018/06/cropped-noticiastitulo-3.png" group-title="LOCALES", NOTICIAS EPS BRAGADO
 https://inliveserver.com:1936/9504/9504/chunklist_w1174450250.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
-https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.xama.tv/images/logo-xama-01.svg" group-title="LOCALES", XAMA SAN JUAN
 https://sc1.stweb.tv/unisanjuan/live/chunklist_w1194083018.m3u8
@@ -787,14 +782,8 @@ https://panel.dattalive.com/8012/8012/chunklist_w1492926011.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" group-title="LOCALES", TELECINCO TRELEW
 https://videohd.live:19360/8016/8016.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES", VIBRA TV MONTE CASEROS - CORRIENTES
-https://stmv1.zcastbr.com/vibratv/vibratv/chunklist_w1896966747.m3u8
-
 #EXTINF:-1 tvg-logo="https://bragadotv.com.ar/wp-content/uploads/2020/08/logoicono.png" group-title="LOCALES", BRAGADO TV
 https://inliveserver.com:1936/9500/9500/chunklist_w282964138.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
@@ -1266,22 +1255,27 @@ https://streaming.reltid.com.ar/hls/monte.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108929_Airevision_Digital.jpg" group-title="LOCALES", AIREVISION PUNTA ALTA
-http://airevision.ddns.net:1935/live/myStream/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo_elonce_tv_2019.png.jpg/120px-Logo_elonce_tv_2019.png.jpg" group-title="LOCALES", ONCE PARANA
 https://elonce.zapto.org/hls/live_240p1000kbs.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telejunin.com.ar/images/telejunin%20logo.png" group-title="LOCALES", TELEJUNIN
-https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/chunklist_w328886260.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzf6AGK5BPmlw5-JzWhnSXze1WPGScfjTWLBDRI=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", CANAL 10 ENTRE RIOS
-http://streamingvideo.com.ar:1935/10tv/live/chunklist_w448721709.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES", CANAL ENCUENTRO - 22.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w1733579940.m3u8
 
+#EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg" group-title="LOCALES", CANAL 10 SENILLOSA NEUQUEN
+https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w563112316.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.trutv.com.ar/wp-content/uploads/2018/05/logro-tru.png" group-title="LOCALES", Television Regional Unimar
+https://vivo.solumedia.com:19360/trutv/trutv.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
+https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://fmtrujui.com/wp-content/uploads/2018/08/logo_normal_mobile-1.png" group-title="RADIO", FM 90.1 TRUJUI
