@@ -381,11 +381,11 @@ http://8.9.4.128:8080/hls/boomerangtv.m3u8?WebM3UCL
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKHUnHT.png" group-title="24/7", MONSTRUOS DE VERDAD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKHUnHT.png" group-title="INFANTIL", MONSTRUOS DE VERDAD
 https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w780109170.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uGwFXeM.png" group-title="24/7", EDUCA TV  TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uGwFXeM.png" group-title="INFANTIL", EDUCA TV  TV
 https://cloud37.ecuatel.com/educa/educa/chunklist_w483213793.m3u8
 
 
@@ -414,7 +414,7 @@ https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH7EZZ49oECmyev0RrU2mlStTm-q0wNC2e2A&usqp=CAU" group-title="DEPORTE", Espn Extra
 http://nano.zappingtv.com:1935/espnplus/fsmobile.smil/chunklist_b1628000_sles.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="Lista 17", GOLF CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="DEPORTE", GOLF CHANNEL
 http://nano.zappingtv.com:1935/golfchannel/rtes.smil/chunklist_b2828000_sles.m3u8
 
 
