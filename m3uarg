@@ -693,7 +693,7 @@ https://vivo.solumedia.com:19360/crossing/crossing.m3u8
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-8-Catamarca-en-vivo.png" group-title="LOCALES", CANAL 8 CATAMARCA
-https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w567534735.m3u8
+https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w636372078.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="LOCALES", CANAL 10 SAN RAFAEL
 https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
@@ -726,7 +726,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0218
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0213
 
 #EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="LOCALES", TSN NECOCHEA
-https://panel.dattalive.com/tsnnecochea/tsnnecochea/chunklist_w741406926.m3u8
+https://panel.dattalive.com/tsnnecochea/tsnnecochea/chunklist_w892584244.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-ohrxmwyu219car5qjnmnky0ll0mfu6yuk15jy6idgw.png" group-title="LOCALES", MILENIUM TV SALTA
 https://panel.tuvideostreaming.com:19360/8002/8002.m3u8
@@ -805,6 +805,9 @@ https://59537faa0729a.streamlock.net/milenniotv/milenniotv/chunklist_w1666169264
 
 #EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg" group-title="LOCALES", CANAL 10 SENILLOSA NEUQUEN
 https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w563112316.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES", VIBRA HD MONTE CASEROS
+https://stmv1.zcastbr.com/vibratv/vibratv/chunklist_w1895540096.m3u8
 
 
 
