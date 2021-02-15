@@ -1204,6 +1204,12 @@ http://inliveserver.com:1935/14082/14082/chunklist_w748756583.m3u8
 #EXTINF:-1 tvg-logo="https://www.cadenamaxima.com.ar/cadmawp/wp-content/uploads/2017/04/logo-cadena-maxima-footer.png" group-title="RADIO", CADENA MAXIMA 106.7 - SALTA
 https://vivo.solumedia.com:19360/cadenamaxima/cadenamaxima.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tMfw42m.png" group-title="INFANTIL", Futurama Manía
+https://m3u-editor.com/serve/rokumaniatest/156476844
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tMfw42m.png" group-title="INFANTIL", Simpson Q
+https://m3u-editor.com/serve/rokumaniatest/156476844
+
 
 
 
