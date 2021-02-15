@@ -132,8 +132,7 @@ https://sv.tsnt.xyz/espn/espn1o_sur.m3u8
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
 https://sv.tsnt.xyz/espn/espn2o_sur.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 3
-https://ont.sports24.site/espn3sur.m3u8
+
 
 
 
@@ -1290,8 +1289,8 @@ https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
 #EXTINF:-1 tvg-logo="http://fmtrujui.com/wp-content/uploads/2018/08/logo_normal_mobile-1.png" group-title="RADIO", FM 90.1 TRUJUI
 https://inliveserver.com:1936/14102/14102/chunklist_w1509303225.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/celtatv.png" group-title="LOCALES", 555
-https://www.twitch.tv/telecondor
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/celtatv.png" group-title="LOCALES", 6666
+https://video.streamtvradio.com:8081/uv027/uv027
 
 
 
