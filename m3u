@@ -1284,9 +1284,8 @@ https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
 #EXTINF:-1 tvg-logo="http://fmtrujui.com/wp-content/uploads/2018/08/logo_normal_mobile-1.png" group-title="RADIO", FM 90.1 TRUJUI
 https://inliveserver.com:1936/14102/14102/chunklist_w1509303225.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/celtatv.png" group-title="LOCALES", TTT
-https://player.twitch.tv/?channel=tvmaxcordoba&height=480&migration=true&parent=multiplex.net.ar&referrer=https%3A%2F%2Fmultiplex.net.ar%2Fsite%2Ftvmax%2F&width=854
-
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/celtatv.png" group-title="LOCALES", 555
+https://www.twitch.tv/telecondor
 
 
 
