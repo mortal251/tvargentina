@@ -1218,6 +1218,9 @@ https://panel.tuvideostreaming.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysxHwA5V1RRfI6m8y-LoJN_utfCdoOjnZ2w&usqp=CAU" group-title="RADIO", RED DIFUSORA CARHUE - 99.5 FM
 https://panel.dattalive.com/8114/8114/chunklist_w719155802.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROemK8-dSOkvxNct66KtjqZ7Rr1gM_5id3Jg&usqp=CAU" group-title="RADIO", FM 90.1 TRUJUI
+https://inliveserver.com:1936/14102/14102/chunklist_w2124147218.m3u8
+
 
 
 
