@@ -857,8 +857,7 @@ http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8?_=1612527921
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/120437_Huasco_TV.jpg" group-title="MODA Y SOCIEDAD", HUASCO TV
 https://paneltv.online:1936/8062/8062/chunklist_w540309538.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="MODA Y SOCIEDAD", FOOD NETWORK
-http://nano.zappingtv.com:1935/foodnetwork/default.smil/chunklist_b1628000_sles.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="INTERNACIONAL", FRANCE 24 ESPAÑOL - 24.3
