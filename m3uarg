@@ -794,6 +794,9 @@ https://stmv1.zcastbr.com/vibratv/vibratv/chunklist_w1895540096.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110975_Awka.png" group-title="LOCALES", AWKA TV
 https://stmv1.questreaming.com/awkasonido/awkasonido/chunklist_w1552932805.m3u8
 
+#EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES", VEO SANTO TOME - SANTA FE
+https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_360p/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
@@ -1029,7 +1032,7 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 https://stmv1.srvif.com/murialdoestudio/murialdoestudio/chunklist_w603323015.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canal13jujuy.com/img/logo-web.png" group-title="RELIGION", CANAL 13 JUJUY
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0163
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0155
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaK5id3ywW85veHfSdEKh4SM7r6Hk4wkrCNA&usqp=CAU" group-title="RELIGION", CBN ESPAÑOL
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
