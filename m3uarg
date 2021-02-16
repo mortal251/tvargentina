@@ -288,9 +288,6 @@ https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w165756078.m3u8?WebM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LnXLukJpoCw/maxresdefault.jpg" group-title="CINE Y SERIES", MI TV TELEVISION CLASICA
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
@@ -302,7 +299,6 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w394246582.m3u8?_=1
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-movies-tv-en-vivo-271x190.jpg" group-title="CINE Y SERIES", FMTV 2
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0X7REz4ISXLJloQhacO1qP2R3vnMm-uncrw&usqp=CAU" group-title="CINE Y SERIES", ZEE TV
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?_=1
@@ -351,6 +347,9 @@ http://nano.zappingtv.com:1935/ucv3o/ucv3.smil/chunklist_b2128000_sles.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.biobiochile.cl/wp-content/uploads/2018/11/tv_logos-rgb_fondoblanco-azuloscuro-azul.jpg" group-title="CINE Y SERIES", TV+
 http://nano.zappingtv.com:1935/tvm/tvmas.smil/chunklist_b3628000_sles.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="CINE Y SERIES", SOL TV
+https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/chunklist_w1124562929_b563840_DVR.m3u8?WebM3UCL
 
 
 
@@ -797,7 +796,11 @@ https://stmv1.questreaming.com/awkasonido/awkasonido/chunklist_w1552932805.m3u8
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES", VEO SANTO TOME - SANTA FE
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_360p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
+https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.trutv.com.ar/wp-content/uploads/2018/05/logro-tru.png" group-title="LOCALES", TELEVISION REGIONAL UNIMARC CORDOBA
+https://vivo.solumedia.com:19360/trutv/trutv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
@@ -1213,7 +1216,8 @@ https://vivo.solumedia.com:19360/cadenamaxima/cadenamaxima.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/p960x960/119093221_3588161007880988_1941214189500471879_o.jpg?_nc_cat=109&ccb=3&_nc_sid=85a577&_nc_ohc=SnU7h02XUlMAX9c6vN7&_nc_ht=scontent.fepa11-1.fna&tp=6&oh=6bbaac30e4449c97098170e20ea66561&oe=605146BA" group-title="RADIO", UN SUEÑO EN EL AIRE 103.3 FM - RANCHOS 
 https://panel.tuvideostreaming.com:19360/8006/8006.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysxHwA5V1RRfI6m8y-LoJN_utfCdoOjnZ2w&usqp=CAU" group-title="RADIO", RED DIFUSORA CARHUE - 99.5 FM
+https://panel.dattalive.com/8114/8114/chunklist_w719155802.m3u8
 
 
 
