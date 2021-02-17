@@ -379,7 +379,7 @@ https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w780109170.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uGwFXeM.png" group-title="INFANTIL", EDUCA TV
 https://cloud37.ecuatel.com/educa/educa/chunklist_w483213793.m3u8
 
-#EXTINF:-1 tvg-logo="http://azxtv.com/animeloving.png" group-title="INFANTIL", ANIME LOVING TV
+#EXTINF:-1 tvg-logo="http://www.azxtv.com/aztv.png" group-title="INFANTIL", AZTV
 http://animeloving.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TaTeTi12.png/200px-TaTeTi12.png" group-title="INFANTIL", TATETI
