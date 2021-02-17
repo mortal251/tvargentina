@@ -43,7 +43,7 @@ https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhw
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0047 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvIEEO0o4euP-DwYRGQJCyrMOf_EGZOIT7rdsL0mttTt8v-9KpP2I0B9kt-eZpzTPDYV1H7wWjsaqdhOehSpEtUCzDiM7eP_6ZicA5-YXwT3FEQrZ65U4QsfJboAdf43g1o2sUTCcx8YjD8C_DCU2Vq8-YO5hZA-ivhuDdUn07e7749pmLejzz1M6duEVFZG1iWAnJZoAxeMd5QATT7274rIiGFFyypn4RKLY7xTqII6xTGrfU2Nbm7ydMhEfPYUYhG-CNQnk5QlPbnFmjoH_1vfnGw59zaF78pvZaHa5GRNTqEFJEaMyDh2estjN9VGqWvLBIxP1mL1-AUvlrC5k95-TvJJHaL2jLDeQmqnBQ6sU6JDp0h8AP7VSSlZ5BjLfS5LwxAaxd6RC56hSu13tZBA4cDHyCJtLktv71Ev2F39VvUfgWAWhIjZYG6_5KnOTLQB_zPVVh424V5vr7BQGIfszVAxJh6I3GcNK_aX3Mv5lvVDZcyUtODbExuawzF5v8O2iYqyAN20hPWL_IsGva4izrGmyg8JH8SW-JTyb7gXWEL0ElcYSRwys7y2UmhPhEObNG_FRqdy6kenmLtTduaA-2abW9Snv1OZp5rUAsfw9HI2A1q6MABM51uHrGe91n1N6aAZMK_2CorSnfi8d8CI2k7MP6XbCPqfwPCpkhA9xjlcdJ0fP5mazJBKBMUcuXi8ehWvNJuaOjTxPmk6bA6GK28s0giGbbcQMnsy7SllO9XhdtiePJ4thN03qoxK8IHMwYLtPtDXHlQE6CD1PUAiqLIn8rZig032Z-qgGq5N-sKxViA4l65KfusK8nWj_ZDtbGMSEFUEwndtlh3y-xtL_D5CHCwaDBrRUjzjUlli4BoXeg.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvEEd8VX7J4xQpO6be574Y_3TxDttriJVDSZ8XxGPAgc-24weDXCpg23BDtAtZomT1T8Jf9R6LW1JFhGhJyTlzZcXu0atrmltp62UIzOGxByAIG0p9bhs5AypHyUgvsTc2EJCI_u8XmDHDQeZyVAwpJwRsZ53ThkBUrkj03x5pHtBTykdqupF-WyAN86EBUjsby-EJgdqMtDZ-q29PFS-HknTy2INBXiAANSO67cJJHQeaj2Aa_Fjxli9qN3a6F-Fk0qNM9xABdh1-GAbc3-ZY-5Fo2vifHk3VgITp6pLDm5YFA_CCKsUVrrhhpXZ4u67_YsAP58EuHqp0oBZDXrI0gAOwVu7JWUh1MqFO5EuTpSB8GU8M288P7QpgitcA7I5cTStb96Hm8-jJThH9d_l4JxXdnFVp-L3Sp9CmMB022d3jM36msDh0Tqh3DLue7Kz8343Oh90i7lLi7Lag_dc_9x9hpgptJ6z4MdlwFmhEwUIui0B33WONSeSnpvxDRBkQZ2F-J1KMGC37neoMgoA-LkKdFixCYFSx1I9G6O3lW3lvkJPcFh1SAGTBonauHC4kHhEcpaIRa6CYjB0q3YxAueKquD9mQi9Wr02yZGmLWvMyFke_K5V4CPCx-m9RaVw5PVuaW2XgUK0xopks5Eh39LI4BXcqy5laYa_mM7ISx_4JlV25naDKFPJMUo3PRGzhYOB6DppQlcf68xk3dipBdHY3Yr0r3rXdop-NKGVfhHwIOuZEt2zGsVHSDhS3HCIRV1GbILxT3D0XLgIScE0GGOlEZ5xjPLX05sC-yn-ATJu0okJWmIVJRPqKVUPZRKWZpNURIQZ56lJza8Bi-uw3P517s8yhoMAOTB7mgP0NtTCBpF.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES", NET TV - 27.2
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -60,8 +60,7 @@ https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/play
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" group-title="INFANTIL", EL CHAVO
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w1656956317.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbrP181dXPviq5QieC9sOlZjtt5OduLcOspQ&usqp=CAU" group-title="INFANTIL", DRAGON BALL
-https://live.televisiongratishd.com/tvplus2023/191_.m3u8?token=mjAZLSuBI4F0ebcC3SUi4A&expires=1613577624&ip=2800:810:473:9e99:92b:d908:797a:1ab2
+
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg" group-title="LOCALES", MIRADOR - 22.3
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w678055608.m3u8
