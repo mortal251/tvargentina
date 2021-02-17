@@ -133,14 +133,7 @@ https://sv.tsnt.xyz/espn/espn2o_sur.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", Garage TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w78966593_b1296000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTE", TENIS CHANNEL
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-
-#EXTINF:-1 group-title="DEPORTE", AMERICA SPORT
-https://www.youtube.com/watch?v=1SmKEIpmcLU
 
 
 
@@ -386,7 +379,14 @@ http://animeloving.net/hls/stream.m3u8
 http://nano.zappingtv.com:1935/tateti/tvmas.smil/chunklist_b3628000_sles.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w78966593_b1296000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTE", TENIS CHANNEL
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", AMERICA SPORT
+https://www.youtube.com/watch?v=1SmKEIpmcLU
 
 #EXTINF:-1 group-title="DEPORTE", HIPODROMO DE PALERMO
 https://www.youtube.com/watch?v=OnW5qGG8fAA
@@ -397,7 +397,8 @@ https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/watermarks/QQnSLaBB.png" group-title="MUSICA", COOPE TV
+https://ingest-wza.bustream.com/coopetv/coopetv/chunklist_w1034186856.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcOBhiBSAwXzwsKeM-S34gHhr7HLulFxChbA&usqp=CAU" group-title="MUSICA", KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
@@ -1054,11 +1055,10 @@ https://stmv1.srvif.com/tvsion/tvsion/chunklist_w401206221.m3u8
 https://g5.mc-slo.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/MITREHD-10002_240p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="RADIO", LA 100
-https://g3.vxral-slo.transport.edge-access.net/b13/ngrp:cienradioshd-10002_all/cienradioshd-10002_240p.m3u8
+https://g3.vxral-slo.transport.edge-access.net/b13/ngrp:cienradioshd-10002_all/cienradioshd-10002_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" group-title="RADIO", CN 24/7 NEUQUEN 
 https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/canal-medios-rioja.jpg" group-title="RADIO", MEDIOSRIOJA TV
 http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w747334093.m3u8
@@ -1078,12 +1078,8 @@ https://g3.vxral-slo.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_a
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="RADIO", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://vorterix.com/assets/img/logo-icon.png" group-title="RADIO", VORTERIX - 92.1 FM
-https://prepublish.f.qaotic.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
-
-
+https://prepublish.f.qaotic.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI974.png" group-title="RADIO", MEGA 90.9
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w2063503956.m3u8
@@ -1096,8 +1092,6 @@ https://stmvideo2.livecastv.com/centro/centro/chunklist_w1801160913.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.faep5-1.fna.fbcdn.net/v/t1.0-9/35852518_1982366235170030_5582042344615575552_n.jpg?_nc_cat=109&cb=846ca55b-ee17756f&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeHphhA31kyFI_IV1JcTSCvoMcRLpBPOk2sxxEukE86TawyzxB7-RcyUml6v6YXw_cY&_nc_ohc=02I4BicXyFIAX9djev5&_nc_ht=scontent.faep5-1.fna&oh=f6bd1fe3dfb800c94aeb51cfc058eb93&oe=5FC34C77" group-title="RADIO", CARDINAL TV MIRAMAR CORDOBA
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/2/2852.v5.png" group-title="RADIO", FM RITUAL 106.1 FM RIO GRANDE TIERRA DEL FUEGO
 http://streamyes.alsolnet.com/fmritualvideo/live/playlist.m3u8
@@ -1121,7 +1115,7 @@ https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/chunklist_w2882118.m
 http://streamyes.alsolnet.com/azaharesfm/live/chunklist_w1890757658.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="RADIO", AM 1020 SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0208
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0210
 
 #EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="RADIO", POWER MAX 104.1 RECREO SANTA FE
 https://59537faa0729a.streamlock.net/radio1045/radio1045/chunklist_w1351704474.m3u8
@@ -1267,8 +1261,7 @@ https://streaming.reltid.com.ar/hls/sierra.m3u8
 #EXTINF:-1 tvg-logo="http://www.tornquistdistrital.com.ar/wp-content/uploads/2012/07/Logo-Monte.jpg" group-title="WEB CAM Y CLIMA", MONTE HERMOSO
 https://streaming.reltid.com.ar/hls/monte.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/watermarks/QQnSLaBB.png" group-title="MUSICA", COOPE TV
-https://ingest-wza.bustream.com/coopetv/coopetv/chunklist_w1034186856.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjM9L5np1zJaHHi76GKFzOWBPzuOswBWEsnUp7Q=s48-c-k-c0xffffffff-no-rj-mo" group-title="LOCALES", UTN TV SAN CRUZ
 
