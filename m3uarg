@@ -939,12 +939,10 @@ https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
 https://www.youtube.com/watch?v=8XL8Qk4qzyA
 
 #EXTINF:-1 group-title="INTERNACIONAL", FORO TV MEXICO
-https://www.youtube.com/watch?v=gxHV8NpL2J0https://www.youtube.com/watch?v=gxHV8NpL2J0
+https://www.youtube.com/watch?v=gxHV8NpL2J0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="INTERNACIONAL", AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CUBAVISION_2017.png" group-title="INTERNACIONAL", CUBAVISION
 http://190.122.96.187:8888/http/010
@@ -981,7 +979,8 @@ http://45.55.127.106/live/unicanal.m3u8
 http://167.114.133.205:1935/live/pinguinotv/chunklist_w1565220602.m3u8?WebM3UCL
 
 
-
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_03/large.teleantioquiawhite.png.13828412c7e79365cebf6b87be4f4cdd.png" group-title="INTERNACIONAL", TELEANTIOQIUA
+https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
 
 
 
