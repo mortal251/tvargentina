@@ -235,13 +235,13 @@ http://coninfo.net:1935/13maxhd/live/.m3u8
 https://www.youtube.com/watch?v=rKr5lcxmowk
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1613673949&h=efd1a8741daae3dfe6aa6926ced25b15
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1613715174&h=21431a3434b9b92e0bc52230802cec24
 
 #EXTINF:-1 group-title="LOCALES", CANAL 13 SAN JUAN
 https://www.youtube.com/watch?v=PnaeDW37xIE
 
 #EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="LOCALES", TVEO MENDOZA
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w1074837466.m3u8
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w442257891.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/canalnueve.tv/wp-content/uploads/2019/06/c9_1.png" group-title="LOCALES", CANAL 9 COMODORO RIVADAVIA
 https://live.canalnueve.tv/canal.m3u8
