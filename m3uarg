@@ -1058,8 +1058,8 @@ https://g3.vxral-slo.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_a
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="RADIO", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://vorterix.com/assets/img/logo-icon.png" group-title="RADIO", VORTERIX - 92.1 FM
-https://prepublish.f.qaotic.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg" group-title="RADIO", VORTERIX - 92.1 FM
+https://prepublish.f.qaotic.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI974.png" group-title="RADIO", MEGA 90.9
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w2063503956.m3u8
@@ -1070,7 +1070,7 @@ http://videostream.shockmedia.com.ar:1935/lightfm/lightfm/chunklist_w998628812.m
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu9w1RZeP-9qPRH7EEj8WGxlLE2smh1hCv-Q&usqp=CAU" group-title="RADIO", RADIO CENTRO 92.9 VILLA MARIA CORDOBA
 https://stmvideo2.livecastv.com/centro/centro/chunklist_w1801160913.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.faep5-1.fna.fbcdn.net/v/t1.0-9/35852518_1982366235170030_5582042344615575552_n.jpg?_nc_cat=109&cb=846ca55b-ee17756f&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeHphhA31kyFI_IV1JcTSCvoMcRLpBPOk2sxxEukE86TawyzxB7-RcyUml6v6YXw_cY&_nc_ohc=02I4BicXyFIAX9djev5&_nc_ht=scontent.faep5-1.fna&oh=f6bd1fe3dfb800c94aeb51cfc058eb93&oe=5FC34C77" group-title="RADIO", CARDINAL TV MIRAMAR CORDOBA
+#EXTINF:-1 tvg-logo="http://static-1.ivoox.com/canales/4/0/4/1/741470821404_XXL.jpg" group-title="RADIO", CARDINAL TV MIRAMAR CORDOBA
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/2/2852.v5.png" group-title="RADIO", FM RITUAL 106.1 FM RIO GRANDE TIERRA DEL FUEGO
@@ -1116,7 +1116,7 @@ https://streamcasthd.com:1936/woxtv/woxtv/chunklist_w120858402.m3u8
 #EXTINF:-1 tvg-logo="https://fmbrasilera.com/wp-content/uploads/2020/06/brasil512omb8eRVSHJX.jpg" group-title="RADIO", FM BRASILERA ENTRE RIOS - 106.7 FM
 https://stmv6.srvstm.com/brasil/brasil/chunklist_w2082625053.m3u8
 
-#EXTINF:-1 tvg-logo="https://fmlitoral.com.ar/web/wp-content/uploads/2019/11/litorallogoaaa.png" group-title="RADIO", FM LITORAL 103.1 PARANA
+#EXTINF:-1 tvg-logo="https://fmlitoral.com.ar/web/wp-content/uploads/2021/02/logolitoralmovil.png" group-title="RADIO", FM LITORAL 103.1 PARANA
 https://stmv4.srvstm.com/litoral2/litoral2/chunklist_w875343349.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.conexionabierta.com.ar/images/logo-conexion-abierta.png" group-title="RADIO", RADIO CONEXION ABIERTA
@@ -1131,7 +1131,7 @@ https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://u.jimcdn.com/cms/o/sc9cca47c6866b922/emotion/crop/header.jpg?t=1544211316" group-title="RADIO", RADIO TRADICIONAL 1340 - FLORIDA NORTE
 https://streamcasthd.com:19360/radiotradicional1340/radiotradicional1340.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.am660.com.ar/img/index_r1_c1.jpg" group-title="RADIO", AM 660 SAN JUSTO
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DeHYq8zK4Ww/W2_AlgMYOgI/AAAAAAAAEPs/F5BIeppaBHQ5MlddDYsLliYBdPSoZjC3wCLcBGAs/s1600/radio-amplitud-am-660.png" group-title="RADIO", AM 660 SAN JUSTO
 https://clientes.videostreaming.ar:19360/radioamplitud/radioamplitud.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiotv.ar/img/logo/fmzetaradio.jpg" group-title="RADIO", FM 100.1 ZETA MORON
