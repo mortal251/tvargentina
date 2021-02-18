@@ -153,7 +153,7 @@ http://45.6.4.50:50601/America_Tucuman/video.m3u8
 https://www.youtube.com/watch?v=gBbMbqILzXU
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/133px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="LOCALES", TELEFE CORDOBA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1613479718~exp=1613656118~acl=/i/canal8cordoba_1@685726/*~hmac=c446a3a297b2a56c281471f67c0c32da5bd55f115c02625f673e334549f6885e
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1613660549~exp=1613836949~acl=/i/canal8cordoba_1@685726/*~hmac=8deefc9491e68ded40a9a2fcecffbc564c6401e471178ce1f6a0cf494b89b854
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", CANAL 10 CORDOBA
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?PlaylistM3UCL
