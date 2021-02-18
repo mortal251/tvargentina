@@ -332,8 +332,6 @@ https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1931595051.m3
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115431_G_Vision.png" group-title="CINE Y SERIES", G VISION
 https://tls.cdnz.cl/escgabrielamistral/live/chunklist_w2040783004.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="CINE Y SERIES", SOL TV
-https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/chunklist_w1124562929_b563840_DVR.m3u8?WebM3UCL
 
 
 
@@ -412,6 +410,9 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w375340092
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45116_Portal_FoxMix.png" group-title="MUSICA", PORTALFOXMIX
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/103795_CEAC_TV.png" group-title="MUSICA", CEACTV
+https://videostreaming.cloudserverlatam.com/ceactv/ceactv/chunklist_w1302883405.m3u8?WebM3UCL
+
 #EXTINF:-1 group-title="MUSICA", CLASIC MUSIC PIANO
 https://www.youtube.com/watch?v=OowUi602GdU
 
@@ -458,8 +459,7 @@ https://streamyes.alsolnet.com/wtmradio/live/chunklist_w862370769.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/67657013_2493383847561162_8934152675763683328_n.png?_nc_cat=101&ccb=3&_nc_sid=85a577&_nc_ohc=P8eD8txjk5sAX9p1YsQ&_nc_ht=scontent.fepa11-1.fna&oh=79a9a33cce816d7cd256031d98b667e8&oe=604D0194" group-title="MUSICA", TU MUSICA HD
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/103795_CEAC_TV.png" group-title="MUSICA", CEACTV
-https://videostreaming.cloudserverlatam.com/ceactv/ceactv/chunklist_w1302883405.m3u8?WebM3UCL
+
 
 
 
@@ -475,7 +475,7 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w135344
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/800px-Telefe_Salta_%282018%29.png" group-title="LOCALES", TELEFE SALTA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1613479556~exp=1613655956~acl=/i/canal11salta_1@722934/*~hmac=faa04b3851502d01a2e787ef99eb74d6f6bf4ab21c95b8f21cd7788662421c3b
+https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1613662734~exp=1613839134~acl=/i/canal11salta_1@722934/*~hmac=24336ec747f00f0c6f06e956db7e12030dc47ea9964508251e150b6b6db47205
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png/133px-Telefe_Neuqu%C3%A9n_%282018%29.png" group-title="LOCALES", TELEFE NEUQUEN
 https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1613574968~exp=1613751368~acl=/i/canal7neuquen_1@751158/*~hmac=7e4c2db6a25c22083699a5f6a427dbfb667dc2f87313ab34afd591322d31a3ed
@@ -487,7 +487,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea
 https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1613575143~exp=1613751543~acl=/i/mdqdistri02_1@829747/*~hmac=df22daf9107b91fe8146ead83d11bd7cb2e73e941c37c7100b67f3b8966922bc
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Telefe_Bah%C3%ADa_Blanca_%282018%29.png/133px-Telefe_Bah%C3%ADa_Blanca_%282018%29.png" group-title="LOCALES", TELEFE BAHIA BLANCA
-https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1613479823~exp=1613656223~acl=/I/canal9bahiablanca_1@685725/*~hmac=5ce0bdcbeb37d472d4cc16989bb3184105c5f15969b1c0890f459bddeef78ae5
+https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1613662423~exp=1613838823~acl=/I/canal9bahiablanca_1@685725/*~hmac=2698758b790ae255c6102b8e29f8a6d8735b1cb539703b4415bbbbab705e95ff
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="LOCALES", CANAL 7 CATAMARCA
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/chunklist_w1847941210.m3u8
