@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="LOCALES", PRUEBA
+https://vmf.edge-apps.net/embed/live.php?streamname=sc_rad1-100131&autoplay=true
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="LOCALES", IP - 24.5
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
