@@ -113,10 +113,8 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzYpeA4-oJxDlV34Xfha8HNUXOlqucrQMQQ&usqp=CAU" group-title="LOCALES", VIAJAR TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0028
 
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="DEPORTE", DEPORTV - 24.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
+#EXTINF:-1 group-title="DEPORTE", DEPORTV - 24.1
+https://www.youtube.com/watch?v=AcD6PYqC-E0
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TYC SPORT
@@ -447,16 +445,17 @@ https://cu.onliv3.com/livevd/user1_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="MUSICA", V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logog.png" group-title="MUSICA", FARRA PLAY
-http://159.203.148.226/live/farra_low.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="MUSICA", XITE
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96700_Telemusica.png" group-title="MUSICA", TELEMUSICA
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/chunklist_b448304.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="MUSICA", CHILECITO TV
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.hits360live.com/wp-content/uploads/2018/05/cropped-logo1-hits-360-2-2.png" group-title="MUSICA", HIT 360
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/124237_Norterama.png" group-title="MUSICA", NORTERAMA TV
@@ -971,12 +970,8 @@ http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="INTERNACIONAL", FOX NEWS
 https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanal452x70.png" group-title="INTERNACIONAL", UNICANAL PARAGUAY
-http://45.55.127.106/live/unicanal.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45154_PinguinoTV.png" group-title="INTERNACIONAL", EL PINGUINO TV CHILE
 http://167.114.133.205:1935/live/pinguinotv/chunklist_w1565220602.m3u8?WebM3UCL
-
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_03/large.teleantioquiawhite.png.13828412c7e79365cebf6b87be4f4cdd.png" group-title="INTERNACIONAL", TELEANTIOQIUA
 https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
@@ -1245,6 +1240,10 @@ https://streaming.reltid.com.ar/hls/sierra.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tornquistdistrital.com.ar/wp-content/uploads/2012/07/Logo-Monte.jpg" group-title="WEB CAM Y CLIMA", MONTE HERMOSO
 https://streaming.reltid.com.ar/hls/monte.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="DEPORTE", DEPORTV - 24.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
+
 
 
 
