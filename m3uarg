@@ -168,6 +168,7 @@ https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online.png" group-title="LOCALES", CANAL 3 ROSARIO
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/chunklist_w410494757_b1699840.m3u8?PlaylistM3UCL
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png" group-title="LOCALES", TELEFE ROSARIO
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?sd=10&rebase=on 
 
@@ -331,12 +332,6 @@ https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1931595051.m3
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115431_G_Vision.png" group-title="CINE Y SERIES", G VISION
 https://tls.cdnz.cl/escgabrielamistral/live/chunklist_w2040783004.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Ucvtvlogo2014mejorado.png" group-title="CINE Y SERIES", UCV3
-http://nano.zappingtv.com:1935/ucv3o/ucv3.smil/chunklist_b2128000_sles.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.biobiochile.cl/wp-content/uploads/2018/11/tv_logos-rgb_fondoblanco-azuloscuro-azul.jpg" group-title="CINE Y SERIES", TV+
-http://nano.zappingtv.com:1935/tvm/tvmas.smil/chunklist_b3628000_sles.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="CINE Y SERIES", SOL TV
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/chunklist_w1124562929_b563840_DVR.m3u8?WebM3UCL
 
@@ -372,8 +367,7 @@ https://cloud37.ecuatel.com/educa/educa/chunklist_w483213793.m3u8
 #EXTINF:-1 tvg-logo="http://www.azxtv.com/aztv.png" group-title="INFANTIL", AZTV
 http://animeloving.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TaTeTi12.png/200px-TaTeTi12.png" group-title="INFANTIL", TATETI
-http://nano.zappingtv.com:1935/tateti/tvmas.smil/chunklist_b3628000_sles.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", Garage TV
@@ -463,6 +457,9 @@ https://streamyes.alsolnet.com/wtmradio/live/chunklist_w862370769.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/67657013_2493383847561162_8934152675763683328_n.png?_nc_cat=101&ccb=3&_nc_sid=85a577&_nc_ohc=P8eD8txjk5sAX9p1YsQ&_nc_ht=scontent.fepa11-1.fna&oh=79a9a33cce816d7cd256031d98b667e8&oe=604D0194" group-title="MUSICA", TU MUSICA HD
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/103795_CEAC_TV.png" group-title="MUSICA", CEACTV
+https://videostreaming.cloudserverlatam.com/ceactv/ceactv/chunklist_w1302883405.m3u8?WebM3UCL
 
 
 
@@ -713,7 +710,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w354333646.m
 https://589ff3c36f7e8.streamlock.net/alastv/alastv/chunklist_w147600633.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES", UNIVERSIDAD TV MAR DEL PLATA
-https://stream-01.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL542nwa5O11ityFKORlS_dN8I)/dm/3/x7kvvgi/s/live-1.m3u8
+https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54-gmQA_kmhXvgagdmlkPqRE)/dm/3/x7kvvgi/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2020/12/logo-web-retina-ok-si-300x99.png" group-title="LOCALES", CANAL 4 ESQUEL
 https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/chunklist_w1655714283.m3u8
@@ -727,7 +724,7 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 
 #EXTINF:-1 group-title="LOCALES", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=C51joqKuQG0
+https://www.youtube.com/watch?v=oTR4V1wBDOU
 
 #EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2018/10/tvulogotexto.png" group-title="LOCALES", TVU LA PLATA
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
