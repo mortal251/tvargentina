@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="LOCALES", 2
-https://hls.live.fc2.com/hls/61409775/32/playlist?session_token=3dea4ecc5b16349487999998a1ce7d5bdf378050711ecce7775a4324225ce14c&playlist_token=cf11a2bf1f7510735ccc23e2df83737425a7124f8a414ec5ad892fbe6d659ed1&playlist_second_token=6b368fae5486d2b917d9bd968aee875fcb544f342bf1746cedd9de9c05e48b4d
-
-
-
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="LOCALES", IP - 24.5
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
