@@ -180,7 +180,7 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?s
 https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/chunklist_w1452003155.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Telefe_Santa_Fe.png/133px-Telefe_Santa_Fe.png" group-title="LOCALES", TELEFE SANTA FE
-https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1613748774~exp=1613925174~acl=/i/canal13santafe_1@751190/*~hmac=89a7f3e0c1233ca5a54a3c5a4ec81e2585dddb6df1ff2f95cc2a6c9840d6a8a5
+https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1613825563~exp=1614001963~acl=/i/canal13santafe_1@751190/*~hmac=153647f3af17166b15dbede9828708563f05ac30e2b3036887e8e66b669c3438
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1175110925835284481/wRJimpYE_400x400.png" group-title="LOCALES", 5RTV SANTA FE
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
@@ -238,10 +238,10 @@ http://coninfo.net:1935/13maxhd/live/.m3u8
 https://www.youtube.com/watch?v=JZfHoo97gNE
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1613766403&h=945eb705297e54f8e9aa7021167ad4dd
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1613858262&h=e32effb1c1219039c8873c9b8990f0ec
 
 #EXTINF:-1 group-title="LOCALES", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=PnaeDW37xIE
+https://www.youtube.com/watch?v=B7WStaLP4pQ
 
 #EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="LOCALES", TVEO MENDOZA
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w442257891.m3u8
@@ -369,7 +369,7 @@ https://cloud37.ecuatel.com/educa/educa/chunklist_w483213793.m3u8
 http://animeloving.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127494_Boomerang.png" group-title="INFANTIL", BOOMERANG
-http://8.9.4.128:8080/hls/boomerangtv.m3u8?WebM3UCL
+http://tv.iptv5latino.cl:8000/live/gino5151/u7uBmJgD0v/55398.m3u8
 
 
 
@@ -634,7 +634,7 @@ https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm4lKe3uMzJnjq38A3QLkgbFduVklg1mHu2g&usqp=CAU" group-title="LOCALES", EL ECO TV
-https://5f93e494d5906.streamlock.net/elecotv/elecotv/chunklist_w961875112.m3u8
+https://5f93e494d5906.streamlock.net/elecotv/elecotv/chunklist_w1415387982.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.valletv.com/Graficos/logo.jpg" group-title="LOCALES", VALLE TV NEUQUEN
 https://stmv1.srvstm.com/valletv/valletv/chunklist_w678120974.m3u8
