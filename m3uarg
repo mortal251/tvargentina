@@ -778,6 +778,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0124
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="LOCALES", TELEJUNIN
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0074
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniwA0CrY8LRz5j9u7W--3nz-xTH9Rx06LJdwyrtyA=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", CANAL 9 RIO CUARTO
+http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/chunklist_w2135997575.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
@@ -1244,8 +1248,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0182
 #EXTINF:-1 tvg-logo="https://linktvcanal.com/portal/wp-content/uploads/2017/07/logo.png" group-title="LOCALES", LINK TV SANTA FE
 https://panel.dattalive.com/8128/8128/chunklist_w48341261.m3u8
 
-#EXTINF:-1 tvg-logo="https://linktvcanal.com/portal/wp-content/uploads/2017/07/logo.png" group-title="LOCALES", CANAL 9 RIO CUARTO
-http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/chunklist_w2135997575.m3u8
 
 
 
