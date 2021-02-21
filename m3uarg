@@ -803,8 +803,7 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/117670_Chic_Magazine.png" group-title="MODA Y SOCIEDAD", CHIC MAGAZINE
 https://paneltv.online:1936/8056/8056/chunklist_w830950687.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/250px-DKISS_2019_logo.svg.png" group-title="MODA Y SOCIEDAD", DKISS
-http://91.126.141.201:1935/live/kiss/chunklist_w553605122.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngqtDnzzen9SgbziIySesx-8wvp-fIGlYasqQh_rQ=s88-c-k-c0x00ffffff-no-rj" group-title="MODA Y SOCIEDAD", NUEVA IMAGEN
@@ -825,8 +824,7 @@ https://www.youtube.com/watch?v=yN44qpoJNN4
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/90570_TV_Salud.png" group-title="MODA Y SOCIEDAD", TV SALUD
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2049380939.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://tentv.es/images/logo-white.png" group-title="MODA Y SOCIEDAD", TEN
-http://91.126.141.201:1935/live/ten/chunklist_w162002972.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/canal-ucl-vivo.jpg" group-title="MODA Y SOCIEDAD", UCL
@@ -840,8 +838,6 @@ https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/48427210_325701461614645_8188794366064590848_o.jpg?_nc_cat=107&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeE0w6xxxggX9dwSkxkmZ_Wfo3l5ohkQmVOjeXmiGRCZU5PXVmFuZY-G90M3kz-GBPs&_nc_ohc=t0jauJRBNSEAX-Eus-y&_nc_ht=scontent.fepa11-1.fna&oh=85b7587a15fa481bb6b14002d1932594&oe=604416B9" group-title="MODA Y SOCIEDAD", HD FASHION
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8?_=1612527921
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/120437_Huasco_TV.jpg" group-title="MODA Y SOCIEDAD", HUASCO TV
-https://paneltv.online:1936/8062/8062/chunklist_w540309538.m3u8?WebM3UCL
 
 
 
