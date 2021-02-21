@@ -294,13 +294,13 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w394246582.m3u8?_=1
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-movies-tv-en-vivo-271x190.jpg" group-title="CINE Y SERIES", FMTV 2
-https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/.m3u8
+https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/chunklist_w579354715.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0X7REz4ISXLJloQhacO1qP2R3vnMm-uncrw&usqp=CAU" group-title="CINE Y SERIES", ZEE TV
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?_=1
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115395_AC_Vision.png" group-title="CINE Y SERIES", ACV
-https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/chunklist_w856824510.m3u8?WebM3UCL
+https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/chunklist_w445225818.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png" group-title="CINE Y SERIES", WOW
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w2082475278_b1500000_slen.m3u8?WebM3UCL
