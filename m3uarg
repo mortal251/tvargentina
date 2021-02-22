@@ -234,10 +234,10 @@ http://coninfo.net:1935/13maxhd/live/.m3u8
 
 
 #EXTINF:-1 group-title="LOCALES", ONCE PARANA
-https://www.youtube.com/watch?v=JZfHoo97gNE
+https://www.youtube.com/watch?v=gP60M8o2S8c
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1613888858&h=ac60c91962dec7e8db43a9d008299372
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1614031320&h=636e026f8abb66b8bcc9ba2e48012fb5
 
 #EXTINF:-1 group-title="LOCALES", CANAL 13 SAN JUAN
 https://www.youtube.com/watch?v=B7WStaLP4pQ
