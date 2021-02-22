@@ -503,14 +503,7 @@ https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/chu
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="LOCALES", TELESOL
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0210
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES", VIBRA HD MONTE CASEROS
-https://stmv1.zcastbr.com/vibratv/vibratv/chunklist_w1895540096.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES", ENTRE RIOS TV
-https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES", 7 NORTE TUCUMAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0234
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", ZONDA TV 35.1 - SAN JUAN
 http://186.129.252.150:1935/canal/351/chunklist_w799535828.m3u8
@@ -716,7 +709,7 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 #EXTINF:-1 group-title="LOCALES", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=yTCqPkpPi1M
+https://www.youtube.com/watch?v=zv2xPPBPHUU
 
 #EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2018/10/tvulogotexto.png" group-title="LOCALES", TVU LA PLATA
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
@@ -1245,6 +1238,15 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0182
 
 #EXTINF:-1 tvg-logo="https://linktvcanal.com/portal/wp-content/uploads/2017/07/logo.png" group-title="LOCALES", LINK TV SANTA FE
 https://panel.dattalive.com/8128/8128/chunklist_w48341261.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES", VIBRA HD MONTE CASEROS
+https://stmv1.zcastbr.com/vibratv/vibratv/chunklist_w1895540096.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES", ENTRE RIOS TV
+https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES", 7 NORTE TUCUMAN
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0234
 
 
 
