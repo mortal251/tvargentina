@@ -113,8 +113,7 @@ https://g4.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/g
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU" group-title="LOCALES", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzYpeA4-oJxDlV34Xfha8HNUXOlqucrQMQQ&usqp=CAU" group-title="LOCALES", VIAJAR TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0028
+
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="DEPORTE", DEPORTV - 24.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
@@ -179,7 +178,7 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?s
 https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/chunklist_w1452003155.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Telefe_Santa_Fe.png/133px-Telefe_Santa_Fe.png" group-title="LOCALES", TELEFE SANTA FE
-https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1613855402~exp=1614031802~acl=/i/canal13santafe_1@751190/*~hmac=5075c1133bb1a572ec2d432e5e9ea97d504d1168b303c1665b008cf76ee27e04
+https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1614004735~exp=1614181135~acl=/i/canal13santafe_1@751190/*~hmac=a94d5de850dc4fb23b23ef027b7e78acbf32f04d6abd5809d98b12908458144c
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1175110925835284481/wRJimpYE_400x400.png" group-title="LOCALES", 5RTV SANTA FE
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
@@ -1251,6 +1250,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0234
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-8-Catamarca-en-vivo.png" group-title="LOCALES", CANAL 8 CATAMARCA
 https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w699653966.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzYpeA4-oJxDlV34Xfha8HNUXOlqucrQMQQ&usqp=CAU" group-title="LOCALES", VIAJAR TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0028
 
 
 
