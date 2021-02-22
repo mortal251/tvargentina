@@ -1058,8 +1058,7 @@ http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w2063503956.m3u8
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="RADIO", FM LIGHT 97.3 SAN JUAN
 http://videostream.shockmedia.com.ar:1935/lightfm/lightfm/chunklist_w998628812.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu9w1RZeP-9qPRH7EEj8WGxlLE2smh1hCv-Q&usqp=CAU" group-title="RADIO", RADIO CENTRO 92.9 VILLA MARIA CORDOBA
-https://stmvideo2.livecastv.com/centro/centro/chunklist_w1801160913.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://static-1.ivoox.com/canales/4/0/4/1/741470821404_XXL.jpg" group-title="RADIO", CARDINAL TV MIRAMAR CORDOBA
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
@@ -1142,7 +1141,7 @@ https://59537faa0729a.streamlock.net/fmsoledad885/fmsoledad885/chunklist_w182692
 
 
 #EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="RADIO", EL DIARIO DE PRINGLES
-https://streaming.reltid.com.ar/hls/pringles2.m3u8
+https://streaming.reltid.com.ar/hls/pringles.m3u8
 
 #EXTINF:-1 tvg-logo="http://laradioteescucha.com/2016/wp-content/uploads/2016/06/logomoviles.png" group-title="RADIO", LA RADIO TE ESCUCHA 91.3 FM
 https://inliveserver.com:1936/14084/14084/chunklist_w1529177501.m3u8
@@ -1183,7 +1182,8 @@ https://panel.dattalive.com/8114/8114/chunklist_w719155802.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROemK8-dSOkvxNct66KtjqZ7Rr1gM_5id3Jg&usqp=CAU" group-title="RADIO", FM 90.1 TRUJUI
 https://inliveserver.com:1936/14102/14102/chunklist_w2124147218.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu9w1RZeP-9qPRH7EEj8WGxlLE2smh1hCv-Q&usqp=CAU" group-title="RADIO", RADIO CENTRO 92.9 VILLA MARIA CORDOBA
+https://stmvideo2.livecastv.com/centro/centro/chunklist_w1801160913.m3u8
 
 
 
