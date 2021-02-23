@@ -101,7 +101,7 @@ http://lavozdetucuman.com/peliculas1.m3u8
 http://207.246.84.143:8080/hls/Kanade.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", Locomotion
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 group-title="LOCALES", DTV DIPUTADOS TELEVISION
 https://www.youtube.com/watch?v=r8I7EJwIn00
@@ -747,15 +747,11 @@ http://inliveserver.com:1935/8550/8550/chunklist_w1399633000.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/celtatv.png" group-title="LOCALES", CELTA TV
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/milenio-tv.png" group-title="LOCALES", MILENNIO TV CORDOBA
 https://59537faa0729a.streamlock.net/milenniotv/milenniotv/chunklist_w1666169264.m3u8?fbclid=IwAR3ZDssXNBL98LYKRLJSTKjWZ1OAKGOXXechEdH6EsQTRky0LgWRs_4kiN4
 
 #EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg" group-title="LOCALES", CANAL 10 SENILLOSA NEUQUEN
 https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w563112316.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
 https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
@@ -777,6 +773,12 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0182
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES", VIBRA HD MONTE CASEROS
 https://stmv1.zcastbr.com/vibratv/vibratv/chunklist_w1895540096.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2018/03/logocanal3-x1.png" group-title="LOCALES", CANAL 3 LAS HERAS
+https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1982113012.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES", 6 ENTRE RIOS TV
+https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
@@ -1228,8 +1230,7 @@ https://streaming.reltid.com.ar/hls/montedvr5.m3u8
 #EXTINF:-1 tvg-logo="https://linktvcanal.com/portal/wp-content/uploads/2017/07/logo.png" group-title="LOCALES", LINK TV SANTA FE
 https://panel.dattalive.com/8128/8128/chunklist_w48341261.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES", ENTRE RIOS TV
-https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES", 7 NORTE TUCUMAN
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0234
@@ -1243,7 +1244,6 @@ https://5f93e494d5906.streamlock.net/elecotv/elecotv/chunklist_w1124846984.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Nueve_Litoral_%28Logo_2010%29.png" group-title="LOCALES", CANAL 9 PARANA
 https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/chunklist_w1452003155.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2018/03/logocanal3-x1.png" group-title="LOCALES", CANAL 3 LAS HERAS
-https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1982113012.m3u8
+
 
 
