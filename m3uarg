@@ -1246,19 +1246,4 @@ https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/chunklist_w14520
 #EXTINF:-1 tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2018/03/logocanal3-x1.png" group-title="LOCALES", CANAL 3 LAS HERAS
 https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1982113012.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2018/03/logocanal3-x1.png" group-title="LOCALES", PP
-http://200.5.80.158:1935/vod/canal9/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
 
