@@ -637,10 +637,10 @@ https://stmv1.srvstm.com/valletv/valletv/chunklist_w678120974.m3u8
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="LOCALES", LA VOZ TUCUMAN TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0239
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/chunklist_w1437336034.m3u8
 
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="LOCALES", ITEL CHAJARI
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0146
+http://66.128.32.245/output/iteltv/audio_3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://66.media.tumblr.com/f1138b6d236d9787c1960cdd1ae51b26/tumblr_inline_polydyA71Z1ttmwm1_1280.png" group-title="LOCALES", CORREA RADIOVISION
 http://arcast.net:1935/correadigital/canal12/chunklist_w1419872618.m3u8
@@ -759,10 +759,10 @@ https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
 https://vivo.solumedia.com:19360/trutv/trutv.m3u8
 
 #EXTINF:-1 tvg-logo="http://cabledigital.com.ar/wp-content/uploads/2020/03/cropped-Logo-Cabledigital-PNG-para-web-3.png" group-title="LOCALES", CABLEDIGITAL HIUNCA REANCO CORDOBA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0124
+https://vivo.solumedia.com:19360/huinca/huinca.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="LOCALES", TELEJUNIN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0074
+https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/chunklist_w1784389156.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniwA0CrY8LRz5j9u7W--3nz-xTH9Rx06LJdwyrtyA=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", CANAL 9 RIO CUARTO
 http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/chunklist_w2135997575.m3u8
@@ -939,7 +939,7 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="INTERNACIONAL", Galicia TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0019
+http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/100px-BBC_News.svg.png" group-title="INTERNACIONAL", BBC NEWS
 http://51.52.156.22:8888/http/004
@@ -991,7 +991,7 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 https://stmv1.srvif.com/murialdoestudio/murialdoestudio/chunklist_w603323015.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canal13jujuy.com/img/logo-web.png" group-title="RELIGION", CANAL 13 JUJUY
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0160
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaK5id3ywW85veHfSdEKh4SM7r6Hk4wkrCNA&usqp=CAU" group-title="RELIGION", CBN ESPAÑOL
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
@@ -1087,7 +1087,7 @@ https://panel.dattalive.com/8034/8034/chunklist_w1515375048.m3u8
 https://cda1.alsolnet.com/dialradiotv/live/chunklist_w232073357.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI966.png" group-title="RADIO", CADENA 103
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0091
+http://arcast.net:1935/cadena103/cadena103/chunklist_w2065407206.m3u8
 
 #EXTINF:-1 tvg-logo="https://radioarg.net/assets/image/radio/180/wox1.png" group-title="RADIO", WOX ROSARIO 88.3
 https://streamcasthd.com:1936/woxtv/woxtv/chunklist_w120858402.m3u8
@@ -1102,7 +1102,7 @@ https://stmv4.srvstm.com/litoral2/litoral2/chunklist_w875343349.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/b64e7d2ed9904a48b0f3d70609562d6b/chunklist_b3692000.m3u8?p=79&s=1607779032&e=1607779152&h=91800526ed9f2926f876f628593822e0
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s171364/images/logog.jpg?t=153684" group-title="RADIO", RADIO FM SER 89.7
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0063
+http://wowza1.sion.com:1935/fmser/radio/chunklist_w1298164108.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="RADIO", POWER FM PINAMAR 100.3 FM
 https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
