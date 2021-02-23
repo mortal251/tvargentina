@@ -1192,15 +1192,15 @@ https://www.youtube.com/watch?v=if91GyWP3zQ
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM Y CLIMA", 5900 TV CORDOBA
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 MAR DEL PLATA
-https://5f6e1fe8f2d2e.streamlock.net/mardelplata/mardelplata/chunklist_w1280736091.m3u8
-
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BUNGE Y EL MAR PINAMAR
 https://wowza.telpin.com.ar:1935/camara-bunge/camara-bunge.smil/chunklist_w4047103_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BUNGE Y LIBERTADOR PINAMAR
 https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/chunklist_w696116699_b1344100_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 MAR DEL PLATA
+https://5f6e1fe8f2d2e.streamlock.net/mardelplata/mardelplata/chunklist_w1280736091.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 SANTA CLARA DEL MAR
 https://5f6e1fe8f2d2e.streamlock.net/santaclara/santaclara/chunklist_w675009168.m3u8
@@ -1224,7 +1224,7 @@ https://www.youtube.com/watch?v=tCe8P4CXR7A
 https://streaming.reltid.com.ar/hls/sierra.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tornquistdistrital.com.ar/wp-content/uploads/2012/07/Logo-Monte.jpg" group-title="WEB CAM Y CLIMA", MONTE HERMOSO
-https://streaming.reltid.com.ar/hls/monte.m3u8
+https://streaming.reltid.com.ar/hls/montedvr5.m3u8
 
 
 
