@@ -53,10 +53,10 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w190057400.
 https://lavozdetucuman.com/simpsons.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1200px-Logo_The_Simpsons.svg.png" group-title="INFANTIL", LOS SIMPSON 2
-https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" group-title="INFANTIL", EL CHAVO
-https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w1656956317.m3u8?WebM3UCL 
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w1656956317.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="INFANTIL", DRAGON BALL
 http://tv.iptv5latino.cl:8000/live/gino5151/u7uBmJgD0v/10948.m3u8
@@ -145,7 +145,7 @@ https://sv.tsnt.xyz/espn/espn2o_sur.m3u8
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w607515073_b2028000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jE3Rb32vLEQ/XjtGJpQeqWI/AAAAAAAAvp4/P09Q1wK1oCwNhEhncQUUSJDGFBZzjErCwCK8BGAsYHg/s0/2020-02-05.png" group-title="MUSICA", Terramia TV
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8
 
 
 
@@ -160,7 +160,7 @@ https://www.youtube.com/watch?v=gBbMbqILzXU
 https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1614081316~exp=1614257716~acl=/i/canal8cordoba_1@685726/*~hmac=cab3a5568679a18252963f229d97b649b97db568ce6ace5b2373097c4c99db15
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", CANAL 10 CORDOBA
-https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?PlaylistM3UCL
+https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES", CANAL 7 MENDOZA
 https://www.youtube.com/watch?v=fhu2lKECcNw
@@ -170,7 +170,7 @@ https://www.youtube.com/watch?v=fhu2lKECcNw
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online.png" group-title="LOCALES", CANAL 3 ROSARIO
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/chunklist_w410494757_b1699840.m3u8?PlaylistM3UCL
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/chunklist_w410494757_b1699840.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png" group-title="LOCALES", TELEFE ROSARIO
@@ -200,7 +200,7 @@ https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playl
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w1837024863.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", MULTIVISION SALTA
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?PlaylistM3UCL
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Gceq5SpfHb8/XrYRAGJeBUI/AAAAAAAA0i4/OHxya9wtX5kJC06MlqyfpUCl9M2azquDQCK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES", TELEDIARIO RIO CUARTO
@@ -216,10 +216,10 @@ https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/chunklist_w74
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w1940570986_b581072.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dcR6LiSEM3o/XjtCwLNAomI/AAAAAAAAvow/p-uUGIkr-7ANc2E8PvDvRJE2lU4OZ3ExgCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", Canal 7 Chubut
-http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8?PlaylistM3UCL
+http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="LOCALES", 9LINK CHACO
-http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
+http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png" group-title="LOCALES", CANAL 2 SANAGASTA
 https://stmv1.srvif.com/canal2/canal2/chunklist_w1235544654.m3u8
@@ -252,14 +252,14 @@ https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", CANAL 4 JUJUY
-http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?PlaylistM3UCL
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-C_wI8P7fPY4/XrYSA1hre4I/AAAAAAAA0jM/fPA9M7hoGeYRd2DAHtOIvQzlFlF0ezrbACK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES", TV Publica Fueguina
 https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", Canal 4 San Juan
-http://streamyes.alsolnet.com:1935/canal4sanjuan/live/playlist.m3u8?PlaylistM3UCL3
+http://streamyes.alsolnet.com:1935/canal4sanjuan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" group-title="LOCALES", Canal 10 RIO NEGRO
 https://panel.dattalive.com/8204/8204/chunklist_w2116861350.m3u8
@@ -268,13 +268,13 @@ https://panel.dattalive.com/8204/8204/chunklist_w2116861350.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
-https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w165756078.m3u8?WebM3UCL
+https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w165756078.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LnXLukJpoCw/maxresdefault.jpg" group-title="CINE Y SERIES", MI TV TELEVISION CLASICA
-http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
+http://162.244.80.176:8081/abr/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png" group-title="CINE Y SERIES", ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
@@ -283,16 +283,16 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w394246582.m3u8?_=1
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-movies-tv-en-vivo-271x190.jpg" group-title="CINE Y SERIES", FMTV 2
-https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/chunklist_w579354715.m3u8?WebM3UCL
+https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/chunklist_w579354715.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0X7REz4ISXLJloQhacO1qP2R3vnMm-uncrw&usqp=CAU" group-title="CINE Y SERIES", ZEE TV
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?_=1
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115395_AC_Vision.png" group-title="CINE Y SERIES", ACV
-https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/chunklist_w445225818.m3u8?WebM3UCL
+https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/chunklist_w445225818.m3u8
 
 #EXTINF:-1 tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png" group-title="CINE Y SERIES", WOW
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w2082475278_b1500000_slen.m3u8?WebM3UCL
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w2082475278_b1500000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg" group-title="CINE Y SERIES", WMS HD
 https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
@@ -301,13 +301,13 @@ https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 https://srv3.zcast.com.br/expreszion/expreszion/chunklist_w2079695085.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="CINE Y SERIES", RETROPLUS SERIES
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w458806239.m3u8?WebM3UCL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w458806239.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/toW8xWKbpS-28By8XvguQOg6oG0tun1oXmvmZRnY-TUiHmgsWdHeBNfoZtlbiAbdJTA" group-title="CINE Y SERIES", TELERED
-http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/Rts_1992.png/revision/latest/scale-to-width-down/340?cb=20200303190745" group-title="CINE Y SERIES", TELESISTEMA
-http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w227848239.m3u8?WebM3UCL
+http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w227848239.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHIA1rsAT97xfM2Im6IQ9u-kDubSt4-l_Y8Q&usqp=CAU" group-title="CINE Y SERIES", FLIXTUBE
 https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
@@ -316,28 +316,28 @@ https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
 http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/101693_Retro_TV_Palmares.png" group-title="CINE Y SERIES", RETRO TV
-http://tvretropalmares.com:8090/hls/envivo.m3u8?WebM3UCL
+http://tvretropalmares.com:8090/hls/envivo.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canal74.cl/wp-content/uploads/2020/05/canal74logo-1.png" group-title="CINE Y SERIES", 74 TV
-https://stmv1.zcastbr.com/canal74hd/canal74hd/chunklist_w333835106.m3u8?WebM3UCL
+https://stmv1.zcastbr.com/canal74hd/canal74hd/chunklist_w333835106.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109759_Latinos_Up__TV.png" group-title="CINE Y SERIES", LATINOS UP
-https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1931595051.m3u8?WebM3UCL
+https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1931595051.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115431_G_Vision.png" group-title="CINE Y SERIES", G VISION
-https://tls.cdnz.cl/escgabrielamistral/live/chunklist_w2040783004.m3u8?WebM3UCL
+https://tls.cdnz.cl/escgabrielamistral/live/chunklist_w2040783004.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="CINE Y SERIES", SOL TV
-https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/chunklist_w1964666886_b563840_DVR.m3u8?WebM3UCL
+https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/chunklist_w1964666886_b563840_DVR.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV_Series.png" group-title="INFANTIL", CACHIPUM TV
-https://tls.cdnz.cl/cachipuntv/live/chunklist_w1195011282.m3u8?WebM3UCL
+https://tls.cdnz.cl/cachipuntv/live/chunklist_w1195011282.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83648_Canal_IPE.png" group-title="INFANTIL", CANAL IPE
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?WebM3UCL    
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_f331914d260442069047f8fd3f5b90e5~mv2.png/v1/fill/w_96,h_72,al_c,q_85,usm_0.66_1.00_0.01/Mosca-1280x720_color_edited%20editado_edit.webp" group-title="INFANTIL", PEQUERADIO
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
@@ -346,7 +346,7 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 https://www.youtube.com/watch?v=urTdDSueSDI
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102655_Dreiko_TV.png" group-title="INFANTIL", DREIKO TV
-https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1591272901.m3u8?WebM3UCL
+https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1591272901.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL", TOONCAST
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
@@ -398,7 +398,7 @@ http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/101700_Rewind_TV.png" group-title="MUSICA", REWIND
-https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w847424095.m3u8?WebM3UCL
+https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w847424095.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Top_Latino.png" group-title="MUSICA", TOP LATINO
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w375340092.m3u8
@@ -407,7 +407,7 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w375340092
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/103795_CEAC_TV.png" group-title="MUSICA", CEACTV
-https://videostreaming.cloudserverlatam.com/ceactv/ceactv/chunklist_w1302883405.m3u8?WebM3UCL
+https://videostreaming.cloudserverlatam.com/ceactv/ceactv/chunklist_w1302883405.m3u8
 
 #EXTINF:-1 group-title="MUSICA", CLASIC MUSIC PIANO
 https://www.youtube.com/watch?v=OowUi602GdU
@@ -419,16 +419,16 @@ https://www.youtube.com/watch?v=2gO1v2GPMFk
 https://tls.cdnz.cl/onradio4/live/chunklist_w676363120.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA", RETROPLUS TV
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w110532990.m3u8?WebM3UCL
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w110532990.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA", RETROPLUS TV 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1604179176.m3u8?WebM3UCL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1604179176.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Lg_videorola-300x199.png" group-title="MUSICA", VIDEO ROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA", MIX 24/7 TOP 100
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8?WebM3UCL
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109952_Karibena_TV.jpg" group-title="MUSICA", KARIBEÑA
 https://cu.onliv3.com/livevd/user1_low/index.m3u8
@@ -440,7 +440,7 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96700_Telemusica.png" group-title="MUSICA", TELEMUSICA
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/chunklist_b448304.m3u8?WebM3UCL
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/chunklist_b448304.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="MUSICA", CHILECITO TV
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
@@ -450,13 +450,13 @@ http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/124237_Norterama.png" group-title="MUSICA", NORTERAMA TV
-https://streamyes.alsolnet.com/wtmradio/live/chunklist_w862370769.m3u8?WebM3UCL
+https://streamyes.alsolnet.com/wtmradio/live/chunklist_w862370769.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/67657013_2493383847561162_8934152675763683328_n.png?_nc_cat=101&ccb=3&_nc_sid=85a577&_nc_ohc=P8eD8txjk5sAX9p1YsQ&_nc_ht=scontent.fepa11-1.fna&oh=79a9a33cce816d7cd256031d98b667e8&oe=604D0194" group-title="MUSICA", TU MUSICA HD
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110975_Awka.png" group-title="MUSICA", AWKA TV
-https://stmv1.questreaming.com/awkasonido/awkasonido/chunklist_w1552932805.m3u8
+https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8
 
 
 
@@ -534,7 +534,7 @@ https://coopmorteros.online/radiocanal/canal01.m3u8?_=1
 https://vcp.myplaytv.com/canal10srt/smil:canal10srt.smil/chunklist_w292326844_b1000000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pSW2boY6Hdg/XvKY9iZvQuI/AAAAAAAA2MI/VIJZpl99EmwV71NgaYFHvYEPEsl3jzD3ACK8BGAsYHg/s0/2020-06-23.jpg" group-title="LOCALES", CANAL COOP JESUS MARIA CORDOBA
-https://panel.dattalive.com:443/8138/8138/playlist.m3u8?PlaylistM3UCL
+https://panel.dattalive.com:443/8138/8138/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://t5satelital.com/theme/img/T5logo.png" group-title="LOCALES", T5 CORRIENTES
 http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
@@ -561,31 +561,31 @@ https://stmv1.srvif.com/teveocho/teveocho/chunklist_w240282186.m3u8
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uYJjXBSPKcQ/XrYLr-JJG2I/AAAAAAAA0hs/wSH1Dy7JWGkic3m4szzF2dIrjTyHOYHuwCK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES", CANAL 6 POSADAS MISIONES
-https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnB0c3RhY3J1emFwcHBybGw0Ni5jYW5hbDVwaWNvdHJ1bmNhZG9hcHBfc2NyZWVuXzJfMTUzMjM1ODEyOV8wNTE/screen-2.jpg?fakeurl=1&type=.jpg" group-title="LOCALES", CANAL 5 PICO TRUNCADO SANTA CRUZ
 http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/chunklist_w16514030.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", TDC TV SANTA FE
-https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM3UCL
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU" group-title="LOCALES", PLAY TELEVISION SANTA FE
 http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/chunklist_w580918279.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Dwon9sRZsSY/Xjs6WmRFAaI/AAAAAAAAvnM/Zgcsd4pznrUNtvK8TghlckQw1YcLWnkdwCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", CL3 SANTA FE
-http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8?PlaylistM3UCL
+http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmExMjNmcmVlYXBwcy5mcmVlLmFwcDVkNWVjMWY4ODliOThfaWNvbl8xNTY3NjE5OTcxXzAxNw/icon.png?w=170&fakeurl=1" group-title="LOCALES", CANAL 4 TELEAIRE SAN MARTIN
 https://stmvideo2.livecastv.com/canal4/canal4/chunklist_w925724319.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E9zOAkKHOaw/XjtG9WkFKEI/AAAAAAAAvqQ/j2nVTLIMsZUsZfVliojEB5JU601yHtKQACK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", RTN NEUQUEN
-http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8?PlaylistM3UCL
+http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8RQ6Xhx3aek/XjtJFnEx_ZI/AAAAAAAAvrA/yM5l4Cz0Q3M6JmvHF4n5rjbEXc7W___XgCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", Canal 4 Posadas
 https://589ff3c36f7e8.streamlock.net/canal4/canal4/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV63G3ylzZ5HZpuXGO3gMM_karSoJ9au5N2w&usqp=CAU" group-title="LOCALES", 5TV CORRIENTES
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC2PROV.png" group-title="LOCALES", PROVINCIAL TV
 http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
@@ -621,7 +621,7 @@ https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/chunklist_w1679493773.m3u8
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-SlqJrd0GiYk/XjtCBz2FbhI/AAAAAAAAvog/HkkKzNWrEOYiE08Rdlw-mxsDtzpJ_zD8wCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", Canal 6 Moreno
-https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8?PlaylistM3UCL
+https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8
 
 
 
@@ -789,6 +789,9 @@ https://www.youtube.com/watch?v=bLXX-UhK6hE
 #EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="LOCALES", TVEO MENDOZA
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0172
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45090_10_TV.png" group-title="LOCALES", CANAL 10 ENTRE RIOS
+http://streamingvideo.com.ar:1935/10tv/live/chunklist_w1252638426.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
@@ -814,7 +817,7 @@ http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8?_=1612527921
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/90570_TV_Salud.png" group-title="MODA Y SOCIEDAD", TV SALUD
-https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2049380939.m3u8?WebM3UCL
+https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2049380939.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRct7d60SEIxHlgbGr4904_mLl2yDhoauli-yKNiEOTrrOFKmTe1n8KJNuZF_BAUlOl5pBAiVNDgu9TQ-DkQpWNydOMBxi5-w1Adg&usqp=CAU&ec=45750088" group-title="MODA Y SOCIEDAD", VE PLUS
 http://190.122.96.187:8888/http/006
@@ -897,7 +900,7 @@ https://www.youtube.com/watch?v=aqPIiyPI10c
 https://www.youtube.com/watch?v=JbKgQhFlMdU
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83643_Arirang.png" group-title="INTERNACIONAL", ARIRANG KOREA
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8?WebM3UCL
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png" group-title="INTERNACIONAL", ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
@@ -961,7 +964,7 @@ http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45154_PinguinoTV.png" group-title="INTERNACIONAL", EL PINGUINO TV CHILE
-http://167.114.133.205:1935/live/pinguinotv/chunklist_w1565220602.m3u8?WebM3UCL
+http://167.114.133.205:1935/live/pinguinotv/chunklist_w1565220602.m3u8
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_03/large.teleantioquiawhite.png.13828412c7e79365cebf6b87be4f4cdd.png" group-title="INTERNACIONAL", TELEANTIOQIUA
 https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
