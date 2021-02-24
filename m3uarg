@@ -775,10 +775,10 @@ https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1982113012.m3
 https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm4lKe3uMzJnjq38A3QLkgbFduVklg1mHu2g&usqp=CAU" group-title="LOCALES", EL ECO TV
-https://5f93e494d5906.streamlock.net/elecotv/elecotv/chunklist_w1124846984.m3u8
+https://5f93e494d5906.streamlock.net/elecotv/elecotv/playlist.m3u8
 
-#EXTINF:-1 group-title="LOCALES", ONCE PARANA
-https://www.youtube.com/watch?v=zBqsucCnkxI
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108907_Elonce.jpg" group-title="LOCALES", ONCE PARANA
+https://elonce.zapto.org/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES", CANAL 10 TUCUMAN
 https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1614203768&h=ad2af96da444982887095eb2f39db578
@@ -791,6 +791,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0172
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45090_10_TV.png" group-title="LOCALES", CANAL 10 ENTRE RIOS
 http://streamingvideo.com.ar:1935/10tv/live/chunklist_w1252638426.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109636_UTN_TV.png" group-title="LOCALES", UTN TV
+https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
