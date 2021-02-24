@@ -187,6 +187,7 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OmdVIgiYcpQ/XrYImNhAa7I/AAAAAAAA0hA/HKMr0zop2CsNpUAuev_aVuelSQkqOLzTQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="LOCALES", Canal 10 Mar del Plata
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
@@ -493,7 +494,7 @@ https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?h
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="LOCALES", TELESOL
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0212
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES", 7 NORTE TUCUMAN
@@ -531,7 +532,7 @@ https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiocanal.com.ar/imagenes/estructura/canal4.png" group-title="LOCALES", CANAL 4 SAN FRANCISCO CORDOBA
 https://coopmorteros.online/radiocanal/canal01.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", Canal U CORDOBA
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", CANAL U CORDOBA
 https://vcp.myplaytv.com/canal10srt/smil:canal10srt.smil/chunklist_w292326844_b1000000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pSW2boY6Hdg/XvKY9iZvQuI/AAAAAAAA2MI/VIJZpl99EmwV71NgaYFHvYEPEsl3jzD3ACK8BGAsYHg/s0/2020-06-23.jpg" group-title="LOCALES", CANAL COOP JESUS MARIA CORDOBA
@@ -693,7 +694,7 @@ https://589ff3c36f7e8.streamlock.net/alastv/alastv/playlist.m3u8
 https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES", CANAL 12 TUCUMAN
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s88-c-k-c0x00ffffff-no-rj" group-title="LOCALES", CNR TV JUJUY
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
