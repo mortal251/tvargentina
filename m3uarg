@@ -265,7 +265,8 @@ http://streamyes.alsolnet.com:1935/canal4sanjuan/live/playlist.m3u8
 https://panel.dattalive.com/8204/8204/chunklist_w2116861350.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="CINE Y SERIES", VIBRA HD
+https://stmv1.zcastbr.com/vibratv/vibratv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
 https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w165756078.m3u8
@@ -765,8 +766,6 @@ http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/chunklist_w2135
 #EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png" group-title="LOCALES", CANAL 21 POSADAS
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0184
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES", VIBRA HD MONTE CASEROS
-https://stmv1.zcastbr.com/vibratv/vibratv/chunklist_w1895540096.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2018/03/logocanal3-x1.png" group-title="LOCALES", CANAL 3 LAS HERAS
 https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1982113012.m3u8
@@ -795,7 +794,7 @@ http://streamingvideo.com.ar:1935/10tv/live/chunklist_w1252638426.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109636_UTN_TV.png" group-title="LOCALES", UTN TV
 https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109636_UTN_TV.png" group-title="LOCALES", UNIRIO TV
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108679_UNIRIO.png" group-title="LOCALES", UNIRIO TV
 https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8
 
 
