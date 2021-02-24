@@ -1257,6 +1257,9 @@ https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Nueve_Litoral_%28Logo_2010%29.png" group-title="LOCALES", CANAL 9 PARANA
 https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Nueve_Litoral_%28Logo_2010%29.png" group-title="LOCALES",FFSFDA
+
+https://76w32s3z6aured58.ezcdn483.net:8443/hls/x8rbhuvs3uyfie.m3u8?s=4FR9ttxFvBTX-gcBkExzGA&e=1614199572
 
 
 
