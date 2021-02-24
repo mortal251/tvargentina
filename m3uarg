@@ -1088,6 +1088,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0213
 https://59537faa0729a.streamlock.net/radio1045/radio1045/chunklist_w1351704474.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Avatar_redes_positivo_1024.png" group-title="RADIO", CADENA TIEMPO TRELEW CHUBUT
 https://panel.dattalive.com/8034/8034/chunklist_w1515375048.m3u8
 
@@ -1127,7 +1128,8 @@ https://clientes.videostreaming.ar:19360/fmzetaradio/fmzetaradio.m3u8
 #EXTINF:-1 tvg-logo="http://www.fantastica1017.com.ar/images/logoOK.jpg" group-title="RADIO", FM FANTASTICA FM 101.7 FM
 https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://www.diariodelsol.com.ar/images/2.jpeg" group-title="RADIO", FM DEL SOL 91.9 SAN JUAN
+http://streamyes.alsolnet.com/fmdelsoltv/live/chunklist_w752755659.m3u8
 
 #EXTINF:-1 tvg-logo="https://okfmarroyito.com/wp-content/uploads/2018/03/RADIO-EN-VIVO.jpg" group-title="RADIO", FM 95.5 FM OK ARROYITO CORDOBA
 https://inliveserver.com:1936/14062/14062/chunklist_w2092654517.m3u8
