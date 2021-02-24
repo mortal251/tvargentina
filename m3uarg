@@ -347,8 +347,7 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network Stream
 https://www.youtube.com/watch?v=urTdDSueSDI
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102655_Dreiko_TV.png" group-title="INFANTIL", DREIKO TV
-https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL", TOONCAST
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
@@ -361,6 +360,9 @@ https://cloud37.ecuatel.com/educa/educa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.azxtv.com/aztv.png" group-title="INFANTIL", AZTV
 http://animeloving.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102655_Dreiko_TV.png" group-title="INFANTIL", DREIKO TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
 
 
 
@@ -387,8 +389,8 @@ https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/watermarks/QQnSLaBB.png" group-title="MUSICA", COOPE TV
 https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcOBhiBSAwXzwsKeM-S34gHhr7HLulFxChbA&usqp=CAU" group-title="MUSICA", KPOP TV
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1 tvg-logo="https://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png" group-title="MUSICA", ON RADIO
+https://tls.cdnz.cl/onradio3/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT1c3PyXIcqxuCOYCxhVbQDPPtRAmtzSY59g&usqp=CAU" group-title="MUSICA", CM
 https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
@@ -700,7 +702,7 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 #EXTINF:-1 group-title="LOCALES", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=bAjWakC8Z4k
+https://www.youtube.com/watch?v=gj2XjDE5K-k
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES", UNIVERSIDAD TV MAR DEL PLATA
 https://stream-01.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL548sMl2963iVPCxShWiB07kk)/dm/3/x7kvvgi/s/live-2.m3u8
@@ -787,7 +789,7 @@ https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=161
 https://www.youtube.com/watch?v=bLXX-UhK6hE
 
 #EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="LOCALES", TVEO MENDOZA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0172
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45090_10_TV.png" group-title="LOCALES", CANAL 10 ENTRE RIOS
 http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8
@@ -1001,7 +1003,7 @@ http://g3.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/ca
 http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ewtn.com/assets/ewtn-badge-58f0dd80b4f161197d2d55f4af30ac2a7d29fcd9677c9f84afd61b53890fffe7.jpg" group-title="RELIGION", EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/playlist.m3u8
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/640/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110978_Dios_Te_Ve_Kids.png" group-title="RELIGION", DIOS TV KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
