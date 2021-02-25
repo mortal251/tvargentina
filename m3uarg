@@ -41,7 +41,7 @@ http://tv.iptv5latino.cl:8000/live/gino5151/u7uBmJgD0v/3735.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0047 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES", CANAL 13 - 33.1
-http://tv.iptv5latino.cl:8000/live/gino5151/u7uBmJgD0v/15768.m3u8
+http://tv.iptv5latino.cl:8000/live/gino5151/u7uBmJgD0v/3739.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES", NET TV - 27.2
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
