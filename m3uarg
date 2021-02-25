@@ -390,8 +390,7 @@ https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/watermarks/QQnSLaBB.png" group-title="MUSICA", COOPE TV
 https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png" group-title="MUSICA", ON RADIO
-https://tls.cdnz.cl/onradio3/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT1c3PyXIcqxuCOYCxhVbQDPPtRAmtzSY59g&usqp=CAU" group-title="MUSICA", CM
 https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
@@ -462,6 +461,9 @@ https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110975_Awka.png" group-title="MUSICA", AWKA TV
 https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.carolina.cl/_templates/globals/img/carolina-tv-logo.png" group-title="MUSICA", CAROLINA TV
+https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
 
 
 
