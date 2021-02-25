@@ -1207,11 +1207,14 @@ https://panel.dattalive.com/8124/8124/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/117035213_3156352994431536_6044378420677121943_n.png?_nc_cat=102&ccb=3&_nc_sid=85a577&_nc_ohc=kiZaY2Qo3WAAX8_vFPd&_nc_ht=scontent.fepa11-1.fna&oh=5ba81adfcb490303d178d36e2d8afa8c&oe=605BEE32" group-title="RADIO", A91.9 FM CASEROS
 https://cloud2.streaminglivehd.com:1936/activa919/activa919/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://www.cadenaam1470.com/wp-content/uploads/2020/05/LOGO1.png" group-title="RADIO", CADENA 1410 LANUS
+https://stmv1.srvif.com/am1470/am1470/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://radiotvsierras.com/imagenes/logo2.png" group-title="RADIO", RADIO SIERRAS DE CORDOBA ALTA GRACIA CORDOBA
 https://videostream.shockmedia.com.ar:1936/radiotvsierras/radiotvsierras/playlist.m3u8
 
 
-https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/117035213_3156352994431536_6044378420677121943_n.png?_nc_cat=102&ccb=3&_nc_sid=85a577&_nc_ohc=kiZaY2Qo3WAAX8_vFPd&_nc_ht=scontent.fepa11-1.fna&oh=5ba81adfcb490303d178d36e2d8afa8c&oe=605BEE32
 
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", FOUR SEASONS BUENOS AIRES
@@ -1269,8 +1272,7 @@ https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Nueve_Litoral_%28Logo_2010%29.png" group-title="LOCALES", CANAL 9 PARANA
 https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Nueve_Litoral_%28Logo_2010%29.png" group-title="LOCALES", JHFFH
-https://stmv1.srvif.com/am1470/am1470/playlist.m3u8
+
 
 
 
