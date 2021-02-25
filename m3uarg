@@ -1031,6 +1031,9 @@ https://vps230094.vps.ovh.ca:5443/LiveApp/streams/393652112954910559315368.m3u8
 #EXTINF:-1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/ar-tv-sion-satelital-6487.jpg" group-title="RELIGION", SION TV
 https://stmv1.srvif.com/tvsion/tvsion/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/03/Radio-JCB.jpg" group-title="RELIGION", JCV RADIO 104.9 FM - TEMPERLEY
+https://clientes.videostreaming.ar:19360/jcbtv/jcbtv.m3u8
+
 
 
 
