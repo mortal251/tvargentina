@@ -1204,11 +1204,14 @@ https://videostream.shockmedia.com.ar:1936/fmrio1075mbarete/fmrio1075mbarete/pla
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg/v1/fit/w_2500,h_1330,al_c/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg" group-title="RADIO", FM OK 105.7 FLORENCIO VARELA
 https://panel.dattalive.com/8124/8124/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/117035213_3156352994431536_6044378420677121943_n.png?_nc_cat=102&ccb=3&_nc_sid=85a577&_nc_ohc=kiZaY2Qo3WAAX8_vFPd&_nc_ht=scontent.fepa11-1.fna&oh=5ba81adfcb490303d178d36e2d8afa8c&oe=605BEE32" group-title="RADIO", A91.9 FM CASEROS
+https://cloud2.streaminglivehd.com:1936/activa919/activa919/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://radiotvsierras.com/imagenes/logo2.png" group-title="RADIO", RADIO SIERRAS DE CORDOBA ALTA GRACIA CORDOBA
 https://videostream.shockmedia.com.ar:1936/radiotvsierras/radiotvsierras/playlist.m3u8
 
 
-
+https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/117035213_3156352994431536_6044378420677121943_n.png?_nc_cat=102&ccb=3&_nc_sid=85a577&_nc_ohc=kiZaY2Qo3WAAX8_vFPd&_nc_ht=scontent.fepa11-1.fna&oh=5ba81adfcb490303d178d36e2d8afa8c&oe=605BEE32
 
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", FOUR SEASONS BUENOS AIRES
