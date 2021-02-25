@@ -1038,7 +1038,7 @@ https://stmv1.srvif.com/tvsion/tvsion/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="RADIO", RADIO MITRE
-https://g5.mc-slo.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/MITREHD-10002_240p.m3u8
+https://g5.mc-slo.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/MITREHD-10002_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="RADIO", LA 100
 https://g3.vxral-slo.transport.edge-access.net/b13/ngrp:cienradioshd-10002_all/cienradioshd-10002_540p.m3u8
@@ -1067,7 +1067,7 @@ https://fm999.info/test/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg" group-title="RADIO", VORTERIX - 92.1 FM
 https://prepublish.f.qaotic.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI974.png" group-title="RADIO", MEGA 90.9
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI974.png" group-title="RADIO", MEGA 90.9 FM
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="RADIO", FM LIGHT 97.3 SAN JUAN
@@ -1075,19 +1075,19 @@ http://videostream.shockmedia.com.ar:1935/lightfm/lightfm/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://static-1.ivoox.com/canales/4/0/4/1/741470821404_XXL.jpg" group-title="RADIO", CARDINAL TV MIRAMAR CORDOBA
+#EXTINF:-1 tvg-logo="http://static-1.ivoox.com/canales/4/0/4/1/741470821404_XXL.jpg" group-title="RADIO", RADIO CARDINAL MIRAMAR CORDOBA
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/2/2852.v5.png" group-title="RADIO", FM RITUAL 106.1 FM RIO GRANDE TIERRA DEL FUEGO
 http://streamyes.alsolnet.com/fmritualvideo/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.urbana98.com/uploads/logo/logo_5f8f30311e770.png" group-title="RADIO", SEÑAL URBANA 98.9 VERONICA
+#EXTINF:-1 tvg-logo="http://www.urbana98.com/uploads/logo/logo_5f8f30311e770.png" group-title="RADIO", SEÑAL URBANA 98.9 FM VERONICA
 https://stmvideo2.livecastv.com/urbana98/urbana98/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--GOOD.png" group-title="RADIO", GOOD RADIO - 101.1 TV - JESUS MARIA CORDOBA
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--GOOD.png" group-title="RADIO", GOOD RADIO - 101.1 FM - JESUS MARIA CORDOBA
 http://streamyes.alsolnet.com/goodradio/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuxgBnJlOtJSsTnFvwCHja5d0A753R6C9DpA&usqp=CAU" group-title="RADIO", NOVA TV 91.5 - MISIONES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuxgBnJlOtJSsTnFvwCHja5d0A753R6C9DpA&usqp=CAU" group-title="RADIO", NOVA FM 91.5 - MISIONES
 http://streamyes.alsolnet.com/radionovatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9f/51/9f51832cbcc4c513b3415c2d9616fe89.jpg" group-title="RADIO", FM LATINA 94.5
@@ -1141,13 +1141,13 @@ https://clientes.videostreaming.ar:19360/radioamplitud/radioamplitud.m3u8
 #EXTINF:-1 tvg-logo="https://radiotv.ar/img/logo/fmzetaradio.jpg" group-title="RADIO", FM 100.1 ZETA MORON
 https://clientes.videostreaming.ar:19360/fmzetaradio/fmzetaradio.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.fantastica1017.com.ar/images/logoOK.jpg" group-title="RADIO", FM FANTASTICA FM 101.7 FM
+#EXTINF:-1 tvg-logo="http://www.fantastica1017.com.ar/images/logoOK.jpg" group-title="RADIO", FM FANTASTICA CHILECITO 101.7 FM
 https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.diariodelsol.com.ar/images/2.jpeg" group-title="RADIO", FM DEL SOL 91.9 SAN JUAN
 http://streamyes.alsolnet.com/fmdelsoltv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://okfmarroyito.com/wp-content/uploads/2018/03/RADIO-EN-VIVO.jpg" group-title="RADIO", FM 95.5 FM OK ARROYITO CORDOBA
+#EXTINF:-1 tvg-logo="https://okfmarroyito.com/wp-content/uploads/2018/03/RADIO-EN-VIVO.jpg" group-title="RADIO", 95.5 FM OK ARROYITO CORDOBA
 https://inliveserver.com:1936/14062/14062/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://fmsoledad885.com.ar/wp-content/uploads/2020/11/Logo-header-1-1024x132.png" group-title="RADIO", FM SOLEDAD 88.5 LAS HIGHERAS CORDOBA
@@ -1197,6 +1197,9 @@ https://inliveserver.com:1936/14084/14084/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://fm1049.com.ar/wp-content/uploads/2017/10/TOP.png" group-title="RADIO", RADIO TOP 104.9 FM
 http://inliveserver.com:1935/14082/14082/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fmrio1075mbarete.esenvivo.com.ar/fb.jpg" group-title="RADIO", FM RIO 107.5 AVELLANEDA
+https://videostream.shockmedia.com.ar:1936/fmrio1075mbarete/fmrio1075mbarete/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiotvsierras.com/imagenes/logo2.png" group-title="RADIO", RADIO SIERRAS DE CORDOBA ALTA GRACIA CORDOBA
 https://videostream.shockmedia.com.ar:1936/radiotvsierras/radiotvsierras/playlist.m3u8
