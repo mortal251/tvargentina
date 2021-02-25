@@ -157,7 +157,7 @@ http://45.6.4.50:50601/America_Tucuman/video.m3u8
 https://www.youtube.com/watch?v=gBbMbqILzXU
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/133px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="LOCALES", TELEFE CORDOBA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1614081316~exp=1614257716~acl=/i/canal8cordoba_1@685726/*~hmac=cab3a5568679a18252963f229d97b649b97db568ce6ace5b2373097c4c99db15
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1614266510~exp=1614442910~acl=/i/canal8cordoba_1@685726/*~hmac=40248439d170329cc9b6cfc0d419eec2be74809c1e2a8389b526bf34de9b2f31
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", CANAL 10 CORDOBA
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
@@ -420,8 +420,8 @@ https://www.youtube.com/watch?v=OowUi602GdU
 #EXTINF:-1 group-title="MUSICA", BAROQUE LIVE MUSIC
 https://www.youtube.com/watch?v=2gO1v2GPMFk
 
-#EXTINF:-1 tvg-logo="https://onradiochile.cl/wp-content/themes/onair2/img/play.png" group-title="MUSICA", ON RADIO KPOP CHILE
-https://tls.cdnz.cl/onradio4/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png" group-title="MUSICA", ON RADIO CHILE
+https://tls.cdnz.cl/onradio3/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA", RETROPLUS TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
@@ -478,7 +478,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0012
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/800px-Telefe_Salta_%282018%29.png" group-title="LOCALES", TELEFE SALTA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1614083060~exp=1614259460~acl=/i/canal11salta_1@722934/*~hmac=96456941866f4527e080bbad81d18d2627a7c084a57384f3d239928f698a11d9
+https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1614266185~exp=1614442585~acl=/i/canal11salta_1@722934/*~hmac=aba0e9a68273d30ed3ef76d203cd9822bcdd2350f5a0d381512fe4710dfb4dd9
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png/133px-Telefe_Neuqu%C3%A9n_%282018%29.png" group-title="LOCALES", TELEFE NEUQUEN
 https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1614109370~exp=1614285770~acl=/i/canal7neuquen_1@751158/*~hmac=4bae4f5b5481fe77b3ff0ea8fbb6f5300dc2b79b4309e725c8f1726f222fc802
