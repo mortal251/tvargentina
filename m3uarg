@@ -348,8 +348,6 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network Stream
 https://www.youtube.com/watch?v=urTdDSueSDI
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL", TOONCAST
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
 
@@ -362,8 +360,7 @@ https://cloud37.ecuatel.com/educa/educa/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.azxtv.com/aztv.png" group-title="INFANTIL", AZTV
 http://animeloving.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102655_Dreiko_TV.png" group-title="INFANTIL", DREIKO TV
-https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+
 
 
 
@@ -386,14 +383,14 @@ https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT1c3PyXIcqxuCOYCxhVbQDPPtRAmtzSY59g&usqp=CAU" group-title="MUSICA", CM
+https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/watermarks/QQnSLaBB.png" group-title="MUSICA", COOPE TV
 https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT1c3PyXIcqxuCOYCxhVbQDPPtRAmtzSY59g&usqp=CAU" group-title="MUSICA", CM
-https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="MUSICA", CHILECITO TV
+https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/MTV_Latino.png" group-title="MUSICA", MTV
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
@@ -446,12 +443,8 @@ https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96700_Telemusica.png" group-title="MUSICA", TELEMUSICA
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="MUSICA", CHILECITO TV
-https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.hits360live.com/wp-content/uploads/2018/05/cropped-logo1-hits-360-2-2.png" group-title="MUSICA", HIT 360
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/124237_Norterama.png" group-title="MUSICA", NORTERAMA TV
 https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8
@@ -696,8 +689,6 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s88-c-k-c0x00ffffff-no-rj" group-title="LOCALES", CNR TV JUJUY
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES", UNIVERSIDAD TV MAR DEL PLATA
 https://stream-01.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL548sMl2963iVPCxShWiB07kk)/dm/3/x7kvvgi/s/live-2.m3u8
 
@@ -706,11 +697,6 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.televideoinforma.com.ar/img/publicidades/Televideo_logo.jpg" group-title="LOCALES", TELEVIDEO OCAMPO SANTA FE
 https://inliveserver.com:1936/8050_1/8050_1/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://canal2perico.com.ar/canal2/images/logo.png" group-title="LOCALES", CANAL 2 PERICO
-https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8
 
 #EXTINF:-1 tvg-logo="https://cable10.com/imagenes/logo.png" group-title="LOCALES", CABLE 10 HD RIO GALLEGOS
 https://inliveserver.com:1936/8292/8292/playlist.m3u8
@@ -761,8 +747,7 @@ https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
 http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png" group-title="LOCALES", CANAL 21 POSADAS
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0184
-
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2018/03/logocanal3-x1.png" group-title="LOCALES", CANAL 3 LAS HERAS
 https://5975e06a1f292.streamlock.net:4443/canal3/canal3/playlist.m3u8
@@ -889,7 +874,6 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_18
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ53hTwyXPWKI-cBOV7uJuJrp6sX1JMpxeMRQ&usqp=CAU" group-title="INTERNACIONAL", DW ESPAÑOL
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
-
 
 #EXTINF:-1 tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="INTERNACIONAL", NPY PARAGUAY
 https://rds3.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?k=5f9e81d2b3dedf5c280fd91444b5378d7ecd49d8422980833afb9beb6e267a42&exp=1604585421
@@ -1075,8 +1059,6 @@ http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="RADIO", FM LIGHT 97.3 SAN JUAN
 http://videostream.shockmedia.com.ar:1935/lightfm/lightfm/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="http://static-1.ivoox.com/canales/4/0/4/1/741470821404_XXL.jpg" group-title="RADIO", RADIO CARDINAL MIRAMAR CORDOBA
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
@@ -1273,7 +1255,8 @@ https://streaming.reltid.com.ar/hls/montedvr5.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="http://canal2perico.com.ar/canal2/images/logo.png" group-title="LOCALES", CANAL 2 PERICO
+https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-8-Catamarca-en-vivo.png" group-title="LOCALES", CANAL 8 CATAMARCA
 https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
