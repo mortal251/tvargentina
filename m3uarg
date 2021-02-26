@@ -835,6 +835,15 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu_4.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/106258_Urban_TV.png" group-title="MODA Y SOCIEDAD", URBAN TV
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngqtDnzzen9SgbziIySesx-8wvp-fIGlYasqQh_rQ=s88-c-k-c0x00ffffff-no-rj" group-title="MODA Y SOCIEDAD", NUEVA IMAGEN
+http://server.miamitvchannel.com/externos/nuevaimagen/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tentv.es/images/logo-white.png" group-title="MODA Y SOCIEDAD", TEN
+http://91.126.141.201:1935/live/ten/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/250px-DKISS_2019_logo.svg.png" group-title="MODA Y SOCIEDAD", (ONLINE) DKISS
+http://91.126.141.201:1935/live/kiss/playlist.m3u8
+
 
 
 
