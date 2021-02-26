@@ -633,8 +633,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KCqAdPir4u0/XrYMI6iIs_I/AAAAAAAA0h4/UaFlSVSv3Foz_7161A3vWWA5kkH4RTZbQCK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES", Canal 7 Salta
 https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="LOCALES", CTV CORRIENTES
-https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-SlqJrd0GiYk/XjtCBz2FbhI/AAAAAAAAvog/HkkKzNWrEOYiE08Rdlw-mxsDtzpJ_zD8wCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", Canal 6 Moreno
 https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8
@@ -649,7 +648,7 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="LOCALES", ITEL CHAJARI
-http://66.128.32.245/output/iteltv/audio_3/playlist.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0146 
 
 #EXTINF:-1 tvg-logo="https://66.media.tumblr.com/f1138b6d236d9787c1960cdd1ae51b26/tumblr_inline_polydyA71Z1ttmwm1_1280.png" group-title="LOCALES", CORREA RADIOVISION
 http://arcast.net:1935/correadigital/canal12/playlist.m3u8
@@ -669,8 +668,6 @@ https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="LOCALES", CANAL 10 SAN RAFAEL
 https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_12.png" group-title="LOCALES", CANAL 12 TRENQUE LAUQUEN
-https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU" group-title="LOCALES", TELEDIEZ PASO DE LOS LIBRES
 https://videohd.live:19360/8020/8020.m3u8
@@ -777,8 +774,6 @@ https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm4lKe3uMzJnjq38A3QLkgbFduVklg1mHu2g&usqp=CAU" group-title="LOCALES", EL ECO TV
 https://5f93e494d5906.streamlock.net/elecotv/elecotv/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="LOCALES", TVEO MENDOZA
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/playlist.m3u8
@@ -894,7 +889,7 @@ https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1200px-Rai_News_24_-_Logo_2013.svg.png" group-title="INTERNACIONAL", RAI NEWS
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/playlist.m3u8
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1200/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ53hTwyXPWKI-cBOV7uJuJrp6sX1JMpxeMRQ&usqp=CAU" group-title="INTERNACIONAL", DW ESPAÑOL
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
@@ -1278,6 +1273,13 @@ https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Nueve_Litoral_%28Logo_2010%29.png" group-title="LOCALES", CANAL 9 PARANA
 https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_12.png" group-title="LOCALES", CANAL 12 TRENQUE LAUQUEN
+https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="LOCALES", CTV CORRIENTES
+https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 
 
