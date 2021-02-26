@@ -785,16 +785,16 @@ https://panel.dattalive.com/8128/8128/playlist.m3u8
 https://www.youtube.com/watch?v=bLXX-UhK6hE
 
 #EXTINF:-1 group-title="LOCALES", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=gj2XjDE5K-k
-
-#EXTINF:-1 group-title="LOCALES", POPULAR OLAVARRIA
-https://www.youtube.com/watch?v=S0zOkUNeAns
+https://www.youtube.com/watch?v=yTJXa3JGU9U
 
 #EXTINF:-1 group-title="LOCALES", TRS24r
-https://www.youtube.com/watch?v=Bn7M4ezJegs
+https://www.youtube.com/watch?v=BO46TD7yU7E
 
 #EXTINF:-1 group-title="LOCALES", UNQtv
 https://www.youtube.com/watch?v=l_HfmOAzzHQ
+
+#EXTINF:-1 group-title="LOCALES", POPULAR OLAVARRIA
+https://www.youtube.com/watch?v=S0zOkUNeAns
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES", CANAL 10 TUCUMAN
 https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1614372006&h=19ad31be2cb64021c46d9bd9bc98af2a
