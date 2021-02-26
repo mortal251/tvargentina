@@ -1066,8 +1066,8 @@ https://fm999.info/test/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg" group-title="RADIO", VORTERIX - 92.1 FM
 https://prepublish.f.qaotic.net/a16/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI974.png" group-title="RADIO", MEGA 90.9 FM
-http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w267712867.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI974.png" group-title="RADIO", MEGA 90.9 FM AZUL
+http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="RADIO", FM LIGHT 97.3 SAN JUAN
 http://videostream.shockmedia.com.ar:1935/lightfm/lightfm/playlist.m3u8
