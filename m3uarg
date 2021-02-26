@@ -55,16 +55,11 @@ https://lavozdetucuman.com/simpsons.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1200px-Logo_The_Simpsons.svg.png" group-title="INFANTIL", LOS SIMPSON 2
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" group-title="INFANTIL", EL CHAVO
-https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="INFANTIL", DRAGON BALL
-http://tv.iptv5latino.cl:8000/live/gino5151/u7uBmJgD0v/10948.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg" group-title="LOCALES", MIRADOR - 22.3
-https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8 
+
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="LOCALES", GEN TV - 17.3
 https://videohd.live:19360/8010/8010.m3u8
@@ -84,7 +79,17 @@ https://g2.vxral-hor.transport.edge-access.net/a09/ngrp:magazine_live01-100083_a
 #EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_360p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="INTERNACIONAL", FRANCE 24 ESPAÑOL - 24.3
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2019/08/telesur-vector-logo.png" group-title="INTERNACIONAL", TELESUR - 25.4
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="INTERNACIONAL", RT - 25.5
+https://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg" group-title="LOCALES", MIRADOR - 22.3
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="LOCALES", TELEMAX - 26.3
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1811294487_b864000_sleng.m3u8
@@ -95,13 +100,11 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mF6hKYP.png" group-title="CINE Y SERIES", Peliculas MANIA
 http://lavozdetucuman.com/peliculas1.m3u8  
 
+#EXTINF:-1 tvg-logo="https://www.arzbaires.org.ar/inicio/images/canalorbe21.jpg" group-title="RELIGION", ORBE 21 - 21.2
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116107_Kanade_TV.png" group-title="INFANTIL", KANADE TV
-http://stream.kanadetv.club:8080/hls/Kanadetv.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-logo="https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png" group-title="RELIGION", UNIFE TV - 25.1
+https://latamstreaming-live-os.akamaized.net/live_passthrough/unifearg1_ar_only_5/chunks.m3u8
 
 #EXTINF:-1 group-title="LOCALES", DTV DIPUTADOS TELEVISION
 https://www.youtube.com/watch?v=r8I7EJwIn00
@@ -333,7 +336,17 @@ https://tls.cdnz.cl/escgabrielamistral/live/playlist4.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="CINE Y SERIES", SOL TV
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" group-title="INFANTIL", EL CHAVO
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="INFANTIL", DRAGON BALL
+http://tv.iptv5latino.cl:8000/live/gino5151/u7uBmJgD0v/10948.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116107_Kanade_TV.png" group-title="INFANTIL", KANADE TV
+http://stream.kanadetv.club:8080/hls/Kanadetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV_Series.png" group-title="INFANTIL", CACHIPUM TV
@@ -859,14 +872,7 @@ http://91.126.141.201:1935/live/kiss/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="INTERNACIONAL", FRANCE 24 ESPAÑOL - 24.3
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 
-#EXTINF:-1 tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2019/08/telesur-vector-logo.png" group-title="INTERNACIONAL", TELESUR - 25.4
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="INTERNACIONAL", RT - 25.5
-https://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoDQLkIwY3J1UioFIBiSuyg2ocyNotWpOdw&usqp=CAU" group-title="INTERNACIONAL", 24 HORAS ESPAÑA
 https://rtvelivestream.akamaized.net/24h_dvr_1850.m3u8
@@ -990,11 +996,7 @@ https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.arzbaires.org.ar/inicio/images/canalorbe21.jpg" group-title="RELIGION", ORBE 21 - 21.2
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png" group-title="RELIGION", UNIFE TV - 25.1
-https://latamstreaming-live-os.akamaized.net/live_passthrough/unifearg1_ar_only_5/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_0sQVkpVmGSk/TIX_304VIOI/AAAAAAAAAIM/YxMcjC8BGqo/s1600/LOGO%2520SOLIDARIA%2520TV%2520corel%252011.jpg" group-title="RELIGION", SOLIDARIA TV
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
