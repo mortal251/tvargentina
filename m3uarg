@@ -4,8 +4,8 @@
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="LOCALES", IP - 24.5
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="LOCALES", Cronica HD - 24.4
-https://g3.mc-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+#EXTINF:-1 group-title="LOCALES", CRONICA HD - 24.4  
+https://www.youtube.com/watch?v=iRq3FozeoeA
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", Canal 26 - 26.1
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w900812812_b1864000_sleng.m3u8
@@ -1265,8 +1265,8 @@ https://streaming.reltid.com.ar/hls/sierra.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="LOCALES", Cronica HD - 24.4
+https://g3.mc-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://canal2perico.com.ar/canal2/images/logo.png" group-title="LOCALES", CANAL 2 PERICO
 https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8
