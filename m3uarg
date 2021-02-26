@@ -734,7 +734,7 @@ https://panel.dattalive.com/8012/8012/playlist.m3u8
 https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 tvg-logo="https://bragadotv.com.ar/wp-content/uploads/2020/08/logoicono.png" group-title="LOCALES", BRAGADO TV
-https://inliveserver.com:1936/9500/9500/playlist.m3u8
+https://inliveserver.com:1936/9500/9500/chunklist_w1908919579.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canal4teleba.com.ar/img/banner.png" group-title="LOCALES", TELEBA
 http://inliveserver.com:1935/8550/8550/playlist.m3u8
