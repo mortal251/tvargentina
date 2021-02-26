@@ -1023,7 +1023,7 @@ https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaK5id3ywW85veHfSdEKh4SM7r6Hk4wkrCNA&usqp=CAU" group-title="RELIGION", CBN ESPAÑOL
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosublimegraciatv.com.ar/img/logo.png" group-title="RELIGION", SUBLIME GRACIA TV
+#EXTINF:-1 tvg-logo="http://www.radiosublimegraciatv.com.ar/img/logo.png" group-title="RELIGION", SUBLIME GRACIA TV FORMOSA
 https://vivo.solumedia.com:19360/sublime/sublime.m3u8
 
 #EXTINF:-1 tvg-logo="https://jtamendoza.com/images/icon_144.png" group-title="RELIGION", JTA TV 21.1 MENDOZA
@@ -1032,7 +1032,7 @@ https://vps230094.vps.ovh.ca:5443/LiveApp/streams/393652112954910559315368.m3u8
 #EXTINF:-1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/ar-tv-sion-satelital-6487.jpg" group-title="RELIGION", SION TV
 https://stmv1.srvif.com/tvsion/tvsion/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/03/Radio-JCB.jpg" group-title="RELIGION", JCV RADIO 104.9 FM - TEMPERLEY
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/03/Radio-JCB.jpg" group-title="RELIGION", CADENA JCB  - TEMPERLEY
 https://clientes.videostreaming.ar:19360/jcbtv/jcbtv.m3u8
 
 
@@ -1072,7 +1072,7 @@ https://fm999.info/test/index.m3u8
 https://prepublish.f.qaotic.net/a16/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI974.png" group-title="RADIO", MEGA 90.9 FM
-http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
+http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w267712867.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="RADIO", FM LIGHT 97.3 SAN JUAN
 http://videostream.shockmedia.com.ar:1935/lightfm/lightfm/playlist.m3u8
@@ -1086,10 +1086,10 @@ http://streamyes.alsolnet.com/fmritualvideo/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.urbana98.com/uploads/logo/logo_5f8f30311e770.png" group-title="RADIO", SEÑAL URBANA 98.9 FM VERONICA
 https://stmvideo2.livecastv.com/urbana98/urbana98/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--GOOD.png" group-title="RADIO", GOOD RADIO - 101.1 FM - JESUS MARIA CORDOBA
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--GOOD.png" group-title="RADIO", GOOD RADIO 101.1 FM JESUS MARIA CORDOBA
 http://streamyes.alsolnet.com/goodradio/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuxgBnJlOtJSsTnFvwCHja5d0A753R6C9DpA&usqp=CAU" group-title="RADIO", NOVA FM 91.5 - MISIONES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuxgBnJlOtJSsTnFvwCHja5d0A753R6C9DpA&usqp=CAU" group-title="RADIO", NOVA FM 91.5 MISIONES
 http://streamyes.alsolnet.com/radionovatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9f/51/9f51832cbcc4c513b3415c2d9616fe89.jpg" group-title="RADIO", FM LATINA 94.5
@@ -1098,16 +1098,16 @@ http://streaming.arcast.com.ar:1935/fmlatina/fmlatina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQC3ZztNwYVI7-3K0qGaDY-w0toenpCDjGhg&usqp=CAU" group-title="RADIO", FM METROPOLITANA 93.5 TUCUMAN
 https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="RADIO", RADIO AZAHARES 101.5 CORRIENTES
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="RADIO", RADIO AZAHARES FM 101.5 CORRIENTES
 http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="RADIO", AM 1020 SAN JUAN
 http://51.79.83.93:9998/live/am1020/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="RADIO", POWER MAX 104.1 RECREO SANTA FE
+#EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="RADIO", POWER MAX 104.1 FM RECREO SANTA FE
 https://59537faa0729a.streamlock.net/radio1045/radio1045/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Avatar_redes_positivo_1024.png" group-title="RADIO", CADENA TIEMPO TRELEW CHUBUT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Avatar_redes_positivo_1024.png" group-title="RADIO", CADENA TIEMPO CHUBUT
 https://panel.dattalive.com/8034/8034/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dialradio.tv/wp-content/uploads/2018/05/DIAL-RADIO-LOGO-WEB.png" group-title="RADIO", RADIO DIAL SAN RAFAEL
@@ -1119,7 +1119,7 @@ http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radioarg.net/assets/image/radio/180/wox1.png" group-title="RADIO", WOX ROSARIO 88.3
 https://streamcasthd.com:1936/woxtv/woxtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://fmbrasilera.com/wp-content/uploads/2020/06/brasil512omb8eRVSHJX.jpg" group-title="RADIO", FM BRASILERA ENTRE RIOS - 106.7 FM
+#EXTINF:-1 tvg-logo="https://fmbrasilera.com/wp-content/uploads/2020/06/brasil512omb8eRVSHJX.jpg" group-title="RADIO", LA NUEVA FM BRASILERA 106.7 ENTRE RIOS
 https://stmv6.srvstm.com/brasil/brasil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmlitoral.com.ar/web/wp-content/uploads/2021/02/logolitoralmovil.png" group-title="RADIO", FM LITORAL 103.1 PARANA
@@ -1134,10 +1134,10 @@ http://wowza1.sion.com:1935/fmser/radio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="RADIO", POWER FM PINAMAR 100.3 FM
 https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
 
-#EXTINF:-1 tvg-logo="https://u.jimcdn.com/cms/o/sc9cca47c6866b922/emotion/crop/header.jpg?t=1544211316" group-title="RADIO", RADIO TRADICIONAL 1340 - FLORIDA NORTE
+#EXTINF:-1 tvg-logo="https://u.jimcdn.com/cms/o/sc9cca47c6866b922/emotion/crop/header.jpg?t=1544211316" group-title="RADIO", RADIO TRADICIONAL AM 1340 - FLORIDA NORTE
 https://streamcasthd.com:19360/radiotradicional1340/radiotradicional1340.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DeHYq8zK4Ww/W2_AlgMYOgI/AAAAAAAAEPs/F5BIeppaBHQ5MlddDYsLliYBdPSoZjC3wCLcBGAs/s1600/radio-amplitud-am-660.png" group-title="RADIO", AM 660 SAN JUSTO
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DeHYq8zK4Ww/W2_AlgMYOgI/AAAAAAAAEPs/F5BIeppaBHQ5MlddDYsLliYBdPSoZjC3wCLcBGAs/s1600/radio-amplitud-am-660.png" group-title="RADIO", AMPLITUD AM 660 SAN JUSTO
 https://clientes.videostreaming.ar:19360/radioamplitud/radioamplitud.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiotv.ar/img/logo/fmzetaradio.jpg" group-title="RADIO", FM 100.1 ZETA MORON
@@ -1213,7 +1213,8 @@ https://cloud2.streaminglivehd.com:1936/activa919/activa919/playlist.m3u8
 https://stmv1.srvif.com/am1470/am1470/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://nacionalypopular.nvc.org.ar/wp-content/uploads/2017/04/logo.png" group-title="RADIO", FM 100.9 PRIMERO LO NUESTRO - MONTE GRANDE
-https://streamcasthd.com:1936/nacionalypopular/nacionalypopular/playlist.m3u8
+https://streamcasthd.com:1936/nacionalypopular/nacionalypopular/chunklist_w2024192182.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.fm891.com.ar/wp-content/uploads/2020/07/logo_horizontal_20.png" group-title="RADIO", FM 89.1 RADIO UNIVERSIDAD SAN JUSTO
 http://s8.stweb.tv/unlam/video2/chunks.m3u8
@@ -1255,7 +1256,7 @@ https://5f6e1fe8f2d2e.streamlock.net/lacosta/lacosta/playlist.m3u8
 https://5f6e1fe8f2d2e.streamlock.net/puan/puan/playlist.m3u8
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CANAL BEAGLE - USHUAIA
-https://www.youtube.com/watch?v=2VA7iHN8zT4
+https://www.youtube.com/watch?v=prabEMyAtw8
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CAMARAS USHUAIA
 https://www.youtube.com/watch?v=tCe8P4CXR7A
