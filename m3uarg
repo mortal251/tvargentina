@@ -1217,7 +1217,7 @@ http://s8.stweb.tv/unlam/video2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://radiotvsierras.com/imagenes/logo2.png" group-title="RADIO", RADIO SIERRAS DE CORDOBA ALTA GRACIA CORDOBA
 https://videostream.shockmedia.com.ar:1936/radiotvsierras/radiotvsierras/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kDPCvojQb2E/X_Q5MnzksRI/AAAAAAAAJGk/SGon23v2K3UO2gI7MIFoSiNkSxYULDN4ACK4BGAYYCw/s1600/345.png", RADIO ROCHA AM 1500 LA PLATA
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kDPCvojQb2E/X_Q5MnzksRI/AAAAAAAAJGk/SGon23v2K3UO2gI7MIFoSiNkSxYULDN4ACK4BGAYYCw/s1600/345.png" group-title="RADIO", RADIO ROCHA AM 1500 LA PLATA
 https://stmv1.srvif.com/radiorocha/radiorocha/playlist.m3u8
 
 
