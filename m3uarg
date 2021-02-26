@@ -44,7 +44,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0047
 http://tv.iptv5latino.cl:8000/live/gino5151/u7uBmJgD0v/3739.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES", NET TV - 27.2
-https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+https://unlimited8-us.dps.live/nettv/nettv.smil/nettv/livestream3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU" group-title="INFANTIL", PAKA PAKA - 22.2
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
