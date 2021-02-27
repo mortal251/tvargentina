@@ -39,13 +39,13 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES", CANAL 9 - 35.1
-http://tv.iptv5latino.cl:8000/live/gino5151/u7uBmJgD0v/3735.m3u8
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0NTE0NTE0LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6OWU5OTo0MTIzOmMxMTY6N2MwZTo1Y2VjIl19LCJzaWduYXR1cmUiOiJjZmNkYzQ5ZThiZjE4MWQ2MmZlOTgzNGFkMDI0ZGRhMWViMDY0ZDQ1In0%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0047 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES", CANAL 13 - 33.1
-http://tv.iptv5latino.cl:8000/live/gino5151/u7uBmJgD0v/3739.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvIEDG3zoecxMOcOWvld6QBDiJFtpq5gfxQt3tJ6SQquXRKcmBef6R-3oBV_GneeTe1kINkkxtL4ro6ruGJWsudUbxVsLbuRUlIuZf9Pq8y0iRwk9ab9tGo83oE81TUdkjK9VMoCs8B8PaltN9iT89ogf33oIG9d8COTk1zzwRip_IiGUTnV11tUKhoduPa2toZTHw2gwUh17WBVfqG_nB3nvVHkYmc7v_VnXf5awWWXvuBFL1GXpFdt9VBnLPOZLszWyHnyrhXYkC9qrxWtUcEoJLp356DMTFzZ5tvsQNT33GQhRP4877WY-sMuIGPlQzET8ZBl_8nKMhd8R51cMZXbuhbrZag_7OspPDeJ4qeCHOf1hNeTV7K2gpQwGAxuY6tWYY0wL7nVoRmmFJBLdQD25CCJEGE9VwWG6lrJoHB9Tb3nlIyZHAglezY1oyHyld8pzChc7bcuexdsfYsYqznOzBl_TM4-Jx_uYqNBSPUSZA6ud0aWbvk6n1yZyEXapTYRwbqu8uE2OM_DJWasJIRzMcfBsF1GU_-5lE10lHOvNUj__LHXroZCZZMQhkqb619NMuS5C2E4Ix6XBey5LLVvF6MEnAXsBqWHO4dZjAgMwoIfjJOldFYiwLg2pKmiyRsDVHhvLuGvbzaJBEPj6N6YvjIOt54kVOeOU28ifRC5c5MvFWqi0kUtLr5foNmSMKkXtFSGuAUkdfhhbA8_eu9lU6AtxSB_IfJ4hWthrHGiINs1PcLqnVK2mMVUnVu_6RZoQ3PQrQpje8Qhis2Kgwb1eIHJq4Ks8ENcBuhdmIzeKqmBun4KPaRz54PFSNW-Z_GF7yASEGnUujN7rw_6iqUFXfqXzNwaDCMF3PazTznU0Qf_iQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES", NET TV - 27.2
 https://unlimited8-us.dps.live/nettv/nettv.smil/nettv/livestream3/chunks.m3u8
@@ -341,7 +341,7 @@ https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="INFANTIL", DRAGON BALL
-http://tv.iptv5latino.cl:8000/live/gino5151/u7uBmJgD0v/10948.m3u8
+https://live.televisiongratishd.com/tvplus2023/191_.m3u8?token=Cz9JYKGdgcXUiSKFQJof3Q&expires=1614432007&ip=2800:810:473:9e99:4123:c116:7c0e:5cec
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116107_Kanade_TV.png" group-title="INFANTIL", KANADE TV
 http://stream.kanadetv.club:8080/hls/Kanadetv.m3u8
