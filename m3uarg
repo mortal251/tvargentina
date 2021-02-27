@@ -41,7 +41,7 @@ http://evdibac.com:80/307200112733/307200112733/87121
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0047 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvIEDG3zoecxMOcOWvld6QBDiJFtpq5gfxQt3tJ6SQquXRKcmBef6R-3oBV_GneeTe1kINkkxtL4ro6ruGJWsudUbxVsLbuRUlIuZf9Pq8y0iRwk9ab9tGo83oE81TUdkjK9VMoCs8B8PaltN9iT89ogf33oIG9d8COTk1zzwRip_IiGUTnV11tUKhoduPa2toZTHw2gwUh17WBVfqG_nB3nvVHkYmc7v_VnXf5awWWXvuBFL1GXpFdt9VBnLPOZLszWyHnyrhXYkC9qrxWtUcEoJLp356DMTFzZ5tvsQNT33GQhRP4877WY-sMuIGPlQzET8ZBl_8nKMhd8R51cMZXbuhbrZag_7OspPDeJ4qeCHOf1hNeTV7K2gpQwGAxuY6tWYY0wL7nVoRmmFJBLdQD25CCJEGE9VwWG6lrJoHB9Tb3nlIyZHAglezY1oyHyld8pzChc7bcuexdsfYsYqznOzBl_TM4-Jx_uYqNBSPUSZA6ud0aWbvk6n1yZyEXapTYRwbqu8uE2OM_DJWasJIRzMcfBsF1GU_-5lE10lHOvNUj__LHXroZCZZMQhkqb619NMuS5C2E4Ix6XBey5LLVvF6MEnAXsBqWHO4dZjAgMwoIfjJOldFYiwLg2pKmiyRsDVHhvLuGvbzaJBEPj6N6YvjIOt54kVOeOU28ifRC5c5MvFWqi0kUtLr5foNmSMKkXtFSGuAUkdfhhbA8_eu9lU6AtxSB_IfJ4hWthrHGiINs1PcLqnVK2mMVUnVu_6RZoQ3PQrQpje8Qhis2Kgwb1eIHJq4Ks8ENcBuhdmIzeKqmBun4KPaRz54PFSNW-Z_GF7yASEGnUujN7rw_6iqUFXfqXzNwaDCMF3PazTznU0Qf_iQ.m3u8
+https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CvIEmCfCZmtzJzSjgVwaa3Eq7GTzqOPMlbHy8Ct0fdcjdktJpRrZv6LYEztxlVKH_N16_9tx8ZH1Zk51zG36-yn9lrsyHYzhvxCIyDU0tINrOxGSD2TMvjuicoq7iIvZnVYnPnebqr2XMBUGZ9A4BwSe8qbbC6aCXstohyK05TlLRzJl3FWIo13hEVqJu8nGEV_jKliE_6o3fiSGvEwFtWc3YSIQl1g0E09VlKg8pEZMgb1Oijo-iWR_LZAbhrk0gV4aCKZYM3yy82j_aNb4J02UUwaJXw1InkmOSkkzk-x4KHdh4XnvGVw-mCbS1lJRELghTiaiYAwMVmtyuUs-Hg5WNdmTnd01IEa_UEv7BllXW6MEsq1qUGfL6AIE_gXcd1bd2DSzfwq4wpodPQCGSe3GbOnYA2B8q_IHF2qMmob-0K5x6fEIwqvMblQWGOW0BMtrq09b4dZ1HMLyj-6BqO4JGrLjGsL5auEiSrpd9MwVY20k_h9E_ARbmkRTQIVrCY0eeFeK7E0iiLh2xZ67ASndYqax0iyLFlLkpT-1Atjh9d__J0Xb3wh7-ctKi62_oPeM5Ez1lyz9-oQWt-wcH_sR4pUrMMcRpY9tUZe3_IzQDAzdlhn41CyrdZcF-zSmZAiKE9jjOEd89-03oBAv8rFQk5wPlQMTv9Yq5MOWirnsWK6nDj_yZZzztrp8cjKZGeoh10uIieZRdCVXZ5FGlvnoMn2UAmKvWVg3B554ZbH2EjzaZjHbt4XO-mlP8TauJSnTIIwnjMrmmzJ9crHj611cG1SOFY5_3vXWnuPRAvMaP_nKdgWpCzgV8KWR5TeYJcjIoGMSELQpM6-mmgHC2E0ZBXpJnfgaDB21YKdyA3SMLplp-w.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES", NET TV - 27.2
 https://unlimited8-us.dps.live/nettv/nettv.smil/nettv/livestream3/chunks.m3u8
@@ -160,7 +160,7 @@ http://45.6.4.50:50601/America_Tucuman/video.m3u8
 https://www.youtube.com/watch?v=gBbMbqILzXU
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/133px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="LOCALES", TELEFE CORDOBA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1614266510~exp=1614442910~acl=/i/canal8cordoba_1@685726/*~hmac=40248439d170329cc9b6cfc0d419eec2be74809c1e2a8389b526bf34de9b2f31
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1614463983~exp=1614640383~acl=/i/canal8cordoba_1@685726/*~hmac=09f8b11e1dd1b91cb11aa05b85fc78c66f33ed79d49e1ed8017ffabda3c76e11
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", CANAL 10 CORDOBA
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
