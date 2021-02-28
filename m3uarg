@@ -331,7 +331,7 @@ https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="INFANTIL", DRAGON BALL
-https://live.televisiongratishd.com/tvplus2023/191_.m3u8?token=Cz9JYKGdgcXUiSKFQJof3Q&expires=1614432007&ip=2800:810:473:9e99:4123:c116:7c0e:5cec
+https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/wkq698ctu2.m3u8?s=6t3fo0fpGBFxVNoHUlXWyg&e=1614492193
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116107_Kanade_TV.png" group-title="INFANTIL", KANADE TV
 http://stream.kanadetv.club:8080/hls/Kanadetv.m3u8
@@ -467,6 +467,9 @@ https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.carolina.cl/_templates/globals/img/carolina-tv-logo.png" group-title="MUSICA", CAROLINA TV
 https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108423_Tele_Mas.png" group-title="MUSICA", TELE MAS
+https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
 
 
 
