@@ -1227,6 +1227,10 @@ https://videostream.shockmedia.com.ar:1936/radiotvsierras/radiotvsierras/playlis
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kDPCvojQb2E/X_Q5MnzksRI/AAAAAAAAJGk/SGon23v2K3UO2gI7MIFoSiNkSxYULDN4ACK4BGAYYCw/s1600/345.png" group-title="RADIO", RADIO ROCHA AM 1500 LA PLATA
 https://stmv1.srvif.com/radiorocha/radiorocha/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/z/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO SUR 105.1 FM BERISSO
+http://streaming03.arcast.com.ar:1935/radio/radiosur.stream/playlist.m3u8
+
+
 
 
 
