@@ -593,7 +593,7 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES", TDC TV SANTA FE
-https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU" group-title="LOCALES", PLAY TELEVISION SANTA FE
 http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8
