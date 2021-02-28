@@ -488,7 +488,8 @@ https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="http://www.telecreativa.com/logos/enc_TELECREATIVA_movil.gif" group-title="LOCALES", TELECREATIVA LANUS
+https://panel.dattalive.com/8012/8012/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/canal-rural-tv.png" group-title="LOCALES", RURAL TV
 https://cda2.streaming.ws/elrural/live/playlist.m3u8
@@ -523,8 +524,7 @@ https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES 3", 7 NORTE TUCUMAN
 http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.telecreativa.com/logos/enc_TELECREATIVA_movil.gif" group-title="LOCALES", TELECREATIVA LANUS
-https://panel.dattalive.com/8012/8012/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 3", ZONDA TV 35.1 - SAN JUAN
 http://186.129.252.150:1935/canal/351/playlist.m3u8
@@ -649,8 +649,6 @@ https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KCqAdPir4u0/XrYMI6iIs_I/AAAAAAAA0h4/UaFlSVSv3Foz_7161A3vWWA5kkH4RTZbQCK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES 3", CANAL 7 SALTA
 https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-SlqJrd0GiYk/XjtCBz2FbhI/AAAAAAAAvog/HkkKzNWrEOYiE08Rdlw-mxsDtzpJ_zD8wCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 3", CANAL 6 MORENO
 https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8
 
@@ -693,7 +691,7 @@ https://videohd.live:19360/8020/8020.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Telenord-en-vivo-Online.png?resize=100%2C70" group-title="LOCALES 3", TELENORD
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://canal7.tv/wp-content/uploads/2018/02/canal7-logos-02.png" group-title="LOCALES", CANAL 7 SANTIAGO DEL ESTERO
+#EXTINF:-1 tvg-logo="http://canal7.tv/wp-content/uploads/2018/02/canal7-logos-02.png" group-title="LOCALES 2", CANAL 7 SANTIAGO DEL ESTERO
 https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="LOCALES 3", CELTV
