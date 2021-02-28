@@ -327,6 +327,9 @@ https://tls.cdnz.cl/escgabrielamistral/live/playlist4.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="CINE Y SERIES", SOL TV
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.pngg" group-title="CINE Y SERIES", TNT
+https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/glaldsq.m3u8?s=q6d5I0_fM_uD_aryJyKH2g&e=1614492487
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" group-title="INFANTIL", EL CHAVO
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 
@@ -1060,7 +1063,7 @@ https://fm999.info/test/index.m3u8
 https://prepublish.f.qaotic.net/a16/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI974.png" group-title="RADIO", MEGA 90.9 FM AZUL
-http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0065
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="RADIO", FM LIGHT 97.3 SAN JUAN
 http://videostream.shockmedia.com.ar:1935/lightfm/lightfm/playlist.m3u8
