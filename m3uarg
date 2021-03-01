@@ -325,11 +325,7 @@ https://tls.cdnz.cl/escgabrielamistral/live/playlist4.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="CINE Y SERIES", SOL TV
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE Y SERIES", SONY NOVELAS
-https://sony-novelas-1.roku.wurl.com/playlistwebvtt.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/83p_CXCRvPSQRcZQvFrPJYvDralOoYJiK-hP4zuK8ChjD0-F1e5Sc3kyVe-DjOMiHGs" group-title="CINE Y SERIES", RAKUTEN TV COMEDIA
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/subtitles.m3u8
 
 
 
@@ -401,7 +397,7 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", Garage TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w744636331_b1296000_sleng.m3u8
+http://186.0.233.76:1935/Garage/garage.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTE", TENIS CHANNEL
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
@@ -882,6 +878,12 @@ http://91.126.141.201:1935/live/ten/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/250px-DKISS_2019_logo.svg.png" group-title="MODA Y SOCIEDAD", DKISS
 http://91.126.141.201:1935/live/kiss/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo.svg.pngg" group-title="MODA Y SOCIEDAD", COSMO
+http://91.126.141.201:1935/live/cosmoHD/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="MODA Y SOCIEDAD", DMAX
+http://91.126.141.12:1935/live/discoverymax/chunklist_w130496638.m3u8
 
 
 
