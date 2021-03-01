@@ -325,8 +325,7 @@ https://tls.cdnz.cl/escgabrielamistral/live/playlist4.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="CINE Y SERIES", SOL TV
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112899_Tele_Estrella.png" group-title="CINE Y SERIES", TELEESTRELLA
-https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
+
 
 
 
@@ -514,8 +513,6 @@ https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES 3", 7 NORTE TUCUMAN
 http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 3", ZONDA TV 35.1 - SAN JUAN
 http://186.129.252.150:1935/canal/351/playlist.m3u8
 
@@ -687,9 +684,6 @@ https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="LOCALES 3", CELTV
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="LOCALES 3", TSN NECOCHEA
 https://panel.dattalive.com/tsnnecochea/tsnnecochea/playlist.m3u8
 
@@ -701,7 +695,6 @@ https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="LOCALES 3", CANAL 2 CATRIEL RIO NEGRO
 https://589ff3c36f7e8.streamlock.net/alastv/alastv/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES 3", CANAL 12 TUCUMAN
@@ -1225,8 +1218,7 @@ https://videostream.shockmedia.com.ar:1936/radiotvsierras/radiotvsierras/playlis
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kDPCvojQb2E/X_Q5MnzksRI/AAAAAAAAJGk/SGon23v2K3UO2gI7MIFoSiNkSxYULDN4ACK4BGAYYCw/s1600/345.png" group-title="RADIO", RADIO ROCHA AM 1500 LA PLATA
 https://stmv1.srvif.com/radiorocha/radiorocha/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/z/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO", RADIO SUR 105.1 FM BERISSO
-http://streaming03.arcast.com.ar:1935/radio/radiosur.stream/playlist.m3u8
+
 
 
 
