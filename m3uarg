@@ -387,6 +387,12 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110978_Dios_Te_Ve_Kids.png" group-title="INFANTIL", DIOS TV KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102655_Dreiko_TV.png" group-title="INFANTIL", DREIKO TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w16941112.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79759_Santa_Maria_TV.png" group-title="INFANTIL", SANTA MARIA TELEVISION
+https://unlimited2-cl.dps.live/smtv/smtv.smil/smtv/livestream1/chunks.m3u8?nimblesessionid=220069701&WebM3UCL
+
 
 
 
@@ -448,7 +454,7 @@ https://www.youtube.com/watch?v=OowUi602GdU
 #EXTINF:-1 group-title="MUSICA", BAROQUE LIVE MUSIC
 https://www.youtube.com/watch?v=2gO1v2GPMFk
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97300_On_Radio_Kpop.pngg" group-title="MUSICA", ON RADIO kPOP CHILE
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97300_On_Radio_Kpop.png" group-title="MUSICA", ON RADIO kPOP CHILE
 https://tls.cdnz.cl/onradio4/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA", RETROPLUS TV
