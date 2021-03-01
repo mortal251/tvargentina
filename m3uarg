@@ -82,7 +82,7 @@ http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa64277
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="INTERNACIONAL", FRANCE 24 ESPAÑOL - 24.3
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 
-#EXTINF:-1 tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2019/08/telesur-vector-logo.png" group-title="INTERNACIONAL", TELESUR - 25.4
+#EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="INTERNACIONAL", TELESUR - 25.4
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="INTERNACIONAL", RT - 25.5
@@ -506,7 +506,7 @@ https://cda2.streaming.ws/elrural/live/playlist.m3u8
 http://s8.stweb.tv:1935/chacra/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_senal-argentinisima-satelital-1_p_m.jpg" group-title="LOCALES", ARGENTINISIMA SATELITAL
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w859718981_b1912000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/800px-Telefe_Salta_%282018%29.png" group-title="LOCALES 2", TELEFE SALTA
 https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1614468543~exp=1614644943~acl=/i/canal11salta_1@722934/*~hmac=033f69fe7b361f2d1a56e556429cd976a0a2da78c8e6adfd7ac814be709591f8
