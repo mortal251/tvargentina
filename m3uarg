@@ -333,9 +333,6 @@ https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" group-title="INFANTIL", EL CHAVO
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b6/7c/46/b67c4674ae69aa5d04b902ae1b934f9e.jpg" group-title="INFANTIL", DRAGON BALL
-https://live.televisiongratishd.com/tvplus2023/191_.m3u8?token=QN_-Y_gH7aLGmKFwPJnNZw&expires=1614523220&ip=2800:810:473:9e99:65e2:9d48:ec22:1095
-
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116107_Kanade_TV.png" group-title="INFANTIL", KANADE TV
 http://stream.kanadetv.club:8080/hls/Kanadetv.m3u8
 
@@ -369,8 +366,7 @@ http://animeloving.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110978_Dios_Te_Ve_Kids.png" group-title="INFANTIL", DIOS TV KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/videojuego/images/e/ef/ALF_saga_logo.gif/revision/latest/top-crop/width/360/height/450?cb=20180226151313g" group-title="INFANTIL", ALF
-https://live.televisiongratishd.com/tvplus2023/128_.m3u8?token=8Wu1ceVP9oV60zWdrRf6RQ&expires=1614523342&ip=2800:810:473:9e99:65e2:9d48:ec22:1095
+
 
 
 
