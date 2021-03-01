@@ -350,8 +350,26 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_f331914d260442069047f8fd3f5b90e5~mv2.png/v1/fill/w_96,h_72,al_c,q_85,usm_0.66_1.00_0.01/Mosca-1280x720_color_edited%20editado_edit.webp" group-title="INFANTIL", PEQUERADIO
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" group-title="INFANTIL", DUCK TV
+https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
+
+#EXTINF:-1 group-title="INFANTIL", BabyFirst
+https://www.youtube.com/watch?v=GrYXf6OqtVI
+
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network Stream
 https://www.youtube.com/watch?v=urTdDSueSDI
+
+#EXTINF:-1 group-title="INFANTIL", POCOYO
+https://www.youtube.com/watch?v=IcA4SoJhJx4
+
+#EXTINF:-1 group-title="INFANTIL", PEPPA PIG
+https://www.youtube.com/watch?v=hl_nACnH42w
+
+#EXTINF:-1 group-title="INFANTIL", SIMON
+https://www.youtube.com/watch?v=CHlXPceKbko
+
+#EXTINF:-1 group-title="INFANTIL", HEROES EN PIJAMAS
+https://www.youtube.com/watch?v=SbugOb2aYFg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL", TOONCAST
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
