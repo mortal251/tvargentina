@@ -328,6 +328,9 @@ https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE Y SERIES", SONY NOVELAS
 https://sony-novelas-1.roku.wurl.com/playlistwebvtt.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/83p_CXCRvPSQRcZQvFrPJYvDralOoYJiK-hP4zuK8ChjD0-F1e5Sc3kyVe-DjOMiHGs" group-title="CINE Y SERIES", RAKUTEN TV COMEDIA
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/subtitles.m3u8
+
 
 
 
