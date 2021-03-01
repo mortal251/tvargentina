@@ -325,6 +325,9 @@ https://tls.cdnz.cl/escgabrielamistral/live/playlist4.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="CINE Y SERIES", SOL TV
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE Y SERIES", SONY NOVELAS
+https://sony-novelas-1.roku.wurl.com/playlistwebvtt.m3u8
+
 
 
 
