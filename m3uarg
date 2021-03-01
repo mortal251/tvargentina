@@ -112,7 +112,8 @@ https://www.youtube.com/watch?v=r8I7EJwIn00
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/tectv.png" group-title="LOCALES", TEC TV - 22.5
 https://g4.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/101306774_3148927255145221_879459485171580928_n.png?_nc_cat=102&ccb=3&_nc_sid=85a577&_nc_ohc=iTQy2cfhBaIAX-N5mat&_nc_ht=scontent.fepa11-1.fna&oh=bd4ad3bc3244fe5a5ec5fbaee23c2d61&oe=6062192A" group-title="LOCALES", COMARCA TV - 32.3
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CucEYwmPy3Sm_UXp0Y4U15t1edv9IoecyEc1WkVWRElFmedPrhj-Gpm1au_mpdyTafvy0jPfU_01MpM3hyvOjQpuZobpNSZiNOLmsahN7UfPj4e1o7G2EYPGteLT6PdBfPmflNgrCfm3y7XEqW_2Iw_sNmGkx1YlgM76xE5kaoVkzQvQL7QhOS0RIccEvr6lFeqq1hB8YLn4piJj2Dd_G-Sk3U6mSBZ0fqE3e7Morv7xIB1SPbfTpgDYjTO5gzHYDkJt04ECfY0SS6poZApQfIwnpsimeuqo4h8v4wTAjnjVWveQyHjXuV1hmsmDXPwIOJAcbD-kc_Y7MgoDN7vnOD8IaX8CLaWQguhBrXQYn0N9B-NI4EGUFdNjvC8tENHKyyUxXZNquYJqi2YPRZ9VdDeAc7DpNY1Wlzx2jUAWGGCqE8eIWHxFxLsSg3j19kySIb4ST4p_SoG-y5p1QSjs5eESB72J7v_ZyXOeagU1dlSb8KzSD0u_HXcLy8kdt3myH-gsqneAB4dCOhp6YTs7jsuLMYWbncKBTCxAE_LtIXx1G6P72UHbgX370pINFuAxu_PDV5VGDQiFW2LhXKq43s_TIA5hte9adny05fBIp3BHZyhz3FjAEOghISok7NYk85od9NI1dksByq8DGaY5gS0mV6TSKQIeebhxt17i2tnaKs3GGfj6w8mNnFHfqQjjIdlgSAmNP12vRkKf4WEWYTg127CCqHNyR1PWJm_Yo2Ns5NsJDJKFSfQIiqjHsPSnTfa2jFykKW54E2Vldd7CX47ekjo_eOeyfZzJk08YVd0H5-LeRNSNBO6kEhB2dq_CO-HMKY3o15jbx8-xGgz5uZIFyTa0e0A7hx0.m3u8
 
 
 
@@ -796,6 +797,9 @@ https://www.youtube.com/watch?v=yTJXa3JGU9U
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/90123896_2835906936535668_5292694186045210624_n.jpg?_nc_cat=104&ccb=3&_nc_sid=8024bb&_nc_ohc=IfTTi0tjpiAAX-I_iTM&_nc_ht=scontent.fepa11-1.fna&oh=ded10c6e372e62a0ee67492af5374c86&oe=6063FC3F" group-title="LOCALES 3", SPEED TV CONCORDIA
 http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="LOCALES", 12 TARTAGAL
+https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w1715534779.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 2", CANAL 10 TUCUMAN
 https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1614649937&h=1d87e1d63c6b6673a11b7d7704583468
