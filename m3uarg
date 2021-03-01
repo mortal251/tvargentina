@@ -712,18 +712,9 @@ https://panel.dattalive.com/tsnnecochea/tsnnecochea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-ohrxmwyu219car5qjnmnky0ll0mfu6yuk15jy6idgw.png" group-title="LOCALES 3", MILENIUM TV SALTA
 https://panel.tuvideostreaming.com:19360/8002/8002.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="LOCALES 3", 12 TARTAGAL
-https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="LOCALES 3", CANAL 2 CATRIEL RIO NEGRO
-https://589ff3c36f7e8.streamlock.net/alastv/alastv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES 3", CANAL 12 TUCUMAN
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s88-c-k-c0x00ffffff-no-rj" group-title="LOCALES 3", CNR TV JUJUY
-https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES 3", UNIVERSIDAD TV MAR DEL PLATA
 https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL541elpiPHIirEQD1fC8lHjY4)/dm/3/x7kvvgi/s/live-2.m3u8
@@ -754,9 +745,6 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 
 #EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg" group-title="LOCALES 3", CANAL 10 SENILLOSA NEUQUEN
 https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 3", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
-https://inliveserver.com:1936/14064/14064/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.trutv.com.ar/wp-content/uploads/2018/05/logro-tru.png" group-title="LOCALES 3", TELEVISION REGIONAL UNIMARC CORDOBA
 https://vivo.solumedia.com:19360/trutv/trutv.m3u8
@@ -1283,12 +1271,6 @@ https://streaming.reltid.com.ar/hls/sierra.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="http://canal2perico.com.ar/canal2/images/logo.png" group-title="LOCALES 3", CANAL 2 PERICO
-https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-8-Catamarca-en-vivo.png" group-title="LOCALES 3", CANAL 8 CATAMARCA
-https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
 
 
 
