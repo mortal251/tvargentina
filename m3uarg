@@ -340,6 +340,9 @@ http://stream.kanadetv.club:8080/hls/Kanadetv.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.azxtv.com/aztv.png" group-title="INFANTIL", AZTV
+http://animeloving.net/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="INFANTIL", TOON GOGGLES
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 
@@ -373,17 +376,14 @@ https://www.youtube.com/watch?v=CHlXPceKbko
 #EXTINF:-1 group-title="INFANTIL", HEROES EN PIJAMAS
 https://www.youtube.com/watch?v=SbugOb2aYFg
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL", TOONCAST
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKHUnHT.png" group-title="INFANTIL", MONSTRUOS DE VERDAD
 https://videostreaming.cloudserverlatam.com/kids/kids/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uGwFXeM.png" group-title="INFANTIL", EDUCA TV
 https://cloud37.ecuatel.com/educa/educa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.azxtv.com/aztv.png" group-title="INFANTIL", AZTV
-http://animeloving.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL", TOONCAST
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110978_Dios_Te_Ve_Kids.png" group-title="INFANTIL", DIOS TV KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
