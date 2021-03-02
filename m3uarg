@@ -44,7 +44,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0047
 https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvIEmPDaP8aV850rNQJTarVWtMEDrAK1Xp1JRp1GSzc6Zlrq0_DN4Za2LM7RS1AZmMeIumEvpN38n7hAp41BtFDYtxXEkMFwx4GuXNljScAKBmxBqn1LQueobpn4K6XQOojcehcgJhOg-_LXQXm0FhFZfb_21MI5F9BGAuTZsoOn68_tNyX-PwGAy0GkXqZ2vuxGPXJCjEUlmfp0mrGh8AV8jBaKXe1MtvxQ32pjN_k_NMWJQTgVsjK9Qn4ABkvW8l8A0gJSHronUi9HoWUCuANllitv1BuUwPA8repbDqqiV-TtE2pduV_kJKW1PAZNHNLVEw9sFiFDm1a13boSBrVE0cM3DkEbP_67PomTZh7yNW-kFuHlwseh16BBPgykaO1-M876qxGf9Sh-h7Kx83zkDGTTnppuyOu7Szl8xNKHufcwN8yNHh9IhxGCFFQHlUtmD0gIl2DC0-Ni2-415SLFdnt0wLewvimuWM7dQtz_aVFEJPMuyc61-DUAd1FD8kHmhBr1OypZHU4UT8P3KpNPGV_UZ4tOAlH2jR9Gs2RFmJfaZ5ztgQYun7LnH_Z2dynEmXZHpZw8KMSuFkUpKLZWwbAGfVjFO5GknOpD9wRAQTmVz_p4MpwwVc5STk_4QhHY3UNuWwRGgn4xeUr5KuwQ42GV4042gU1h9jVtK7wtsjZCJuWDAjSGnFOjB8ef3XItBQTW6DWtQ19OdeYbDbX6jJVU3NDOMy7jYTllGv2tx28QUYQCr8wxmpfv0By3ig43iG5S5hRnjRYZlwyHjQgfNjJFeyI-6hCCknD4BR7qBp5EMnarFyD0Wsp5PoBGlZ_SQxcSEG1JS0CRnY2DvjPFfpejjxsaDKZ_l6YJuyDZsY-0ow.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES", NET TV - 27.2
-https://unlimited8-us.dps.live/nettv/nettv.smil/nettv/livestream3/chunks.m3u8
+http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU" group-title="INFANTIL", PAKA PAKA - 22.2
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
