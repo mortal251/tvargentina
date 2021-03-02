@@ -1185,9 +1185,6 @@ http://inliveserver.com:1935/9014/9014/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cadenamaxima.com.ar/cadmawp/wp-content/uploads/2017/04/logo-cadena-maxima-footer.png" group-title="RADIO", CADENA MAXIMA 106.7 - SALTA
 https://vivo.solumedia.com:19360/cadenamaxima/cadenamaxima.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/p960x960/119093221_3588161007880988_1941214189500471879_o.jpg?_nc_cat=109&ccb=3&_nc_sid=85a577&_nc_ohc=SnU7h02XUlMAX9c6vN7&_nc_ht=scontent.fepa11-1.fna&tp=6&oh=6bbaac30e4449c97098170e20ea66561&oe=605146BA" group-title="RADIO", UN SUEÑO EN EL AIRE 103.3 FM - RANCHOS 
-https://panel.tuvideostreaming.com:19360/8006/8006.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysxHwA5V1RRfI6m8y-LoJN_utfCdoOjnZ2w&usqp=CAU" group-title="RADIO", RED DIFUSORA CARHUE - 99.5 FM
 https://panel.dattalive.com/8114/8114/playlist.m3u8
 
@@ -1196,8 +1193,6 @@ https://inliveserver.com:1936/14102/14102/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu9w1RZeP-9qPRH7EEj8WGxlLE2smh1hCv-Q&usqp=CAU" group-title="RADIO", RADIO CENTRO 92.9 VILLA MARIA CORDOBA
 https://stmvideo2.livecastv.com/centro/centro/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="http://fm1049.com.ar/wp-content/uploads/2017/10/TOP.png" group-title="RADIO", RADIO TOP 104.9 FM
 http://inliveserver.com:1935/14082/14082/playlist.m3u8
@@ -1208,14 +1203,11 @@ https://videostream.shockmedia.com.ar:1936/fmrio1075mbarete/fmrio1075mbarete/pla
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg/v1/fit/w_2500,h_1330,al_c/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg" group-title="RADIO", FM OK 105.7 FLORENCIO VARELA
 https://panel.dattalive.com/8124/8124/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://www.cadenaam1470.com/wp-content/uploads/2020/05/LOGO1.png" group-title="RADIO", CADENA 1410 LANUS
 https://stmv1.srvif.com/am1470/am1470/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://nacionalypopular.nvc.org.ar/wp-content/uploads/2017/04/logo.png" group-title="RADIO", FM 100.9 PRIMERO LO NUESTRO - MONTE GRANDE
 https://streamcasthd.com:1936/nacionalypopular/nacionalypopular/chunklist_w2024192182.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.fm891.com.ar/wp-content/uploads/2020/07/logo_horizontal_20.png" group-title="RADIO", FM 89.1 RADIO UNIVERSIDAD SAN JUSTO
 http://s8.stweb.tv/unlam/video2/chunks.m3u8
@@ -1223,19 +1215,16 @@ http://s8.stweb.tv/unlam/video2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kDPCvojQb2E/X_Q5MnzksRI/AAAAAAAAJGk/SGon23v2K3UO2gI7MIFoSiNkSxYULDN4ACK4BGAYYCw/s1600/345.png" group-title="RADIO", RADIO ROCHA AM 1500 LA PLATA
 https://stmv1.srvif.com/radiorocha/radiorocha/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiotvsierras.com/imagenes/logo2.png" group-title="RADIO", RADIO SIERRAS DE CORDOBA ALTA GRACIA CORDOBA
-https://videostream.shockmedia.com.ar:1936/radiotvsierras/radiotvsierras/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://radiotv.ar/img/logo/fmzetaradio.jpg" group-title="RADIO", FM 100.1 ZETA MORON
 https://clientes.videostreaming.ar:19360/fmzetaradio/fmzetaradio.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fantastica1017.com.ar/images/logoOK.jpg" group-title="RADIO", FM FANTASTICA CHILECITO 101.7 FM
 https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
 
-#EXTINF:-1 tvg-logo="http://laradioteescucha.com/2016/wp-content/uploads/2016/06/logomoviles.png" group-title="RADIO", LA RADIO TE ESCUCHA 91.3 FM
-https://inliveserver.com:1936/14084/14084/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/p960x960/119093221_3588161007880988_1941214189500471879_o.jpg?_nc_cat=109&ccb=3&_nc_sid=85a577&_nc_ohc=SnU7h02XUlMAX9c6vN7&_nc_ht=scontent.fepa11-1.fna&tp=6&oh=6bbaac30e4449c97098170e20ea66561&oe=605146BA" group-title="RADIO", UN SUEÑO EN EL AIRE 103.3 FM - RANCHOS 
+https://panel.tuvideostreaming.com:19360/8006/8006.m3u8
+
+
 
 
 
