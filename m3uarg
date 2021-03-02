@@ -1070,8 +1070,8 @@ https://g3.vxral-slo.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_a
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="RADIO", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg" group-title="RADIO", VORTERIX - 92.1 FM
-https://prepublish.f.qaotic.net/a16/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
+#EXTINF:-1 group-title="RADIO", VORTERIX - 92.1 FM
+https://www.youtube.com/watch?v=Bi4w23aW99s
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="RADIO", FM LIGHT 97.3 SAN JUAN
 http://videostream.shockmedia.com.ar:1935/lightfm/lightfm/playlist.m3u8
