@@ -514,10 +514,10 @@ http://s8.stweb.tv:1935/chacra/live/chunks.m3u8
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w859718981_b1912000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/800px-Telefe_Salta_%282018%29.png" group-title="LOCALES 2", TELEFE SALTA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1614468543~exp=1614644943~acl=/i/canal11salta_1@722934/*~hmac=033f69fe7b361f2d1a56e556429cd976a0a2da78c8e6adfd7ac814be709591f8
+https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1614692234~exp=1614868634~acl=/i/canal11salta_1@722934/*~hmac=585df939b97867970acc623f6b7a47df898022f88bbd6eaa052103440a01232c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png/133px-Telefe_Neuqu%C3%A9n_%282018%29.png" group-title="LOCALES 2", TELEFE NEUQUEN
-https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1614518850~exp=1614695250~acl=/i/canal7neuquen_1@751158/*~hmac=27fe13a214a3bc055168a5d49e8bbec8ae5bfc724846a6bda78dcb9cb9f2dc66
+https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1614693022~exp=1614869422~acl=/i/canal7neuquen_1@751158/*~hmac=f316cc1204f6e4ab0f3dfef5bf54e485f9fafcc83c9ffa4e3997324d2dc1f9d3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/133px-Telefe_Tucum%C3%A1n_%282018%29.png" group-title="LOCALES 2", TELEFE TUCUMAN
 https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1614519264~exp=1614695664~acl=/i/canal8tucuman_1@787002/*~hmac=970bec7ef8e62597b7676c593dde46aa3c4346977f967481bed12583bec97196
