@@ -273,7 +273,7 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-movies-tv-en-vivo-271x190.jpg" group-title="CINE Y SERIES", FMTV 2
 https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/113858_FMTV_3_Super_Cine.png" group-title="CINE Y SERIES", FMTV 3
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Cadenasuper-cine-tv-en-vivo-608x360.jpgg" group-title="CINE Y SERIES", FMTV 3
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0X7REz4ISXLJloQhacO1qP2R3vnMm-uncrw&usqp=CAU" group-title="CINE Y SERIES", ZEE TV
