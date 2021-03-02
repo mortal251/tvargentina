@@ -76,8 +76,8 @@ https://panel.dattalive.com/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="LOCALES", MAGAZINE
 https://g2.vxral-hor.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES", KZO
-http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_360p/index.m3u8
+#EXTINF:-1 group-title="LOCALES", KZO
+https://www.youtube.com/watch?v=sROputO1x54
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="INTERNACIONAL", FRANCE 24 ESPAÑOL - 24.3
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
@@ -184,7 +184,7 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 8 SAN JUAN
-https://www.youtube.com/watch?v=1B2CuqFT7Us
+https://www.youtube.com/watch?v=9u78N4OA12s
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gU0LdOci1cE/XrYL7uefhAI/AAAAAAAA0h0/N9ww7QKwrrY9kCL4fMrD3mroXZHoYMudACK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES 2", CANAL 7 JUJUY
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
@@ -520,7 +520,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=
 https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1614693022~exp=1614869422~acl=/i/canal7neuquen_1@751158/*~hmac=f316cc1204f6e4ab0f3dfef5bf54e485f9fafcc83c9ffa4e3997324d2dc1f9d3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/133px-Telefe_Tucum%C3%A1n_%282018%29.png" group-title="LOCALES 2", TELEFE TUCUMAN
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1614519264~exp=1614695664~acl=/i/canal8tucuman_1@787002/*~hmac=970bec7ef8e62597b7676c593dde46aa3c4346977f967481bed12583bec97196
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1614713647~exp=1614890047~acl=/i/canal8tucuman_1@787002/*~hmac=697a0157d66b6f63d05b2c4ca661e757e9f90841c969d0cf33757e20337131bc
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Telefe_Mar_del_Plata_%282018%29.png/133px-Telefe_Mar_del_Plata_%282018%29.png" group-title="LOCALES 2", TELEFE MAR DEL PLATA
 https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1614618967~exp=1614795367~acl=/i/mdqdistri02_1@829747/*~hmac=b22469bbbc11153e03f66c43afeb0943d46f44f5ba4f0d6be9c29c3cb8fb639b
@@ -1262,6 +1262,9 @@ https://www.youtube.com/watch?v=tCe8P4CXR7A
 
 #EXTINF:-1 tvg-logo="https://www.sierradelaventana.org/images/stories/logos/logo.png" group-title="WEB CAM Y CLIMA", SIERRA DE LA VENTANA
 https://streaming.reltid.com.ar/hls/sierra.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES", KZO
+http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_360p/index.m3u8
 
 
 
