@@ -115,11 +115,9 @@ https://g4.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/g
 
 
 
+#EXTINF:-1 group-title="DEPORTE", DEPORTV - 24.1
+https://www.youtube.com/watch?v=UiHJ96MjC4c
 
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="DEPORTE", DEPORTV - 24.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
@@ -1271,6 +1269,9 @@ https://streaming.reltid.com.ar/hls/sierra.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/121994336_180028770340337_378579672169664812_n.jpg?_nc_cat=111&ccb=3&_nc_sid=85a577&_nc_ohc=XXCarMyAir0AX9QjEr5&_nc_ht=scontent.fepa11-1.fna&oh=887e3e696e68ed5312d623728406160f&oe=6063A23F" group-title="LOCALES 3", CANAL 20 CERES
 https://mediacp.hostradios.com.ar:19360/campotv/campotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="DEPORTE", DEPORTV - 24.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 
 
