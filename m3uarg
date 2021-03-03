@@ -114,10 +114,8 @@ https://g4.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/g
 
 
 
-
-#EXTINF:-1 group-title="DEPORTE", DEPORTV - 24.1
-https://www.youtube.com/watch?v=UiHJ96MjC4c
-
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="DEPORTE", DEPORTV - 24.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
@@ -127,9 +125,6 @@ https://sv.tsnt.xyz/espn/espn1o_sur.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
 https://sv.tsnt.xyz/espn/espn2o_sur.m3u8
-
-
-
 
 
 
@@ -1064,7 +1059,8 @@ https://g3.vxral-slo.transport.edge-access.net/b13/ngrp:cienradioshd-10002_all/c
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" group-title="RADIO", CN 24/7 NEUQUEN 
 https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/canal-medios-rioja.jpg" group-title="RADIO", MEDIOSRIOJA TV
+http://streamyes.alsolnet.com/mediosrioja/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://beatsradio.com.ar/imagenes/logo.png" group-title="RADIO", BEATS  - 100.5 FM - TIGRE
 https://59537faa0729a.streamlock.net/beatsradio/beatsradio/playlist.m3u8
@@ -1228,8 +1224,7 @@ https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/p960x960/119093221_3588161007880988_1941214189500471879_o.jpg?_nc_cat=109&ccb=3&_nc_sid=85a577&_nc_ohc=SnU7h02XUlMAX9c6vN7&_nc_ht=scontent.fepa11-1.fna&tp=6&oh=6bbaac30e4449c97098170e20ea66561&oe=605146BA" group-title="RADIO", UN SUEÑO EN EL AIRE 103.3 FM - RANCHOS 
 https://panel.tuvideostreaming.com:19360/8006/8006.m3u8
 
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/canal-medios-rioja.jpg" group-title="RADIO", MEDIOSRIOJA TV
-http://streamyes.alsolnet.com/mediosrioja/live/playlist.m3u8
+
 
 
 
@@ -1283,8 +1278,7 @@ https://streaming.reltid.com.ar/hls/sierra.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/121994336_180028770340337_378579672169664812_n.jpg?_nc_cat=111&ccb=3&_nc_sid=85a577&_nc_ohc=XXCarMyAir0AX9QjEr5&_nc_ht=scontent.fepa11-1.fna&oh=887e3e696e68ed5312d623728406160f&oe=6063A23F" group-title="LOCALES 3", CANAL 20 CERES
 https://mediacp.hostradios.com.ar:19360/campotv/campotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="DEPORTE", DEPORTV - 24.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
 
 
 
