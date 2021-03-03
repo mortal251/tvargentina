@@ -907,7 +907,7 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_12
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="INTERNACIONAL", NPY PARAGUAY
-https://rds3.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?k=5f9e81d2b3dedf5c280fd91444b5378d7ecd49d8422980833afb9beb6e267a42&exp=1604585421
+https://rds3.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?k=ff9efd99a197a2d0d611b7670e2570dcf59ad66631698d268ec4866e700c1ae2&exp=1614801400
 
 #EXTINF:-1 tvg-logo="https://seeyouiniran.org/wp-content/uploads/hispan-tv.jpg" group-title="INTERNACIONAL", HISPAN TV
 https://live1.presstv.com/live/hispan_360p/index.m3u8
@@ -934,7 +934,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/large.1365812628_BoliviaTV20191b.png.ed374f34c0627622a7f2492628abb066.png" group-title="INTERNACIONAL", BOLIVIA TV
-https://5fc584f3f19c9.streamlock.net/boliviatv/videoboliviatv/chunklist_w593774435.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyMCA0OjE4OjUwIFBNJmhhc2hfdmFsdWU9MEZwdmdnRnFIT1JLb1Y4QUpFa3RCdz09JnZhbGlkbWludXRlcz01MCZpZD0%3D
+https://5e50264bd6766.streamlock.net:443/boliviatv/videoboliviatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjEgNzo1Mjo0NyBQTSZoYXNoX3ZhbHVlPUs5RDB5U0FpZGQremkxYjQxTDRiL3c9PSZ2YWxpZG1pbnV0ZXM9NTAmaWQ9
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="INTERNACIONAL", MILENIO MEXICO
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
@@ -958,7 +958,7 @@ https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
 https://www.youtube.com/watch?v=8XL8Qk4qzyA
 
 #EXTINF:-1 group-title="INTERNACIONAL", FORO TV MEXICO
-https://www.youtube.com/watch?v=gxHV8NpL2J0
+https://www.youtube.com/watch?v=B_-DFWf3DxQ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="INTERNACIONAL", AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
