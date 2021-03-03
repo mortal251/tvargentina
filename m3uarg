@@ -334,6 +334,9 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" group-title="INFANTIL", EL CHAVO
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dragon_Ball_anime_logo.png/800px-Dragon_Ball_anime_logo.png" group-title="INFANTIL", Dragon ball GT
+http://atenea-panel.xyz:36995/RoLando/RoLando/248596
+
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116107_Kanade_TV.png" group-title="INFANTIL", KANADE TV
 http://stream.kanadetv.club:8080/hls/Kanadetv.m3u8
 
