@@ -167,6 +167,10 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png" group-title="LOCALES 2", TELEFE ROSARIO
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-9-litoral.png" group-title="LOCALES 2", CANAL 9 PARANA
+https://5975e06a1f292.streamlock.net:4443/ahora/ahora/chunklist_w970179559.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Telefe_Santa_Fe.png/133px-Telefe_Santa_Fe.png" group-title="LOCALES 2", TELEFE SANTA FE
 https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1614794742~exp=1614971142~acl=/i/canal13santafe_1@751190/*~hmac=b06049c2b45d8999608fcd6214f1637f8dbc29f29113783dd4a44017c1afa67f
 
@@ -766,7 +770,7 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES 3", UNIVERSIDAD TV MAR DEL PLATA
-https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL541elpiPHIirEQD1fC8lHjY4)/dm/3/x7kvvgi/s/live-2.m3u8
+https://stream-03.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54_omxr6e_bKWKPOXSlwOJfs)/dm/3/x7kvvgi/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/960549144657002496/9Rdtd6Ke_400x400.jpg" group-title="LOCALES 3", TVU LA PLATA
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
@@ -1280,6 +1284,8 @@ https://panel.tuvideostreaming.com:19360/8006/8006.m3u8
 
 #EXTINF:-1 tvg-logo="http://la90fm.com/wp-content/uploads/2019/04/logox1.png" group-title="RADIO", LA 90 FM AZUL
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
+
+
 
 
 
