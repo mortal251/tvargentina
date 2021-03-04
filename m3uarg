@@ -35,13 +35,13 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES", CANAL 9 - 35.1
-https://ar-elnueve-elnueve-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0ODg0NDY2LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6OWU5OTo0OTlhOjZlZToxZWM0OjFhM2MiXX0sInNpZ25hdHVyZSI6ImI5ODkxZDUxNmRkN2JiNmJlNmY4N2U4YTE3ODE5OTlkOGQyMzAzMTQifQ%3D%3D
+https://ar-elnueve-elnueve-live.ned.media/live-360.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0OTQzODg4LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6OWU5OTo4ZGNkOjUxMzA6MTI1MDo2ZTAxIl19LCJzaWduYXR1cmUiOiI5NTQ0OTVhMjJmNzZhMTY4OGVlZTBmZjAyNWQ4Y2Y3NDU0MWQ5M2I3In0%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0047 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES", CANAL 13 - 33.1
-https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/s7smi57g.m3u8?s=ItG0E-2mz1aeQBlxzx9xSw&e=1614830866
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvMEQiAXWyWOHRj0cBgMXPyNkQ7sj90iWqkTuLy5f7KiNV9wRzlQTRaXjC1kHeACI3k36b-R_6ud7vzgru6C0SKwGi7rx4frEvvgF7feMpaPTjMFoFNcHs6RkSl-TRlKy3lEq3pxsHj80A0Z4dO9lNnaUCoxHj0gQRyUE7J-7BxXlIZ-Ubu-LnOnTqWvbVvBFRxuz9A1mdHtDSvt-yPnkW8n3DZzO-AI98Lpy-vu2LfvJ5MrrDsybkKZXWSGitkPCz2OwM7q3Q_qM9MMuVJccbjQGIjGPoyVI5Z_GDn8-AFJtHF2EliLUtXK6s4FTb_yDppX8BW6EM3pJ8XRSIM470W7WtLg7jQYPW6Bi2TWIqvJ7GJiTrdtqRM6BP8xuLbhOjdrFzy4pqnrjex1xMTP49oEVWBUL0P3xmdapd7n_9NroX-jUx2MCyA_GToczo7fpQ26YMvtuU9RchQxRMfkPEXBAIKHa_J6lb5sh9X7b6RAciVbaCGy8WA5mfvUcH-P0uDg-jiQqPsGKTt_JWmHfklHfVM-jalyCJK5E7gtxtpzenLn8fb1LzX0ERkkZMSAmuNcLQqdeZOFzDAlPG7ZJAbkqxNVrXMMUlzPTDnGGrAU3z6ggcldrWcQujbpcx9Vwd1i1sKKqdAG9C-WOtY-q3qeSdvfFRnccTq04tu7ooNqOuogeiiSZkNmyz1vMb4UecoeY03K1yq0AW1Q2tSFz35AcGbFks2YqHLgSFwzDQVBA6HiiIjuDl29r8TVAk8zBLn65PT20ang4XkxHFrakCvrmIKIW49CQoO0l8yCuWNUO3zLjRhUtr4wQkMAOQhOI142ynqBEhDeNdx2tmmnkaICrF_bSc-GGgx2zAA0Wgv1R6usqhE.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES", NET TV - 27.2
 http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
@@ -357,7 +357,7 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 
 #EXTINF:-1 group-title="INFANTIL", BabyFirst
-https://www.youtube.com/watch?v=GrYXf6OqtVI
+https://www.youtube.com/watch?v=I72VK5FZ85g
 
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network Stream
 https://www.youtube.com/watch?v=urTdDSueSDI
@@ -370,6 +370,9 @@ https://www.youtube.com/watch?v=hl_nACnH42w
 
 #EXTINF:-1 group-title="INFANTIL", SIMON
 https://www.youtube.com/watch?v=CHlXPceKbko
+
+#EXTINF:-1 group-title="INFANTIL", La Pandilla de Colores
+https://www.youtube.com/watch?v=tYV2-GnQXRA
 
 #EXTINF:-1 group-title="INFANTIL", HEROES EN PIJAMAS
 https://www.youtube.com/watch?v=SbugOb2aYFg
@@ -808,7 +811,7 @@ https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 2", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1614827800&h=7cc0e720480c62fb164eafe50120266e
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1614886655&h=d3e925e29b129adfa97a936906ce9f1a
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
