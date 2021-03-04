@@ -1228,7 +1228,7 @@ https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
 https://panel.tuvideostreaming.com:19360/8006/8006.m3u8
 
 #EXTINF:-1 tvg-logo="http://la90fm.com/wp-content/uploads/2019/04/logox1.png" group-title="RADIO", LA 90 FM AZUL
-http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w1645590428.m3u8
+http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
 
 
 
