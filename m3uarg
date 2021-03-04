@@ -320,8 +320,14 @@ http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="CINE Y SERIES", LA VOZ TV
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", NUESTRA VISION
+https://nuestravision-plutolive-vo.akamaized.net/plutotv/index_1.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", BUTACA
+https://veranda-butacatv-1-es.samsung.wurl.com/manifest/subtitles.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", RAKUTEN
+https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
@@ -807,8 +813,8 @@ https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES 3", 6 ENTRE RIOS TV
 https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_12.png" group-title="LOCALES 3", CANAL 12 TRENQUE LAUQUEN
+https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 2", CANAL 10 TUCUMAN
 https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1614886655&h=d3e925e29b129adfa97a936906ce9f1a
