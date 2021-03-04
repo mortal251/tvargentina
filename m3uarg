@@ -896,6 +896,9 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/83f9f0ddd6f6d0bd9394ab0b34fcc7daa84ea75a1b923b8872acdb36f26c034a.png" group-title="MODA Y CULTURA", PET COLLECTIVE
 https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg" group-title="MODA Y CULTURA", SABER MAS
+https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/canal-ucl-vivo.jpg" group-title="MODA Y CULTURA", UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_4.m3u8
 
@@ -922,11 +925,10 @@ http://91.126.141.201:1935/live/cosmoHD/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="MODA Y CULTURA", DMAX
 http://91.126.141.12:1935/live/discoverymax/chunklist_w130496638.m3u8
 
-#EXTINF:-1 tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg" group-title="MODA Y CULTURA", SABER MAS
-https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="MODA Y CULTURA", SONY NOVELAS
 https://sony-novelas-1.roku.wurl.com/playlist.m3u8
+
+
 
 
 
