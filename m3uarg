@@ -338,6 +338,9 @@ https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES", RAKUTEN TV  4
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg" group-title="CINE Y SERIES", OLYMPUSAT TU CINE
+https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+
 
 
 
@@ -1297,8 +1300,14 @@ https://streaming.reltid.com.ar/hls/sierra.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/121994336_180028770340337_378579672169664812_n.jpg?_nc_cat=111&ccb=3&_nc_sid=85a577&_nc_ohc=XXCarMyAir0AX9QjEr5&_nc_ht=scontent.fepa11-1.fna&oh=887e3e696e68ed5312d623728406160f&oe=6063A23F" group-title="LOCALES 3", PRUEBA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="LOCALES 3", SONY COMPETENCIA
 https://sony-competencias-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="LOCALES 3", SONY COMEDIA
+https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="LOCALES 3", SONY NOVELAS
+https://sony-novelas-1.roku.wurl.com/playlist.m3u8
 
 
 
