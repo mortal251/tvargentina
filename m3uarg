@@ -1238,6 +1238,9 @@ https://stmvideo2.livecastv.com/capicua/capicua/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s135098/images/logog.jpg?t=151946" group-title="RADIO", RPO RADIO PUNTO AM 1400
 https://videohd.live:19360/8012/8012.m3u8
 
+#EXTINF:-1 tvg-logo="https://radioarg.net/assets/image/radio/180/argentina-893-fm-online.jpg" group-title="RADIO", RADIO ARGENTINA 89.3 FM RESISTENCIA CHACO
+http://streamingvideo.com.ar:1935/argentinaenlinea/live/chunklist_w778403502.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.racsol.com.ar/images/logo.png" group-title="RADIO", RACSOL FM 94.1 LAS FLORES
 https://mediacp.hostradios.com.ar:19360/rascoltv/rascoltv.m3u8
 
