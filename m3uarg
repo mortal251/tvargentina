@@ -1151,6 +1151,9 @@ https://www.youtube.com/watch?v=Bi4w23aW99s
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="RADIO", FM LIGHT 97.3 SAN JUAN
 http://videostream.shockmedia.com.ar:1935/lightfm/lightfm/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiotupac.com.ar/wp-content/uploads/2020/04/LOGO-TUPAC-WEBCAST-05.jpg" group-title="RADIO", RADIO TUPAC WEBCAST
+https://panel.tuvideostreaming.com:19360/8020/8020.m3u8
+
 #EXTINF:-1 tvg-logo="http://static-1.ivoox.com/canales/4/0/4/1/741470821404_XXL.jpg" group-title="RADIO", RADIO CARDINAL MIRAMAR CORDOBA
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 
@@ -1270,9 +1273,6 @@ http://inliveserver.com:1935/14082/14082/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmrio1075mbarete.esenvivo.com.ar/fb.jpg" group-title="RADIO", FM RIO 107.5 AVELLANEDA
 https://videostream.shockmedia.com.ar:1936/fmrio1075mbarete/fmrio1075mbarete/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/116265668_2696925350582436_1385205828205858155_n.jpg?_nc_cat=102&ccb=3&_nc_sid=973b4a&_nc_ohc=b5qudHV9KLwAX_uNcVT&_nc_ht=scontent.fepa11-1.fna&oh=f56b3a141bdbd648c7784b798da6b526&oe=60692374" group-title="RADIO", RADIO TUPAC WEBCAST VILLA ANGELA CHACO
-https://panel.tuvideostreaming.com:19360/8020/8020.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg/v1/fit/w_2500,h_1330,al_c/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg" group-title="RADIO", FM OK 105.7 FLORENCIO VARELA
 https://panel.dattalive.com/8124/8124/playlist.m3u8
