@@ -1298,6 +1298,9 @@ https://panel.tuvideostreaming.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-logo="http://la90fm.com/wp-content/uploads/2019/04/logox1.png" group-title="RADIO", LA 90 FM AZUL
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://la90fm.com/wp-content/uploads/2019/04/logox1.png" group-title="RADIO", FM RADIO TROPICAL 89.5 RESISTENCIA CHACO
+https://5f6e1fe8f2d2e.streamlock.net/cn22/cn22/chunklist_w1166670919.m3u8
+
 
 
 
