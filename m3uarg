@@ -1115,6 +1115,9 @@ https://g5.mc-slo.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/MITREHD-1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="RADIO", LA 100
 https://g3.vxral-slo.transport.edge-access.net/b13/ngrp:cienradioshd-10002_all/cienradioshd-10002_540p.m3u8
 
+#EXTINF:-1 group-title="RADIO", URBANA PLAY 104.3 FM
+https://www.youtube.com/watch?v=zHbXnod6EM0
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" group-title="RADIO", CN 24/7 NEUQUEN 
 https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8
 
@@ -1200,7 +1203,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/b64e7d2ed9904a48b0f3d70609562d6b/c
 http://wowza1.sion.com:1935/fmser/radio/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="RADIO", POWER FM PINAMAR 100.3 FM
-https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
+https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8 
 
 #EXTINF:-1 tvg-logo="https://u.jimcdn.com/cms/o/sc9cca47c6866b922/emotion/crop/header.jpg?t=1544211316" group-title="RADIO", RADIO TRADICIONAL AM 1340 - FLORIDA NORTE
 https://streamcasthd.com:19360/radiotradicional1340/radiotradicional1340.m3u8
