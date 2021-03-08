@@ -1261,7 +1261,7 @@ https://streamcasthd.com:19360/fmvanguardia/fmvanguardia.m3u8
 http://inliveserver.com:1935/9014/9014/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://laradio1047.com.ar/wp-content/uploads/2019/02/Logo_Blanco_laradio-copia.png" group-title="RADIO", LA RADIO FM 104.7 RESISTENCIA CHACO
-https://n-akamai-fastly.castr.com/edge/live_631e8660d57b11ea81e6cf8884c62f71/playlist.m3u8
+https://n-akamai-fastly.castr.com/edge/live_631e8660d57b11ea81e6cf8884c62f71/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cadenamaxima.com.ar/cadmawp/wp-content/uploads/2017/04/logo-cadena-maxima-footer.png" group-title="RADIO", CADENA MAXIMA 106.7 - SALTA
 https://vivo.solumedia.com:19360/cadenamaxima/cadenamaxima.m3u8
