@@ -576,7 +576,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea
 https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1615066007~exp=1615242407~acl=/i/canal8tucuman_1@787002/*~hmac=1962f42d17ba9b342dd03fd6ef48bd2b640de496683bddaafbce3299c386692d
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Telefe_Mar_del_Plata_%282018%29.png/133px-Telefe_Mar_del_Plata_%282018%29.png" group-title="LOCALES 2", TELEFE MAR DEL PLATA
-https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1615066383~exp=1615242783~acl=/i/mdqdistri02_1@829747/*~hmac=1a6be69a1cd601e4091beae70703958d7d46eb856298c298c55bc98f6a3e6474
+https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1615203119~exp=1615379519~acl=/i/mdqdistri02_1@829747/*~hmac=e5288c0c424eb35941e77e99036e94c3f3adf6b3d8b2388d152e694771c8c8c7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Telefe_Bah%C3%ADa_Blanca_%282018%29.png/133px-Telefe_Bah%C3%ADa_Blanca_%282018%29.png" group-title="LOCALES 2", TELEFE BAHIA BLANCA
 https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1615066047~exp=1615242447~acl=/I/canal9bahiablanca_1@685725/*~hmac=0e06065c760ece9d43356f4c42ddcd8068ccfcd71cd36697c200e7b4f7c1e752
@@ -850,7 +850,7 @@ https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
 https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=4WLI33tyKxA
+https://www.youtube.com/watch?v=tQ3j3oepz9o
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
 https://www.youtube.com/watch?v=yTJXa3JGU9U
@@ -865,7 +865,7 @@ https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8
 https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 2", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1615098971&h=292a7b70bacc49e0b9f9b576897e13a6
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1615235748&h=5137c5083f33a9d65c7e0300a9841a05
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES", AMERICA - 36.1
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
