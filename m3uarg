@@ -1010,8 +1010,9 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png" group-title="INTERNACIONAL", ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83636_ETB.png" group-title="INTERNACIONAL", ETB 1
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_1596_av-p.m3u8?sd=8&rebase=on
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102481_Canal_Capital.png" group-title="INTERNACIONAL", CANAL CAPITAL BOGOTA
+https://us-b4-p-e-zx8.cdn.mdstrm.com/live-stream/57d01d6c28b263eb73b59a5a/publish/media_1100.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="INTERNACIONAL", MILENIO MEXICO
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
