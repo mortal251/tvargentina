@@ -999,7 +999,7 @@ https://www.youtube.com/watch?v=coYw-eVU0Ks
 https://www.youtube.com/watch?v=ZothDhWS1V8
 
 #EXTINF:-1 group-title="INTERNACIONAL", T13 CHILE
-https://www.youtube.com/watch?v=aqPIiyPI10c
+https://www.youtube.com/watch?v=kZ3ctrOFUoA
 
 #EXTINF:-1 group-title="INTERNACIONAL", EURONEWS
 https://www.youtube.com/watch?v=JbKgQhFlMdU
@@ -1010,8 +1010,8 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png" group-title="INTERNACIONAL", ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/large.1365812628_BoliviaTV20191b.png.ed374f34c0627622a7f2492628abb066.png" group-title="INTERNACIONAL", BOLIVIA TV
-https://5e50264bd6766.streamlock.net:443/boliviatv/videoboliviatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjEgNzo1Mjo0NyBQTSZoYXNoX3ZhbHVlPUs5RDB5U0FpZGQremkxYjQxTDRiL3c9PSZ2YWxpZG1pbnV0ZXM9NTAmaWQ9
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83636_ETB.png" group-title="INTERNACIONAL", ETB 1
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_1596_av-p.m3u8?sd=8&rebase=on
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="INTERNACIONAL", MILENIO MEXICO
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
