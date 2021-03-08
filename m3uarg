@@ -1207,7 +1207,7 @@ https://streamcasthd.com:1936/woxtv/woxtv/playlist.m3u8
 https://stmv6.srvstm.com/brasil/brasil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmlitoral.com.ar/web/wp-content/uploads/2021/02/logolitoralmovil.png" group-title="RADIO", FM LITORAL 103.1 PARANA
-https://stmv4.srvstm.com/litoral2/litoral2/playlist.m3u8
+https://stmv4.srvstm.com/litoral2/litoral2/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="http://www.conexionabierta.com.ar/images/logo-conexion-abierta.png" group-title="RADIO", RADIO CONEXION ABIERTA
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/b64e7d2ed9904a48b0f3d70609562d6b/chunklist_b3692000.m3u8?p=79&s=1607779032&e=1607779152&h=91800526ed9f2926f876f628593822e0
