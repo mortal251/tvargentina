@@ -1007,8 +1007,8 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png" group-title="INTERNACIONAL", ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/150px-Multimedios_Canal_Seis_Logo.svg.png" group-title="INTERNACIONAL", CANAL 6 MEXICO
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL", Imagen Multicast
+https://www.youtube.com/watch?v=E9rhLRyFprY
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="INTERNACIONAL", MILENIO MEXICO
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
@@ -1023,7 +1023,7 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 https://source07.v.news.cn/live/CNC_CN/playlist.m3u8?wsSession=bed2e3a67ad6d4269809e919-160881726993209&wsIPSercert=b45b1734986e59cef74116f016f4b676&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112080_TVGE_Internacional.png" group-title="INTERNACIONAL", TVGE INTERNACIONAL
-http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
+https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w2010324553_b800000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png" group-title="INTERNACIONAL", VOA ESTADOS UNIDOS
 https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
@@ -1032,7 +1032,7 @@ https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
 https://www.youtube.com/watch?v=FLhqG8mK4Vk
 
 #EXTINF:-1 group-title="INTERNACIONAL", FORO TV MEXICO
-https://www.youtube.com/watch?v=B_-DFWf3DxQ
+https://www.youtube.com/watch?v=9RzOKoaDnC8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="INTERNACIONAL", AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
