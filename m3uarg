@@ -481,8 +481,10 @@ https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="MUSICA", CHILECITO TV
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/MTV_Latino.png" group-title="MUSICA", MTV
-http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.stingray.com/sites/www.stingray.com/themes/stingray_corpo2017/images/metadata/fb-2.jpg" group-title="MUSICA", STINGRAY
+http://stream.pcriot.com/Z1vW/sg.php/155/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/4308.gif" group-title="MUSICA", TV POP
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
@@ -1367,6 +1369,9 @@ http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108907_Elonce.jpg" group-title="LOCALES 2", ONCE PARANA
 https://elonce.zapto.org/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/MTV_Latino.png" group-title="MUSICA", MTV
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
 
 
 
