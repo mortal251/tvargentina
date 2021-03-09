@@ -107,7 +107,7 @@ https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png" group-title="RELIGION", UNIFE TV - 25.1
 https://latamstreaming-live-os.akamaized.net/live_passthrough/unifearg1_ar_only_5/chunks.m3u8
 
-#EXTINF:-1 group-title="LOCALES", DTV DIPUTADOS TELEVISION
+#EXTINF:-1 group-title="LOCALES 1", DTV DIPUTADOS TELEVISION
 https://www.youtube.com/watch?v=r8I7EJwIn00
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/tectv.png" group-title="LOCALES 1", TEC TV - 22.5
