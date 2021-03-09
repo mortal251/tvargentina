@@ -1354,12 +1354,6 @@ https://5f6e1fe8f2d2e.streamlock.net/lacosta/lacosta/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 PUAN
 https://5f6e1fe8f2d2e.streamlock.net/puan/puan/playlist.m3u8
 
-#EXTINF:-1 group-title="WEB CAM Y CLIMA", CANAL BEAGLE - USHUAIA
-https://www.youtube.com/watch?v=49MrCadyxtU
-
-#EXTINF:-1 group-title="WEB CAM Y CLIMA", CAMARAS USHUAIA
-https://www.youtube.com/watch?v=tCe8P4CXR7A
-
 #EXTINF:-1 tvg-logo="https://www.sierradelaventana.org/images/stories/logos/logo.png" group-title="WEB CAM Y CLIMA", SIERRA DE LA VENTANA
 https://streaming.reltid.com.ar/hls/sierra.m3u8
 
