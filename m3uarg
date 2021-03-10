@@ -250,9 +250,11 @@ http://streamyes.alsolnet.com:1935/canal4sanjuan/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" group-title="LOCALES 2", CANAL 10 RIO NEGRO
 https://panel.dattalive.com/8204/8204/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/90123896_2835906936535668_5292694186045210624_n.jpg?_nc_cat=104&ccb=3&_nc_sid=8024bb&_nc_ohc=IfTTi0tjpiAAX-I_iTM&_nc_ht=scontent.fepa11-1.fna&oh=ded10c6e372e62a0ee67492af5374c86&oe=6063FC3F" group-title="CINE Y SERIES", SPEED TV 
+http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="CINE Y SERIES", VIBRA HD
-https://stmv1.zcastbr.com/vibratv/vibratv/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
 https://stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8
@@ -481,7 +483,8 @@ https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="MUSICA", CHILECITO TV
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="MUSICA", VIBRA HD
+https://stmv1.zcastbr.com/vibratv/vibratv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.stingray.com/sites/www.stingray.com/themes/stingray_corpo2017/images/metadata/fb-2.jpg" group-title="MUSICA", STINGRAY
 http://stream.pcriot.com/Z1vW/sg.php/155/master.m3u8
@@ -614,6 +617,8 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bfgU_ufKFps/XrYKd9HJC_I/AAAAAAAA0hY/TxCOOPSR-R8fBb8zd9ThamFRUKIRsoFrACK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES 3", CANAL 4 BAHIA BLANCA
 https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://multimedio.com.ar/wp-content/uploads/2019/10/Logo-Canal-11.png" group-title="LOCALES 3", CANAL 11 MAR DE AJO
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
@@ -868,7 +873,7 @@ https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8
 https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 2", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1615317493&h=8759b351c40c284a51bd842b9056d9ca
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1615405768&h=7cf3a9e4b3565d867a80c0b7e1d786c0
 
 #EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES 3", 7 NORTE TUCUMAN
 http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
@@ -1368,8 +1373,7 @@ https://5f6e1fe8f2d2e.streamlock.net/puan/puan/playlist.m3u8
 https://streaming.reltid.com.ar/hls/sierra.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/90123896_2835906936535668_5292694186045210624_n.jpg?_nc_cat=104&ccb=3&_nc_sid=8024bb&_nc_ohc=IfTTi0tjpiAAX-I_iTM&_nc_ht=scontent.fepa11-1.fna&oh=ded10c6e372e62a0ee67492af5374c86&oe=6063FC3F" group-title="LOCALES 3", SPEED TV 
-http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108907_Elonce.jpg" group-title="LOCALES 2", ONCE PARANA
 https://elonce.zapto.org/hls/live.m3u8
