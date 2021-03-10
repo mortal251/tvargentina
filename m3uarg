@@ -182,7 +182,7 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 8 SAN JUAN
-https://www.youtube.com/watch?v=9u78N4OA12s
+https://www.youtube.com/watch?v=cJwjeF3L_u4
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gU0LdOci1cE/XrYL7uefhAI/AAAAAAAA0h0/N9ww7QKwrrY9kCL4fMrD3mroXZHoYMudACK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES 2", CANAL 7 JUJUY
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
