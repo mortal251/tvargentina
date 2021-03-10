@@ -310,8 +310,10 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/101693_Retro_TV_Palmares.png" group-title="CINE Y SERIES", RETRO TV
 http://tvretropalmares.com:8090/hls/envivo.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canal74.cl/wp-content/uploads/2020/05/canal74logo-1.png" group-title="CINE Y SERIES", 74 TV
-https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/98871_EvaStream.png" group-title="CINE Y SERIES",  EVASTREAM TV
+https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115431_G_Vision.png" group-title="CINE Y SERIES", G VISION
 https://tls.cdnz.cl/escgabrielamistral/live/playlist4.m3u8 
@@ -380,6 +382,9 @@ http://atenea-panel.xyz:36995/RoLando/RoLando/248596
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127494_Boomerang.png" group-title="INFANTIL", BOOMERANG TV
 http://8.9.4.128:8080/hls/boomerangtv.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png" group-title="INFANTIL", 74 TV
+https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -1139,11 +1144,11 @@ https://clientes.videostreaming.ar:19360/jcbtv/jcbtv.m3u8
 https://g5.mc-slo.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/MITREHD-10002_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="RADIO", LA 100
-https://g3.vxral-slo.transport.edge-access.net/b13/ngrp:cienradioshd-10002_all/cienradioshd-10002_540p.m3u8
+https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:cienradioshd-10002_all/cienradioshd-10002_540p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" group-title="RADIO", CN 24/7 NEUQUEN 
-https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8
+https://panel.dattalive.com/6605140/6605140/chunklist_w813707392.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/canal-medios-rioja.jpg" group-title="RADIO", MEDIOSRIOJA TV
 http://streamyes.alsolnet.com/mediosrioja/live/playlist.m3u8
@@ -1217,6 +1222,7 @@ http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radioarg.net/assets/image/radio/180/wox1.png" group-title="RADIO", WOX ROSARIO 88.3 FM
 https://streamcasthd.com:1936/woxtv/woxtv/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://fmbrasilera.com/wp-content/uploads/2020/06/brasil512omb8eRVSHJX.jpg" group-title="RADIO", LA NUEVA FM BRASILERA 106.7 ENTRE RIOS
 https://stmv6.srvstm.com/brasil/brasil/playlist.m3u8
 
@@ -1261,6 +1267,7 @@ https://videohd.live:19360/8012/8012.m3u8
 
 #EXTINF:-1 tvg-logo="https://radioarg.net/assets/image/radio/180/argentina-893-fm-online.jpg" group-title="RADIO", RADIO ARGENTINA 89.3 FM RESISTENCIA CHACO
 http://streamingvideo.com.ar:1935/argentinaenlinea/live/chunklist_w778403502.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.racsol.com.ar/images/logo.png" group-title="RADIO", RACSOL FM 94.1 LAS FLORES
 https://mediacp.hostradios.com.ar:19360/rascoltv/rascoltv.m3u8
