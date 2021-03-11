@@ -313,7 +313,8 @@ http://tvretropalmares.com:8090/hls/envivo.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/98871_EvaStream.png" group-title="CINE Y SERIES",  EVASTREAM TV
 https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png" group-title="CINE Y SERIES", 74 TV
+https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115431_G_Vision.png" group-title="CINE Y SERIES", G VISION
 https://tls.cdnz.cl/escgabrielamistral/live/playlist4.m3u8 
@@ -378,13 +379,12 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dragon_Ball_anime_logo.png/800px-Dragon_Ball_anime_logo.png" group-title="INFANTIL", Dragon ball GT
-http://atenea-panel.xyz:36995/RoLando/RoLando/248596
+https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/wkq698ctu2.m3u8?s=4eC_R_C-ySCri3FMpdpHJA&e=1615482720
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127494_Boomerang.png" group-title="INFANTIL", BOOMERANG TV
 http://8.9.4.128:8080/hls/boomerangtv.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png" group-title="INFANTIL", 74 TV
-https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -411,7 +411,7 @@ https://www.youtube.com/watch?v=9FOhlvqOW9g
 https://www.youtube.com/watch?v=urTdDSueSDI
 
 #EXTINF:-1 group-title="INFANTIL", POCOYO
-https://www.youtube.com/watch?v=qJG9RF_TuT0
+https://www.youtube.com/watch?v=gaCRwu0RkFY
 
 #EXTINF:-1 group-title="INFANTIL", PEPPA PIG
 https://www.youtube.com/watch?v=hl_nACnH42w
@@ -440,14 +440,7 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg" group-title="INFANTIL", CHIQUILINES
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116107_Kanade_TV.png" group-title="INFANTIL", KANADE TV
-http://stream.kanadetv.club:8080/hls/Kanadetv.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102655_Dreiko_TV.png" group-title="INFANTIL", DREIKO TV
-https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w16941112.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV_Series.png" group-title="INFANTIL", CACHIPUM TV
-https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
 
 
 
