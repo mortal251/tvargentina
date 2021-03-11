@@ -1387,12 +1387,6 @@ https://streaming.reltid.com.ar/hls/sierra.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108907_Elonce.jpg" group-title="LOCALES 2", ONCE PARANA
-https://elonce.zapto.org/hls/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/MTV_Latino.png" group-title="MUSICA", MTV
-http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
-
 
 
 
