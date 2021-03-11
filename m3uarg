@@ -639,7 +639,7 @@ https://coopmorteros.online/radiocanal/canal01.m3u8
 https://vcp.myplaytv.com/canal10srt/smil:canal10srt.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pSW2boY6Hdg/XvKY9iZvQuI/AAAAAAAA2MI/VIJZpl99EmwV71NgaYFHvYEPEsl3jzD3ACK8BGAsYHg/s0/2020-06-23.jpg" group-title="LOCALES 3", CANAL COOP JESUS MARIA CORDOBA
-https://panel.dattalive.com:443/8138/8138/playlist.m3u8
+https://panel.dattalive.com/8138/8138/chunklist_w430516847.m3u8
 
 #EXTINF:-1 tvg-logo="https://cable10.com/imagenes/logo.png" group-title="LOCALES 3", CABLE 10 HD RIO GALLEGOS
 https://inliveserver.com:1936/8292/8292/playlist.m3u8
@@ -677,8 +677,7 @@ http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playli
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 3", TDC TV SANTA FE
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU" group-title="LOCALES 3", PLAY TELEVISION SANTA FE
-http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Dwon9sRZsSY/Xjs6WmRFAaI/AAAAAAAAvnM/Zgcsd4pznrUNtvK8TghlckQw1YcLWnkdwCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 3", CL3 SANTA FE
 http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
@@ -861,31 +860,36 @@ https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u
 https://www.youtube.com/watch?v=tXsg7-W-sFc
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=tLgx-Fc3vi0
+https://www.youtube.com/watch?v=DH1WVYcMOZk
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="LOCALES 3", 12 TARTAGAL
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES 3", 6 ENTRE RIOS TV
-https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_12.png" group-title="LOCALES 2", CANAL 12 TRENQUE LAUQUEN
 https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 2", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1615488958&h=422709f3ddcd2ae7afa4b58e4daf9ee0
-
-#EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES 3", 7 NORTE TUCUMAN
-http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/960549144657002496/9Rdtd6Ke_400x400.jpg" group-title="LOCALES 3", TVU LA PLATA
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 3", CNR JUJUY
+https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU" group-title="LOCALES 3", PLAY TELEVISION SANTA FE
+http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canal4teleba.com.ar/img/banner.png" group-title="LOCALES 3", TELEBA BALCARCE
 http://inliveserver.com:1935/8550/8550/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 3", CNR JUJUY
-https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
+#EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES 3", 7 NORTE TUCUMAN
+http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES 3", 6 ENTRE RIOS TV
+https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8
+
+#EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 2", CANAL 10 TUCUMAN
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1615488958&h=422709f3ddcd2ae7afa4b58e4daf9ee0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES 1", AMERICA - 36.1
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
