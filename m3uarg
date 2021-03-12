@@ -199,7 +199,7 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=_7tT_LjFJx4
+https://www.youtube.com/watch?v=HQGP6YoxgfQ
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg" group-title="LOCALES 2", LITUS TV SANTA FE
 https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
@@ -659,10 +659,10 @@ https://panel.dattalive.com/8138/8138/chunklist_w430516847.m3u8
 https://inliveserver.com:1936/8292/8292/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=tXsg7-W-sFc
+https://www.youtube.com/watch?v=mFPUB9SQSmY
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=DH1WVYcMOZk
+https://www.youtube.com/watch?v=yPS9TwJOAuM
 
 #EXTINF:-1 tvg-logo="https://t5satelital.com/theme/img/T5logo.png" group-title="LOCALES 2", T5 CORRIENTES
 http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
