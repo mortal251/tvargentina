@@ -1319,6 +1319,9 @@ https://5f6e1fe8f2d2e.streamlock.net/cn22/cn22/chunklist_w1166670919.m3u8
 #EXTINF:-1 tvg-logo="https://fmrio1075mbarete.esenvivo.com.ar/fb.jpg" group-title="RADIO", FM RIO 107.5 AVELLANEDA
 https://videostream.shockmedia.com.ar:1936/fmrio1075mbarete/fmrio1075mbarete/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/72/8a/728a7f22-b7c7-4da4-8db0-fb3ec1b26047.jpg" group-title="RADIO", RADIO CASILDA 91.1 FM SANTA FE
+https://videohd.live:19360/8046/8046.m3u8
+
 
 
 
