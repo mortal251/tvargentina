@@ -445,7 +445,7 @@ https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", GARAGE TV
-http://186.0.233.76:1935/Garage/garage.smil/.m3u8
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="DEPORTE", CLARO SPORT
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
@@ -830,8 +830,6 @@ https://vivo.solumedia.com:19360/trutv/trutv.m3u8
 #EXTINF:-1 tvg-logo="http://cabledigital.com.ar/wp-content/uploads/2020/03/cropped-Logo-Cabledigital-PNG-para-web-3.png" group-title="LOCALES 3", CABLEDIGITAL HIUNCA REANCO CORDOBA
 https://vivo.solumedia.com:19360/huinca/huinca.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png" group-title="LOCALES 3", CANAL 21 POSADAS
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
 
@@ -855,10 +853,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0211
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108914_Canal_8_Catamarca.jpg" group-title="LOCALES 3", CANAL 8 CATAMARCA
 https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="LOCALES 3", 12 TARTAGAL
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
@@ -892,6 +886,9 @@ http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES 3", 6 ENTRE RIOS TV
 https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8
+
+https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
+https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
 
 
 
