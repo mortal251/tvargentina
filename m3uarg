@@ -1085,6 +1085,9 @@ http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_03/large.teleantioquiawhite.png.13828412c7e79365cebf6b87be4f4cdd.png" group-title="INTERNACIONAL", TELEANTIOQIUA
 https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://guillesainz.com/wp-content/uploads/2019/11/logo-ATB.jpg" group-title="INTERNACIONAL", ATB
+http://186.121.206.197/live/daniel/index.m3u8
+
 
 
 
@@ -1095,7 +1098,7 @@ https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_0sQVkpVmGSk/TIX_304VIOI/AAAAAAAAAIM/YxMcjC8BGqo/s1600/LOGO%2520SOLIDARIA%2520TV%2520corel%252011.jpg" group-title="RELIGION", SOLIDARIA TV
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISANTAM.png" group-title="RELIGION", SANTA MARIA
 http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
