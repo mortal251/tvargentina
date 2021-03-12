@@ -1322,6 +1322,9 @@ https://videostream.shockmedia.com.ar:1936/fmrio1075mbarete/fmrio1075mbarete/pla
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/72/8a/728a7f22-b7c7-4da4-8db0-fb3ec1b26047.jpg" group-title="RADIO", RADIO CASILDA 91.1 FM SANTA FE
 https://videohd.live:19360/8046/8046.m3u8
 
+#EXTINF:-1 tvg-logo="http://laradioteescucha.com/2016/wp-content/uploads/2016/06/logo4.png" group-title="RADIO", LA RADIO TE ESCUCHA
+https://inliveserver.com:1936/14084/14084/chunklist_w1377247913.m3u8
+
 
 
 
