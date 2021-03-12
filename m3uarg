@@ -394,8 +394,8 @@ https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee51
 #EXTINF:-1 group-title="INFANTIL", BabyBus
 https://www.youtube.com/watch?v=9FOhlvqOW9g
 
-#EXTINF:-1 group-title="INFANTIL", Cartoon Network Stream
-https://www.youtube.com/watch?v=urTdDSueSDI
+#EXTINF:-1 group-title="INFANTIL", Live Teen Titans Go! & Compañía en Latino
+https://www.youtube.com/watch?v=qDGaagwWCTg
 
 #EXTINF:-1 group-title="INFANTIL", POCOYO
 https://www.youtube.com/watch?v=gaCRwu0RkFY
@@ -411,6 +411,9 @@ https://www.youtube.com/watch?v=0c75oPy6cp8
 
 #EXTINF:-1 group-title="INFANTIL", HEROES EN PIJAMAS
 https://www.youtube.com/watch?v=SbugOb2aYFg
+
+#EXTINF:-1 group-title="INFANTIL", PAW Patrol
+https://www.youtube.com/watch?v=kg1I6vR1t0g
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKHUnHT.png" group-title="INFANTIL", MONSTRUOS DE VERDAD
 https://videostreaming.cloudserverlatam.com/kids/kids/playlist.m3u8
