@@ -963,6 +963,9 @@ https://sony-novelas-1.roku.wurl.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="MODA Y CULTURA", SONY COMPETENCIA
 https://sony-competencias-1.roku.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vp26cr1.jpg" group-title="MODA Y CULTURA", La Voz 24h
+https://pull12.atresmedia.com/lavoz/master.m3u8
+
 
 
 
