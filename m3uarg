@@ -1395,6 +1395,9 @@ https://streaming.reltid.com.ar/hls/monte.m3u8
 #EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="WEB CAM Y CLIMA", CATRIEL WEB
 https://589ff3c36f7e8.streamlock.net/alastv/alastv/chunklist_w90452060.m3u8
 
+#EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="WEB CAM Y CLIMA", PRUEBA
+https://content-asae1-up-1.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1615665542&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=396c325cc3a6670cf2220042e422b52139dcdf568a91e847184c853b12ba10c3&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=f61e53df9780836c94d1b9e499227f3a53eb05d7d60c5b117c75f3bf84e3f50b&pbs=611b8f0a507d4512904851031620cadb
+
 
 
 
