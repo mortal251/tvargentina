@@ -1149,7 +1149,7 @@ https://clientes.videostreaming.ar:19360/jcbtv/jcbtv.m3u8
 https://g5.mc-slo.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/MITREHD-10002_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="RADIO", LA 100
-https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:cienradioshd-10002_all/cienradioshd-10002_540p.m3u8
+https://g5.vxral-slo.transport.edge-access.net/b13/ngrp:cienradioshd-10002_all/cienradioshd-10002_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" group-title="RADIO", CN 24/7 NEUQUEN 
 https://panel.dattalive.com/6605140/6605140/chunklist_w813707392.m3u8
