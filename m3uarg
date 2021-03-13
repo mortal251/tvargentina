@@ -375,12 +375,7 @@ https://tls.cdnz.cl/escgabrielamistral/live/playlist4.m3u8
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dragon_Ball_anime_logo.png/800px-Dragon_Ball_anime_logo.png" group-title="INFANTIL", Dragon ball GT
-https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/wkq698ctu2.m3u8?s=4eC_R_C-ySCri3FMpdpHJA&e=1615482720
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127494_Boomerang.png" group-title="INFANTIL", BOOMERANG TV
-http://8.9.4.128:8080/hls/boomerangtv.m3u8
-
-
+https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/wkq698ctu2.m3u8?s=03of4ZNeETr55P7PTWA9TA&e=1615670164
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="INFANTIL", TOON GOGGLES
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
@@ -438,6 +433,10 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.azxtv.com/aztv.png" group-title="INFANTIL", AZTV
 http://animeloving.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127494_Boomerang.png" group-title="INFANTIL", BOOMERANG TV
+http://8.9.4.128:8080/hls/boomerangtv.m3u8
+
 
 
 
