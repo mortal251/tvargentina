@@ -444,8 +444,8 @@ http://animeloving.net/hls/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TNT_Sports_Logo_Vertical_%282017%29.png/800px-TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTE", TNT SPORT 1
-https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_240_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TNT_Sports_Logo_Vertical_%282017%29.png/800px-TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTE", TNT SPORT 
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_720_av-p.m3u8?sd=10&rebase=on&id=AgC1LIFHtSxKHYvUTGBIcj7ztHjddQ7K50jPBxZKYqcvGORFyCTqoymUnp+596jCEKOCb%2fAsTfgjHg%3d%3d&hdntl=exp=1615669483~acl=%2f*~data=hdntl~hmac=a0e9e2a6acdff05045029652518ea56a96a58008e0613a54cf5fa84ee09c1d82
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
