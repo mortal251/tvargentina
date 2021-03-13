@@ -444,8 +444,8 @@ http://animeloving.net/hls/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TNT_Sports_Logo_Vertical_%282017%29.png/800px-TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTE", TNT SPORT
-https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_240_av-b.m3u8?sd=10&rebase=on&id=AgC1LIFHtSxKHQ3STGAC1XO8P5b4DwDF%2fGmk5DcygQyMT1EUAzDgc0ySKWK1hF5u4qsVMGceprN0yA%3d%3d&hdntl=exp=1615668845~acl=%2f*~data=hdntl~hmac=f8ccf367b5bfa5e980905bf29d34d5e9f2d8da88d6d99a44d76d620ee934c8ee
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TNT_Sports_Logo_Vertical_%282017%29.png/800px-TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTE", TNT SPORT 1
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_240_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
