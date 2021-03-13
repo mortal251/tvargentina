@@ -563,11 +563,10 @@ https://flash-plex.amagi.tv/flash/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logog.png" group-title="MUSICA", FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=320&height=320" group-title="MUSICA", La Mega Mundial (720p)
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=320&height=320" group-title="MUSICA", La Mega Mundial
 https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTECoKS.png" group-title="MUSICA", Latido Music
-https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
+
 
 
 
