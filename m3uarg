@@ -1350,6 +1350,9 @@ https://videohd.live:19360/8046/8046.m3u8
 #EXTINF:-1 tvg-logo="http://laradioteescucha.com/2016/wp-content/uploads/2016/06/logo4.png" group-title="RADIO", LA RADIO TE ESCUCHA
 https://inliveserver.com:1936/14084/14084/chunklist_w1377247913.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.radio2jujuy.com.ar/images/Header-06.png" group-title="RADIO", RADIO 2 105.5 FM JUJUY
+https://streannlive-lh.akamaihd.net/i/radio2_1@455479/index_1_a-p.m3u8?sd=10&set-segment-duration=smoothest&rebase=on&hdntl=exp=1615736025~acl=*~data=hdntl~hmac=37a755faeb6b1c14bcf5bf376bdf96f42cd24f1ac9d32cd85f83b876f0701a9d
+
 
 
 
