@@ -1102,7 +1102,7 @@ http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.megatvarequipa.com/wp-content/uploads/2020/06/cropped-104684146_960970201020528_6006149684953973330_n-1-2.png" group-title="INTERNACIONAL", MEGA TV PERU 
 https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1200px-Panamericana-tv.svg.png" group-title="WEB CAM Y CLIMA", PANAMERICANA PERU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1200px-Panamericana-tv.svg.png" group-title="INTERNACIONAL", PANAMERICANA PERU
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online.png" group-title="INTERNACIONAL", MUNDO+ COLOMBIA
