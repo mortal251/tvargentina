@@ -971,6 +971,9 @@ https://sony-novelas-1.roku.wurl.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="MODA Y CULTURA", SONY COMPETENCIA
 https://sony-competencias-1.roku.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/cimg/1001/2019/10/01/mtmad-logo_7fd4.gif?w=1024" group-title="MODA Y CULTURA", MTMAD
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+
 
 
 
@@ -1095,8 +1098,17 @@ http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_03/large.teleantioquiawhite.png.13828412c7e79365cebf6b87be4f4cdd.png" group-title="INTERNACIONAL", TELEANTIOQIUA
 https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://guillesainz.com/wp-content/uploads/2019/11/logo-ATB.jpg" group-title="INTERNACIONAL", ATB
+#EXTINF:-1 tvg-logo="https://guillesainz.com/wp-content/uploads/2019/11/logo-ATB.jpg" group-title="INTERNACIONAL", ATB BOLIVIA
 http://186.121.206.197/live/daniel/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.megatvarequipa.com/wp-content/uploads/2020/06/cropped-104684146_960970201020528_6006149684953973330_n-1-2.png" group-title="INTERNACIONAL", MEGA TV PERU 
+https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1200px-Panamericana-tv.svg.png" group-title="WEB CAM Y CLIMA", PANAMERICANA PERU
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online.png" group-title="INTERNACIONAL ", MUNDO+ COLOMBIA
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 
 
 
@@ -1383,38 +1395,6 @@ https://streaming.reltid.com.ar/hls/monte.m3u8
 
 #EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="WEB CAM Y CLIMA", CATRIEL WEB
 https://589ff3c36f7e8.streamlock.net/alastv/alastv/chunklist_w90452060.m3u8
-
-#EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="WEB CAM Y CLIMA", PRUEBA 1
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="WEB CAM Y CLIMA", PRUEBA 2
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-
-#EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="WEB CAM Y CLIMA", PRUEBA 3
-https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="WEB CAM Y CLIMA", PRUEBA 4
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
