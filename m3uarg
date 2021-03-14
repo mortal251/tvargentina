@@ -35,7 +35,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1
-https://ar-elnueve-elnueve-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1NzIyNDM5LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODkuMjE2LjE4My44NSIsIjI4MDA6ODEwOjQ3Mzo5ZTk5OjE4YzI6OTI1ZDo2NzBiOjlmOWIiXX0sInNpZ25hdHVyZSI6IjQzNzFkOGViZmFkOWM2Mzg5NWZiNDBiOTUyMmU1NGQwNjdlMTEzODcifQ%3D%3D
+https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1ODEwNDIzLCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiI5YTFhMmZhYTY4ZWJlNDUzMDI1Mjk1ZmRiN2YwMWY4ZTNmZGRkM2I2In0=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0048 
@@ -124,7 +124,7 @@ https://sv.tsnt.xyz/espn/espn1o_sur_c.m3u8?161563806
 https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8?161563826
 
 #EXTINF:-1 tvg-logo="https://deportesimagenes.canalrcn.com/ImgDeportesNew/bocrivfinal.jpg" group-title="DEPORTE", BOCA - RIVER
-https://content-asae1-up-1.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1615671303&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=f0fb4e20c7c2a86400814c7eee5d5d3479dbc01d19e6b659e305c9a4fd084d2a&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=525af1c69478f417e564317b95b669c540b8cd19cdcdfd68540bfedf31f32b1b&pbs=123124f4ead84e128a241e07263b51d8
+https://content-asae1-up-1.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1615724461&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=f6b879a288f26e65ad3e8a51cebdaeb365bd22fad7815bb47c9e949a7a7906e6&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=2921660c6b417fb396144faa1871631b9a3409cbf4e44aff85da60f03f6ee4b2&pbs=19c15b16547344b787baec49ff9b02e8
 
 
 
