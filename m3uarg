@@ -124,11 +124,10 @@ https://sv.tsnt.xyz/espn/espn1o_sur_c.m3u8?161563806
 https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8?161563826
 
 #EXTINF:-1 tvg-logo="https://deportesimagenes.canalrcn.com/ImgDeportesNew/bocrivfinal.jpg" group-title="DEPORTE", BOCA - RIVER
-https://content-asae1-up-1.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1615739342&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=75d9bc458a49f0ebf6a0dd28ee0dcc02f7aea3ce61bf5af6b61dc42931234e80&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=89bd0d9107192b7c676ba9e7dc33bb6b3025cb38dcfb5e214efb712043b69b4f&pbs=6f6a0ca9b2f640ae9ca348a5d3b2dfff
+https://content-asae1-up-2.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1615747742&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=07d7d3b9cdb7a5992ea7cab8a0c5bada0a931c15319b9b6af38adea7d53c6750&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=35630a25c955aa2942cad02f8632af32c722b4124076a9f8cc436efc291df0bb&pbs=f8d90f92f85b44eca2f0c239680fd3cd
 
 #EXTINF:-1 tvg-logo="https://deportesimagenes.canalrcn.com/ImgDeportesNew/bocrivfinal.jpg" group-title="DEPORTE", BOCA - RIVER 2
-https://content-asae1-up-2.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1615740421&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=d97e75a48abae8cccf9c2ef5d7bca4580fa13718a42f47cb75d4aa7e166ff4e2&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=26d1a10eb6c6bf1e46954a35f7aad9806697e8c4cc8930fef28fadb259b0c246&pbs=ff968be8089d408ea5b6e3fac163ab1f
-
+https://content-asae1-up-2.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1615747742&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=07d7d3b9cdb7a5992ea7cab8a0c5bada0a931c15319b9b6af38adea7d53c6750&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=35630a25c955aa2942cad02f8632af32c722b4124076a9f8cc436efc291df0bb&pbs=f8d90f92f85b44eca2f0c239680fd3cd
 
 #EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png?3" group-title="MUSICA", MUSIC TOP
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
