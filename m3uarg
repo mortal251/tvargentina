@@ -368,9 +368,6 @@ https://tls.cdnz.cl/escgabrielamistral/live/playlist4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" group-title="INFANTIL", EL CHAVO
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dragon_Ball_anime_logo.png/800px-Dragon_Ball_anime_logo.png" group-title="INFANTIL", Dragon ball GT
-https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/wkq698ctu2.m3u8?s=03of4ZNeETr55P7PTWA9TA&e=1615670164
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="INFANTIL", TOON GOGGLES
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 
@@ -422,14 +419,14 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg" group-title="INFANTIL", CHIQUILINES
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", LOCOMOTION
-http://51.222.85.85:81/hls/loco/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.azxtv.com/aztv.png" group-title="INFANTIL", AZTV
-http://animeloving.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102655_Dreiko_TV.png" group-title="INFANTIL", DREIKO TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w220966159.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127494_Boomerang.png" group-title="INFANTIL", BOOMERANG TV
 http://8.9.4.128:8080/hls/boomerangtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 
 
