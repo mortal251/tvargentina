@@ -123,14 +123,6 @@ https://sv.tsnt.xyz/espn/espn1o_sur_c.m3u8?161563806
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
 https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8?161563826
 
-#EXTINF:-1 tvg-logo="https://deportesimagenes.canalrcn.com/ImgDeportesNew/bocrivfinal.jpg" group-title="DEPORTE", BOCA - RIVER
-https://content-asae1-up-1.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1615754582&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=c5a96224a30ce87e95b26bbeed469004a3ff3fa0775d6fa10c1bb5a34ef27756&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=21fa4ecaeebda73d426bc8e4ff4224618d7a707709ded856afbed76a4c983989&pbs=ff04e548554748949e678f348930dd1a
-
-#EXTINF:-1 tvg-logo="https://deportesimagenes.canalrcn.com/ImgDeportesNew/bocrivfinal.jpg" group-title="DEPORTE", BOCA - RIVER 2
-https://content-asae1-up-1.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1615754582&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=c5a96224a30ce87e95b26bbeed469004a3ff3fa0775d6fa10c1bb5a34ef27756&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=21fa4ecaeebda73d426bc8e4ff4224618d7a707709ded856afbed76a4c983989&pbs=ff04e548554748949e678f348930dd1a
-
-#EXTINF:-1 tvg-logo="https://deportesimagenes.canalrcn.com/ImgDeportesNew/bocrivfinal.jpg" group-title="DEPORTE", BOCA - RIVER 3
-https://content-asae1-up-1.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1615758781&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=c371ed52f9712c8ca13938b89b9753e033b78c9388e5136f7ed586bc90dbd902&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=eacae15e0c2620a1a57a43f33424fa6ed1240f5b1231cf772e256ca440597712&pbs=b09bfe6cfa85401a9bcd240aa61b1a13
 
 #EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png?3" group-title="MUSICA", MUSIC TOP
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
