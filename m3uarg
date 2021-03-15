@@ -966,6 +966,12 @@ https://sony-competencias-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/cimg/1001/2019/10/01/mtmad-logo_7fd4.gif?w=1024" group-title="MODA Y CULTURA", MTMAD
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="https://cultura24.tv/sites/default/files/inline-images/sponsor1.jpg" group-title="MODA Y CULTURA", CULTURA 24 TV
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cultura24.tv/sites/default/files/inline-images/sponsor1.jpg" group-title="MODA Y CULTURA", TENDENCIAS TV
+https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
+
 
 
 
@@ -1101,6 +1107,12 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online.png" group-title="INTERNACIONAL", MUNDO+ COLOMBIA
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Abc_color.PNG/245px-Abc_color.PNG" group-title="INTERNACIONAL", ABC PARAGUAY
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="INTERNACIONAL", EXITOSA PERU
+https://cu.onliv3.com/livevd1/user2.m3u8
 
 
 
