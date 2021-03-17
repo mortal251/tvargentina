@@ -326,8 +326,7 @@ http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/Rts_1992.png/revision/latest/scale-to-width-down/340?cb=20200303190745" group-title="CINE Y SERIES", TELESISTEMA
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHIA1rsAT97xfM2Im6IQ9u-kDubSt4-l_Y8Q&usqp=CAU" group-title="CINE Y SERIES", FLIXTUBE
-https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="CINE Y SERIES", READY
 http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
@@ -391,6 +390,9 @@ https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115431_G_Vision.png" group-title="CINE Y SERIES", G VISION
 https://tls.cdnz.cl/escgabrielamistral/live/playlist4.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHIA1rsAT97xfM2Im6IQ9u-kDubSt4-l_Y8Q&usqp=CAU" group-title="CINE Y SERIES", FLIXTUBE
+https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
 
 
 
@@ -498,6 +500,9 @@ https://live.siete.us:19360/bestcablesports/bestcablesports.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT1c3PyXIcqxuCOYCxhVbQDPPtRAmtzSY59g&usqp=CAU" group-title="MUSICA", CM
 https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tango-TV-Logo.svg/638px-Tango-TV-Logo.svg.png" group-title="MUSICA", TANGO TV
+https://panel.streamingtv-mediacp.online:1936/8066/8066/chunklist_w1405405382.m3u8
 
 #EXTINF:-1 tvg-logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png" group-title="MUSICA", SEXY KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
