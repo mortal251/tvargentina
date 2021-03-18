@@ -1329,7 +1329,7 @@ http://streamingvideo.com.ar:1935/argentinaenlinea/live/chunklist_w778403502.m3u
 https://mediacp.hostradios.com.ar:19360/rascoltv/rascoltv.m3u8
 
 #EXTINF:-1 tvg-logo="http://rcm88.com.ar/wp-content/uploads/2018/04/cropped-logo-web-1-1.png" group-title="RADIO", RADIO CIUDAD 100.3 FM CORONEL MOLDES
-https://panel.dattalive.com/8098/8098/playlist.m3u8
+https://vivo.solumedia.com:19360/cesarb/cesarb.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmvanguardia.com/wp-content/uploads/2020/03/Logo-FMV-106-Tel-980x210.png" group-title="RADIO", FM VANGUARDIA 106.1 CALETA OLIVIA
 https://streamcasthd.com:19360/fmvanguardia/fmvanguardia.m3u8
@@ -1386,7 +1386,7 @@ https://videostream.shockmedia.com.ar:1936/fmrio1075mbarete/fmrio1075mbarete/pla
 https://videohd.live:19360/8046/8046.m3u8
 
 #EXTINF:-1 tvg-logo="http://laradioteescucha.com/2016/wp-content/uploads/2016/06/logo4.png" group-title="RADIO", LA RADIO TE ESCUCHA
-https://inliveserver.com:1936/14084/14084/chunklist_w1377247913.m3u8
+https://inliveserver.com:1936/14084/14084/playlist.m3u8
 
 
 
