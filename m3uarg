@@ -149,6 +149,9 @@ https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=161
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 2", CANAL 10 TUCUMAN
 https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1616016840&h=dbb7e2e2f5c2cbc35cc0e9e0c668404c
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES 2", 6 ENTRE RIOS TV
+https://stmv1.questreaming.com/canal6er/canal6er/playlist.m3u8
+
 #EXTINF:-1 group-title="LOCALES 2", EL DOCE CORDOBA
 https://www.youtube.com/watch?v=gBbMbqILzXU
 
@@ -880,8 +883,7 @@ http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="LOCALES 3", TELEJUNIN
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES 3", 6 ENTRE RIOS TV
-https://stmv1.questreaming.com/canal6er/canal6er/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 3", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
 https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
