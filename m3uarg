@@ -422,8 +422,8 @@ https://www.youtube.com/watch?v=9FOhlvqOW9g
 #EXTINF:-1 group-title="INFANTIL", Live Teen Titans Go! & Compañía en Latino
 https://www.youtube.com/watch?v=qDGaagwWCTg
 
-#EXTINF:-1 group-title="INFANTIL", POCOYO
-https://www.youtube.com/watch?v=niw-V2NH8VM
+#EXTINF:-1 group-title="INFANTIL", Dave y Ava
+https://www.youtube.com/watch?v=sbpG3Evg8eY
 
 #EXTINF:-1 group-title="INFANTIL", Fox Family jugando
 https://www.youtube.com/watch?v=dqVhrm-w-O0
@@ -443,6 +443,9 @@ https://www.youtube.com/watch?v=SbugOb2aYFg
 #EXTINF:-1 group-title="INFANTIL", PAW Patrol
 https://www.youtube.com/watch?v=kg1I6vR1t0g
 
+#EXTINF:-1 group-title="INFANTIL", La Granja de Zenón
+https://www.youtube.com/watch?v=naFJDtgRX-U
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKHUnHT.png" group-title="INFANTIL", MONSTRUOS DE VERDAD
 https://videostreaming.cloudserverlatam.com/kids/kids/playlist.m3u8
 
@@ -452,9 +455,6 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg" group-title="INFANTIL", CHIQUILINES
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102655_Dreiko_TV.png" group-title="INFANTIL", DREIKO TV
-https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w220966159.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127494_Boomerang.png" group-title="INFANTIL", BOOMERANG TV
 http://8.9.4.128:8080/hls/boomerangtv.m3u8
