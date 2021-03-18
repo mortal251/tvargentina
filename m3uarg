@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 
@@ -397,6 +398,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007b
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2386e240769649.578d1b8c36fc0.png" group-title="CINE Y SERIES", SERIES 3
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a2b4b1ad8fd000795ac87/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b2616-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0cab4396-5ed7-45d4-8608-8045b2eae51f&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Syfy_(Asian_TV_channel)" group-title="CINE Y SERIES", SCI-FI
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d2891-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd9d9781-2910-4dd2-9b1f-a1fd662d0cc3&userId=&serverSideAds=true
 
 
 
@@ -904,6 +907,7 @@ http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
 https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CucEq_3I7IhgZTgVEWdA6TG1hUYADq6qQRuV5zXGMQWjeG0zSOYn_PrtVeM2O9xdN4OWSdsZMKw2WUdyDti4Nuc4hghhitHqb2u0eBqe1VFRCuzL9Y3mb1QcDJbnwaBZ-SDqabApyYvPRvgQCFXxSNF0LtZxl6r8e04FyFCXaNyVcWf9xI15t-b6VMAhyy-Zg3xo05orBwtErMh5Ut1WPtJ9vOWmE8o96mQVq3Lw4sEWry6DLUJGpE1UlONl9a_eli8Ouo63lf8gJ5iQHBEYIX9gah6NmH4ePkEdLv92DjUERcct2OxhtSi2Y_9haUC5yL2c0BDlS4I0pEGGW64_FkN4YHDhY884V4GCgGki3vM7b9BpAIwbdvRp5REHDckkmJR_W4Ad-y4aYD0fFod87OtFeflesdzrLaIR8PTGOAOwtPfAhN-YhpfMrORD5GiDtdXwMFuw5jPueayhOr5o2U20t97BZkW-4i_fHnkGg9zhnpMqjMCpzQR7SaDi2pM7jKhTkIuxHQdqIK_-GpUV4TiO9k2azxhjg3P0VUEA63r7jK-9owLlUNXrPsU0gDFFuhpUhJSAOnyElXsPYS2uobZ6dE8nCzAeg3BbFtvCUbkaFc2jcn34Fp-FdTaDZqwfSkynkvyySsdtwPOsI3DbbkTdsrvgWb7pIQ1IqZol1CSMWqkiqTrRqteq2ugaMNxTtuthrKaWG7ljDKwFAFTNK7aAvmUjO8GsqP1O2iFBftD42wMQkUEn_jtfKgw1XIdU6w9GKRHLrPIkgryOMeQDi8K8DbL97xrGjGKFY_IMuPZ-8mUzU_tOsH3REhAB2KhmxPFvePUFmpSc5p8-Ggxk1mpo36lKqb9ABJE.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES 1", AMERICA - 36.1
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
@@ -997,6 +1001,8 @@ https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoDQLkIwY3J1UioFIBiSuyg2ocyNotWpOdw&usqp=CAU" group-title="INTERNACIONAL", 24 HORAS ESPAÑA
 https://rtvelivestream.akamaized.net/24h_dvr_1850.m3u8
 
@@ -1039,8 +1045,8 @@ https://www.youtube.com/watch?v=Ie9cIzXbxVI
 #EXTINF:-1 group-title="INTERNACIONAL", T13 CHILE
 https://www.youtube.com/watch?v=kZ3ctrOFUoA
 
-#EXTINF:-1 group-title="INTERNACIONAL", EURONEWS
-https://www.youtube.com/watch?v=JbKgQhFlMdU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="INTERNACIONAL", EURONEWS
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/4204bc47-49ca-407d-8cab-a8e4f6db713a/3.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL", Imagen Multicast Mexico
 https://www.youtube.com/watch?v=fWbPHGLpgbE
@@ -1050,8 +1056,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png" group-title="INTERNACIONAL", ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="INTERNACIONAL", MILENIO MEXICO
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
@@ -1138,7 +1142,11 @@ https://edge3-hr.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating_FTA/Can
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/LogoTeledoce2019Azul.png/150px-LogoTeledoce2019Azul.png" group-title="INTERNACIONAL", TELEDOCE MONTEVIDEO HD URUGUAY
 https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU-audio_20000=144800-video=1726000.m3u8
 
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/1922/brand.gif?itok=aic2pJgR" group-title="INTERNACIONAL", KBS WORLD KOREA
+https://indotv.tech/m3u8sd/usee-kbsworld-indonesia.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_ADN_40.png" group-title="INTERNACIONAL", ADN40
+http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 
 
 
@@ -1430,11 +1438,12 @@ https://589ff3c36f7e8.streamlock.net/alastv/alastv/chunklist_w90452060.m3u8
 #EXTINF:-1 tvg-logo="hhttps://canal3lasflores.com.ar/wp-content/uploads/2020/11/canallogohead.png" group-title="WEB CAM Y CLIMA", LAS FLORES DIGITAL
 https://inliveserver.com:1936/8436/8436/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/133px-Telefe_Tucum%C3%A1n_%282018%29.png" group-title="LOCALES 2", TELEFE TUCUMAN 2
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/cplaylist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES 3", VIBRA HD MONTE CASEROS
 https://stmv1.zcastbr.com/vibratv/vibratv/playlist.m3u8
+
+
 
 
 
