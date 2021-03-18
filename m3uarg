@@ -513,8 +513,7 @@ https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 3", CHILECITO TV LA RIOJA
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES 3", VIBRA HD MONTE CASEROS
-https://stmv1.zcastbr.com/vibratv/vibratv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.stingray.com/sites/www.stingray.com/themes/stingray_corpo2017/images/metadata/fb-2.jpg" group-title="MUSICA", STINGRAY
 http://stream.pcriot.com/Z1vW/sg.php/155/master.m3u8
@@ -861,7 +860,7 @@ https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
 https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 3", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0213
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0215
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108914_Canal_8_Catamarca.jpg" group-title="LOCALES 3", CANAL 8 CATAMARCA
 https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
@@ -885,7 +884,7 @@ http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES 3", 6 ENTRE RIOS TV
-https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8
+https://mediacp.hostradios.com.ar:1360/canal6/canal6.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 3", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
 https://inliveserver.com:1936/14064/14064/chunklist_w1110233966.m3u8
@@ -1435,6 +1434,9 @@ https://inliveserver.com:1936/8436/8436/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/133px-Telefe_Tucum%C3%A1n_%282018%29.png" group-title="LOCALES 2", TELEFE TUCUMAN 2
 https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/cplaylist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES 3", VIBRA HD MONTE CASEROS
+https://stmv1.zcastbr.com/vibratv/vibratv/playlist.m3u8
 
 
 
