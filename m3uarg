@@ -1233,7 +1233,7 @@ https://www.youtube.com/watch?v=Bi4w23aW99s
 http://videostream.shockmedia.com.ar:1935/lightfm/lightfm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiotupac.com.ar/wp-content/uploads/2020/04/LOGO-TUPAC-WEBCAST-05.jpg" group-title="RADIO", RADIO TUPAC WEBCAST
-https://panel.tuvideostreaming.com:19360/8020/8020.m3u8
+https://panel.tuvideostreaming.com/wowzademo/wowzademo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static-1.ivoox.com/canales/4/0/4/1/741470821404_XXL.jpg" group-title="RADIO", RADIO CARDINAL MIRAMAR CORDOBA
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
