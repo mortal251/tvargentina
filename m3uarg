@@ -1245,7 +1245,7 @@ https://cloud2.streaminglivehd.com:1936/activa919/activa919/playlist.m3u8
 http://streamyes.alsolnet.com/fmritualvideo/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.urbana98.com/uploads/logo/logo_5f8f30311e770.png" group-title="RADIO", SEÑAL URBANA 98.9 FM VERONICA
-https://stmvideo2.livecastv.com/urbana98/urbana98/playlist.m3u8
+https://inliveserver.com:1936/14148/14148/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--GOOD.png" group-title="RADIO", GOOD RADIO 101.1 FM JESUS MARIA CORDOBA
 http://streamyes.alsolnet.com/goodradio/live/playlist.m3u8
