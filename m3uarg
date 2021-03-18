@@ -395,14 +395,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007b
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a2b4b1ad8fd000795ac87/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b2616-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0cab4396-5ed7-45d4-8608-8045b2eae51f&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/98871_EvaStream.png" group-title="CINE Y SERIES",  EVASTREAM TV
-https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115431_G_Vision.png" group-title="CINE Y SERIES", G VISION
-https://tls.cdnz.cl/escgabrielamistral/live/playlist4.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHIA1rsAT97xfM2Im6IQ9u-kDubSt4-l_Y8Q&usqp=CAU" group-title="CINE Y SERIES", FLIXTUBE
-https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
 
 
 
@@ -511,7 +504,7 @@ https://live.siete.us:19360/bestcablesports/bestcablesports.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT1c3PyXIcqxuCOYCxhVbQDPPtRAmtzSY59g&usqp=CAU" group-title="MUSICA", CM
 https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tango-TV-Logo.svg/638px-Tango-TV-Logo.svg.png" group-title="MUSICA", TANGO TV
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/005744bff637aa2e851abd60710e4001c53576399f8a7f04b671a639e604fd73.png" group-title="MUSICA", TANGO TV
 https://panel.streamingtv-mediacp.online:1936/8066/8066/chunklist_w1405405382.m3u8
 
 #EXTINF:-1 tvg-logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png" group-title="MUSICA", SEXY KPOP TV
@@ -522,11 +515,6 @@ https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 3", CHILECITO TV LA RIOJA
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.stingray.com/sites/www.stingray.com/themes/stingray_corpo2017/images/metadata/fb-2.jpg" group-title="MUSICA", STINGRAY
-http://stream.pcriot.com/Z1vW/sg.php/155/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/4308.gif" group-title="MUSICA", TV POP
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
