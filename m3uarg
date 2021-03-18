@@ -953,7 +953,7 @@ https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 http://server.miamitvchannel.com/externos/nuevaimagen/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzYpeA4-oJxDlV34Xfha8HNUXOlqucrQMQQ&usqp=CAU" group-title="MODA Y CULTURA", VIAJAR TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0028
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0029
 
 #EXTINF:-1 tvg-logo="https://tentv.es/images/logo-white.png" group-title="MODA Y CULTURA", TEN
 http://91.126.141.201:1935/live/ten/playlist.m3u8
