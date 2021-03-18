@@ -902,8 +902,7 @@ http://inliveserver.com:1935/8550/8550/playlist.m3u8
 http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://comarcasi.com.ar/img/logo-2020.png?i=1" group-title="LOCALES 1", COMARCA TV - 32.3
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CucETGtzFqeYxL3yFCQas7HbGj5gtO9kbxkBv7ryDoOIloB2_UjNCawVJcJvy87Xbz3OkiTPOuJm8x-f6pyw5Lg9f0nxoNJTrVpHpN-WGYJiHp7H9xyrmKrbEORTYHZ_ZaGFnZGPbMwKiU0BkIJqPqbh073Pkc6gytFonolM2kjL6gbP6s4rrdOOjRC2SrOlGTF9gKYWpb4xVmmTH7-iI4WqUhleVg8q_jhdE2c54pvb0f0mDmpIJN_YuIS0BRPdiwqTzPY73dR6s73jiOFtS-yLzMJdMYUWjLXbocrAReP6c8k2WllYVEiDXRQfcJbM-6h3XyrH8mkAIdzNhUn5D7U4HyyRrzbKoAD_rkTKGZT21UkJh-w-p0GVfpXwW87Ty_SR_TRTkbMiiY_w_Ww90clazRMZnhrsmsMCE0diWdUGRszUl2OEHQY9l5_WLijspGdJUxbaEmzwMHbSEwZvbpqWiEsdX3Aw-r6sgQKLwxFyPXHYN8-YBXue08RDmHLmiQZNYv8xmevz4y-pCeK51qIuc8Vqh26xokcZ_a7j50NPRPuHCUQexkxFC7rbQLjgXall284LCu7EerFyckLYQa7eOvlrOVjOLqBtnLPm5xQ5_7I_us3PXXkz1P6itm3H3nxmONYe8s_-VjADMixr62IS3ipZ1LzKrsOOtrtdn0-DJcjbRwMAhptvHE3Qu9bbyLLlrQQun1Vv5cXksOle7te2qfLeiiGoE0U57NnEw8-e33tRhFdx2wBWfAIGteEumhj2U12GpE27BwafnINYVP6ecxl5ZfJHRHl3msKJDjdEEe-jDq7p7PEdEhCgLI_5gDJdIVKbjT38A50CGgwtLXryC3oxmK5GANs.m3u8
-
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CucEq_3I7IhgZTgVEWdA6TG1hUYADq6qQRuV5zXGMQWjeG0zSOYn_PrtVeM2O9xdN4OWSdsZMKw2WUdyDti4Nuc4hghhitHqb2u0eBqe1VFRCuzL9Y3mb1QcDJbnwaBZ-SDqabApyYvPRvgQCFXxSNF0LtZxl6r8e04FyFCXaNyVcWf9xI15t-b6VMAhyy-Zg3xo05orBwtErMh5Ut1WPtJ9vOWmE8o96mQVq3Lw4sEWry6DLUJGpE1UlONl9a_eli8Ouo63lf8gJ5iQHBEYIX9gah6NmH4ePkEdLv92DjUERcct2OxhtSi2Y_9haUC5yL2c0BDlS4I0pEGGW64_FkN4YHDhY884V4GCgGki3vM7b9BpAIwbdvRp5REHDckkmJR_W4Ad-y4aYD0fFod87OtFeflesdzrLaIR8PTGOAOwtPfAhN-YhpfMrORD5GiDtdXwMFuw5jPueayhOr5o2U20t97BZkW-4i_fHnkGg9zhnpMqjMCpzQR7SaDi2pM7jKhTkIuxHQdqIK_-GpUV4TiO9k2azxhjg3P0VUEA63r7jK-9owLlUNXrPsU0gDFFuhpUhJSAOnyElXsPYS2uobZ6dE8nCzAeg3BbFtvCUbkaFc2jcn34Fp-FdTaDZqwfSkynkvyySsdtwPOsI3DbbkTdsrvgWb7pIQ1IqZol1CSMWqkiqTrRqteq2ugaMNxTtuthrKaWG7ljDKwFAFTNK7aAvmUjO8GsqP1O2iFBftD42wMQkUEn_jtfKgw1XIdU6w9GKRHLrPIkgryOMeQDi8K8DbL97xrGjGKFY_IMuPZ-8mUzU_tOsH3REhAB2KhmxPFvePUFmpSc5p8-Ggxk1mpo36lKqb9ABJE.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES 1", AMERICA - 36.1
@@ -1045,7 +1044,7 @@ https://www.youtube.com/watch?v=kZ3ctrOFUoA
 https://www.youtube.com/watch?v=JbKgQhFlMdU
 
 #EXTINF:-1 group-title="INTERNACIONAL", Imagen Multicast Mexico
-https://www.youtube.com/watch?v=W7RNWxscVfE
+https://www.youtube.com/watch?v=fWbPHGLpgbE
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83643_Arirang.png" group-title="INTERNACIONAL", ARIRANG KOREA
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
