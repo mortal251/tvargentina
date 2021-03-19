@@ -1445,6 +1445,10 @@ https://inliveserver.com:1936/8436/8436/playlist.m3u8
 https://stmv1.zcastbr.com/vibratv/vibratv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES 3", LTO TV CATAMARCA
+https://cdnhd.iblups.com/hls/ycxwLxWuQv.m3u8
+
+
 
 
 
