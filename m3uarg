@@ -659,6 +659,12 @@ https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
 #EXTINF:-1 tvg-logo="https://multimedio.com.ar/wp-content/uploads/2019/10/Logo-Canal-11.png" group-title="LOCALES 3", CANAL 11 MAR DE AJO
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES 3", 7 NORTE TUCUMAN
+http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES 3", 7 NORTE TUCUMAN
+http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-4uuTlgBxIrI/T-8fuime0xI/AAAAAAAAAu0/az3W_0QE8Aw/s1600/canal2.jpg" group-title="LOCALES 3", CANAL 2 SALTA
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
@@ -923,11 +929,8 @@ https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u
 #EXTINF:-1 tvg-logo="http://www.canal4teleba.com.ar/img/banner.png" group-title="LOCALES 3", TELEBA BALCARCE
 http://inliveserver.com:1935/8550/8550/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES 3", 7 NORTE TUCUMAN
-http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://comarcasi.com.ar/img/logo-2020.png?i=1" group-title="LOCALES 1", COMARCA TV - 32.3
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CucEGG8R4xuZV4cx_tWYGT0jLYiKiD0njRaF6V3u07ZZBL114zvI6Ng47ICsCG7CFhSwXjW0EiFsv0gTqQQtLp8MM-N6AIHqmjQuiwnaGKARMyz8R4EWkkQMFEkjWNPn5SaksoD4-5c4OgKsUVGyKjR39YYfrHZEDin1Xc1ihSA8zb65vIA_N-MS-PW5zrBB2pZj-gmFEWVPW7bNwSm_LZF1_8wJAIANd_UrHKuGFiMe5JJya7g26Smz_W6AzOJcm2IXSl7jEO2Z4oeTXMKzZYCJRkwi3IuZWcQMrOC2fYX7duAaeUrZKqZUIPcipgEwI6bEiNXNXrOtWVK5cearJfdIgoC4a4NG5h_ZDVJuDPsXTecd4xFge7BXJKkik4wA7AnePq5I1XBkVnDIp1gzXaPUhEUabuNjwAT9Egmx23lMobfCzXxmIxZ6QasqK62c9W4sm2lTzhGYgIIuvYaSuRITbdvUNv7woA8xraCyNObcvlCNGGZ1bu1TeUjEw0sOQ5OnPM8cRr5whB0DfdsfFyIvmN3VS7rhhKfd9mTEO0QvW740dKopws0JxaWC6LPJuTPVnuq3OSQnYGCjsxuWjiMrLYdKa5C9tVrS-ckDNCXxGLp7e8tHkEuno85mbDqLJMwMb_sR2WBpISQ1Dc_iLH-Fx33gBCDRTekTKKQbtZ1NUU7PEGtaTXIAiI4vmT6XH0xEwZX2M6lMuji6KuLmxSmhyFVtV4aMlRp2-tLsf3Ug9fTi89uSRUiAYv7XPyv56lAJgTCfeioH5OsTFHZ3J1bUl-YUR64HeOiXViRlZMtwS5TKw34YVWTdEhDni2BVssOgaoaASCJrjb4mGgzxTFDHHTl_Qtn16QE.m3u8
+
 
 
 
