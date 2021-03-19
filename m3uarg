@@ -496,9 +496,15 @@ https://www.youtube.com/watch?v=OnW5qGG8fAA
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_teletrak_m.png" group-title="DEPORTE", TELETRAK
 https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/BeIN_SPORTS_En_Espa%C3%B1ol_logo_2017.jpg" group-title="DEPORTE", BEIN SPORTS EN ESPAÑOL
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/486/12?f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/BestCableSportsCanal6/picture?width=320&height=320" group-title="DEPORTE", Best Cable Sports
 https://live.siete.us:19360/bestcablesports/bestcablesports.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="DEPORTE", FÚTBOL PARA FANS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
+
 
 
 
