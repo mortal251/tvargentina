@@ -148,7 +148,7 @@ https://srv1.zcast.com.ar/x24hd/x24hd/chunklist_w1182283463.m3u8
 https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1616072197~exp=1616248597~acl=/i/canal8tucuman_1@787002/*~hmac=aacdb730c605e562d7c458b2faa6b721a8b9538186a36769603afe50e7760483
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 2", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1616093830&h=72d59951cb5f1476963e7dcd0c06bf4b
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1616185854&h=153c518ee45513035b45a02260c4f6aa
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES 2", 6 ENTRE RIOS TV
 https://stmv1.questreaming.com/canal6er/canal6er/playlist.m3u8
@@ -202,7 +202,7 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=Islp23atkpE
+https://www.youtube.com/watch?v=_b2EVVkOx7Q
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg" group-title="LOCALES 2", LITUS TV SANTA FE
 https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
@@ -247,7 +247,7 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", CANAL 4 SAN JUAN
-http://streamyes.alsolnet.com:1935/canal4sanjuan/live/playlist.m3u8
+http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" group-title="LOCALES 2", CANAL 10 RIO NEGRO
 https://panel.dattalive.com/8204/8204/playlist.m3u8
@@ -668,7 +668,7 @@ https://panel.dattalive.com/8138/8138/chunklist_w430516847.m3u8
 https://inliveserver.com:1936/8292/8292/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=lGWq3sIjrWE
+https://www.youtube.com/watch?v=ChHHygeyKAw
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
 https://www.youtube.com/watch?v=yPS9TwJOAuM
