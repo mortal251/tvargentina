@@ -1148,6 +1148,9 @@ https://indotv.tech/m3u8sd/usee-kbsworld-indonesia.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_ADN_40.png" group-title="INTERNACIONAL", ADN40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0fUZWxAA2GlksUL92mXdB_QpuoXivwXKMzGarxMAmEQlAV08NtiUwBtRVdo6FmZ1x6c" group-title="INTERNACIONAL", TELEPLAY MEXICO
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
+
 
 
 
