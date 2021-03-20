@@ -785,6 +785,9 @@ https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 #EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES 3", 7 NORTE TUCUMAN
 http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="http://calchaquitv.com.ar/images/logo.png" group-title="LOCALES 3", CALCHAQUI TV TUCUMAN
+http://video.streamtvradio.com:8081/uv068/uv068/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108929_Airevision_Digital.jpg" group-title="LOCALES 3", AIREVISION PUNTA ALTA
 http://airevision.ddns.net:1935/live/myStream/playlist.m3u8
 
