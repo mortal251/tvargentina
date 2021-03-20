@@ -53,11 +53,14 @@ http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU" group-title="INFANTIL", PAKA PAKA - 22.2
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K6VNjpJ.png" group-title="INFANTIL", SIMPSON MANIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6VNjpJ.png" group-title="INFANTIL", SIMPSONS MANIA
 https://lavozdetucuman.com/simpsons.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1200px-Logo_The_Simpsons.svg.png" group-title="INFANTIL", LOS SIMPSON 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1200px-Logo_The_Simpsons.svg.png" group-title="INFANTIL", LOS SIMPSONS 2
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5b/c4/8e/5bc48eec6fb66fd17efc5430c1fb48e5.jpg" group-title="INFANTIL", LOS SIMPSONS 3
+https://sv5.tsnt.xyz/simpsons/simpsons/playlist.m3u8
 
 
 
@@ -1613,8 +1616,7 @@ https://tna5.bozztv.com/vibratv/index.m3u8
 https://cdnhd.iblups.com/hls/ycxwLxWuQv.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="LOCALES 3", SIMPSONS 3
-https://sv5.tsnt.xyz/simpsons/simpsons/playlist.m3u8
+
 
 
 
