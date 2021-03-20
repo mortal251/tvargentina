@@ -153,7 +153,7 @@ https://srv1.zcast.com.ar/x24hd/x24hd/chunklist_w1182283463.m3u8
 https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1616158390~exp=1616334790~acl=/i/canal8tucuman_1@787002/*~hmac=aa60aec4ba6526c4f9ca71ae1a41290ed7d9cb42d492e16dadd80bede014dedb
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 2", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1616270364&h=15e170e3c9a0f002b7fc768e81ae1b08
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1616311455&h=be068e0f0093d7e3efb5c4f7d665352e
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES 2", 6 ENTRE RIOS TV
 https://stmv1.questreaming.com/canal6er/canal6er/playlist.m3u8
