@@ -1379,7 +1379,7 @@ https://g5.mc-slo.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/MITREHD-1
 https://g5.vxral-slo.transport.edge-access.net/b13/ngrp:cienradioshd-10002_all/cienradioshd-10002_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" group-title="RADIO", CN 24/7 NEUQUEN 
-https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w1575738985_b200000_slen.m3u8
+https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w1689195267_b200000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/canal-medios-rioja.jpg" group-title="RADIO", MEDIOSRIOJA TV
 http://streamyes.alsolnet.com/mediosrioja/live/playlist.m3u8
