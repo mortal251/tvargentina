@@ -154,7 +154,7 @@ https://srv1.zcast.com.ar/x24hd/x24hd/chunklist_w1182283463.m3u8
 https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1616326025~exp=1616502425~acl=/i/canal8tucuman_1@787002/*~hmac=ef9890b12da647e205da7d12cbbe459e870d3d37eef680bd46a701d9f726a3a9
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 2", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1616311455&h=be068e0f0093d7e3efb5c4f7d665352e
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1616361930&h=166e7b3d286106d97362cdfab9aeead0
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES 2", 6 ENTRE RIOS TV
 https://stmv1.questreaming.com/canal6er/canal6er/playlist.m3u8
@@ -1336,7 +1336,8 @@ https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INTERNACIONAL", CNN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/04/mega-tv-puerto-rico-en-vivo-Online.png" group-title="INTERNACIONAL", MEGA TV PUERTO RICO
+https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/.m3u8
 
 
 
