@@ -1352,8 +1352,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af4228394
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/04/mega-tv-puerto-rico-en-vivo-Online.png" group-title="INTERNACIONAL", MEGA TV PUERTO RICO
 https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Eitb_corp.png" group-title="INTERNACIONAL", EITB BASQUE
-https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+
 
 
 
@@ -1652,7 +1651,8 @@ https://inliveserver.com:1936/8436/8436/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES 3", VIBRA HD MONTE CASEROS
 https://tna5.bozztv.com/vibratv/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Eitb_corp.png" group-title="DEPORTE", EITB BASQUE
+https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 
 
 
