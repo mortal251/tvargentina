@@ -644,6 +644,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59974b6d7ec5063cb56
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="DEPORTE", PLUTO TV VELOCIDAD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11b5b1b3-ad58-40ca-90fc-9a19b7125ebc&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Eitb_corp.png" group-title="DEPORTE", EITB BASQUE
+https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 
 
 
@@ -1074,13 +1076,8 @@ https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u
 #EXTINF:-1 tvg-logo="http://www.canal4teleba.com.ar/img/banner.png" group-title="LOCALES 3", TELEBA BALCARCE
 http://inliveserver.com:1935/8550/8550/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="LOCALES 3", TVEO MENDOZA
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES 3", VEO SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0238
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES 1", AMERICA - 36.1
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
@@ -1652,11 +1649,6 @@ https://inliveserver.com:1936/8436/8436/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES 3", VIBRA HD MONTE CASEROS
 https://tna5.bozztv.com/vibratv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Eitb_corp.png" group-title="DEPORTE", EITB BASQUE
-https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/119667144_106629171189999_3711954186159095551_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeH-4OXs_-gaeY6LpAeRq21H0QK33Bw_OBbRArfcHD84Fh1CmTtG-lW1vq5O27QFSxA&_nc_ohc=StO_IaEHWTYAX9z4RcB&_nc_ht=scontent.fepa11-1.fna&oh=46aa5a6e8efbc036e8e7912fef5ddc14&oe=607B10DC" group-title="LOCALES 3", LTO TV CATAMARCA
 https://cdnhd.iblups.com/hls/ycxwLxWuQv.m3u8
