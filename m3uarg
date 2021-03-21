@@ -964,7 +964,7 @@ http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://canal7.tv/wp-content/uploads/2018/02/canal7-logos-02.png" group-title="LOCALES 2", CANAL 7 SANTIAGO DEL ESTERO
 https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="LOCALES 3", CELTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="LOCALES 3", CELTV CANAL 2 TORNQUIST
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="LOCALES 3", TSN NECOCHEA
@@ -1011,8 +1011,6 @@ https://5975e06a1f292.streamlock.net:4443/canal3/canal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm4lKe3uMzJnjq38A3QLkgbFduVklg1mHu2g&usqp=CAU" group-title="LOCALES 3", EL ECO TV TANDIL
 https://5f93e494d5906.streamlock.net/elecotv/elecotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="LOCALES 3", TVEO MENDOZA
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w1761647681.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109636_UTN_TV.png" group-title="LOCALES 3", UTN TV RIO GALLEGOS
 https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
@@ -1059,10 +1057,8 @@ https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u
 http://inliveserver.com:1935/8550/8550/playlist.m3u8
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="LOCALES 3", TVEO MENDOZA
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/playlist.m3u8
 
 
 
