@@ -1238,7 +1238,7 @@ http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 https://www.youtube.com/watch?v=coYw-eVU0Ks
 
 #EXTINF:-1 group-title="INTERNACIONAL", MEGANOTICIAS CHILE
-https://www.youtube.com/watch?v=Ie9cIzXbxVI
+https://www.youtube.com/watch?v=O6ubA6cEBxg
 
 #EXTINF:-1 group-title="INTERNACIONAL", T13 CHILE
 https://www.youtube.com/watch?v=ZhPkjvbzCn4
@@ -1247,7 +1247,7 @@ https://www.youtube.com/watch?v=ZhPkjvbzCn4
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/4204bc47-49ca-407d-8cab-a8e4f6db713a/3.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL", Imagen Multicast Mexico
-https://www.youtube.com/watch?v=fWbPHGLpgbE
+https://www.youtube.com/watch?v=ovVCddb9tXQ
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83643_Arirang.png" group-title="INTERNACIONAL", ARIRANG KOREA
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -1340,20 +1340,20 @@ https://edge3-hr.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating_FTA/Can
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/LogoTeledoce2019Azul.png/150px-LogoTeledoce2019Azul.png" group-title="INTERNACIONAL", TELEDOCE MONTEVIDEO HD URUGUAY
 https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU-audio_20000=144800-video=1726000.m3u8
 
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/1922/brand.gif?itok=aic2pJgR" group-title="INTERNACIONAL", KBS WORLD KOREA
-https://indotv.tech/m3u8sd/usee-kbsworld-indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_ADN_40.png" group-title="INTERNACIONAL", ADN40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0fUZWxAA2GlksUL92mXdB_QpuoXivwXKMzGarxMAmEQlAV08NtiUwBtRVdo6FmZ1x6c" group-title="INTERNACIONAL", TELEPLAY MEXICO
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INTERNACIONAL", CNN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/04/mega-tv-puerto-rico-en-vivo-Online.png" group-title="INTERNACIONAL", MEGA TV PUERTO RICO
 https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Eitb_corp.png" group-title="INTERNACIONAL", EITB BASQUE
+https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 
 
 
@@ -1590,6 +1590,10 @@ https://videostream.shockmedia.com.ar:1936/fmrio1075mbarete/fmrio1075mbarete/pla
 
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/72/8a/728a7f22-b7c7-4da4-8db0-fb3ec1b26047.jpg" group-title="RADIO", RADIO CASILDA 91.1 FM SANTA FE
 https://videohd.live:19360/8046/8046.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/976314445034029056/oeLG0CBg.jpg" group-title="RADIO", MAS FM 95.9 SANTA FE
+https://vivosolumedia.com:19360/masfm/masfm.m3u8
+
 
 
 
