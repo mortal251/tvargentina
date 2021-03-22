@@ -512,14 +512,14 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" group-title="INFANTIL", DUCK TV
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 
-#EXTINF:-1 group-title="INFANTIL", TOM Y JERRY 
-https://www.youtube.com/watch?v=cKYXMg45hoI
+
 
 #EXTINF:-1 group-title="INFANTIL", BabyBus
 https://www.youtube.com/watch?v=9FOhlvqOW9g
 
-#EXTINF:-1 group-title="INFANTIL", Live Teen Titans Go! & Compañía en Latino
-https://www.youtube.com/watch?v=qDGaagwWCTg
+#EXTINF:-1 group-title="INFANTIL", POCOYO
+https://www.youtube.com/watch?v=M4Fsnx8a8So
+
 
 #EXTINF:-1 group-title="INFANTIL", Dave y Ava
 https://www.youtube.com/watch?v=sbpG3Evg8eY
@@ -859,7 +859,7 @@ https://www.youtube.com/watch?v=8B32WjHCQ6E
 https://www.youtube.com/watch?v=yPS9TwJOAuM
 
 #EXTINF:-1 group-title="LOCALES 3", TRS24r SANTA FE
-https://www.youtube.com/watch?v=Z3fycmse8qg
+https://www.youtube.com/watch?v=6nTmQ1lTa3Q
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 3", TDC TV SANTA FE
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
