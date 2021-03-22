@@ -1663,5 +1663,9 @@ https://tna5.bozztv.com/vibratv/index.m3u8
 https://cdnhd.iblups.com/hls/ycxwLxWuQv.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CÓRDOBA TV
+https://5b38ce71f1f00.streamlock.net/8376/8376/playlist.m3u8
+
+
 
 
