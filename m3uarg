@@ -216,7 +216,7 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=tyq9YjLXns4
+https://www.youtube.com/watch?v=Cv8T6M8tWUo
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg" group-title="LOCALES 2", LITUS TV SANTA FE
 https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
