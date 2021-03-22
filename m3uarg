@@ -763,8 +763,8 @@ https://www.youtube.com/watch?v=OowUi602GdU
 #EXTINF:-1 group-title="MUSICA", BAROQUE LIVE MUSIC
 https://www.youtube.com/watch?v=2gO1v2GPMFk
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97300_On_Radio_Kpop.png" group-title="MUSICA", ON RADIO kPOP CHILE
-https://tls.cdnz.cl/onradio4/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109955_Best_Cable_Music.jpg" group-title="MUSICA", BEST CABLE MUSIC
+https://live.siete.us:19360/bestcablemusic/bestcablemusic.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA", RETROPLUS TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
@@ -823,14 +823,8 @@ https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109954_Mas_Cumbia.png" group-title="MUSICA", MÁS CUMBIA TV
 https://live.siete.us:19360/mascumbiatvonline/mascumbiatvonline.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96280_TOP_Latino_TV.png" group-title="MUSICA", TOP LATINO
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_Orbita_Tv.png" group-title="MUSICA", ÓRBITA TV
 https://5dcabf026b188.streamlock.net/orbitatv/livestream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115097_TV_Exitos.jpg" group-title="MUSICA", TV+ÉXITOS
-http://siglo21.dnsalias.com:8080/mylive/tvexitos/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="MUSICA", MTV LOVE MUSIC
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b7434-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7e1dc13-cad3-45a3-914b-99d1ae366e78&userId=&serverSideAds=true
