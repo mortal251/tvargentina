@@ -883,6 +883,17 @@ https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80665_Canal_3_Pinamar.png" group-title="LOCALES 3", CANAL 3 PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/913627349/telecondor_satelital_400x400.jpg" group-title="LOCALES 3", CANAL 4 TELECONDOR
+https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV4s1mlOqPhwNQUcnPe1_TJW7FG_abAbyM6g&usqp=CAU" group-title="LOCALES 3", N24TV CORDOBA
+https://59537faa0729a.streamlock.net/n24tv/n24tv/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/117088642_579399249406237_7800663241303864878_n.jpg?_nc_cat=104&ccb=3&_nc_sid=973b4a&_nc_ohc=zRt17Q7j4YEAX9T09dM&_nc_ht=scontent.fepa11-1.fna&oh=c38ff1b710ee5f7b9fe3b2a6a233cc8d&oe=606883AD" group-title="LOCALES 3", CANAL 3 PLUS TV  MACHAGAI CHACO
 https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/chunklist_w1004541102.m3u8
 
