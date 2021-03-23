@@ -804,6 +804,9 @@ https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108423_Tele_Mas.png" group-title="MUSICA", TELE MAS
 https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110975_Awka.png" group-title="MUSICA", AKWA
+https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png" group-title="MUSICA", ON RADIO CHILE
 https://tls.cdnz.cl/onradio3/live/playlist.m3u8
 
@@ -908,6 +911,8 @@ https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
 #EXTINF:-1 tvg-logo="https://multimedio.com.ar/wp-content/uploads/2019/10/Logo-Canal-11.png" group-title="LOCALES 3", CANAL 11 MAR DE AJO
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.urbanaolavarria.com.ar/img/BANNER.png" group-title="LOCALES 3", URBANA OLAVARRIA
+https://videohd.live:19360/8042/8042.m3u8
 
 #EXTINF:-1 tvg-logo="http://calchaquitv.com.ar/images/logo.png" group-title="LOCALES 3", CALCHAQUI TV TUCUMAN
 http://video.streamtvradio.com:8081/uv068/uv068/chunks.m3u8
@@ -1144,11 +1149,13 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0217
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108914_Canal_8_Catamarca.jpg" group-title="LOCALES 3", CANAL 8 CATAMARCA
 https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LOCALES 3", MILENIO CORDOBA
-https://59537faa0729a.streamlock.net/milenniotv/milenniotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.urbanaolavarria.com.ar/img/BANNER.png" group-title="LOCALES 3", URBANA OLAVARRIA
-https://videohd.live:19360/8042/8042.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="LOCALES 3", 12 TARTAGAL
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
@@ -1207,6 +1214,9 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/117670_Chic_Magazine.png" group-title="MODA Y CULTURA", CHIC MAGAZINE
 https://paneltv.online:1936/8056/8056/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MODA Y CULTURA", MILENIO CORDOBA
+https://59537faa0729a.streamlock.net/milenniotv/milenniotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/48427210_325701461614645_8188794366064590848_o.jpg?_nc_cat=107&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeE0w6xxxggX9dwSkxkmZ_Wfo3l5ohkQmVOjeXmiGRCZU5PXVmFuZY-G90M3kz-GBPs&_nc_ohc=t0jauJRBNSEAX-Eus-y&_nc_ht=scontent.fepa11-1.fna&oh=85b7587a15fa481bb6b14002d1932594&oe=604416B9" group-title="MODA Y CULTURA", HD FASHION
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
@@ -1604,6 +1614,9 @@ https://cda1.alsolnet.com/dialradiotv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI966.png" group-title="RADIO", CADENA 103 OLAVARRIA
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://rbdweb.com/wp-content/uploads/2020/03/MARCA-BLANCA.png" group-title="RADIO", BEST DIGITAL ROSARIO
+https://5975e06a1f292.streamlock.net:4443/beatvideo/beatvideo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radioarg.net/assets/image/radio/180/wox1.png" group-title="RADIO", WOX ROSARIO 88.3 FM
 https://streamcasthd.com:1936/woxtv/woxtv/playlist.m3u8
