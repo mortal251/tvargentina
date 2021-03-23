@@ -911,8 +911,7 @@ https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
 #EXTINF:-1 tvg-logo="https://multimedio.com.ar/wp-content/uploads/2019/10/Logo-Canal-11.png" group-title="LOCALES 3", CANAL 11 MAR DE AJO
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.urbanaolavarria.com.ar/img/BANNER.png" group-title="LOCALES 3", URBANA OLAVARRIA
-https://videohd.live:19360/8042/8042.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://calchaquitv.com.ar/images/logo.png" group-title="LOCALES 3", CALCHAQUI TV TUCUMAN
 http://video.streamtvradio.com:8081/uv068/uv068/chunks.m3u8
@@ -1575,6 +1574,9 @@ https://panel.tuvideostreaming.com/wowzademo/wowzademo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static-1.ivoox.com/canales/4/0/4/1/741470821404_XXL.jpg" group-title="RADIO", RADIO CARDINAL MIRAMAR CORDOBA
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.urbanaolavarria.com.ar/img/BANNER.png" group-title="RADIO", URBANA OLAVARRIA
+https://videohd.live:19360/8042/8042.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/117035213_3156352994431536_6044378420677121943_n.png?_nc_cat=102&ccb=3&_nc_sid=85a577&_nc_ohc=kiZaY2Qo3WAAX8_vFPd&_nc_ht=scontent.fepa11-1.fna&oh=5ba81adfcb490303d178d36e2d8afa8c&oe=605BEE32" group-title="RADIO", A91.9 FM CASEROS
 https://cloud2.streaminglivehd.com:1936/activa919/activa919/playlist.m3u8
