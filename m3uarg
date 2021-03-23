@@ -1504,6 +1504,9 @@ https://srv1.zcast.com.br/tvc/tvc/.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/TV-CARIOCA-.NET-ao-vivo-Online.png" group-title="INTERNACIONAL", TV CARIOCA BRASIL
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/.m3u8
 
+#EXTINF:-1 group-title="INTERNACIONAL", RECORD NEWS BRASIL
+https://www.youtube.com/watch?v=ZZfVgVnnUpo
+
 
 
 
