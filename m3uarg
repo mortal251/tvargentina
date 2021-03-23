@@ -1385,8 +1385,7 @@ https://www.youtube.com/watch?v=f2t3330_mBk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="INTERNACIONAL", EURONEWS
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/4204bc47-49ca-407d-8cab-a8e4f6db713a/3.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONAL", Imagen Multicast Mexico
-https://www.youtube.com/watch?v=ovVCddb9tXQ
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83643_Arirang.png" group-title="INTERNACIONAL", ARIRANG KOREA
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -1394,8 +1393,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png" group-title="INTERNACIONAL", ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="INTERNACIONAL", MILENIO MEXICO
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" group-title="INTERNACIONAL", ABC ESTADOS UNIDOS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -1427,13 +1425,6 @@ http://190.122.96.187:8888/http/010
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg" group-title="INTERNACIONAL", CANAL SUR ANDALUCIA
 https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/cGhvdG9jYWxsLnR2.m3u8?dvr
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="INTERNACIONAL", CANAL ONCE INTERNACIONAL
-https://live2.canaloncelive.tv/livepkgr2/internacional.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Telemadrid_2001.svg/revision/latest/scale-to-width-down/340?cb=20200523143745&path-prefix=es" group-title="INTERNACIONAL", TELEMADRID
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png" group-title="INTERNACIONAL", LA 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on
 
@@ -1458,9 +1449,6 @@ http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.megatvarequipa.com/wp-content/uploads/2020/06/cropped-104684146_960970201020528_6006149684953973330_n-1-2.png" group-title="INTERNACIONAL", MEGA TV PERU 
 https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1200px-Panamericana-tv.svg.png" group-title="INTERNACIONAL", PANAMERICANA PERU
-https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFq-E9ByuLndnC7gSOJYi46c)/dm/3/x774s7s/s/live-3.m3u8
-
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online.png" group-title="INTERNACIONAL", MUNDO+ COLOMBIA
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 
@@ -1479,14 +1467,11 @@ https://edge3-hr.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating_FTA/Can
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/LogoTeledoce2019Azul.png/150px-LogoTeledoce2019Azul.png" group-title="INTERNACIONAL", TELEDOCE MONTEVIDEO HD URUGUAY
 https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU-audio_20000=144800-video=1726000.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_ADN_40.png" group-title="INTERNACIONAL", ADN40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Eitb_corp.png" group-title="INTERNACIONAL", EITB BASQUE
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INTERNACIONAL", CNN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -1809,6 +1794,27 @@ https://tna5.bozztv.com/vibratv/index.m3u8
 https://cdnhd.iblups.com/hls/ycxwLxWuQv.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="LOCALES 2", TELEFÉ CLÁSICO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae23-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a367d0d9-b23d-4bb5-8d48-55f0cbeac4fb&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246468579622400000/2PZnQjrY_400x400.jpg" group-title="INTERNACIONAL", CGTN ESPAÑOL (OPCION 2)
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/1200px-CBS_News.svg.png" group-title="Without category", CBS NEWS
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/541px-KBS_World_%282009%29.svg.png" group-title="INTERNACIONAL", KBS WORLD
+https://indotv.tech/m3u8sd/usee-kbsworld-indonesia.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/feea098d37b40f151f8c8d64993edcff.png" group-title="INTERNACIONAL", TVC BRASIL
+https://srv1.zcast.com.br/tvc/tvc/.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.meionorte.com/assets/redemeionorte3.png" group-title="INTERNACIONAL", MEIO NORTE BRASIL
+https://playback2.akamaized.net/streams/3332377_9557595_lsiucj1vj20t69w1xua_1/exp=1616605741~acl=%2f*~data=hdntl~hmac=72a67dc72a1b5676badcc5922433b231a00b28e064a5eaa549266b35c6abc4e5/media/3332377_9557595_lsiucj1vj20t69w1xua_1@1006000p.m3u8?dw=14400&ts=1616518800
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/TV-CARIOCA-.NET-ao-vivo-Online.png" group-title="INTERNACIONAL", TV CARIOCA BRASIL
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/.m3u8
 
 
 
