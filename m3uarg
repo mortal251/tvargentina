@@ -1526,12 +1526,9 @@ https://srv5.zcast.com.br/tvcarioca/tvcarioca/.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL", RECORD NEWS BRASIL
 https://www.youtube.com/watch?v=ZZfVgVnnUpo
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/Wma4BEnHXe1h8pz3g1JRtRjKG9FT8a7u8l54KHN0HxkBWpqVK25dDGE4Q-8EKiq6dnWBsV_Y14lE1zEWw8_lceE" group-title="INTERNACIONAL", TNU URUGUAY
-http://ip,mooniptv.cz:80/307211117167/307211117167/87084
 
 
-#EXTINF:-1 tvg-logo="https://prod.media.libero.pe/647x370/libero/imagen/2020/10/07/noticia-1602111726-vtv-vivo.jpg" group-title="INTERNACIONAL", VTV URUGUAY
-http://ip,mooniptv.cz:80/307211117167/307211117167/87084
+
 
 
 
