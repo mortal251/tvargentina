@@ -1,5 +1,6 @@
 
 
+
 #EXTM3U
 
 
@@ -975,10 +976,10 @@ https://panel.dattalive.com/8138/8138/chunklist_w430516847.m3u8
 https://inliveserver.com:1936/8292/8292/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=kkxxpKDMZLk
+https://www.youtube.com/watch?v=rYk4zXC4Bu4
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=ci_oaWq-8hA
+https://www.youtube.com/watch?v=O7TaEBm-Xl4
 
 
 
@@ -1220,7 +1221,7 @@ http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
 https://srv1.zcast.com.ar/x24hd/x24hd/chunklist_w1182283463.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=C5TGvoV29Ak
+https://www.youtube.com/watch?v=f-puaRsv0T4
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 2", CANAL 10 TUCUMAN
 https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1616737463&h=9bd283f438ef471c5447ca8ce3126b34
@@ -1777,11 +1778,14 @@ https://videohd.live:19360/8046/8046.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/976314445034029056/oeLG0CBg.jpg" group-title="RADIO", MAS FM 95.9 SANTA FE
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radiourbanamorteros.com.ar/images/logo.png" group-title="RADIO", RADIO URBANA MORTEROS
+#EXTINF:-1 tvg-logo="https://radiourbana.coopmorteros.coop/public/Imagenes/urbanatv%20(1).png" group-title="RADIO", RADIO URBANA MORTEROS
 https://coopmorteros.online/radiourbana/canal01.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/06c8c8_ffc396a5d15745eeb1d47f02c6b1de89~mv2.gif" group-title="RADIO", ON RADIO ARGENTINA
+http://video.streamtvradio.com:8081/uv014/uv014/chunks.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://am1010ondalatina.com/images/logo.png" group-title="RADIO", AM 1010 ONDA LATINA
+http://video.streamtvradio.com:8081/uv008/uv008/chunks.m3u8
 
 
 
@@ -1854,15 +1858,6 @@ https://tna5.bozztv.com/vibratv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/119667144_106629171189999_3711954186159095551_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeH-4OXs_-gaeY6LpAeRq21H0QK33Bw_OBbRArfcHD84Fh1CmTtG-lW1vq5O27QFSxA&_nc_ohc=StO_IaEHWTYAX9z4RcB&_nc_ht=scontent.fepa11-1.fna&oh=46aa5a6e8efbc036e8e7912fef5ddc14&oe=607B10DC" group-title="LOCALES 3", LTO TV CATAMARCA
 https://cdnhd.iblups.com/hls/ycxwLxWuQv.m3u8
-
-
-
-
-
-
-
-
-
 
 
 
