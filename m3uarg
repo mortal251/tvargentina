@@ -1484,7 +1484,7 @@ http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal10_Logo_Actual.jpg/200px-Canal10_Logo_Actual.jpg" group-title="INTERNACIONAL", SAETA CANAL 10 MONTEVIDEO HD URUGUAY
 https://edge-live14-hr.cvattv.com.ar:443/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU-audio_20000=144800-video=1480000.m3u8
 
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Canal_4_(Uruguay)" group-title="INTERNACIONAL", CANAL 4 MONTEVIDEO HD URUGUAY
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7837/CH_LOGO/60/40/0/0/45676872071383.png" group-title="INTERNACIONAL", CANAL 4 MONTEVIDEO HD URUGUAY
 https://edge3-hr.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating_FTA/Canal4_URU-audio_20000=144800-video=1480000.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/tv-florida-canal-4.png" group-title="INTERNACIONAL", TVF TV FLORIDA URUGUAY
