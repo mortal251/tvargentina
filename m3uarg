@@ -1219,10 +1219,11 @@ http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
 https://srv1.zcast.com.ar/x24hd/x24hd/chunklist_w1182283463.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=ngaLxccFJFg
+https://www.youtube.com/watch?v=C5TGvoV29Ak
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 2", CANAL 10 TUCUMAN
 https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1616614982&h=22013136aff44d55d238e6396c16bd7e
+
 
 
 
