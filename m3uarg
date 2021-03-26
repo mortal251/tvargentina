@@ -1591,8 +1591,7 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/1200px-CBS_News.svg.png" group-title="INTERNACIONAL", CBS NEWS
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png" group-title="INTERNACIONAL", MILENIO
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/feea098d37b40f151f8c8d64993edcff.png" group-title="INTERNACIONAL", TVC BRASIL
