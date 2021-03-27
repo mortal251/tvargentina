@@ -1249,7 +1249,7 @@ https://5975e06a1f292.streamlock.net:4443/canal3/canal3/playlist.m3u8
 https://5f93e494d5906.streamlock.net/elecotv/elecotv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109636_UTN_TV.png" group-title="LOCALES 34", UTN TV RIO GALLEGOS
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109636_UTN_TV.png" group-title="LOCALES 3", UTN TV RIO GALLEGOS
 https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108679_UNIRIO.png" group-title="LOCALES 4", UNIRIO TV
