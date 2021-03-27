@@ -1936,6 +1936,12 @@ http://cammuelle.gesell.com.ar/playlist.m3u8
 http://camlapinocha.gesell.com.ar/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", OSTENDE Y LA RAMBLA PINAMAR
+https://wowza.telpin.com.ar:1935/camara-rambla/camara-rambla.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", PINAMAR GOLF
+https://wowza.telpin.com.ar:1935/camara-golf/camara-golf.smil/playlist.m3u8
+
 
 
 
