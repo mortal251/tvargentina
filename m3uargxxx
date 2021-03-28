@@ -286,7 +286,7 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w859718
 https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1616812556~exp=1616988956~acl=/i/canal11salta_1@722934/*~hmac=dbf426043f45d6396502c3f0f7e5b35cfd0e2b6dda1bb4d403368b810bc7d70b
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png/133px-Telefe_Neuqu%C3%A9n_%282018%29.png" group-title="LOCALES 2", TELEFE NEUQUEN
-https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1616704732~exp=1616881132~acl=/i/canal7neuquen_1@751158/*~hmac=f3d000fd85902baec3c574e018aa3cbcb1b32dde1171dbb53261dd626da4e4e6
+https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1616946526~exp=1617122926~acl=/i/canal7neuquen_1@751158/*~hmac=ec4fd8ffa78a42ce91aec15883179b2b7ed40b7be3486962c1694a23b6989325
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Telefe_Mar_del_Plata_%282018%29.png/133px-Telefe_Mar_del_Plata_%282018%29.png" group-title="LOCALES 2", TELEFE MAR DEL PLATA
 https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1616814005~exp=1616990405~acl=/i/mdqdistri02_1@829747/*~hmac=a36b8a6aff299897b2166da94da2d65c822c97e461ac9e8fe024175baa1def22
@@ -893,6 +893,12 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/melodychannel.tv/wp-content/uploads/2021/01/cropped-logoMelody-2.png?resize=150%2C150&ssl=1" group-title="MUSICA", MELODY CHANNEL
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/124237_Norterama.png" group-title="MUSICA", NORTERAMA TV
+https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="MUSICA 2", MTV LOVE MUSIC
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b7434-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7e1dc13-cad3-45a3-914b-99d1ae366e78&userId=&serverSideAds=true
@@ -1626,6 +1632,8 @@ https://www.youtube.com/watch?v=ZZfVgVnnUpo
 https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="INTERNACIONAL", (ONLINE) CANAL ONCE INTERNACIONAL
+https://live2.canaloncelive.tv/livepkgr2/internacional.smil/chunklist_w1432222924_b1000000_slesp.m3u8
 
 
 
