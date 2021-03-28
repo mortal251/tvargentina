@@ -1144,6 +1144,9 @@ http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQveDDw-1eyCiqykUajXQ8IqRRCfTehbi_mj0jwSc3lm2t0754lpZIiZSEMyQWo1cVk0Im6X96FsFSwIeuHNcn_mg2xvOLDiGrxrlwN&usqp=CAU&ec=45688578" group-title="LOCALES 3", CEEL 4 MISIONES
 https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/playlist.m3u8
 
+
+
+
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-j9I0buhulss/VxrWQ9llwXI/AAAAAAAACtQ/L2fSLfI0ujcLQbrzCfw8rX0dx4X1P2jvACLcB/s1600/canal-20-villa-maria-en-vivo.jpg" group-title="LOCALES 4", CANAL 20 VILLA MARIA CORDOBA
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
 
@@ -1152,6 +1155,9 @@ http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="LOCALES 4", CANAL 9 NORTE MISIONES
 https://panel.dattalive.com/8076/8076/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="LOCALES 4", TVEO MENDOZA
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w785448485.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2rWFai7wm5hmr6nAciUu7Esm8YcLq10du0w&usqp=CAU" group-title="LOCALES 4", CANAL 2 SAN LUIS
 https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/playlist.m3u8
@@ -1278,7 +1284,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_12.png" group-title="LOCALES 2", CANAL 12 TRENQUE LAUQUEN
 https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/960549144657002496/9Rdtd6Ke_400x400.jpg" group-title="LOCALES 4", TVU LA PLATA
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/960549144657002496/9Rdtd6Ke_400x400.jpg" group-title="LOCALES", TVU LA PLATA
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 4", CNR JUJUY
@@ -1878,6 +1884,9 @@ http://video.streamtvradio.com:8081/uv008/uv008/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VqFz7dg/logo-vinilo-medio-2.png" group-title="RADIO", VINILO FM 103.5 NECOCHEA
 https://srv3.zcast.com.br/vinilo/vinilo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://la90fm.com/wp-content/uploads/2021/03/logo.png" group-title="RADIO", LA MEGA 90.9 AZUL
+http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
 
 
 
