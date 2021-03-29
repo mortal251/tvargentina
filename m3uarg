@@ -46,13 +46,13 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1
-https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3MDk4Mzg2LCJzZXNzaW9uIjoiMjAwLjMuMTEzLjE1MCIsIndoaXRlbGlzdCI6WyIyMDAuMy4xMTMuMTUwIl19LCJzaWduYXR1cmUiOiI5NjdkZDUwYjQ4Yzk1MjViNzZlMWFhYjgyYWIwYWYwZmNlNTc3Nzk5In0%3D
+https://ar-elnueve-elnueve-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3MTQzMzA1LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiI2ZGE5ODMxYTNkNWNlYTBjOTgwYTU0YWI2NTUxYTMyNDUyM2UzNjYxIn0%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 (OPCION 2)
 http://rv.imax.re:80/307277240317/307277240317/87121
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE - 34.1
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0049 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE - 34.1 (OPCION 2)
 http://rv.imax.re:80/307277240317/307277240317/87123
@@ -1181,10 +1181,10 @@ https://stmv1.srvstm.com/valletv/valletv/playlist.m3u8
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="LOCALES 4", ITEL CHAJARI
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0157 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0159 
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 4", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0219
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0224
 
 #EXTINF:-1 tvg-logo="https://66.media.tumblr.com/f1138b6d236d9787c1960cdd1ae51b26/tumblr_inline_polydyA71Z1ttmwm1_1280.png" group-title="LOCALES 4", CORREA RADIOVISION
 http://arcast.net:1935/correadigital/canal12/playlist.m3u8
@@ -1979,6 +1979,13 @@ https://cdnhd.iblups.com/hls/ycxwLxWuQv.m3u8
 
 #EXTINF:-1 tvg-logo="http://television-internet.com.ar/canal-2-misiones-en-vivo.jpg?210107074240" group-title="LOCALES 4",CANAL 2 MISIONES (SOLO IPTV AZUL)
 https://nd106.republicaservers.com/canal2misiones.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 (OPCION 3)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1 (OPCION 3)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0049 
 
 
 
