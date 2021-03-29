@@ -1033,6 +1033,9 @@ http://video.streamtvradio.com:8081/uv038/uv038/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108929_Airevision_Digital.jpg" group-title="LOCALES 3", AIREVISION PUNTA ALTA
 http://airevision.ddns.net:1935/live/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3487556435/aaae8392a11f89550187210f1a944807_400x400.jpeg" group-title="LOCALES 3", CANAL 29 ENSENADA
+http://video.streamtvradio.com:8081/uv059/uv059/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-4uuTlgBxIrI/T-8fuime0xI/AAAAAAAAAu0/az3W_0QE8Aw/s1600/canal2.jpg" group-title="LOCALES 3", CANAL 2 SALTA
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
