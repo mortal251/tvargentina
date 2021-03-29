@@ -46,7 +46,7 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1
-https://ar-elnueve-elnueve-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3MDIwMzYxLCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6OWU5OTpmMGRjOjRlNzE6OWM2Mjo5ZWEzIl19LCJzaWduYXR1cmUiOiIzNTNkMWRmNGIzZDI5NjFmNWFjZTVhYmE2MTY1MTk2ODYzZTEwM2M2In0%3D
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3MDk4Mzg2LCJzZXNzaW9uIjoiMjAwLjMuMTEzLjE1MCIsIndoaXRlbGlzdCI6WyIyMDAuMy4xMTMuMTUwIl19LCJzaWduYXR1cmUiOiI5NjdkZDUwYjQ4Yzk1MjViNzZlMWFhYjgyYWIwYWYwZmNlNTc3Nzk5In0%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 (OPCION 2)
 http://rv.imax.re:80/307277240317/307277240317/87121
@@ -58,7 +58,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0049
 http://rv.imax.re:80/307277240317/307277240317/87123
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1
-https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/s7smi57g.m3u8?s=04njojcRQsW_DC9IUVmBYg&e=1616955211
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CqkFad2J5oepx6tXL82E88N3pihLURPO23WUQuMoGAMWN-fnVrrCsaUz8UiDiiKpnqnMXhkhWRa091qX2ZkUh8ET3FXfH33Tbon_xG0NddF2rPXbKa90GE8rQvyM5GgNAp0KiH5cseY-drsmyk1f5C5Ug8W77o_X184xLDBWb0j2rJAy_WPSMNbH5sa8UGQLGjWbX765aoEqcihOHHGUEh-t9-9DOS6sdn1YitqVMI7Q2qAiQCwoa7XGV9oT0wO7zIE-U3WaN893hOJ1Nc8RLYuTw4VHxSEcvZrJU2NaAyV5Jy6MZ3JL1v0ywP7V0IB_F2OOIjrzcM0R4Gf2EzHbMLdCjmjYqaZzr-H59td4YzqhcireTMVfRM-FsPJTs0mtsAa57wNFkchpXXBjHOLYCHn6Xo3bi-SWnB3otFxp3EAn2Ep4pM2XVCG8dMfMJDp0E7sVXIltSQX0CKfC5APud4BQkg8Hk_702k6EWft_kSeahvDeWAu82qqnj8evRejloGxmdoY7B-XverxVIc96wjs-WDAHrB-OoxVPiVOb2RHRhXMzZ1z_WEdxdolU3D31wfHKdkdFHY9YGFvlFSOa7M1_lr0mSYz44T6Q1Rk6q9iG1XwdmVSyPKG-y9vQJ_hPoN_yNoWq2B0BC6wSYz5vkERfGE2QVbWn0cCy53Q5OOKURGy01yJAqJMHxB6bQS0Q62HVb7Rv1hKwFCGfsIFXwNrMMGnZgp_qrl3Py6hgShrXvXwhXmOld97KAjkKE7oh2f9FF3PYt71LzfF6EWmAwYw717u1THnlns2dnnY4z5oVMcGblfMMOaf6Kh9TDO7eVew7y93O2NN7u39AdOxJxpfmq2IBCcIKCmg7DX4GlfhUNw0og1tlBtsoxYumLbC7rbDDUpvNCxwQ-p84EhD_HG8a8rfGf3cEB_JvpSXkGgw1fIXvwn4PPj_7pcQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1 (OPCION 2)
 http://rv.imax.re:80/307277240317/307277240317/87122
