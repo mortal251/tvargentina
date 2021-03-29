@@ -169,7 +169,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c00099
 http://45.6.4.50:50601/America_Tucuman/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/133px-Telefe_Tucum%C3%A1n_%282018%29.png" group-title="LOCALES 2", TELEFE TUCUMAN
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1616834226~exp=1617010626~acl=/i/canal8tucuman_1@787002/*~hmac=123bd08362bad2d5bcfb1f4054aca454fb94acb63deb677e54eed057275a0da6
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES 2", 6 ENTRE RIOS TV
 https://stmv1.questreaming.com/canal6er/canal6er/playlist.m3u8
@@ -1073,7 +1073,6 @@ https://www.youtube.com/watch?v=10cHY7e50Sw
 https://www.youtube.com/watch?v=O7TaEBm-Xl4
 
 
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 3", TDC TV SANTA FE
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
@@ -1311,7 +1310,7 @@ http://inliveserver.com:1935/8550/8550/playlist.m3u8
 https://srv1.zcast.com.ar/x24hd/x24hd/chunklist_w1182283463.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=ivsj2GNFQTk
+https://www.youtube.com/watch?v=lv_ukuCevNU
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 2", CANAL 10 TUCUMAN
 https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1616963036&h=bf3ef5d264c8b6d63c230e0ab2f3e83c
