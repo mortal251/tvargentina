@@ -1311,11 +1311,10 @@ http://inliveserver.com:1935/8550/8550/playlist.m3u8
 https://srv1.zcast.com.ar/x24hd/x24hd/chunklist_w1182283463.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=0qeMOu6y9Pg
+https://www.youtube.com/watch?v=yPDiXwCY6VA
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 2", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1617126638&h=9c22f47dd887805269a27f5ed757097b
-
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1617171847&h=26980d251b55ad4631b2c5dda36fe059
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="MODA Y CULTURA", FASHION TV
 https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/.m3u8
