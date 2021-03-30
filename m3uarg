@@ -1698,7 +1698,7 @@ https://g5.mc-slo.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/MITREHD-1
 https://g5.vxral-slo.transport.edge-access.net/b13/ngrp:cienradioshd-10002_all/cienradioshd-10002_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" group-title="RADIO", CN 24/7 NEUQUEN 
-https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w1689195267_b200000_slen.m3u8
+https://panel.dattalive.com/6605140/6605140/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/canal-medios-rioja.jpg" group-title="RADIO", MEDIOSRIOJA TV
 http://streamyes.alsolnet.com/mediosrioja/live/playlist.m3u8
@@ -1874,7 +1874,7 @@ https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/p960x960/119093221_3588161007880988_1941214189500471879_o.jpg?_nc_cat=109&ccb=3&_nc_sid=85a577&_nc_ohc=SnU7h02XUlMAX9c6vN7&_nc_ht=scontent.fepa11-1.fna&tp=6&oh=6bbaac30e4449c97098170e20ea66561&oe=605146BA" group-title="RADIO", UN SUEÑO EN EL AIRE 103.3 FM - RANCHOS 
 https://panel.tuvideostreaming.com:19360/8006/8006.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radiofmtropical.com/wp-content/uploads/2020/10/512x512.png" group-title="RADIO", FM RADIO TROPICAL 89.5 RESISTENCIA CHACO
+#EXTINF:-1 tvg-logo="https://www.radiofmtropical.com/wp-content/uploads/2020/10/512x512.png" group-title="RADIO", FM RADIO TROPICAL 93.5 RESISTENCIA CHACO
 https://5f6e1fe8f2d2e.streamlock.net/cn22/cn22/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmrio1075mbarete.esenvivo.com.ar/fb.jpg" group-title="RADIO", FM RIO 107.5 AVELLANEDA
