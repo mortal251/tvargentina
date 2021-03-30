@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=ns8-5XKA0Ww
 https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES 1", CANAL ENCUENTRO - 22.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w1733579940.m3u8
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 1", CANAL ENCUENTRO - 22.1 (OPCION 2) YT
 https://www.youtube.com/watch?v=Frz3iEwVKbs
@@ -46,7 +46,7 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1
-https://ar-elnueve-elnueve-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3MTQzMzA1LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiI2ZGE5ODMxYTNkNWNlYTBjOTgwYTU0YWI2NTUxYTMyNDUyM2UzNjYxIn0%3D
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3MTgzODgwLCJzZXNzaW9uIjoiMjAwLjMuMTEzLjE1MCIsIndoaXRlbGlzdCI6WyIyMDAuMy4xMTMuMTUwIl19LCJzaWduYXR1cmUiOiJmNjQ2N2U1ZTQ3MjM3YmZjNGVkMTJiNzhmNjllMTJmNzU4YThlMzEwIn0%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 (OPCION 2)
 http://rv.imax.re:80/307277240317/307277240317/87121
@@ -58,7 +58,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
 http://rv.imax.re:80/307277240317/307277240317/87123
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CqkFad2J5oepx6tXL82E88N3pihLURPO23WUQuMoGAMWN-fnVrrCsaUz8UiDiiKpnqnMXhkhWRa091qX2ZkUh8ET3FXfH33Tbon_xG0NddF2rPXbKa90GE8rQvyM5GgNAp0KiH5cseY-drsmyk1f5C5Ug8W77o_X184xLDBWb0j2rJAy_WPSMNbH5sa8UGQLGjWbX765aoEqcihOHHGUEh-t9-9DOS6sdn1YitqVMI7Q2qAiQCwoa7XGV9oT0wO7zIE-U3WaN893hOJ1Nc8RLYuTw4VHxSEcvZrJU2NaAyV5Jy6MZ3JL1v0ywP7V0IB_F2OOIjrzcM0R4Gf2EzHbMLdCjmjYqaZzr-H59td4YzqhcireTMVfRM-FsPJTs0mtsAa57wNFkchpXXBjHOLYCHn6Xo3bi-SWnB3otFxp3EAn2Ep4pM2XVCG8dMfMJDp0E7sVXIltSQX0CKfC5APud4BQkg8Hk_702k6EWft_kSeahvDeWAu82qqnj8evRejloGxmdoY7B-XverxVIc96wjs-WDAHrB-OoxVPiVOb2RHRhXMzZ1z_WEdxdolU3D31wfHKdkdFHY9YGFvlFSOa7M1_lr0mSYz44T6Q1Rk6q9iG1XwdmVSyPKG-y9vQJ_hPoN_yNoWq2B0BC6wSYz5vkERfGE2QVbWn0cCy53Q5OOKURGy01yJAqJMHxB6bQS0Q62HVb7Rv1hKwFCGfsIFXwNrMMGnZgp_qrl3Py6hgShrXvXwhXmOld97KAjkKE7oh2f9FF3PYt71LzfF6EWmAwYw717u1THnlns2dnnY4z5oVMcGblfMMOaf6Kh9TDO7eVew7y93O2NN7u39AdOxJxpfmq2IBCcIKCmg7DX4GlfhUNw0og1tlBtsoxYumLbC7rbDDUpvNCxwQ-p84EhD_HG8a8rfGf3cEB_JvpSXkGgw1fIXvwn4PPj_7pcQ.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CqgFmquYyAcMzEHWLWaGBweplDJpuXJqHJz-NF0cfFZtRWPH4LkJFBxz_09yb2anHDIToUSOq9qA4ZDe-kutubRg3lxvvIhN9D0qNZE41z78VYRa-f4uVuPw6LFG_qj0xWa7QxqVjdeyb0-sfEwzsVtKKnKO5l4LzCjcFcHf9nYtdD7UJZAdzG_B7eL1UtuXAeAp70jsQnusXJwG7uTTwpfjbf3GO2oPdq26WJFDnFfIpCiRfnfLad0VqltvZcgz52tdUyqrTjKmg4WCaxqUBwRWVPkfTkjKtszCS0o8LRFmEXohq5SDY_xkh3WrWzD7doUZf_Rf3Dhnl7vrwl0VMhPXRS7DKPhOqHAwEQSzLaGHFHaRCjzbssDXIsQqGnUowpI19ijBHSua8RmAh_65HviHmGPXM5kW8z-5FuUsOk6rGtnirrkLXS1z7SMbiGVdDTsSCaFQno3yEZHbI9DvwGx9mwhQ4C19ngNIyZFpZ1S9ruzdl3t7SL6mhfqrFM00JKoUaT9CXIhxpAgXUgWIiLkuIDGLKhYXdo1bPBL0jJalTM7r6RZi8zQxLdolKKX05z_ePaOFF9Ou4cIyW7igECZNgaMHpH22cRe27KOMFHuTjEvwTgk1osxy5JHt8E24RB8rrbvv7huDBPov3uE_n5qdAasKgwyuozVf6hsuxQWaNhnRzyvgEhAs1AfVWH2I8wDeBnpXuYWdmDVyf1_8MODV4073z3iGiwmnEZAjZ10SLzI1wDz03uGmrx-OilJMfCBTXoKALmTjgyWsizJVVyTGJ2Y2n1n5xc3fgvAreT5kuCT0Y6ScNjc9K7UG95bQc_QVC63vwSlA2gdmnUSCmZ1Ymd3IMgKyRzEKUzvD04PbR0uYCVRJOwy_gIIVqV5e_HzRxZwk_u_9G_ISEGKZDjzkfcs1oENbUCcG3TwaDBkGDXc1C0HqEfAULA.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1 (OPCION 2)
 http://rv.imax.re:80/307277240317/307277240317/87122
@@ -1041,7 +1041,7 @@ http://video.streamtvradio.com:8081/uv059/uv059/chunks.m3u8
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png" group-title="LOCALES 3", CANAL 34 SAN JUAN
-http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
 
 
@@ -1070,7 +1070,7 @@ https://panel.dattalive.com/8138/8138/chunklist_w430516847.m3u8
 https://inliveserver.com:1936/8292/8292/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=TFyD-Qc7alQ
+https://www.youtube.com/watch?v=PLtEoenZABA
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
 https://www.youtube.com/watch?v=O7TaEBm-Xl4
@@ -1313,10 +1313,10 @@ http://inliveserver.com:1935/8550/8550/playlist.m3u8
 https://srv1.zcast.com.ar/x24hd/x24hd/chunklist_w1182283463.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=c-ojtQX2V4E
+https://www.youtube.com/watch?v=0qeMOu6y9Pg
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 2", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1617090493&h=916f186d6a7883c9f371c7e7515732ca
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1617126638&h=9c22f47dd887805269a27f5ed757097b
 
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="MODA Y CULTURA", FASHION TV
