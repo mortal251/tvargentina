@@ -1688,6 +1688,9 @@ https://stmv1.srvif.com/tvsion/tvsion/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/03/Radio-JCB.jpg" group-title="RELIGION", CADENA JCB  - TEMPERLEY
 https://clientes.videostreaming.ar:19360/jcbtv/jcbtv.m3u8
 
+#EXTINF:-1 tvg-logo="https://televisioncelestial.com.ar/uploads/1zje40laqizoswwcso.png" group-title="RELIGION", TELEVSION CELESTIAL ROSARIO
+https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8
+
 
 
 
