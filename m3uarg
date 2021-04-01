@@ -975,8 +975,8 @@ https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80665_Canal_3_Pinamar.png" group-title="LOCALES 3", CANAL 3 PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title="LOCALES 3", ALBARDON TV SAN JUAN
-http://video.streamtvradio.com:8081/uv022/uv022/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES 3", 7 NORTE TUCUMAN
+http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/913627349/telecondor_satelital_400x400.jpg" group-title="LOCALES 3", CANAL 4 TELECONDOR
@@ -1054,8 +1054,7 @@ http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiocanal.com.ar/imagenes/estructura/canal4.png" group-title="LOCALES 3", CANAL 4 SAN FRANCISCO CORDOBA
 https://coopmorteros.online/radiocanal/canal01.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" group-title="LOCALES 3", DEL SUR TV SAN JUAN
-http://51.79.83.93:9998/live/delsurtv/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", CANAL U CORDOBA
 https://vcp.myplaytv.com/canal10srt/smil:canal10srt.smil/playlist.m3u8
@@ -1122,8 +1121,10 @@ https://589ff3c36f7e8.streamlock.net/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV63G3ylzZ5HZpuXGO3gMM_karSoJ9au5N2w&usqp=CAU" group-title="LOCALES 2", 5TV CORRIENTES
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES 3", 7 NORTE TUCUMAN
-http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title="LOCALES 4", ALBARDON TV SAN JUAN
+http://video.streamtvradio.com:8081/uv022/uv022/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC2PROV.png" group-title="LOCALES 3", PROVINCIAL TV
 http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
@@ -1137,7 +1138,8 @@ http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQveDDw-1eyCiqykUajXQ8IqRRCfTehbi_mj0jwSc3lm2t0754lpZIiZSEMyQWo1cVk0Im6X96FsFSwIeuHNcn_mg2xvOLDiGrxrlwN&usqp=CAU&ec=45688578" group-title="LOCALES 3", CEEL 4 MISIONES
 https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" group-title="LOCALES 4", DEL SUR TV SAN JUAN
+http://51.79.83.93:9998/live/delsurtv/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-j9I0buhulss/VxrWQ9llwXI/AAAAAAAACtQ/L2fSLfI0ujcLQbrzCfw8rX0dx4X1P2jvACLcB/s1600/canal-20-villa-maria-en-vivo.jpg" group-title="LOCALES 4", CANAL 20 VILLA MARIA CORDOBA
@@ -1305,7 +1307,7 @@ http://inliveserver.com:1935/8550/8550/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/x24.png" group-title="LOCALES 3", X24 TUCUMAN
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/x24.png" group-title="LOCALES 4", X24 TUCUMAN
 https://srv1.zcast.com.ar/x24hd/x24hd/chunklist_w1182283463.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
@@ -1313,6 +1315,11 @@ https://www.youtube.com/watch?v=k9F9kY-YTwU
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 2", CANAL 10 TUCUMAN
 https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1617305312&h=c17b92b3b6e197d8ef9aff1068ca022d
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="MODA Y CULTURA", FASHION TV
