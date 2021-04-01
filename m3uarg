@@ -67,6 +67,9 @@ http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU" group-title="INFANTIL", PAKA PAKA - 22.2
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8 
 
+#EXTINF:-1 group-title="INFANTIL", PAKA PAKA - 22.2 (OPCION 2) YT
+https://www.youtube.com/watch?v=oXIMS8DYC1M
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6VNjpJ.png" group-title="INFANTIL", SIMPSONS MANIA
 https://lavozdetucuman.com/simpsons.m3u8
  
@@ -138,6 +141,9 @@ https://g4.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/g
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="DEPORTE", DEPORTV - 24.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", DEPORTV - 24.1 (OPCION 2) YT
+https://www.youtube.com/watch?v=Kw6MnF7Yka0
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
