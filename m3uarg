@@ -2001,10 +2001,11 @@ http://video.streamtvradio.com:8081/uv008/uv008/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VqFz7dg/logo-vinilo-medio-2.png" group-title="RADIO", VINILO FM 103.5 NECOCHEA
 https://srv3.zcast.com.br/vinilo/vinilo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://vivafm.com.ar/wp-content/uploads/2020/04/cropped-ISOLOGO.png" group-title="RADIO", VIVA RADIO CATAMARCA
+https://tx.hls.nimo.tv/live/su2439520271345r7f61d6d38ad506f575d0ebfbaf0c7f2f_low.m3u8
+
 #EXTINF:-1 tvg-logo="http://la90fm.com/wp-content/uploads/2021/03/logo.png" group-title="RADIO", LA MEGA 90.9 AZUL
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://radiotupac.com.ar/wp-content/uploads/2020/04/LOGO-TUPAC-WEBCAST-05.jpg" group-title="RADIO", RADIO TUPAC WEBCAST
 https://panel.tuvideostreaming.com/wowzademo/wowzademo/playlist.m3u8
