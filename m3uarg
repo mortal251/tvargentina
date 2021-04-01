@@ -10,9 +10,6 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 #EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="LOCALES 1", CRONICA HD - 24.4
 https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
-#EXTINF:-1 group-title="LOCALES 1", CRONICA HD - 24.4 (OPCION 2) YT
-https://www.youtube.com/watch?v=wVCz7byzADU
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 1", CANAL 26 - 26.1
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w900812812_b1864000_sleng.m3u8
 
@@ -32,8 +29,10 @@ https://www.youtube.com/watch?v=ns8-5XKA0Ww
 https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES 1", CANAL ENCUENTRO - 22.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
+
+
+#EXTINF:-1 group-title="LOCALES 1", CANAL ENCUENTRO - 22.1
+https://www.youtube.com/watch?v=Frz3iEwVKbs
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES 1", AMERICA HD - 36.1
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8 
@@ -57,7 +56,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
 http://rv.imax.re:80/307277240317/307277240317/87123
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CqcFXUhU0aLI9wiVF2bPtG6SZ488xj6HXen45gXr1EMDy-ug_Irs-YMZy1Qg5O8_4lj3WfX8VneAswpXl8QuONB23Spas0hzViiiROOhTjVID-0mESMo3HB_7hP7R5t2Qa9fYbnrBwzHOmMY2bDGGGWikg9YVZ29Z8-UPXVP6bR2wi9pMzum1TwZ3bG03pc6zZZMavq_87kKRYCSYcxv8dJC00wDHczNliPWabohupWx9L67P1xXLy7RsLlazV-Vvpe0jSBCH1LwbAwpEaP9OJ3ygpTzZUW3tyx-0N-KcgRcEwz7YBAU_gXMQf252bdMPE_L9IfWXeSaQcGBQ9NuoSx1MrbWZwrh7qtUToL9DekInvaVgOdkzKIGUamR6ydGlAfMR5A2xrUPX6ZH47Iwmdkecj8cSqfM5Tl3SKJet4UNF9SnOlSWfq46d710cUCm-3O8mtANfo-P596WM7AfE4jlADrfk3keFcHqWrv_xbSzInTACjvr-N3kkl8SmfPaksh42F-D1jEJrVGkFiYimP0V0pdybYV2RJYRu8cd8PLnan1CkaDDvY7JW3AiwRJDZ0TrtraImny5FdXuBiItVGJFz9fwNo_nRwfh32Qw31USHuNdqKc8SrCVgyNomSryLn7eXxIYsazbXUT6XNZ_4p91JyVQZg8Eu52xGpbb4IDaRUlw51PtP72WgrINdQxvS0WczIMLQcDhBLStV4_avBTZ2hxiUTSVNyFgov6bIpaRw1pd7nbBod6tnhDhzC8OP8f5a4hPT-q1LOoqlk2VePFZI42mis0u3DVXRomCu5qSEyGlcyG0Ibf_UVSICc1AQM4n2D3x_hbRtmTjOoFs6cPuJ8N2wldjxJ5qVfmVEuLjB02mcX16mjDI0WBK6vpsg0zjCZxNGXxtOhIQavewC5w4khOv1HTsXi4U_BoMTXaMMZ_gmNPS44tC.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvMEViFXFOqxJko5Wkb9yxtnsfg9ApS4pqHpSrU1FgplcDGquOM2POIZ545u2StfDbPG36OCayfobn0d4SbdvFrBtgjJma907JnhIb5waqvxZEk4O__YCzMaGd9uLpGvOGgzUzwYvX3HbkXGhgUzof9WZUduO6vls4vP3NV9C5uU_S_n4pViH70GYiqF9mY05caRzJ1Gb8gnPefDGz7cs9BtvS6_rOCPjO6daXZjvsLonJRQpoKb_AqxVNqqDNPNcsjnb_gEmL-icw03I-CSM3XPMtuI1GeDsWyKOfIoPdXc0YCsoKSdj1ejc9Q4qE-5RM-ieSEaquh5bQZj_aApIi1FzVAPRcevRhdjRiFbCXRRgKSWBALssOG8VNxA0pG1SvANWK1VikoJ5M_cvHbqSOEWZK9l5Bj6Ak4s6gHayf-YRZu6TpXrUntX_R8uwdyK4vcF9OLD-5QkcjYrSwTt9anjPmkEQujDmxGwiKJlQBlNQ6qo594uSeAS3W3Nd5okoFvvw3aCKnGxiS9NNc6gAkWVxoDFbSmuvD___lZOC2Je2t3QP6c9NVb9YegCQM7_oeQJK5SvTNkQ0weNWrfSV_hldgrv_OebnGf3Dzbu-wn-pqR2M6dvRzJVebZwDBQLWw5HiZbPY_i3jzFYXg80DVgSHj5PnAuCaoh9NZzeUbVt2SB1VD6kXfCy7T2HxQt74gxTo_ybne2UBRXTNCOU7hdVUjh_u4kH9PUgD-l1Ly0EB1jegGjBypO1z7ZKk-XPsrvk_cVVlQd8ZPl0MVeWoOyKVqa3m6KoLw3fpoa2kD6agWQUWT-PzyNtwIXEvmUxObDSwmOpEhCw7xePA5FSAXiTnZcOjDRvGgzined0ypmDpAaOtm0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1 (OPCION 2)
 http://rv.imax.re:80/307277240317/307277240317/87122
@@ -1983,6 +1982,10 @@ https://cdnhd.iblups.com/hls/ycxwLxWuQv.m3u8
 
 #EXTINF:-1 tvg-logo="http://television-internet.com.ar/canal-2-misiones-en-vivo.jpg?210107074240" group-title="LOCALES 4",CANAL 2 MISIONES (SOLO IPTV AZUL)
 https://nd106.republicaservers.com/canal2misiones.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES 1", CANAL ENCUENTRO - 22.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
 
 
