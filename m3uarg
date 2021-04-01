@@ -1605,8 +1605,8 @@ http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL 2", ANN JAPAN
 https://www.youtube.com/watch?v=coYw-eVU0Ks
 
-#EXTINF:-1 group-title="INTERNACIONAL", MEGANOTICIAS CHILE
-https://www.youtube.com/watch?v=O6ubA6cEBxg
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/UCV-TV_2013-0.png/revision/latest/scale-to-width-down/340?cb=20180329205151&path-prefix=es" group-title="INTERNACIONAL", UCV CHILE
+https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL", T13 CHILE
 https://www.youtube.com/watch?v=f2t3330_mBk
@@ -1669,7 +1669,7 @@ http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
 https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://guillesainz.com/wp-content/uploads/2019/11/logo-ATB.jpg" group-title="INTERNACIONAL", ATB BOLIVIA
-http://186.121.206.197/live/daniel/index.m3u8
+https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.megatvarequipa.com/wp-content/uploads/2020/06/cropped-104684146_960970201020528_6006149684953973330_n-1-2.png" group-title="INTERNACIONAL", MEGA TV PERU 
 https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8
@@ -1742,6 +1742,8 @@ https://cctvcnchwh5ca.v.cdn20.com/live/cctv1_2/index.m3u8?contentid=282018051600
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv13.png" group-title="INTERNACIONAL 2", CCTV Notícias
 https://cctvcnchwh5ca.v.cdn20.com/live/cctv13_2/index.m3u8?contentid=2820180516001
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_9_B%C3%ADo_B%C3%ADo_Televisi%C3%B3n_-_2012_logo.png/800px-Canal_9_B%C3%ADo_B%C3%ADo_Televisi%C3%B3n_-_2012_logo.png" group-title="INTERNACIONAL", CANAL 9 BIO BIO CHILE
+https://unlimited1-us.dps.live/c9/c9.smil/playlist.m3u8
 
 
 
