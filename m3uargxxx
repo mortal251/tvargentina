@@ -1,6 +1,9 @@
 
 
 
+
+
+
 #EXTM3U
 
 
@@ -44,7 +47,7 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1
-https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/d61d85cd-cfcc-46ce-a74e-9f04815abdf6/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3MzcxMDAyLCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiI5NDI3MTk1Y2IxMGE5MWZiNjZhYzIwNTk3YjkwY2IxZjM5MDRkNDQ5In0%3D
+https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/7cb580c1-de6d-49b9-b512-d4258b295807/2.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3Mzg3Mjc5LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiI1ZDVjNGMwOTBjNmQzNjgxMjEzYTNmZDgyOTNiMzgzNzgwMzY4NTdlIn0%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 (OPCION 2)
 http://rv.imax.re:80/307277240317/307277240317/87121
@@ -66,6 +69,9 @@ http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU" group-title="INFANTIL", PAKA PAKA - 22.2
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8 
+
+#EXTINF:-1 group-title="INFANTIL", PAKA PAKA - 22.2 (OPCION 2) YT
+https://www.youtube.com/watch?v=oXIMS8DYC1M
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6VNjpJ.png" group-title="INFANTIL", SIMPSONS MANIA
 https://lavozdetucuman.com/simpsons.m3u8
@@ -138,6 +144,9 @@ https://g4.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/g
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="DEPORTE", DEPORTV - 24.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", DEPORTV - 24.1 (OPCION 2) YT
+https://www.youtube.com/watch?v=Kw6MnF7Yka0
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
@@ -306,6 +315,10 @@ http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
 https://stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="CINE Y SERIES", MOVIES
+https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
@@ -421,8 +434,6 @@ https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-5
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", MOVIES
-https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2386e240769649.578d1b8c36fc0.png" group-title="CINE Y SERIES 2", SERIES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
@@ -801,7 +812,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecee24576bc0007a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="DEPORTE", IGN 3
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077e31af/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449ed93-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8552379d-eb98-45b8-bf09-8d25de349206&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="DEPORTE", PLUTO TV GAMER
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="DEPORTE", PLUTO TV GAMER 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d5b62-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8311f10-8c2e-45bb-a408-7e2c579d7adb&userId=&serverSideAds=true
 
 
@@ -1775,7 +1786,7 @@ https://stmv1.srvif.com/tvsion/tvsion/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/03/Radio-JCB.jpg" group-title="RELIGION", CADENA JCB  - TEMPERLEY
 https://clientes.videostreaming.ar:19360/jcbtv/jcbtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://televisioncelestial.com.ar/uploads/1zje40laqizoswwcso.png" group-title="RELIGION", TELEVSION CELESTIAL ROSARIO
+#EXTINF:-1 tvg-logo="https://televisioncelestial.com.ar/uploads/1zje40laqizoswwcso.png" group-title="RELIGION", TELEVISION CELESTIAL ROSARIO
 https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8
 
 
@@ -1962,8 +1973,7 @@ https://clientes.videostreaming.ar:19360/fmzetaradio/fmzetaradio.m3u8
 #EXTINF:-1 tvg-logo="http://www.fantastica1017.com.ar/images/logoOK.jpg" group-title="RADIO", FM FANTASTICA CHILECITO 101.7 FM
 https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/p960x960/119093221_3588161007880988_1941214189500471879_o.jpg?_nc_cat=109&ccb=3&_nc_sid=85a577&_nc_ohc=SnU7h02XUlMAX9c6vN7&_nc_ht=scontent.fepa11-1.fna&tp=6&oh=6bbaac30e4449c97098170e20ea66561&oe=605146BA" group-title="RADIO", UN SUEÑO EN EL AIRE 103.3 FM - RANCHOS 
-https://panel.tuvideostreaming.com:19360/8006/8006.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://fmrio1075mbarete.esenvivo.com.ar/fb.jpg" group-title="RADIO", FM RIO 107.5 AVELLANEDA
 https://videostream.shockmedia.com.ar:1936/fmrio1075mbarete/fmrio1075mbarete/playlist.m3u8
@@ -1989,6 +1999,8 @@ https://srv3.zcast.com.br/vinilo/vinilo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://la90fm.com/wp-content/uploads/2021/03/logo.png" group-title="RADIO", LA MEGA 90.9 AZUL
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://radiotupac.com.ar/wp-content/uploads/2020/04/LOGO-TUPAC-WEBCAST-05.jpg" group-title="RADIO", RADIO TUPAC WEBCAST
 https://panel.tuvideostreaming.com/wowzademo/wowzademo/playlist.m3u8
 
@@ -1997,6 +2009,9 @@ https://cloud2.streaminglivehd.com:1936/activa919/activa919/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiofmtropical.com/wp-content/uploads/2020/10/512x512.png" group-title="RADIO", FM RADIO TROPICAL 93.5 RESISTENCIA CHACO
 https://5f6e1fe8f2d2e.streamlock.net/cn22/cn22/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/p960x960/119093221_3588161007880988_1941214189500471879_o.jpg?_nc_cat=109&ccb=3&_nc_sid=85a577&_nc_ohc=SnU7h02XUlMAX9c6vN7&_nc_ht=scontent.fepa11-1.fna&tp=6&oh=6bbaac30e4449c97098170e20ea66561&oe=605146BA" group-title="RADIO", UN SUEÑO EN EL AIRE 103.3 FM - RANCHOS 
+https://panel.tuvideostreaming.com:19360/8006/8006.m3u8
 
 
 
@@ -2082,17 +2097,6 @@ https://nd106.republicaservers.com/canal2misiones.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES 1", CANAL ENCUENTRO - 22.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
 
 
 
