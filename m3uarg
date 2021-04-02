@@ -313,8 +313,7 @@ http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 https://stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="CINE Y SERIES", MOVIES
-https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
@@ -346,6 +345,8 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg" group-title="CINE Y SERIES", WMS HD
 https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="CINE Y SERIES", MOVIES
+https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="CINE Y SERIES", RETROPLUS SERIES
@@ -1377,6 +1378,8 @@ https://inliveserver.com:1936/14064/14064/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canalc.com.ar/wp-content/uploads/2020/11/ccLogo2020.png" group-title="LOCALES 4", CANAL C CORDOBA
 https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CogF09oqI9JA0h9XhNDxHQmGlGlqf4uIIjVGgE51Oh2-AQuwBfJnkU6KI5fSjjkSLPpJVjsftx_cGNVuBNPlHo4FXZWp7HSH8-iOgor3Ke0cn5hOBT5KyI4eMjaSVoE_IuhfNlDOdsTGb-2Chka6Xw8cbkA34R3QtKSZbmvfgnHZS0yCq7nff1kwOqsasFRvj4nWHhXH1CTxh-tN02J3dfyNgcetf39jcKLrHgtBnXy46gADwjMw3sIDr-M6PDBuk8D2mSC1BP98j-BqkhN1ytLWcAzZoZbwThisF4fXfOYtAoEIBp5f0faFKTwTMhHUXIqLYbCBhZeZgKNM2yFs1Haw3x5s8H7mSZ4-LpNWwcQh3ys6tG0BZOqq1F7eqyWJd_y17zRLNslIexe1Jqi-AoA5B4Usm_lGnyphWZC4hR0Y1InCDz2c9xkHYUBQ3-cwgEqssQERsOdTA0OS5K319BfpgPCvuZ-eGb6HT_4VhFMfzX-fTio-i8vWIhB1Ayb13SHm5-MjVzVRLZkci0LoFFyHGIFguEqdITZ2Lo3SgM8fcFgOgS9AmQqApcPHJxTneBbrFmrDQm9vaJhl1mX_FpOlRdA0kxevxEqwan9sEfhccOTT_sBAOwAVO2PC5ylwkiGg0ZwtNcbdxCSSHnzrxDsr6haYfhiL-LRBAXU3g-bmc0eNsPcl60cKQ9_YFuYjl8SU4Qxho7zUYTSKEfzipFENcar0NtJA_ATPkXoHxDgDAYViuEB1sLMeCDe1n-A56B7DZ-ajx97S8Mp93LltoZYC6PQoiY-Bt5jNZS4Eard6daFkwd71QZ2UZM-3sMPnYIvYXgeWG1r8xvvIbOkk9AgNPNyjD9LXodRuEhCL8fDMehMcl9sq_bNlhM0wGgygFXjMZxasoClgpFQ.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.latinatv.com.ar/online/wp-content/uploads/2021/03/logo-latina.png" group-title="LOCALES 4", LATINA TV CORDOBA
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvMEJFxQrqH6jwM_WeTcZxXKKgurhkNDHi_5IWYcZ0KqpC7ApxpAx28ST3HCQRDjoEb71nJ9PPLR8HoCuX0rnCXMbjRCp2eHWO_f9C_8Lu3DyDXif6geFs0Ygrgaa2_PsWfQmeUu45XxdlyvkiiecFKZ5xIgeYoaiReq-pZsZ6dtEUtpwxgQTRT8dHmArtcam3-ZlSQuxg5yNU1E-OgvQBEGXiTFThhi5_9EB17reC7AYqRyKCbbPIRqU21cyLf08J7Comcf-szYPYAHjfEdLHeK4DlMS5nhsc72wGc9Urad74CMH1HJoh3zcsqOyLiA6R9XKvn5SFsQwA3htBFuxaN8jjIVj-C2QoP7eZPIgOqEKGyD0KjIjXgXVsBdh3sLd6EiLTe7XNcD629mPtxYRs5JP7iFGNAv_SHr8tKIKuFz4DKtbLoCCQNHEB_Cf8BGhCb6qFeE4vA78sD5TJfRUdvitRHkJ8i1vl0fKAVaTkaW17_8y01xTGEEjdh7wt0HmdhfJHHuw81BiKV9UbSSCgpl6OrKhBeq0bv0duUAkSFaVHXUQ_VmmhxCEYuR3V3JHJtnQvFcUmBYPwB0fOmrxsygTryYtCYmqsLXKgGu6iHnUSwPSI4c-8Loz_csgAE3w-l_ZYBT9f_dq8aRC_ZUekeC8nZfwgKLRC5fcIvVQlvBtTx2koXunaoPd1PUrtJ67vyWCv53FXwhJ-1wp31PIGZWBTPWt9q2NMYe1L2_e07ao1WeEgbuyYG9OJp62XoLy-bt3N1Gl0Vms22Jq5Z9TWxjsc69Vl_lc98gKRSpelNR8ngM5RAP6tzELNVpvQafAn8x5SQbEhDx6CdS-z0GfihWSV13l1uDGgzurBs3zKehHqMww9Y.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/x24.png" group-title="LOCALES 4", X24 TUCUMAN
 https://srv1.zcast.com.ar/x24hd/x24hd/chunklist_w1182283463.m3u8
