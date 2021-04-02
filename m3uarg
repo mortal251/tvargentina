@@ -203,7 +203,7 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?s
 https://5975e06a1f292.streamlock.net:4443/ahora/ahora/chunklist_w970179559.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Telefe_Santa_Fe.png/133px-Telefe_Santa_Fe.png" group-title="LOCALES 2", TELEFE SANTA FE
-https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1617272508~exp=1617448908~acl=/i/canal13santafe_1@751190/*~hmac=a654f0f154a907b820332578632d23978022dae21116573493280e3de413e8a6
+https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1617388159~exp=1617564559~acl=/i/canal13santafe_1@751190/*~hmac=ab4f55d116b2ca2ba4971f64c7c2a7323e34209d6cc5d6d12f46159e759aea42
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1175110925835284481/wRJimpYE_400x400.png" group-title="LOCALES 2", 5RTV SANTA FE
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
@@ -1130,10 +1130,10 @@ https://panel.dattalive.com/8138/8138/chunklist_w430516847.m3u8
 https://inliveserver.com:1936/8292/8292/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=SyR3CrBXyo4
+https://www.youtube.com/watch?v=6EsuiWC0UMo
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=aymCyPqqCS8
+https://www.youtube.com/watch?v=H9vP7ivbBbE
 
 #EXTINF:-1 group-title="LOCALES 4", UNQ TV
 https://www.youtube.com/watch?v=W_3AWMhdiEY
@@ -1403,8 +1403,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
 https://www.youtube.com/watch?v=k9F9kY-YTwU
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 2", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1617389066&h=f3a7f231c1f3da645823283cdd016bc4
-
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1617421224&h=326525bb1e912dc204c8b6edda5b1b22
 
 
 
