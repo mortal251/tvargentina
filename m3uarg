@@ -1122,10 +1122,13 @@ https://panel.dattalive.com/8138/8138/chunklist_w430516847.m3u8
 https://inliveserver.com:1936/8292/8292/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=fKOdZdKCFyk
+https://www.youtube.com/watch?v=SyR3CrBXyo4
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
 https://www.youtube.com/watch?v=aymCyPqqCS8
+
+#EXTINF:-1 group-title="LOCALES 4", UNQ TV
+https://www.youtube.com/watch?v=W_3AWMhdiEY
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 3", TDC TV SANTA FE
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
@@ -1386,8 +1389,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
 https://www.youtube.com/watch?v=k9F9kY-YTwU
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 2", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1617305312&h=c17b92b3b6e197d8ef9aff1068ca022d
-
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1617389066&h=f3a7f231c1f3da645823283cdd016bc4
 
 
 
