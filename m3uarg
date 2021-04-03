@@ -1149,8 +1149,10 @@ https://vcp.myplaytv.com/canal10srt/smil:canal10srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pSW2boY6Hdg/XvKY9iZvQuI/AAAAAAAA2MI/VIJZpl99EmwV71NgaYFHvYEPEsl3jzD3ACK8BGAsYHg/s0/2020-06-23.jpg" group-title="LOCALES 3", CANAL COOP JESUS MARIA CORDOBA
 https://panel.dattalive.com/8138/8138/chunklist_w430516847.m3u8
 
-#EXTINF:-1 tvg-logo="https://cable10.com/imagenes/logo.png" group-title="LOCALES 4", CABLE 10 HD RIO GALLEGOS
-https://inliveserver.com:1936/8292/8292/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES 4", VIBRA HD MONTE CASEROS
+https://live.autistici.org/hls/vibratelevision_mid.m3u8
+
+
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
 https://www.youtube.com/watch?v=7F4s0ex6xTA
@@ -1194,6 +1196,8 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnB0c3RhY3J1emFwcHBybGw0Ni5jYW5hbDVwaWNvdHJ1bmNhZG9hcHBfc2NyZWVuXzJfMTUzMjM1ODEyOV8wNTE/screen-2.jpg?fakeurl=1&type=.jpg" group-title="LOCALES 3", CANAL 5 PICO TRUNCADO SANTA CRUZ
 http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cable10.com/imagenes/logo.png" group-title="LOCALES 4", CABLE 10 HD RIO GALLEGOS
+https://inliveserver.com:1936/8292/8292/playlist.m3u8
  
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Dwon9sRZsSY/Xjs6WmRFAaI/AAAAAAAAvnM/Zgcsd4pznrUNtvK8TghlckQw1YcLWnkdwCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 3", CL3 SANTA FE
@@ -2155,11 +2159,10 @@ https://wowza.telpin.com.ar:1935/camara-rambla/camara-rambla.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", PINAMAR GOLF
 https://wowza.telpin.com.ar:1935/camara-golf/camara-golf.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES 4", AVC CORRIENTES
+https://tna5.bozztv.com/AVCHD/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES 4", VIBRA HD MONTE CASEROS
-https://live.autistici.org/hls/vibratelevision_mid.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/119667144_106629171189999_3711954186159095551_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeH-4OXs_-gaeY6LpAeRq21H0QK33Bw_OBbRArfcHD84Fh1CmTtG-lW1vq5O27QFSxA&_nc_ohc=StO_IaEHWTYAX9z4RcB&_nc_ht=scontent.fepa11-1.fna&oh=46aa5a6e8efbc036e8e7912fef5ddc14&oe=607B10DC" group-title="LOCALES 4", LTO TV CATAMARCA
 https://cdnhd.iblups.com/hls/ycxwLxWuQv.m3u8
