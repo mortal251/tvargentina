@@ -1902,12 +1902,11 @@ https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="RADIO", RADIO AZAHARES FM 101.5 CORRIENTES
 http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.classfm.com.ar/images/cabecera.png" group-title="RADIO", RADIO CLASS 91.9 FM SAENZ PEÑA
+https://streamcasthd.com:19360/classfm/classfm.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="RADIO", POWER MAX 104.1 FM RECREO SANTA FE
 https://59537faa0729a.streamlock.net/radio1045/radio1045/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI966.png" group-title="RADIO", CADENA 103 OLAVARRIA
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
