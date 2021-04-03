@@ -1158,7 +1158,7 @@ https://www.youtube.com/watch?v=7F4s0ex6xTA
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
 https://www.youtube.com/watch?v=H9vP7ivbBbE
 
-#EXTINF:-1 group-title="LOCALES 4", UNQ TV
+#EXTINF:-1 group-title="LOCALES 3", UNQ TV
 https://www.youtube.com/watch?v=W_3AWMhdiEY
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 3", TDC TV SANTA FE
@@ -1239,10 +1239,10 @@ http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="LOCALES 4", CANAL 9 NORTE MISIONES
 https://panel.dattalive.com/8076/8076/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="LOCALES 4", TVEO MENDOZA
+#EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="LOCALES 3", TVEO MENDOZA
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w785448485.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Telenord-en-vivo-Online.png?resize=100%2C70" group-title="LOCALES 4", TELENORD CORRIENTES
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Telenord-en-vivo-Online.png?resize=100%2C70" group-title="LOCALES 3", TELENORD CORRIENTES
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2rWFai7wm5hmr6nAciUu7Esm8YcLq10du0w&usqp=CAU" group-title="LOCALES 4", CANAL 2 SAN LUIS
@@ -1318,13 +1318,16 @@ https://panel.tuvideostreaming.com:19360/8002/8002.m3u8
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES 4", UNIVERSIDAD TV MAR DEL PLATA
-https://stream-01.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL541uImbJyXBXP7wfHqZUINqw)/dm/3/x7kvvgi/s/live-1.m3u8
+https://stream-01.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54xKojsW85bnr70hheT6JQzg)/dm/3/x7kvvgi/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.televideoinforma.com.ar/img/publicidades/Televideo_logo.jpg" group-title="LOCALES 4", TELEVIDEO OCAMPO SANTA FE
 https://inliveserver.com:1936/8050_1/8050_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="LOCALES 4", CTV CORRIENTES
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU" group-title="LOCALES 4", PLAY TELEVISION SANTA FE
+http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8
 
 
 
@@ -1364,7 +1367,7 @@ https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108914_Canal_8_Catamarca.jpg" group-title="LOCALES 4", CANAL 8 CATAMARCA
-https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w1935033316.m3u8
+https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
 
 
 
@@ -1377,8 +1380,7 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 4", CNR JUJUY
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU" group-title="LOCALES 4", PLAY TELEVISION SANTA FE
-http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="LOCALES 4", TELEJUNIN
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
@@ -1401,11 +1403,6 @@ https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 4", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
 https://inliveserver.com:1936/14064/14064/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalc.com.ar/wp-content/uploads/2020/11/ccLogo2020.png" group-title="LOCALES 4", CANAL C CORDOBA
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CogF09oqI9JA0h9XhNDxHQmGlGlqf4uIIjVGgE51Oh2-AQuwBfJnkU6KI5fSjjkSLPpJVjsftx_cGNVuBNPlHo4FXZWp7HSH8-iOgor3Ke0cn5hOBT5KyI4eMjaSVoE_IuhfNlDOdsTGb-2Chka6Xw8cbkA34R3QtKSZbmvfgnHZS0yCq7nff1kwOqsasFRvj4nWHhXH1CTxh-tN02J3dfyNgcetf39jcKLrHgtBnXy46gADwjMw3sIDr-M6PDBuk8D2mSC1BP98j-BqkhN1ytLWcAzZoZbwThisF4fXfOYtAoEIBp5f0faFKTwTMhHUXIqLYbCBhZeZgKNM2yFs1Haw3x5s8H7mSZ4-LpNWwcQh3ys6tG0BZOqq1F7eqyWJd_y17zRLNslIexe1Jqi-AoA5B4Usm_lGnyphWZC4hR0Y1InCDz2c9xkHYUBQ3-cwgEqssQERsOdTA0OS5K319BfpgPCvuZ-eGb6HT_4VhFMfzX-fTio-i8vWIhB1Ayb13SHm5-MjVzVRLZkci0LoFFyHGIFguEqdITZ2Lo3SgM8fcFgOgS9AmQqApcPHJxTneBbrFmrDQm9vaJhl1mX_FpOlRdA0kxevxEqwan9sEfhccOTT_sBAOwAVO2PC5ylwkiGg0ZwtNcbdxCSSHnzrxDsr6haYfhiL-LRBAXU3g-bmc0eNsPcl60cKQ9_YFuYjl8SU4Qxho7zUYTSKEfzipFENcar0NtJA_ATPkXoHxDgDAYViuEB1sLMeCDe1n-A56B7DZ-ajx97S8Mp93LltoZYC6PQoiY-Bt5jNZS4Eard6daFkwd71QZ2UZM-3sMPnYIvYXgeWG1r8xvvIbOkk9AgNPNyjD9LXodRuEhCL8fDMehMcl9sq_bNlhM0wGgygFXjMZxasoClgpFQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.latinatv.com.ar/online/wp-content/uploads/2021/03/logo-latina.png" group-title="LOCALES 4", LATINA TV CORDOBA
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvMEJFxQrqH6jwM_WeTcZxXKKgurhkNDHi_5IWYcZ0KqpC7ApxpAx28ST3HCQRDjoEb71nJ9PPLR8HoCuX0rnCXMbjRCp2eHWO_f9C_8Lu3DyDXif6geFs0Ygrgaa2_PsWfQmeUu45XxdlyvkiiecFKZ5xIgeYoaiReq-pZsZ6dtEUtpwxgQTRT8dHmArtcam3-ZlSQuxg5yNU1E-OgvQBEGXiTFThhi5_9EB17reC7AYqRyKCbbPIRqU21cyLf08J7Comcf-szYPYAHjfEdLHeK4DlMS5nhsc72wGc9Urad74CMH1HJoh3zcsqOyLiA6R9XKvn5SFsQwA3htBFuxaN8jjIVj-C2QoP7eZPIgOqEKGyD0KjIjXgXVsBdh3sLd6EiLTe7XNcD629mPtxYRs5JP7iFGNAv_SHr8tKIKuFz4DKtbLoCCQNHEB_Cf8BGhCb6qFeE4vA78sD5TJfRUdvitRHkJ8i1vl0fKAVaTkaW17_8y01xTGEEjdh7wt0HmdhfJHHuw81BiKV9UbSSCgpl6OrKhBeq0bv0duUAkSFaVHXUQ_VmmhxCEYuR3V3JHJtnQvFcUmBYPwB0fOmrxsygTryYtCYmqsLXKgGu6iHnUSwPSI4c-8Loz_csgAE3w-l_ZYBT9f_dq8aRC_ZUekeC8nZfwgKLRC5fcIvVQlvBtTx2koXunaoPd1PUrtJ67vyWCv53FXwhJ-1wp31PIGZWBTPWt9q2NMYe1L2_e07ao1WeEgbuyYG9OJp62XoLy-bt3N1Gl0Vms22Jq5Z9TWxjsc69Vl_lc98gKRSpelNR8ngM5RAP6tzELNVpvQafAn8x5SQbEhDx6CdS-z0GfihWSV13l1uDGgzurBs3zKehHqMww9Y.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/x24.png" group-title="LOCALES 4", X24 TUCUMAN
 https://srv1.zcast.com.ar/x24hd/x24hd/chunklist_w1182283463.m3u8
@@ -2162,7 +2159,7 @@ https://wowza.telpin.com.ar:1935/camara-golf/camara-golf.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES 4", VIBRA HD MONTE CASEROS
-https://tna5.bozztv.com/vibratv/index.m3u8
+https://live.autistici.org/hls/vibratelevision_mid.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/119667144_106629171189999_3711954186159095551_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeH-4OXs_-gaeY6LpAeRq21H0QK33Bw_OBbRArfcHD84Fh1CmTtG-lW1vq5O27QFSxA&_nc_ohc=StO_IaEHWTYAX9z4RcB&_nc_ht=scontent.fepa11-1.fna&oh=46aa5a6e8efbc036e8e7912fef5ddc14&oe=607B10DC" group-title="LOCALES 4", LTO TV CATAMARCA
 https://cdnhd.iblups.com/hls/ycxwLxWuQv.m3u8
