@@ -2067,6 +2067,9 @@ http://video.streamtvradio.com:8081/uv008/uv008/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg" group-title="RADIO", CIUDAD MAGICA FM 105.1 AUSONIA CORDOBA
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VqFz7dg/logo-vinilo-medio-2.png" group-title="RADIO", VINILO FM 103.5 NECOCHEA
+https://srv3.zcast.com.br/vinilo/vinilo/playlist.m3u
+
 
 
 
