@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 
@@ -30,10 +29,11 @@ https://www.youtube.com/watch?v=ns8-5XKA0Ww
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="LOCALES 1", CANAL DE LA CIUDAD
 https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES 1", CANAL ENCUENTRO - 22.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
 
-
-#EXTINF:-1 group-title="LOCALES 1", CANAL ENCUENTRO - 22.1   
+#EXTINF:-1 group-title="LOCALES 1", CANAL ENCUENTRO - 22.1 (OPCION 2) YT
 https://www.youtube.com/watch?v=Frz3iEwVKbs
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES 1", AMERICA HD - 36.1
@@ -46,7 +46,7 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1
-https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/d7bc2e40-10b6-4f43-8f47-84076bcc43ee/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3NjIzOTI1LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6OWU5OTpiNDUzOmRjZTI6OTdmZDo5YjljIiwiMTkwLjEzOC4xNi43MyIsIjQ1LjIyOC4xODkuMTM0Il19LCJzaWduYXR1cmUiOiJlZjhiMGRkNjAzZDY3MzA3ZjA1MzlhNjI4YjE3Y2U1ZjcyZWFhYjNjIn0%3D
+https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/2e77588f-d8c2-457f-9256-4911378d6cb8/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3NzI3MTQ2LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6OWU5OTo3ZGQxOjVmNjpkMTBmOjUwODYiLCI2Ni4yNDkuNzIuMTg2Il19LCJzaWduYXR1cmUiOiI0YTdlNDljY2ZkZjAyNjI3YTIzYmU2MzcwNTg5NTBiMjc4ZTc4NjY5In0%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 (OPCION 2)
 http://rv.imax.re:80/307277240317/307277240317/87121
@@ -71,9 +71,6 @@ http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU" group-title="INFANTIL", PAKA PAKA - 22.2
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8 
-
-#EXTINF:-1 group-title="INFANTIL", PAKA PAKA - 22.2 (OPCION 2) YT
-https://www.youtube.com/watch?v=oXIMS8DYC1M
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6VNjpJ.png" group-title="INFANTIL", SIMPSONS MANIA 
 https://lavozdetucuman.com/simpsons.m3u8
@@ -317,8 +314,8 @@ https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
+https://stmv.panel.mivideo.pro/cineclubtv/cineclubtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
@@ -350,8 +347,10 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg" group-title="CINE Y SERIES", WMS HD
 https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="CINE Y SERIES", MOVIES
-https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WRgrmcHYIf0/XzxpQ2g856I/AAAAAAAA4os/J9nPPyj6GEQoCs9ilc05e_SgKYfLy-bcQCK8BGAsYHg/s0/2020-08-18.png" group-title="CINE Y SERIES", CINE CABLE TV
+https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="CINE Y SERIES", RETROPLUS SERIES
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
@@ -379,6 +378,9 @@ http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w156856882
 
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="CINE Y SERIES", LA VOZ TV
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="CINE Y SERIES", MOVIES
+https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_usk3hzv4/def_height/1654/def_width/3159/version/100011/type/2/q/100" group-title="CINE Y SERIES", NUESTRA VISION
 https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
@@ -434,8 +436,7 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102985_Exprezion_TV.png" group-title="CINE Y SERIES", EXPREZION TV
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
-https://stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8
+
 
 
 
@@ -658,9 +659,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", PLUTO TV KIDS 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4cb362-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=afa8239d-eea1-4295-b421-43f3852ddc10&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", PLUTO TV KIDS 3
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4cb362-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=afa8239d-eea1-4295-b421-43f3852ddc10&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", ACTION KIDS 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60218c2a32f9c40007c2f7cc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=80606d41-7bcc-11eb-86a4-8df5e66ea440&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d7fc0a51-2f1d-448b-8546-5071095e4b90&userId=&serverSideAds=true
 
@@ -679,7 +677,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", DEGRASSI
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d00091f605d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae20-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4c93798e-e952-447f-a365-6bf6f3f1ab9a&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", BIG TIME RUSH (España)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", BIG TIME RUSH
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa7aab66c76000790ee7e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a1b50-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ae85d69e-9291-4dd1-a2b4-facd888e7465&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", RUGRATS CRECIDOS
@@ -691,7 +689,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de300075
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", LAS PISTAS DE BLUE (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa82c150b2500077733d7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b4490330-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=35438e12-0256-4671-8505-e75782804dc9&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", GO DIEGO GO (España)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", GO DIEGO GO 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa89d42a0500007363ea3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a6970-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=792b48f4-9e17-4498-a864-053b445aef6a&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="INFANTIL", BabyBus
@@ -706,8 +704,8 @@ https://www.youtube.com/watch?v=hl_nACnH42w
 #EXTINF:-1 group-title="INFANTIL", SIMON
 https://www.youtube.com/watch?v=CHlXPceKbko
 
-#EXTINF:-1 group-title="INFANTIL", HeyKids
-https://www.youtube.com/watch?v=0c75oPy6cp8
+#EXTINF:-1 group-title="INFANTIL", POCOYÓ
+https://www.youtube.com/watch?v=LdbqS-t3hg0
 
 #EXTINF:-1 group-title="INFANTIL", HEROES EN PIJAMAS
 https://www.youtube.com/watch?v=SbugOb2aYFg
@@ -718,6 +716,16 @@ https://www.youtube.com/watch?v=kg1I6vR1t0g
 #EXTINF:-1 group-title="INFANTIL", La Granja de Zenón
 https://www.youtube.com/watch?v=naFJDtgRX-U
 
+#EXTINF:-1 group-title="INFANTIL", Sasha y Max
+https://www.youtube.com/watch?v=uIA1HAsvnhk
+
+
+#EXTINF:-1 group-title="INFANTIL", Pinkfong
+https://www.youtube.com/watch?v=mGfGHsUXjaQ
+
+
+#EXTINF:-1 group-title="INFANTIL", Blippi
+https://www.youtube.com/watch?v=xytsE16CgUk
 
 
 
@@ -1169,7 +1177,7 @@ http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 https://www.youtube.com/watch?v=N_X8i5O0FBo
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=H9vP7ivbBbE
+https://www.youtube.com/watch?v=_axZn5tLZ_I
 
 #EXTINF:-1 group-title="LOCALES 3", UNQ TV
 https://www.youtube.com/watch?v=W_3AWMhdiEY
@@ -1263,8 +1271,14 @@ https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="LOCALES 4", C5SF SANTA FE
+#EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="LOCALES 3", C5SF SANTA FE
 https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="LOCALES 3", C5SF 2 SANTA FE 
+https://5975e06a1f292.streamlock.net:4443/c5sf2/c5sf2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Rq2DueK3lUg/YGpFUPnkHlI/AAAAAAABBM8/jOvaiSnJ6cEVltniX8zDuD-Mv9hc-HwzwCK8BGAsYHg/s512/2021-04-04.jpg" group-title="LOCALES 3", TRIBU TV LAS VARILLAS CORDOBA
+https://5975e06a1f292.streamlock.net:4443/tributv/tributv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://quierovertv.com/images/fitness.png" group-title="LOCALES 4", VER TV VENADO TUERTO
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
@@ -1680,7 +1694,7 @@ https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w2010324553_b800000.m
 https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL", CARACOL NOTICIAS COLOMBIA
-https://www.youtube.com/watch?v=FLhqG8mK4Vk
+https://www.youtube.com/watch?v=dwzaDAVLiHg
 
 #EXTINF:-1 group-title="INTERNACIONAL", FORO TV MEXICO
 https://www.youtube.com/watch?v=9RzOKoaDnC8
@@ -1748,9 +1762,6 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INTERNACIONAL 2", CNN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/04/mega-tv-puerto-rico-en-vivo-Online.png" group-title="INTERNACIONAL", MEGA TV PUERTO RICO
-https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246468579622400000/2PZnQjrY_400x400.jpg" group-title="INTERNACIONAL", CGTN ESPAÑOL (OPCION 2)
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
@@ -1768,11 +1779,6 @@ https://www.youtube.com/watch?v=ZZfVgVnnUpo
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/Estrella_Media_-_2020_logo.png" group-title="INTERNACIONAL", ESTRELLA NEWS
 https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="INTERNACIONAL", CANAL ONCE INTERNACIONAL
-https://live2.canaloncelive.tv/livepkgr2/internacional.smil/chunklist_w1432222924_b1000000_slesp.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TV5-Monde-Info.png" group-title="INTERNACIONAL 2", TV5 Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
@@ -2158,8 +2164,7 @@ https://cdnhd.iblups.com/hls/ycxwLxWuQv.m3u8
 https://nd106.republicaservers.com/canal2misiones.mp4
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES 1", CANAL ENCUENTRO - 22.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_QTSBRhcjGU/XATV6kEZxBI/AAAAAAAAA64/EfPiSHBQFZMfzxSac9m9gDWR1VFtBGUWQCLcBGAs/s400/Canal_XAMA_TV_San_Juan.png" group-title="LOCALES 4", XAMA TV SAN JUAN
@@ -2168,6 +2173,12 @@ https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://linktvcanal.com/portal/wp-content/uploads/2017/07/logo.png" group-title="LOCALES 4", LINK TV SANTA FE
 https://panel.dattalive.com/8128/8128/playlist.m3u8
+
+
+
+
+
+
 
 
 
