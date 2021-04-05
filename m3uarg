@@ -314,8 +314,8 @@ https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
+https://stmv.panel.mivideo.pro/cineclubtv/cineclubtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
@@ -347,8 +347,7 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg" group-title="CINE Y SERIES", WMS HD
 https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="CINE Y SERIES", MOVIES
-https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="CINE Y SERIES", RETROPLUS SERIES
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
@@ -376,6 +375,9 @@ http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w156856882
 
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="CINE Y SERIES", LA VOZ TV
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="CINE Y SERIES", MOVIES
+https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_usk3hzv4/def_height/1654/def_width/3159/version/100011/type/2/q/100" group-title="CINE Y SERIES", NUESTRA VISION
 https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
@@ -431,8 +433,7 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/102985_Exprezion_TV.png" group-title="CINE Y SERIES", EXPREZION TV
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
-https://stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8
+
 
 
 
