@@ -2066,10 +2066,9 @@ http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiotupac.com.ar/wp-content/uploads/2020/04/LOGO-TUPAC-WEBCAST-05.jpg" group-title="RADIO", RADIO TUPAC WEBCAST
 https://panel.tuvideostreaming.com/wowzademo/wowzademo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiovalleviejo.com.ar/wp-content/uploads/2017/11/sticky_logo.png" group-title="RADIO", RADIO VALLE VIEJO 104.1 FM CATAMARCA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1617594601/ei/iTRqYLmDNpnb1sQPk_yl2AE/ip/45.183.156.28/id/Y4A3jQKSiYk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgIlsEasbMPV5us69v885t8GOJvgNpPpBpp63vERKXbLMCIBAoqDDg_YCCvDOByn11N17jwnnwFp6_idValtJvmTf9/file/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg" group-title="RADIO", CIUDAD MAGICA 105.1 FM AUSONIA 
+https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
 
 
