@@ -347,6 +347,9 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg" group-title="CINE Y SERIES", WMS HD
 https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WRgrmcHYIf0/XzxpQ2g856I/AAAAAAAA4os/J9nPPyj6GEQoCs9ilc05e_SgKYfLy-bcQCK8BGAsYHg/s0/2020-08-18.png" group-title="CINE Y SERIES", CINE CABLE TV
+https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="CINE Y SERIES", RETROPLUS SERIES
@@ -1174,7 +1177,7 @@ http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 https://www.youtube.com/watch?v=N_X8i5O0FBo
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=H9vP7ivbBbE
+https://www.youtube.com/watch?v=_axZn5tLZ_I
 
 #EXTINF:-1 group-title="LOCALES 3", UNQ TV
 https://www.youtube.com/watch?v=W_3AWMhdiEY
@@ -1268,8 +1271,14 @@ https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="LOCALES 4", C5SF SANTA FE
+#EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="LOCALES 3", C5SF SANTA FE
 https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="LOCALES 3", C5SF 2 SANTA FE 
+https://5975e06a1f292.streamlock.net:4443/c5sf2/c5sf2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Rq2DueK3lUg/YGpFUPnkHlI/AAAAAAABBM8/jOvaiSnJ6cEVltniX8zDuD-Mv9hc-HwzwCK8BGAsYHg/s512/2021-04-04.jpg" group-title="LOCALES 3", TRIBU TV LAS VARILLAS CORDOBA
+https://5975e06a1f292.streamlock.net:4443/tributv/tributv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://quierovertv.com/images/fitness.png" group-title="LOCALES 4", VER TV VENADO TUERTO
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
