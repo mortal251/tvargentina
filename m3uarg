@@ -1291,6 +1291,9 @@ https://5975e06a1f292.streamlock.net:4443/tributv/tributv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://quierovertv.com/images/fitness.png" group-title="LOCALES 4", VER TV VENADO TUERTO
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://diariosanjuan.com.ar/imagenes/banner.png" group-title="LOCALES 4", DIARIO DE SAN JUAN
+https://59537faa0729a.streamlock.net/radiolared/radiolared/chunklist_w1610424813.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.infomedia24.com.ar/v2/wp-content/uploads/2017/04/logo-infomediax2.png" group-title="LOCALES 4", LM 24 RIO GALLEGOS
 https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
 
@@ -1303,6 +1306,14 @@ https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u
 #EXTINF:-1 tvg-logo="http://www.valletv.com/Graficos/logo.jpg" group-title="LOCALES 4", VALLE TV NEUQUEN
 https://stmv1.srvstm.com/valletv/valletv/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_QTSBRhcjGU/XATV6kEZxBI/AAAAAAAAA64/EfPiSHBQFZMfzxSac9m9gDWR1VFtBGUWQCLcBGAs/s400/Canal_XAMA_TV_San_Juan.png" group-title="LOCALES 4", XAMA TV SAN JUAN
+https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://linktvcanal.com/portal/wp-content/uploads/2017/07/logo.png" group-title="LOCALES 4", LINK TV SANTA FE
+https://panel.dattalive.com/8128/8128/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://uniteve.com.ar/wp-content/themes/uniteve-2017/img/header-logo.png" group-title="LOCALES 4", UNITEVE VILLA MARIA CORDOBA
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
@@ -1310,7 +1321,7 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 http://66.128.32.245/output/iteltv/track_2_3000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 4", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0224
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0225
 
 #EXTINF:-1 tvg-logo="https://66.media.tumblr.com/f1138b6d236d9787c1960cdd1ae51b26/tumblr_inline_polydyA71Z1ttmwm1_1280.png" group-title="LOCALES 4", CORREA RADIOVISION
 http://arcast.net:1935/correadigital/canal12/playlist.m3u8
@@ -1343,8 +1354,7 @@ https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="LOCALES 4", CELTV CANAL 2 TORNQUIST
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="LOCALES 4", TSN NECOCHEA
-https://panel.dattalive.com/tsnnecochea/tsnnecochea/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-ohrxmwyu219car5qjnmnky0ll0mfu6yuk15jy6idgw.png" group-title="LOCALES 4", MILENIUM TV SALTA
 https://panel.tuvideostreaming.com:19360/8002/8002.m3u8
@@ -1417,8 +1427,6 @@ https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2020/12/logo-web-retina-ok-si-300x99.png" group-title="LOCALES 4", CANAL 4 ESQUEL
 https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.canal4teleba.com.ar/img/banner.png" group-title="LOCALES 4", TELEBA BALCARCE
-http://inliveserver.com:1935/8550/8550/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108679_UNIRIO.png" group-title="LOCALES 4", UNIRIO TV
 https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8
@@ -1437,6 +1445,16 @@ https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 3", ONCE PARANA
 https://www.youtube.com/watch?v=X_ynZ1dHP6s
+
+#EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="LOCALES 4", TSN NECOCHEA
+https://panel.dattalive.com/tsnnecochea/tsnnecochea/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.canal4teleba.com.ar/img/banner.png" group-title="LOCALES 4", TELEBA BALCARCE
+http://inliveserver.com:1935/8550/8550/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 3", CANAL 10 TUCUMAN
 https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1617736314&h=c64e52e83b2ccf6571f45b6ebb46f0fe
@@ -2097,6 +2115,9 @@ http://streamingvideo.com.ar:1935/argentinaenlinea/live/chunklist_w778403502.m3u
 #EXTINF:-1 tvg-logo="http://www.cadenaam1470.com/wp-content/uploads/2020/05/LOGO1.png" group-title="RADIO", CADENA 1410 LANUS
 https://stmv1.srvif.com/am1470/am1470/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.radiodiversidad.com.ar/img/logo.pngg" group-title="RADIO", RADIO DIVERSIDAD 99.9 FM TUCUMAN
+https://srv2.zcast.com.br/diversidad/diversidad/playlist.m3u8
+
 
 
 
@@ -2173,19 +2194,17 @@ https://wowza.telpin.com.ar:1935/camara-golf/camara-golf.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/119667144_106629171189999_3711954186159095551_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeH-4OXs_-gaeY6LpAeRq21H0QK33Bw_OBbRArfcHD84Fh1CmTtG-lW1vq5O27QFSxA&_nc_ohc=StO_IaEHWTYAX9z4RcB&_nc_ht=scontent.fepa11-1.fna&oh=46aa5a6e8efbc036e8e7912fef5ddc14&oe=607B10DC" group-title="LOCALES 4", LTO TV CATAMARCA
 https://cdnhd.iblups.com/hls/ycxwLxWuQv.m3u8
 
-#EXTINF:-1 tvg-logo="http://television-internet.com.ar/canal-2-misiones-en-vivo.jpg?210107074240" group-title="LOCALES 4",CANAL 2 MISIONES (SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="http://television-internet.com.ar/canal-2-misiones-en-vivo.jpg?210107074240" group-title="LOCALES 4", CANAL 2 MISIONES (SOLO IPTV AZUL)
 https://nd106.republicaservers.com/canal2misiones.mp4
 
+#EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES 4", VEO SANTA FE (SOLO IPTV AZUL)
+https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_360p/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_QTSBRhcjGU/XATV6kEZxBI/AAAAAAAAA64/EfPiSHBQFZMfzxSac9m9gDWR1VFtBGUWQCLcBGAs/s400/Canal_XAMA_TV_San_Juan.png" group-title="LOCALES 4", XAMA TV SAN JUAN
-https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://linktvcanal.com/portal/wp-content/uploads/2017/07/logo.png" group-title="LOCALES 4", LINK TV SANTA FE
-https://panel.dattalive.com/8128/8128/playlist.m3u8
 
 
 
