@@ -2123,8 +2123,14 @@ http://streamingvideo.com.ar:1935/argentinaenlinea/live/chunklist_w778403502.m3u
 #EXTINF:-1 tvg-logo="http://www.cadenaam1470.com/wp-content/uploads/2020/05/LOGO1.png" group-title="RADIO 2", CADENA 1410 LANUS
 https://stmv1.srvif.com/am1470/am1470/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiodiversidad.com.ar/img/logo.pngg" group-title="RADIO 2", RADIO DIVERSIDAD 99.9 FM TUCUMAN
+#EXTINF:-1 tvg-logo="http://www.radiodiversidad.com.ar/img/logo.png" group-title="RADIO 2", RADIO DIVERSIDAD 99.9 FM TUCUMAN
 https://srv2.zcast.com.br/diversidad/diversidad/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.fmlapatriada.com.ar/wp-content/uploads/2019/04/footer1.jpg" group-title="RADIO 2", RADIO LA PATRIADA 102.1 FM
+http://server4.stweb.tv:1935/lapatriada/live/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Vale975.png" group-title="RADIO 2", VALE FM 97.5
+https://s6.stweb.tv/vale/live/chunks.m3u8?nimblesessionid=206891530
 
 
 
