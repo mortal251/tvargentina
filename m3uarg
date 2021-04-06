@@ -35,6 +35,37 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 1", CANAL ENCUENTRO - 22.1 (OPCION 2) YT
 https://www.youtube.com/watch?v=Frz3iEwVKbs
+@mortal251
+mortal251 /
+tvargentina
+
+2
+0
+
+    1
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+
+    Settings
+
+tvargentina/
+in
+main
+
+1
+
+#EXTM3U
+
+2
+
+​
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES 1", AMERICA HD - 36.1
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8 
@@ -1857,6 +1888,10 @@ http://5953e7f9ae845.streamlock.net/2502/2502/chunklist.m3u8
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvcaravelas.png" group-title="INTERNACIONAL 2", TV Caravelas
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+
+
 
 
 
@@ -1906,8 +1941,6 @@ https://clientes.videostreaming.ar:19360/jcbtv/jcbtv.m3u8
 #EXTINF:-1 tvg-logo="https://televisioncelestial.com.ar/uploads/1zje40laqizoswwcso.png" group-title="RELIGION", TELEVISION CELESTIAL ROSARIO
 https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvcaravelas.png" group-title="RELIGION", TV Caravelas
-https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
 
 
 
