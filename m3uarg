@@ -1844,14 +1844,16 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/06blQk_MW8hp4sQEfxlkxrm3Vlnyj0Wg6Diu_CdLui3wW8Pk9SXFaScG-ErDuKzYQes" group-title="INTERNACIONAL", SARAPIQUÍ TV COSTA RICA
 http://209.126.105.158:1935/stv/web/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="INTERNACIONAL 2", SBT - TV Floresta PARANA
-https://srv-mc.sistemafloresta.com.br/sbt_live/index.m3u8?token=6f0315f72918701a1dec142039e2080e
+
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/combrasil.png" group-title="INTERNACIONAL 2", TV COM BRASIL
 https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sictv.png" group-title="INTERNACIONAL 2", SIC TV  Local - Record Rondônia
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sictv.png" group-title="INTERNACIONAL 2", SIC TV - Record Rondônia BRASIL
 http://5953e7f9ae845.streamlock.net/2502/2502/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="INTERNACIONAL 2", SBT - TV Serra Dourada BRASIL
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
 
 
