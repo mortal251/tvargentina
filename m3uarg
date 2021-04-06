@@ -1935,12 +1935,8 @@ https://g3.vxral-slo.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_a
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="RADIO 1", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="RADIO 1", FM LIGHT 97.3 SAN JUAN
 http://videostream.shockmedia.com.ar:1935/lightfm/lightfm/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/2/2852.v5.png" group-title="RADIO 1", FM RITUAL 106.1 FM RIO GRANDE TIERRA DEL FUEGO
 http://streamyes.alsolnet.com/fmritualvideo/live/playlist.m3u8
@@ -2023,8 +2019,6 @@ https://streamyes.alsolnet.com/radiojaitv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTawQavXm0sl9VVZanpEdf3JcdaWm62b-7ZLA&usqp=CAU" group-title="RADIO 2", RADIO CAPICUA  99.3 VILLA MARIA CORDOBA
 https://stmvideo2.livecastv.com/capicua/capicua/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://www.racsol.com.ar/images/logo.png" group-title="RADIO 2", RACSOL FM 94.1 LAS FLORES
 https://mediacp.hostradios.com.ar:19360/rascoltv/rascoltv.m3u8
 
@@ -2055,8 +2049,6 @@ http://inliveserver.com:1935/14082/14082/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg/v1/fit/w_2500,h_1330,al_c/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg" group-title="RADIO 2", FM OK 105.7 FLORENCIO VARELA
 https://panel.dattalive.com/8124/8124/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://nacionalypopular.nvc.org.ar/wp-content/uploads/2017/04/logo.png" group-title="RADIO 2", FM 100.9 PRIMERO LO NUESTRO - MONTE GRANDE
 https://streamcasthd.com:1936/nacionalypopular/nacionalypopular/playlist.m3u8
 
@@ -2071,8 +2063,6 @@ https://clientes.videostreaming.ar:19360/fmzetaradio/fmzetaradio.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fantastica1017.com.ar/images/logoOK.jpg" group-title="RADIO 2", FM FANTASTICA CHILECITO 101.7 FM
 https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://fmrio1075mbarete.esenvivo.com.ar/fb.jpg" group-title="RADIO 2", FM RIO 107.5 AVELLANEDA
 https://videostream.shockmedia.com.ar:1936/fmrio1075mbarete/fmrio1075mbarete/playlist.m3u8
@@ -2103,9 +2093,6 @@ http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiotupac.com.ar/wp-content/uploads/2020/04/LOGO-TUPAC-WEBCAST-05.jpg" group-title="RADIO 2", RADIO TUPAC WEBCAST
 https://panel.tuvideostreaming.com/wowzademo/wowzademo/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="http://static-1.ivoox.com/canales/4/0/4/1/741470821404_XXL.jpg" group-title="RADIO 2", RADIO CARDINAL MIRAMAR CORDOBA
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
