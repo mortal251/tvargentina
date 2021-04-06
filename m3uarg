@@ -2127,10 +2127,7 @@ https://stmv1.srvif.com/am1470/am1470/playlist.m3u8
 https://srv2.zcast.com.br/diversidad/diversidad/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fmlapatriada.com.ar/wp-content/uploads/2019/04/footer1.jpg" group-title="RADIO 2", RADIO LA PATRIADA 102.1 FM
-http://server4.stweb.tv:1935/lapatriada/live/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Vale975.png" group-title="RADIO 2", VALE FM 97.5
-https://s6.stweb.tv/vale/live/chunks.m3u8?nimblesessionid=206891530
+http://server4.stweb.tv:1935/lapatriada/live/chunks.m3u8?nimblesessionid=256325900
 
 #EXTINF:-1 tvg-logo="http://www.citricaradio.com/assets/img/cropped-logo-web.png" group-title="RADIO 2", FM CITRICA 88.5 FM AVELLANEDA
 https://5f700d5b2c46f.streamlock.net/citricaradio/citricaradio/playlist.m3u8
