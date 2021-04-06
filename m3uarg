@@ -46,7 +46,7 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1
-https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/2e77588f-d8c2-457f-9256-4911378d6cb8/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3NzI3MTQ2LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6OWU5OTo3ZGQxOjVmNjpkMTBmOjUwODYiLCI2Ni4yNDkuNzIuMTg2Il19LCJzaWduYXR1cmUiOiI0YTdlNDljY2ZkZjAyNjI3YTIzYmU2MzcwNTg5NTBiMjc4ZTc4NjY5In0%3D
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3NzkyODY3LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6OWU5OToxODJlOjIzZTA6YmFlNDo4ZjNmIl19LCJzaWduYXR1cmUiOiJiOTVkNDVjYmZiYWM2NmQ0M2YzYTQzOGNiNGFiZmU3ZDU2YTg0YzE1In0%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 (OPCION 2)
 http://rv.imax.re:80/307277240317/307277240317/87121
@@ -58,13 +58,13 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
 http://rv.imax.re:80/307277240317/307277240317/87123
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvUEsFActsZq3BhRKXYSGAezsNWYtr_4BMJabzpuNJMZw5LcLLfscsUC9R26LtxiVBMt131AHULu2g4G0lDkFO-hZuoh8MeoVU5vM32qDPcrO08vuRIaxVPHn4n_1_gXow6HsByI7uZZVT2_VVglb5ZkMp4GN74Cgy5BBtCPlxVMOd2uuC7PdBDA-xaG8LfjYP-WtfpXE-9GcJ8di1ZLmGkDneS40ir8V1A4wScwVQKJy1zVP_fa3xMTaLvfKgrqhlrRE9tW-zUrG2lG_HKLpTKbLc9WzZhOJn1Wj-UNlBAXFUmZ8pK8htFnj1z0n5N0-INtuGWmAsE0rDoJRDUcvf6d8bWf0bOOKeYEZMyleMU-k8Cp8cEB7bu1_IOJiQZRRukwiRKKH4vMBA8SFG22GXYKokwD0TJPElb92x07-Vm3V5RsDi8-FdRJGUHApDaIPrXuNaX4YMtR_YM4MAv1ndhie_Oa25HE-cSgXlbiLRY9YSpxRNzpvKwhYXi2faiAACM79ousCSrguZeRJ0ELjbyf6Q0h9p1AnSVEXmvnhdxojeUOll6-ZTF-kW8ZQoI6TwXujkUUgryo5JkRTpVYEoiYdoojHnoHCcx41uB2V6lT5QBn4HTBY6KvQm5w89tGct7VNzST1V6K6GjjmhkQBhNAyg-tA2kARZL03lcVjH22C6IcnpA1dS1sIK8TmEy0h2CwWezDklUkIE9dvuGLAbGIJVtwlnx-UBj9I41Bw8w5EtdVHBYYhjuya8o8IXeCv3OZTrXbLizjlT6XO0ByAzEeov2RydlNJr3y3aorByqbEoSFTlKaBs8KqNdITOCgTnuincBLqO4SEMiqVBDY_OPU_1-J8JbAED4aDMiRyH1qH1uzkZlDDg.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvYEtBYLS1b81ABnoo9UicC22rNTC-MtqwDusQO3rsrS8HH7-xHVL5SlCz1vbck1PCFOVRduJ-w8s4bimTRDTWP2IiOQSfYL_h3hXrijQwa7QRO8cKCtyugK-ttJ5-NeV7Q70uv3E-6HQqbChR1lqXhBn_Z49lLaf5voHC56PB-qzkK2LCYVUQ2OZxn2fnqLi-FoFvyB3XdgS_4VJ46uSuShmJXtp7VdA9QQYota0DMYYP2jBDrxTrg7cRrYjupOvUTXfjq834mb9GQrApET7lUpJ3Blf-x2CK-sVI5rYqoU1V5NywF8h_FLLTFEnWm4IAf0nSAKxU_VifYbtJv6R-22ZKyZ6rOlWxYTA8-qCuLxMXZ26SSd_QpvA4295LRusPmh1-fmK9yjN-NveoMm1qBs5MDTmaHWJ1G6u_8rk9x5NiLVU-49mQYauKcjCn94Ch24Duln5ah7tK7zFTPJpKuugZCH_xk01fCB-qCCNhSoDJ9FDD625VcY85LhYdxnXoYXX8b09-3MhJfc2ycAtWaWV3cG_-zFQEi9m60b9LLqENNv0YpXhChZBNOtCuEs4of8ShztAh79qZ1epmK1ohtaccjnKKGV68frFoGfZadTx7skuhp63AFGqL7uoRq0uW95Da9ZS-8z0lQgE590gd2faWddo_vRwo-vC43HWmCSOCAPh6OFE4klwbvFD0zNRMMiLBEzF_j5Pz0KaL37Rfl2LPXaEFULGbsBsayXM4So0_91B5dQ-Saeh4Hx_ayZkteA_P_-6_FhbJdgSvwobmJnwom8ibFvPeY9eZZf9LxM-inUREdYA9uaCU2BY9lAXZVU0B_IlPHCEhBcedsrkeXiZs1Y2he03YjuGgzqZoaiisUmFWkIUl4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1 (OPCION 2)
 http://rv.imax.re:80/307277240317/307277240317/87122
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1 (OPCION 3)
-https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/y27cg62dakhjo.m3u8?s=35NwSsBskLxNO-qajA2GRA&e=1617681191
+https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/y27cg62dakhjo.m3u8?s=GWoOdcSV-znSK2PkBNZ-tA&e=1617727920
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES 1", NET TV - 27.2
 http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
