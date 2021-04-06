@@ -2124,7 +2124,7 @@ http://streamingvideo.com.ar:1935/argentinaenlinea/live/chunklist_w778403502.m3u
 https://stmv1.srvif.com/am1470/am1470/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiodiversidad.com.ar/img/logo.png" group-title="RADIO 2", RADIO DIVERSIDAD 99.9 FM TUCUMAN
-https://srv2.zcast.com.br/diversidad/diversidad/playlist.m3u8
+https://srv2.zcast.com.br/diversidad/diversidad/playlist.m3u8  
 
 
 #EXTINF:-1 tvg-logo="http://www.citricaradio.com/assets/img/cropped-logo-web.png" group-title="RADIO 2", FM CITRICA 88.5 FM AVELLANEDA
