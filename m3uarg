@@ -99,7 +99,8 @@ https://panel.dattalive.com/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="LOCALES 1", MAGAZINE
 https://g5.proy-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/volver.svg" group-title="LOCALES 1", VOLVER
+http://disfruta.net:80/pablos/3t5emCjZUK/384
 
 #EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES 1", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
