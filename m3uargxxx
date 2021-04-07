@@ -332,6 +332,9 @@ https://stmv.panel.mivideo.pro/cineclubtv/cineclubtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/98871_EvaStream.png" group-title="CINE Y SERIES", EVASTREAM
+https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LnXLukJpoCw/maxresdefault.jpg" group-title="CINE Y SERIES", MI TV TELEVISION CLASICA
 http://162.244.80.176:8081/abr/stream/playlist.m3u8
 
