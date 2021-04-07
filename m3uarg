@@ -142,7 +142,7 @@ https://www.youtube.com/watch?v=r8I7EJwIn00
 
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/tectv.png" group-title="LOCALES 1", TEC TV - 22.5
-https://g4.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
+https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 
 
 
@@ -2023,6 +2023,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/b64e7d2ed9904a48b0f3d70609562d6b/c
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s171364/images/logog.jpg?t=153684" group-title="RADIO 1", RADIO FM SER 89.7
 http://wowza1.sion.com:1935/fmser/radio/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="RADIO 1", POWER FM PINAMAR 100.3 FM
 https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8 
