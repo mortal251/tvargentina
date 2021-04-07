@@ -77,8 +77,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU" group-title="INFANTIL", PAKA PAKA - 22.2
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K6VNjpJ.png" group-title="INFANTIL", SIMPSONS MANIA 
-https://lavozdetucuman.com/simpsons.m3u8
+
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1200px-Logo_The_Simpsons.svg.png" group-title="INFANTIL", LOS SIMPSONS 2
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
@@ -129,8 +128,7 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1811294487_b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CINE Y SERIES", CINEAR - 22.4
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mF6hKYP.png" group-title="CINE Y SERIES", Peliculas MANIA
-http://lavozdetucuman.com/peliculas1.m3u8  
+
 
 #EXTINF:-1 tvg-logo="https://www.arzbaires.org.ar/inicio/images/canalorbe21.jpg" group-title="RELIGION", ORBE 21 - 21.2
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
@@ -2229,6 +2227,12 @@ https://nd106.republicaservers.com/canal2misiones.mp4
 
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES 4", VEO SANTA FE (SOLO IPTV AZUL)
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0252 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6VNjpJ.png" group-title="INFANTIL", SIMPSONS MANIA 
+https://lavozdetucuman.com/simpsons.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mF6hKYP.png" group-title="CINE Y SERIES", Peliculas MANIA
+http://lavozdetucuman.com/peliculas1.m3u8  
 
 
 
