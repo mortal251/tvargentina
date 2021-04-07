@@ -1319,7 +1319,7 @@ http://arcast.com.ar:1935/znoticias/znoticias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.infomedia24.com.ar/v2/wp-content/uploads/2017/04/logo-infomediax2.png" group-title="LOCALES 4", LM 24 RIO GALLEGOS
 https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2019/12/atv-x1.png" group-title="LOCALES", ATV ARGENTINA
+#EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2019/12/atv-x1.png" group-title="LOCALES 4", ATV ARGENTINA
 http://arcast.com.ar:1935/atbargentina/atbargentina/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KCqAdPir4u0/XrYMI6iIs_I/AAAAAAAA0h4/UaFlSVSv3Foz_7161A3vWWA5kkH4RTZbQCK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES 4", CANAL 7 SALTA
@@ -1882,8 +1882,14 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvcaravelas.png" group-title="INTERNACIONAL 2", TV Caravelas BRASIL
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="INTERNACIONAL 2", RecordTV Manaus
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="INTERNACIONAL 2", RecordTV Manaus BRASIL
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png" group-title="INTERNACIONAL", Canal 25 REP DOMINICANA
+http://190.122.96.188:8888/http/004
+
+#EXTINF:-1 tvg-logo="http://www.vallevision.com.do/images/vallevision.png" group-title="INTERNACIONAL", Vallevision REP DOMINICANA
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 
 
 
