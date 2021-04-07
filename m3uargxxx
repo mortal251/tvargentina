@@ -63,7 +63,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
 http://rv.imax.re:80/307277240317/307277240317/87123 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvUExgS2DJ_RxDn50xDWVc7tVFx-vUJOWJMmXcnuAWhd4BQthSQMLKqAvmypKPq_5YOcekfwKJeG-Ze3AkQFILaQLuOKRoRu6HwBTzwulixfLh8LuzVeB-FJU9258UK9fLXAMmJZVVMsmEvOI9eeqBFmF7TA54naAtws_8WScyFjGCEvjlEtQk9-16xfmJGGkgZUO4_2Xu1rK8h9dz8rKRkGvL3VQp6mmdPQ03KHwx7WPMbCrmxiAQ8Koxpm6jP7oGF9RCBNbqP9oIPkXpvzMUPZgaGciV8O1ZNAsLBkHsheLTXx_hJWEARqiHzyCYE1xz74Q_vMHcHILCa4-DQnjLqE3n5vHb0J6A_27sGJLVItvHP9a6dvOw3YAwrnMP1t_h0-IkArw556-O4Qd4nIqISl1b6asHXSAzDkg6e8fjmyPo5n2m4l-XYYA7Krpr807-163aKhYMGzgG51S7m3KhQgYum7aX7hy7_9ch8BxWLoZ8G7p-cXp_3lB-pxbMzy5sQQX70Wnafl8wePgNc2GD_fRzPS9WPuGd2Ybw41ekZW1du6TGUdMKMS6jBFSzXWTA4StTnPx6ctIoQCQlK-FfKZXMY15HWVhXVY4eujwytj_iBAwd5ygOTycUpIZo5Y5wLsce6Cyza-z5K89KokKnvtKNd-uvy0j5LtqHE5BTUNquNbnVhJrd_9jg2cOanearWVGcEhV2L0bNa3Nxuf2UzK5RI7qjPN_c9FAFZq8PU4hDY0H-zEpOyzGvb60BS5Lfy6ul4UauhJtkUHUjDL3Ilu4UbSmKNBsCKDJkP0ToqUPzgImtJzd-K9V_z90ixyilQ2uTOeQzgSEB-PCw1lGcLeQg2q38E70DoaDD76HuVLWgnzumn4bw.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvYEpUS068EnKKArq4bCKLCSQLmpTR6cNJNpbMTjdQnTI6v5tQZjIEPtWu5ne7BfDAICsozxQlyaKYUac3J8o659LHPf5SzoVK4l5jfNgb-buq26BZYIavudbic5TjXiUv1XcIM_qSjuJGmXJX57tW2mXhl_Chr4wJ-afqXcVeP4qkhJILQTIJzV1tJNYxGYpvgbf9xHqZ00wZvXySVXbySe2STCjlDDuCKeTqKzq6cNO2AYeS7j3Hq4_vhfXDJlgK9_0wQHCOMPzOHXhqKN3wWlh81gKf8naPhvjDAaaSQ0Ef897FLED0K1dH_6vUWisd3bGVKQQ9uXk_Dtkq80-pMh7ICoXVmm9-rCOSnHrghsC3bUmh3FWwW6xj5ahkjFaLnSapDdLwsaX2lrWzZmK4MFxwXWbT5Ven0sIHvruXE03y0hOowFt-8gZaFFQ1JL3OpWI1vn-e4I1LxNxUL1aT6BkvOQ-k3oS444HA9R1mwupDiCQtNnYrk-BcCTbYBX5jfkn8KupAez_tybY7Yxa1XvsbH_HplUePkUYik4aZbpENC2eH5SBSp6LxMYjwfkfUKrkQvlahA81wVAxjF8c05waQsEaiYAlEUsE7GfGVnHOkZT6GivkZOMqA5qCJUeRots7zIesvAVOdXa-ZUfNPRA03UJHTGftNTFMvWZr90ESIN1EsIVo8e7FXdU08E4eLD65hIin9XWXiDyAdNfaLcwlSkd7rYbsCHso2sFeFTWM_FM9z5o7_ZN2ilS7YF47fCqD3Do8oxCwavZvGx058QDO5W0hHKi0tb0fzuxnqr82s_YPT-nauGYCv_D02eFHeUYy7gz4xY6EhAnTIlYbNSBaAkwEyHj3aSWGgz-0tojysczCPbUrcs.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1 (OPCION 2)
 http://rv.imax.re:80/307277240317/307277240317/87122
@@ -142,7 +142,7 @@ https://www.youtube.com/watch?v=r8I7EJwIn00
 
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/tectv.png" group-title="LOCALES 1", TEC TV - 22.5
-https://g4.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
+https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 
 
 
@@ -317,6 +317,9 @@ https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/960549144657002496/9Rdtd6Ke_400x400.jpg" group-title="LOCALES 1", TVU LA PLATA
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+
+#EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="LOCALES 1", VIAJAR TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0030
 
 
 
@@ -1491,6 +1494,8 @@ https://paneltv.online:1936/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/70671542_1686593204818244_6449780340050362368_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHkpqXYZ6dMPfQfqZAWvka4YQyI8Mm8gAhhDIjwybyACOYzk2tT4B6Mqv1w1wq7QSQ&_nc_ohc=FnY4QXYWhz0AX-bfHs9&_nc_ht=scontent.fepa11-1.fna&oh=e99ba1e8d8abd3c50125a033049a21a7&oe=60809E0C" group-title="ESTILO DE VIDA 1", MILENNIO LOS CONDORES
 https://59537faa0729a.streamlock.net/milenniotv/milenniotv/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/48427210_325701461614645_8188794366064590848_o.jpg?_nc_cat=107&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeE0w6xxxggX9dwSkxkmZ_Wfo3l5ohkQmVOjeXmiGRCZU5PXVmFuZY-G90M3kz-GBPs&_nc_ohc=t0jauJRBNSEAX-Eus-y&_nc_ht=scontent.fepa11-1.fna&oh=85b7587a15fa481bb6b14002d1932594&oe=604416B9" group-title="ESTILO DE VIDA 1", HD FASHION
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 
@@ -2021,6 +2026,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/b64e7d2ed9904a48b0f3d70609562d6b/c
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s171364/images/logog.jpg?t=153684" group-title="RADIO 1", RADIO FM SER 89.7
 http://wowza1.sion.com:1935/fmser/radio/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="RADIO 1", POWER FM PINAMAR 100.3 FM
 https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8 
 
@@ -2233,6 +2239,11 @@ https://lavozdetucuman.com/simpsons.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mF6hKYP.png" group-title="CINE Y SERIES", Peliculas MANIA
 http://lavozdetucuman.com/peliculas1.m3u8  
+
+
+
+
+
 
 
 
