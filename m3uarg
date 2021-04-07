@@ -333,7 +333,7 @@ https://stmv.panel.mivideo.pro/cineclubtv/cineclubtv/playlist.m3u8
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/98871_EvaStream.png" group-title="CINE Y SERIES", EVASTREAM
-https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m3u8
+https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/chunklist_w191787199.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LnXLukJpoCw/maxresdefault.jpg" group-title="CINE Y SERIES", MI TV TELEVISION CLASICA
 http://162.244.80.176:8081/abr/stream/playlist.m3u8
@@ -1885,10 +1885,10 @@ https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/play
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="INTERNACIONAL 2", RecordTV Manaus BRASIL
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png" group-title="INTERNACIONAL", Canal 25 REP DOMINICANA
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/27/c9/a6/27c9a690f48240790263160b279f2221.jpg" group-title="INTERNACIONAL", CANAL 25 REP DOMINICANA
 http://190.122.96.188:8888/http/004
 
-#EXTINF:-1 tvg-logo="http://www.vallevision.com.do/images/vallevision.png" group-title="INTERNACIONAL", Vallevision REP DOMINICANA
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/vallevision.png" group-title="INTERNACIONAL", VALLEVISION  REP DOMINICANA
 http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 
 
@@ -1988,7 +1988,7 @@ https://fm999.info/test/index.m3u8
 http://videostream.shockmedia.com.ar:1935/lightfm/lightfm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vorterix.com/assets/img/logo-icon.png" group-title="RADIO 1", VORTERIX - 92.1 FM
-https://prepublish.f.qaotic.net/b12/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
+https://prepublish.f.qaotic.net/b12/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
 
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/2/2852.v5.png" group-title="RADIO 1", FM RITUAL 106.1 FM RIO GRANDE TIERRA DEL FUEGO
 http://streamyes.alsolnet.com/fmritualvideo/live/playlist.m3u8
