@@ -2150,7 +2150,11 @@ https://srv2.zcast.com.br/diversidad/diversidad/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.citricaradio.com/assets/img/cropped-logo-web.png" group-title="RADIO 2", FM CITRICA 88.5 FM AVELLANEDA
 https://5f700d5b2c46f.streamlock.net/citricaradio/citricaradio/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="RADIO 2", CATRIEL WEB
+https://589ff3c36f7e8.streamlock.net/alastv/alastv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://canal3lasflores.com.ar/wp-content/uploads/2020/11/canallogohead.png" group-title="RADIO 2", LAS FLORES DIGITAL
+https://inliveserver.com:1936/8436/8436/playlist.m3u8
 
 
 
@@ -2194,11 +2198,7 @@ https://streaming.reltid.com.ar/hls/sierra.m3u8
 #EXTINF:-1 tvg-logo="http://www.tornquistdistrital.com.ar/wp-content/uploads/2012/07/Logo-Monte.jpg" group-title="WEB CAM Y CLIMA", MONTE HERMOSO
 https://streaming.reltid.com.ar/hls/monte.m3u8
 
-#EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="WEB CAM Y CLIMA", CATRIEL WEB
-https://589ff3c36f7e8.streamlock.net/alastv/alastv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canal3lasflores.com.ar/wp-content/uploads/2020/11/canallogohead.png" group-title="WEB CAM Y CLIMA", LAS FLORES DIGITAL
-https://inliveserver.com:1936/8436/8436/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", AV 3 Y 104 VILLA GESELL
 http://cam104y3.gesell.com.ar/playlist.m3u8
@@ -2213,8 +2213,6 @@ http://cammuelle.gesell.com.ar/playlist.m3u8
 http://camlapinocha.gesell.com.ar/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", OSTENDE Y LA RAMBLA PINAMAR
-https://wowza.telpin.com.ar:1935/camara-rambla/camara-rambla.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", PINAMAR GOLF
 https://wowza.telpin.com.ar:1935/camara-golf/camara-golf.smil/playlist.m3u8
