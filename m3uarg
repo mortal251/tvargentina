@@ -82,8 +82,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1200px-Logo_The_Simpsons.svg.png" group-title="INFANTIL", LOS SIMPSONS 2
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5b/c4/8e/5bc48eec6fb66fd17efc5430c1fb48e5.jpg" group-title="INFANTIL", LOS SIMPSONS 3
-https://sv5.tsnt.xyz/simpsons/simpsons/playlist.m3u8
+
 
 
 
@@ -2254,6 +2253,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0252
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6VNjpJ.png" group-title="INFANTIL", SIMPSONS MANIA 
 https://lavozdetucuman.com/simpsons.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5b/c4/8e/5bc48eec6fb66fd17efc5430c1fb48e5.jpg" group-title="INFANTIL", LOS SIMPSONS 3
+https://sv5.tsnt.xyz/simpsons/simpsons/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mF6hKYP.png" group-title="CINE Y SERIES", Peliculas MANIA
 http://lavozdetucuman.com/peliculas1.m3u8  
