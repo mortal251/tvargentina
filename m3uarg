@@ -2289,6 +2289,9 @@ https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES 4", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES 4", KZO
+https://stmvideo2.livecastv.com/mercedestv/mercedestv/playlist.m3u8
+
 
 
 
