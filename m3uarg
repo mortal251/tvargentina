@@ -1918,7 +1918,8 @@ http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Jalisco-TV-2-en-vivo-Online-218x150.png" group-title="INTERNACIONAL", JALISCO TV MEXICO
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://api.raddios.com/api/radios/15867/image/miniaturamovil?2020-11-10%2016:15:40" group-title="INTERNACIONAL", INVASIVA TV CAPIATA PARAGUAY
+https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 
 
 
