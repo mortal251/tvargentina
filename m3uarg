@@ -2075,6 +2075,10 @@ http://streamyes.alsolnet.com/fmdelsoltv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://okfmarroyito.com/wp-content/uploads/2018/03/RADIO-EN-VIVO.jpg" group-title="RADIO 1", 95.5 FM OK ARROYITO CORDOBA
 https://inliveserver.com:1936/14062/14062/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.lu24.com.ar/wp-content/themes/Lu24_template/img/logo-lu24.svg" group-title="RADIO 1", LU 24 TRES ARROYOS
+http://stream.shockmedia.com.ar:1935/lu24am/lu24am/playlist.m3u8
+
 #EXTINF:-1 group-title="RADIO 2", VORTERIX - 92.1 FM
 https://www.youtube.com/watch?v=Bi4w23aW99s
 
@@ -2285,16 +2289,13 @@ https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="LOCALES 4", CANAL 5 ALCORTA
-https://cdnhd.iblups.com/hls/7bEo2fjZW4.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="LOCALES 4", LU 24 TRES ARROYOS
-http://stream.shockmedia.com.ar:1935/lu24am/lu24am/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="LOCALES 4",CANAL 11 MAR DEL PLATA
-https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+
+
+
 
 
 
