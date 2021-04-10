@@ -1365,8 +1365,14 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0161
 #EXTINF:-1 tvg-logo="https://madmultimedios.com.ar/download/publicidades.imagen.85ca37af4521c2f4.696d6167656e2e706e67.png" group-title="LOCALES 4", CANAL 5 TANDIL
 https://stmv1.srvif.com/madmultimedios/madmultimedios/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj3A5dsZMcJlJdjb7NWxnpPuV2HFmJVcJqzyf2Y9g=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 4", CANAL 18 SALTA
+https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://realidad10.com/wp-content/uploads/2020/11/cropped-WhatsApp-Image-2020-11-03-at-09.49.14.jpeg" group-title="LOCALES 4", REALIDAD 10 SANTA FE
 https://streamcasthd.com:1936/realidad10/realidad10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhUQ5Os9Dt_YYuUoJ2UonRBs23Q-HMnpEe3Q0hd2g=s88-c-k-c0x00ffffff-no-rj" group-title="LOCALES 4", MERCEDES TV
+https://stmv1.srvif.com/mercedestv/mercedestv/playlist.m3u8
 
 
 
@@ -1389,7 +1395,6 @@ https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.crossingcontenidos.com.ar/wp-content/uploads/2020/10/LOGO-CROSSING-IPTV-300x282.png" group-title="LOCALES 3", CROSSING TV RIO GALLEGOS
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="LOCALES 4", CANAL 10 SAN RAFAEL
@@ -1963,6 +1968,9 @@ https://clientes.videostreaming.ar:19360/jcbtv/jcbtv.m3u8
 #EXTINF:-1 tvg-logo="https://televisioncelestial.com.ar/uploads/1zje40laqizoswwcso.png" group-title="RELIGION", TELEVISION CELESTIAL ROSARIO
 https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/fmlavozsao.com/wp-content/uploads/2018/08/radio-nuevo.jpg?fit=573%2C524&ssl=1" group-title="RELIGION", FM LA VOZ 91.5 SAN ANTONIO OESTE
+https://stmvideo2.livecastv.com/lavoztv/lavoztv/chunklist_w859988336.m3u8
+
 
 
 
@@ -2024,7 +2032,7 @@ http://streamyes.alsolnet.com/goodradio/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuxgBnJlOtJSsTnFvwCHja5d0A753R6C9DpA&usqp=CAU" group-title="RADIO 1", NOVA FM 91.5 MISIONES
 http://streamyes.alsolnet.com/radionovatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9f/51/9f51832cbcc4c513b3415c2d9616fe89.jpg" group-title="RADIO 1", FM LATINA 94.5
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9f/51/9f51832cbcc4c513b3415c2d9616fe89.jpg" group-title="RADIO 1", FM LATINA 94.5 ROSARIO
 http://streaming.arcast.com.ar:1935/fmlatina/fmlatina/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQC3ZztNwYVI7-3K0qGaDY-w0toenpCDjGhg&usqp=CAU" group-title="RADIO 1", FM METROPOLITANA 93.5 TUCUMAN
@@ -2085,6 +2093,9 @@ http://stream.shockmedia.com.ar:1935/lu24am/lu24am/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radioestacion.com.ar/wp-content/uploads/2020/07/logoestacions.png" group-title="RADIO 1", RADIO LA ESTACION 102.5 SAN FRANCISCO CORDOBA
 https://mediacp.hostradios.com.ar:19360/radioestacion/radioestacion.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/rbdradio.com.ar/wp-content/uploads/2021/01/LOGO-RBD-CURVAS-TRANS-e1611097859586.png?fit=100%2C100&ssl=1" group-title="RADIO 1", RBD RADIO
+http://videostream.shockmedia.com.ar:1935/rbdvideo/rbdvideo/playlist.m3u8
 
 
 
@@ -2206,6 +2217,9 @@ https://589ff3c36f7e8.streamlock.net/alastv/alastv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal3lasflores.com.ar/wp-content/uploads/2020/11/canallogohead.png" group-title="RADIO 2", LAS FLORES DIGITAL
 https://inliveserver.com:1936/8436/8436/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://realidad10.com/wp-content/uploads/2020/11/cropped-WhatsApp-Image-2020-11-03-at-09.49.14.jpeg" group-title="RADIO 2", CN 22 CHACO
+https://5f6e1fe8f2d2e.streamlock.net/cn22/cn22/playlist.m3u8
 
 
 
