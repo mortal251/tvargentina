@@ -62,14 +62,16 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE - 34.1 (OPCION 2)
 http://rv.imax.re:80/307277240317/307277240317/87123 
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvUEbTxGjsL3P4YRl2gUwAmS0bxHTSvRjI2lhxigwoQIrqOgcgl_EA-P8xGw6FNJnHgfbdvlBuq5W75y70SuQpwaNPNTw2mu72MmcMOR0CgHceGyz1PeW_nNFYIU2hbIVm-ylX55DyFaxnUVN3NNNIn5jcmXGJg6E4Bl4bFE-DWzsbZRqv87DOgG5GLmJd1DQAKJUf_UrtohH-z_T6SJq0__ufY84HZDeP2UdWfNWMZrVJZ5Oyn3mfSiSTfHwjw1CnE3que7LpFwO-e_92Zpf0WPPrMB5qqXKDNDUyzLOqZE8q1jNu92VgEZQQ1SfQbiUTRe5zBQF6kz80r2FxParNN7tnUG1TZDeeNojb8qv04FN8Uk9QW3qqKY1B-2Rqxxo2dKehMMQoLK7hjVU16GqS-g8uuqL73D0jj6vRFU8dHFKo2qvMUcZU4LdPoirMu3tR089Xgta1HfgUSk85su0ul_5I1n6dtmYGNWLYXJNShndwtnBcFPdGChNsmDGpUwnRsWZLUbpqh6knRAlSA0kEQL7Gh7Lkn8JunSnJehyDODWP0pDyOGqzubq0WIZEtEha-okPnBGPbzUkSnsjDx0W9_tMhvryl1l82RlvvZI-KDk-EWUSYGZ8Av3K-9QBoe0_6EeTfhH_CGk73yAhnNylV1KPhCJrthO9QmH8ijAIyXO7JC_KzWWj32WJdJVeEq_se_6Zv69kmnuy9smMUujm0BqHG5IFvRSn-bkl-K8by1L5RAPgEfgLAh7SB9_J2fdQSiqWe0NIAvF_idXjxPI1qsx9Br6hmmsmI4vohYbNAGuqwd3CWN8LUKKdn_oorcwoAm_29uNzsSEJ0ev6eVWvdOeQlMaZJaa0YaDBQlQ2fuGaogQzB5HA.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvMES1mRqUiHjbTK38jB6fdKxtP6H0Qn0Z6_Jk2NuMcr4_wDBZxXzH8M1SYOXA24FXLFiF94afsyJSOp5YXMZlhrW3kP74nHMc-lSVqbbTStP8c0cxDe3CLSZaGVsWScufDS2WH0vmDtQrCOs3kpRbMe7dCDcgfeyZap1IAjRVEG1g3YLZpxiXWl0YWfq1A7oBXzlCHNv1IKASJCxrKWDTQfpRQLg2JY-TjxGwxMKLcr0g8cToXV7CexVOq2tTbiyz66rvOcszUdfh1Ocb74MgfGF8Ez4gZw0J1msQaU8psP0F3WJGoC3qYgC65Vv6FuAuW1STzLnDAH0TXV33_SPScewJy7366tYC0WHJuTzZp5zBBYEC0GArWV1_appVFioIIP2FoZIfzHOPKSaQ4lLvyeZc1nO6ilrQZOa7DLAh_g07OOtDIAKmrkl9BbcCCX5YVxnXK-p8HvPKVKTpsmU_nO72SkIPdQVJcbvLGoxmXBrf4Jgf-QCgPf4FXU2gBsRVmFF9f-Ei2GSZ9VBdVh0m6WzMMlXTvpL772vog8Lv0_hCl0XFsoqsax_zrgH5uvcFgbNQvxJP9YHZ-SPWOBUpN-uYad9tfcekXZm1VrMVCGafusKLy3AP01AubZPVY0v9W3UnEjEQIzNeVLXmTeE2P-pLc4CBwPfbBVB1XhiKgZx_OoWU6kwpHKWIZ_61zVwjNacL8R1vUuKjONtxtDeEPNcCzV75lwfn6hBzL8WDmQyg0xkrWIaQaJ8t51z30VDd8BCZC6T-sxZmBAdCMkd0fHDPQYURkCE4Monfmy_BxfQHa5OGeaXsiAuGr9TO-72myCvcCsEhBSO3L2nJDTvx_W3ih3E0vtGgwnyb4Aj75hKxN9vDI.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1 (OPCION 2)
 http://rv.imax.re:80/307277240317/307277240317/87122
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1 (OPCION 3)
-https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/s7smi57g.m3u8?s=lDJbPk8UVoJQkqEVkKzU5A&e=1618082811
+http://l3dtv.ga:8080/MJv7bnghmG/hy2Ynxw3z7/199858
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES 1", NET TV - 27.2
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
