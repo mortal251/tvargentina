@@ -758,12 +758,30 @@ https://www.youtube.com/watch?v=xytsE16CgUk
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT (OPCION 2)
+https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT INTERNACIONAL
+http://l3dtv.ga:8080/MJv7bnghmG/hy2Ynxw3z7/10920
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT PLAY 1
+https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT PLAY 2
+https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT PLAY 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="DEPORTE", CLARO SPORT
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1200px-Gol.svg.png" group-title="DEPORTE", GOL TV ESPAÑA
+http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTE", TENIS CHANNEL
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
@@ -1353,6 +1371,12 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="LOCALES 3", ITEL CHAJARI
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0161 
 
+#EXTINF:-1 tvg-logo="https://madmultimedios.com.ar/download/publicidades.imagen.85ca37af4521c2f4.696d6167656e2e706e67.png" group-title="LOCALES 4", CANAL 5 TANDIL
+https://stmv1.srvif.com/madmultimedios/madmultimedios/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://realidad10.com/wp-content/uploads/2020/11/cropped-WhatsApp-Image-2020-11-03-at-09.49.14.jpeg" group-title="LOCALES 4", REALIDAD 10 SANTA FE
+https://streamcasthd.com:1936/realidad10/realidad10/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3487556435/aaae8392a11f89550187210f1a944807_400x400.jpeg" group-title="LOCALES 4", CANAL 29 ENSENADA
 http://video.streamtvradio.com:8081/uv059/uv059/chunks.m3u8
@@ -1520,7 +1544,8 @@ https://59537faa0729a.streamlock.net/milenniotv/milenniotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/48427210_325701461614645_8188794366064590848_o.jpg?_nc_cat=107&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeE0w6xxxggX9dwSkxkmZ_Wfo3l5ohkQmVOjeXmiGRCZU5PXVmFuZY-G90M3kz-GBPs&_nc_ohc=t0jauJRBNSEAX-Eus-y&_nc_ht=scontent.fepa11-1.fna&oh=85b7587a15fa481bb6b14002d1932594&oe=604416B9" group-title="ESTILO DE VIDA 1", HD FASHION
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://maxtvonline.com/wp-content/uploads/2017/10/logo2.png" group-title="ESTILO DE VIDA 1", MAX TV ECUADOR
+https://streamingwowza.com:1936/maxtvonline/smil:maxtvonline.smil/chunklist_w40285888_b608000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/90570_TV_Salud.png" group-title="ESTILO DE VIDA 1", TV SALUD
 https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
@@ -1911,6 +1936,10 @@ http://190.122.96.188:8888/http/004
 http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Jalisco-TV-2-en-vivo-Online-218x150.png" group-title="INTERNACIONAL", JALISCO TV MEXICO
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+
+
 
 
 
@@ -2079,6 +2108,12 @@ https://inliveserver.com:1936/14062/14062/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lu24.com.ar/wp-content/themes/Lu24_template/img/logo-lu24.svg" group-title="RADIO 1", LU 24 TRES ARROYOS
 http://stream.shockmedia.com.ar:1935/lu24am/lu24am/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radioestacion.com.ar/wp-content/uploads/2020/07/logoestacions.png" group-title="RADIO 1", RADIO LA ESTACION 102.5 SAN FRANCISCO CORDOBA
+https://mediacp.hostradios.com.ar:19360/radioestacion/radioestacion.m3u8
+
+
+
 
 #EXTINF:-1 group-title="RADIO 2", VORTERIX - 92.1 FM
 https://www.youtube.com/watch?v=Bi4w23aW99s
@@ -2289,8 +2324,13 @@ https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES 4", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES 4", KZO
-https://stmvideo2.livecastv.com/mercedestv/mercedestv/playlist.m3u8
+
+
+
+
+
+
+
 
 
 
