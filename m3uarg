@@ -1727,7 +1727,7 @@ https://rds3.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?k=ff9efd99a197a2d0
 https://live1.presstv.com/live/hispan_360p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/245px-Rai_3_-_Logo_2016.svg.png" group-title="INTERNACIONAL 2", RAI 3
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w994803816.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL 2", ANN JAPAN
 https://www.youtube.com/watch?v=coYw-eVU0Ks
