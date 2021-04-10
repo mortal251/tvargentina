@@ -161,14 +161,11 @@ https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 
 https://sv.tsnt.xyz/espn/espn1o_sur_c.m3u8?161563806
 
-#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN (OPCION 2)
-http://stkiptv.ddns.me:27890/791miguel/727272njwkskkd/5599
+
 
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
-https://e10.espncdn.shop/ingestnb4s/espn2_sur/f.m3u8
+http://23.237.78.54/live-1000/263/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2 (OPCION 2)
-http://stkiptv.ddns.me:27890/791miguel/727272njwkskkd/28777
 
 
 #EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png?3" group-title="MUSICA", MUSIC TOP
@@ -2286,6 +2283,18 @@ https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES 4", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="LOCALES 4", CANAL 5 ALCORTA
+https://cdnhd.iblups.com/hls/7bEo2fjZW4.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="LOCALES 4", LU 24 TRES ARROYOS
+http://stream.shockmedia.com.ar:1935/lu24am/lu24am/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="LOCALES 4",CANAL 11 MAR DEL PLATA
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
 
 
