@@ -158,13 +158,16 @@ https://www.youtube.com/watch?v=Kw6MnF7Yka0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 
-https://sv.tsnt.xyz/espn/espn1o_sur_c.m3u8?161563806
-
-
+http://ps3ultimate.com/ElUnicoLosDemasCopian/LAT?cat=latinos&ch=espn1ar&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
 http://23.237.78.54/live-1000/263/playlist.m3u8
+
+
+
 
 
 
@@ -1517,8 +1520,7 @@ https://59537faa0729a.streamlock.net/milenniotv/milenniotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/48427210_325701461614645_8188794366064590848_o.jpg?_nc_cat=107&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeE0w6xxxggX9dwSkxkmZ_Wfo3l5ohkQmVOjeXmiGRCZU5PXVmFuZY-G90M3kz-GBPs&_nc_ohc=t0jauJRBNSEAX-Eus-y&_nc_ht=scontent.fepa11-1.fna&oh=85b7587a15fa481bb6b14002d1932594&oe=604416B9" group-title="ESTILO DE VIDA 1", HD FASHION
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhGBqexw7gKt90ff-uk2JGggAwdjenVwy-j_nZuZg=s900-c-k-c0x00ffffff-no-rj" group-title="ESTILO DE VIDA 1", VIBE TV
-https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/90570_TV_Salud.png" group-title="ESTILO DE VIDA 1", TV SALUD
 https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
@@ -1575,8 +1577,7 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://cultura24.tv/sites/default/files/inline-images/sponsor1.jpg" group-title="ESTILO DE VIDA 1", CULTURA 24 TV
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://the-eshow.com/madrid19/wp-content/uploads/2017/02/tendencias6.jpg" group-title="ESTILO DE VIDA 1", TENDENCIAS TV
-https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="ESTILO DE VIDA 2", HISTORIAS DE ULTRATUMBA
@@ -1727,7 +1728,7 @@ https://rds3.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?k=ff9efd99a197a2d0
 https://live1.presstv.com/live/hispan_360p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/245px-Rai_3_-_Logo_2016.svg.png" group-title="INTERNACIONAL 2", RAI 3
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w994803816.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL 2", ANN JAPAN
 https://www.youtube.com/watch?v=coYw-eVU0Ks
@@ -2237,7 +2238,9 @@ https://5f6e1fe8f2d2e.streamlock.net/puan/puan/playlist.m3u8
 https://streaming.reltid.com.ar/hls/sierra.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tornquistdistrital.com.ar/wp-content/uploads/2012/07/Logo-Monte.jpg" group-title="WEB CAM Y CLIMA", MONTE HERMOSO
-https://streaming.reltid.com.ar/hls/montedvr5.m3u8
+https://streaming.reltid.com.ar/hls/monte.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", AV 3 Y 104 VILLA GESELL
 http://cam104y3.gesell.com.ar/playlist.m3u8
@@ -2285,6 +2288,28 @@ https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES 4", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
