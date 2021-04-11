@@ -63,8 +63,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
 http://rv.imax.re:80/307277240317/307277240317/87123 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvMES1mRqUiHjbTK38jB6fdKxtP6H0Qn0Z6_Jk2NuMcr4_wDBZxXzH8M1SYOXA24FXLFiF94afsyJSOp5YXMZlhrW3kP74nHMc-lSVqbbTStP8c0cxDe3CLSZaGVsWScufDS2WH0vmDtQrCOs3kpRbMe7dCDcgfeyZap1IAjRVEG1g3YLZpxiXWl0YWfq1A7oBXzlCHNv1IKASJCxrKWDTQfpRQLg2JY-TjxGwxMKLcr0g8cToXV7CexVOq2tTbiyz66rvOcszUdfh1Ocb74MgfGF8Ez4gZw0J1msQaU8psP0F3WJGoC3qYgC65Vv6FuAuW1STzLnDAH0TXV33_SPScewJy7366tYC0WHJuTzZp5zBBYEC0GArWV1_appVFioIIP2FoZIfzHOPKSaQ4lLvyeZc1nO6ilrQZOa7DLAh_g07OOtDIAKmrkl9BbcCCX5YVxnXK-p8HvPKVKTpsmU_nO72SkIPdQVJcbvLGoxmXBrf4Jgf-QCgPf4FXU2gBsRVmFF9f-Ei2GSZ9VBdVh0m6WzMMlXTvpL772vog8Lv0_hCl0XFsoqsax_zrgH5uvcFgbNQvxJP9YHZ-SPWOBUpN-uYad9tfcekXZm1VrMVCGafusKLy3AP01AubZPVY0v9W3UnEjEQIzNeVLXmTeE2P-pLc4CBwPfbBVB1XhiKgZx_OoWU6kwpHKWIZ_61zVwjNacL8R1vUuKjONtxtDeEPNcCzV75lwfn6hBzL8WDmQyg0xkrWIaQaJ8t51z30VDd8BCZC6T-sxZmBAdCMkd0fHDPQYURkCE4Monfmy_BxfQHa5OGeaXsiAuGr9TO-72myCvcCsEhBSO3L2nJDTvx_W3ih3E0vtGgwnyb4Aj75hKxN9vDI.m3u8
-
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvUELEe_F_BJSwu6oUloOtDdMUPUoWOnre7Def8ksku8zKbEYQ97SvUVuk0cMVE6w39YYWDW3jxTyhD7C17wXBvWmSirrsxHUQTTeFe6cOMZNr8MIFqxnhrSDT_Ml5lWbrAR3HlDYFMs7AReD54M64yaXNo-dFxA4h_Auhk3dDQzWLYnaMwp1m9WKQ_GfJuBmdkna26Ov6V_Q_cWHscAYTqIAinNJQgXmuOnDMqusqupKTePlTU2NIGlAOKwLgG2r6f7usb72jAQ6niKkvLAm2OzO28lgI5BTH_SndWjSAi41wb2jnsAkt_eL_dhlTlPFH-6RDTYzeCCSYQIx26tMuQn_KjMFdlPtpSxzgLLsL49mWBbvnNtb76YrVp5z5N3LFeHYiJonBvxiRlTD8zlMQ0RRioZBcFJ1F2Fs0gyfkl-CnFMpSae4FJYRHePEF3DU4t4wbHyo1BkORYE2cqoJIW7V_wH1mVvZGZToHReM1DE6HEcTkk_SikCLffEE7iq4KyYhBZftaX0lLbKCPC_D-G28yFuRpw-1a1gHgXVpHfOAnXRmsCuFR7ivSAN3-r3lJ71BUYyQdF-H6_Hq2swpzW4vIgEFQovhTp1brEG5kXKBZQnEonyFEiMfc6LHekpBpw4GqmqxQ1oJDTu9PiTVcygU_Ez09fQfvc7p03bJuuO6KRWEJ7N-upf-dYu4QMMonHVwkF5DhAON_srp99wYw5RKXcPabey57Af1otmT8Z2X8xb1lOi3hLwmdpTSIiGjYLHxbS6CTBKJpTZBKF7kzefokqqOxaJzlgFgM_GFukmK-QYfzIwCO9yAeWtsunu2bFU4mq-XUESEJmTJo0ISudL8mncpz8iEd0aDAMwfNUmaMHBxa0BZQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1 (OPCION 2)
 http://rv.imax.re:80/307277240317/307277240317/87122
@@ -605,8 +604,7 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg" group-title="INFANTIL", CHIQUILINES
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127494_Boomerang.png" group-title="INFANTIL", BOOMERANG TV
-http://8.9.4.128:8080/hls/boomerangtv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", BOB ESPONJA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c3e30-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2122e9a3-0ffd-41e4-bb57-eb51058728f6&userId=&serverSideAds=true
@@ -615,8 +613,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c515.png" group-title="INFANTIL", ANGRY BIRDS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", CARTOON NETWORK
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683?checkedby:hlscat.com
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
@@ -666,7 +663,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67e20c93312100076
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", PLUTO TV JUNIOR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff09cb2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8363a179-73ed-45ee-8927-75d6fecf5c50&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", PLUTO TV JUNIOR (España)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", PLUTO TV JUNIOR 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa9bcd8160700076d45d1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b4492a41-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8ae70f51-5e3c-4e72-b4fa-e5c3a3ced6ae&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", BABYFIRST
@@ -708,7 +705,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", LAS PISTAS DE BLUE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49450-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2dab1e46-b757-41f4-af9a-7a988974b383&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", LAS PISTAS DE BLUE (España)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", LAS PISTAS DE BLUE 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa82c150b2500077733d7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b4490330-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=35438e12-0256-4671-8505-e75782804dc9&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", GO DIEGO GO 
@@ -736,17 +733,22 @@ https://www.youtube.com/watch?v=SbugOb2aYFg
 https://www.youtube.com/watch?v=kg1I6vR1t0g
 
 #EXTINF:-1 group-title="INFANTIL", La Granja de Zenón
-https://www.youtube.com/watch?v=naFJDtgRX-U
+https://www.youtube.com/watch?v=A9CrS6hyygQ
 
 #EXTINF:-1 group-title="INFANTIL", Sasha y Max
 https://www.youtube.com/watch?v=uIA1HAsvnhk
-
 
 #EXTINF:-1 group-title="INFANTIL", La Patrulla Canina en la Guardería Infantil
 https://www.youtube.com/watch?v=kphGaaCtlvs
 
 #EXTINF:-1 group-title="INFANTIL", Blippi
 https://www.youtube.com/watch?v=xytsE16CgUk
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127494_Boomerang.png" group-title="INFANTIL", BOOMERANG TV
+http://8.9.4.128:8080/hls/boomerangtv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", CARTOON NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683?checkedby:hlscat.com
 
 
 
