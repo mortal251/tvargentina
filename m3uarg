@@ -993,6 +993,14 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunkl
 https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/radioU.png" group-title="MUSICA",  RADIO U
+https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rock.png" group-title="MUSICA", ROCK TV
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="MUSICA 2", CMT MUSIC
