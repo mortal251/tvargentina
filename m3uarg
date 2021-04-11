@@ -1925,6 +1925,9 @@ https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://api.raddios.com/api/radios/15867/image/miniaturamovil?2020-11-10%2016:15:40" group-title="INTERNACIONAL", INVASIVA TV CAPIATA PARAGUAY
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC8Gc5fFs_4av_3It4hoaSP_CzT5gLkMRsm_xS6dN0DaGoxEsDeDNRagNODmODz3E7qRQ&usqp=CAU" group-title="INTERNACIONAL", EKIZ TV CHILE
+https://stmv.panel.mivideo.pro/ekiztv/ekiztv/playlist.m3u8
+
 
 
 
