@@ -1123,6 +1123,9 @@ https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lavozdesanpedro.com.ar/wp-content/uploads/2020/04/LOGO-NUEVO-2020_3.png" group-title="LOCALES 3", CANAL 32 SPTV SAN PEDRO
 https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://machagaisiempre.com/wp-content/uploads/elementor/thumbs/logo-derecho-oosp7qbnaly7g2lm8tccmohx5ozux7ty33luc4iq6w.jpg" group-title="LOCALES 3", CANAL 11 MACHAGAI CHACO
+http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
+
 
 
 
