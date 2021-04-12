@@ -1229,8 +1229,7 @@ https://panel.dattalive.com/8138/8138/chunklist_w430516847.m3u8
 http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=EHSR45vLgJM
-
+https://www.youtube.com/watch?v=kuhpmQFPcEc
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
 https://www.youtube.com/watch?v=_axZn5tLZ_I
@@ -1520,11 +1519,10 @@ http://video.streamtvradio.com:8081/uv022/uv022/chunks.m3u8
 https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 4", ONCE PARANA
-https://www.youtube.com/watch?v=dtLfBmMd_zI
+https://www.youtube.com/watch?v=yMP2R7srJyI
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 4", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1618249541&h=3c9db1806cda4a16323f5a4dda437bdb
-
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1618295708&h=f68b8991c89a7d365222970d4f391396
 
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="ESTILO DE VIDA 1", FASHION TV
