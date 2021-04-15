@@ -51,6 +51,8 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/bc5fdd30-4c8f-4035-ac0e-6fccbca9be8f/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE4NTkzMzQ3LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiJkMGY0ZDA3ODBmOGQyNzBlNTMyNDJlODdhN2RjZTg4OTQ1NGJmOTJkIn0%3D
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 (OPCION 2)
+http://l3dtv.ga:8080/MJv7bnghmG/hy2Ynxw3z7/199857
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050 
@@ -2353,18 +2355,19 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0252
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 4", PRUEBA
-http://l3dtv.ga:8080/MJv7bnghmG/hy2Ynxw3z7/199859
+http://l3dtv.ga:8080/MJv7bnghmG/hy2Ynxw3z7/199856
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 4", PRUEBA
-http://l3dtv.ga:8080/MJv7bnghmG/hy2Ynxw3z7/199860
+http://l3dtv.ga:8080/MJv7bnghmG/hy2Ynxw3z7/199855
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 4", PRUEBA
-http://l3dtv.ga:8080/MJv7bnghmG/hy2Ynxw3z7/199857
+http://l3dtv.ga:8080/MJv7bnghmG/hy2Ynxw3z7/199854
  
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 4", PRUEBA
+http://l3dtv.ga:8080/MJv7bnghmG/hy2Ynxw3z7/199853
 
 
 
