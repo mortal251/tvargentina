@@ -2154,6 +2154,9 @@ https://mediacp.hostradios.com.ar:19360/radioestacion/radioestacion.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/rbdradio.com.ar/wp-content/uploads/2021/01/LOGO-RBD-CURVAS-TRANS-e1611097859586.png?fit=100%2C100&ssl=1" group-title="RADIO 1", RBD RADIO
 http://videostream.shockmedia.com.ar:1935/rbdvideo/rbdvideo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://delpueblo.somosturadio.net/wp-content/uploads/sites/9/2020/06/fm-del-pueblo1.png" group-title="RADIO 1", RADIO DEL PUEBLO 107.3 FM COMODORO RIVADAVIA
+https://vivo.solumedia.com:19360/fmdelpueblo/fmdelpueblo.m3u8
+
 
 
 
