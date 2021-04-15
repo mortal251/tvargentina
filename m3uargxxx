@@ -45,31 +45,27 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTINF:-1 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg" group-title="LOCALES 1", TV PUBLICA - 23.2 
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 
-http://disfruta.net:80/pablos/3t5emCjZUK/357
+https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/1b6c70be-091c-4133-aff7-ba4f26da48a2/2.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE4NTk0NjE3LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiI0NDI4N2M0ODUzY2Q2NzEyMmRjOTUzNTBhODkyOGNhYWU4OGIwODlhIn0%3D
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 (OPCION 2)
-http://rv.imax.re:80/307277240317/307277240317/87121
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 (OPCION 3)
-https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/a6497fbb-cb97-452e-9151-4b38634c9406/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE4NTY5NTAzLCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxNzkuMjQuMjIxLjk2IiwiMTgxLjQ0LjEyOS43MSIsIjE4OS4yMTMuMTAuMTkwIl19LCJzaWduYXR1cmUiOiI4MzNkZWQ5YWVmYWQzMzhhZTRhYTM2MTU1MThkZGVmYTRlZjZiZDdiIn0%3D
-
-
+http://l3dtv.ga:8080/MJv7bnghmG/hy2Ynxw3z7/199857
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050 
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE - 34.1 (OPCION 2)
-http://rv.imax.re:80/307277240317/307277240317/87123 
+http://l3dtv.ga:8080/MJv7bnghmG/hy2Ynxw3z7/199853
+ 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvUEcaiDfyV_ARP9aOVbaWZpHhzZTOJNdP6GiHaGDtGYO7DPdJALUOVdSMy21_5UzJLBQmhB3t5wTXTQuCX-qGS4fjuaNcmHxvxoKluGp4OJA0ZQvwXbV7QosadH4RFQZFp4wdHGMswChdZ63TdxXqW6IumNYkBcDq-IziJptalibV0vif4zeA-N_FjO4WxUB0w1Dr9GmyMbj-CBuPD7Ywd9lD5kSIOhFWfP_mU-hXtcQouw4UuFveK9WvY57tFnKkEEGuD6Cp02veXqLEaWQJ5jtaoKHWCzKq60gnJIeJrc38y3PqL_1u4m_tfnv6Geyrpmns9tGPnzXyc_wCcaOjNTvDdz7cHeqvOTwtKZPagqGoKnRnNecf3vN4nZXnKAwCAygjkrn08f64yvT5kVApG2UWVR7ih9G7m8FpnifK_wzuCQZDpmTEeHNH_LjpnwWgW1VqEHsIndEfPGZH-3ROS63NCdtV1BYX9m5WEXhRGmTzQ3qCmTd3ZB-McGxV6VwqMhRmE3B1alxrJtKvwskr4GKxS_Mx5nz-pS0rYRO3q3y-TqjstOpZZ9ej6zb2GrZ-3ZKsnmwKFCGbF_dQ26olgvw6vR9iIhYFV0vV6bkll6Z2AVBX9xmW2w8cnXo4LGW6O76NekHThOAAwZ6PUxZX_3LOB9S9RnE_kMRzcovb5V0vkAGZVkD9LlJ8rNUaO_ug1hRktC3jg5VRDX6tGPhnRoMKTun7M8ibAcQ-b-rjv2TZZEH8nf4l95xh01babmptlOrqewH20kNnKvAqmKTxH43Za-Zdn3fKrmxjIpacz43RY_BEcNJjEnO-Uw0GQwUgG1mRxQazcSENdg2qvyz0htuCV_90_7VZgaDC25qCL4yKYCIuoUtg.m3u8
-
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvUEwAo2_EWMKIm3cdphfNLrixlIeoZ018fYYqru28lBrPj2P8z5Huz02--8m2IeIF2qNusezfs-1MZIaSjBkAyKWvEXrDWjUsNwUEjdnVzSmkCLWXFqQ5Wv_HT8kjRbSjeQAA-58aFhrN3F-za5jGbEMqYNEaG_W67QY7T1ZaqDXEYIhhs0oEC39ODuwK50GE_dJ5bXyfrusEMTkYz9lBVnfuQ1epmJJcnF3cJaATLzJN485Bw5lFoEj58igcddLta-Tv74IgYE6YK66RdiPCsaBsWBvcM6gArlO-Bf1eilQpHwo5v8kS-vmP6Owx3W6TaAiLZiB_W4OP1H7fTGl_ZOfYXPBHI_PphjlEbQdQoEry51cqQc0CtQMWLeJL1b803bJQydfg5BZj4s8W8cSmnfw2DjRCklvkZQOhPKhf-qfruRg6qTEqbsFcRNi6-lgPJ7fsINVf4RKTgaG48dcrUy__x_1Bd2VJaCdlPU-FY2jJMhxTOHQuYQIT6nQY7B29Rm0UhYsH5F-fFniZgIBGf0aUZgOFztMq0DtcK6i4FXJzRs7KCy1iWLUbgdB_5FOiaaS7qjYuszNMosRlo1BeKMVK7CBBbiBxANHqz4CsfTLlBuwXE6Nfbr7vEj6kEXjGSrkwQpa2vpj8ycbGM_HUS67MCF_27-Ard6G6KyprLo3M1WGjuBBBJalo68AN6CMQPmD-EIYN9YcMl4t9aCCFYh0bhQvUXSy_YK3rySqLkbwLg2GprW1cRpr_ts4N0tIxjG1CpLXgdTfd9gcpf57aoUWgbb0WCmz2MQw77cV6ATLd3nvPtNBUNuzk6Cd2SaZ5TTufZ8iKkSEE4xbdlXRj1oSrk7ssRaFE4aDBvNW_HNZ7DCSCe3JQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1 (OPCION 2)
-http://rv.imax.re:80/307277240317/307277240317/87122
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1 (OPCION 3)
 http://l3dtv.ga:8080/MJv7bnghmG/hy2Ynxw3z7/199858
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES 1", NET TV - 27.2
@@ -97,13 +93,9 @@ http://inliveserver.com:1935/8386/8386/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.telecreativa.com/logos/enc_TELECREATIVA_movil.gif" group-title="LOCALES 1", TELECREATIVA LANUS
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="LOCALES 1", MAGAZINE
-https://g5.proy-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES 1", KZO
-http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
-#EXTINF:-1 group-title="LOCALES 1", KZO (OPCION 2) YT
+#EXTINF:-1 group-title="LOCALES 1", KZO
 https://www.youtube.com/watch?v=FBAzNfv4V18
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="INTERNACIONAL", FRANCE 24 ESPAÑOL - 24.3
@@ -160,10 +152,11 @@ https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 
 
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 
-http://ps3ultimate.com/ElUnicoLosDemasCopian/LAT?cat=latinos&ch=espn1ar&f=.m3u8
+https://cdn14.esp-cdn.xyz/e/e_sur_c.html?.m3u8?1618505328
 
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
 http://23.237.78.54/live-1000/263/playlist.m3u8
+
 
 
 
@@ -184,7 +177,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae23-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a367d0d9-b23d-4bb5-8d48-55f0cbeac4fb&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png" group-title="LOCALES 2", AMERICA TUCUMAN 
-http://45.6.4.50:50601/America_Tucuman/video.m3u8
+http://45.6.4.50:50601/America_Tucuman/video.m3u8  
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/133px-Telefe_Tucum%C3%A1n_%282018%29.png" group-title="LOCALES 2", TELEFE TUCUMAN
 https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1618434586~exp=1618610986~acl=/i/canal8tucuman_1@787002/*~hmac=743a38dc68a8ab2f16a4908c2c130e3308568e0b4078e45fdd6ed1cc14126a95
@@ -1027,6 +1020,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="INFANTIL", TOON GOGGLES
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/35BpWJh.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="INFANTIL", SUPERTOONS TV
+https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83648_Canal_IPE.png" group-title="INFANTIL", CANAL IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
@@ -2355,9 +2352,17 @@ https://nd106.republicaservers.com/canal2misiones.mp4
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES 4", VEO SANTA FE (SOLO IPTV AZUL)
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0252 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="LOCALES 4", MAGAZINE
+https://g5.proy-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES 4", KZO
+http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
 
- 
+
+
+
+
 
 
 
