@@ -167,6 +167,8 @@ http://23.237.78.54/live-1000/263/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN
+https://e10.espncdn.me/ingestnb4s/espn_sur/c.m3u8
 
 
 
