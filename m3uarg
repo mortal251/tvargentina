@@ -73,8 +73,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU" group-title="INFANTIL", PAKA PAKA - 22.2
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8 
 
-#EXTINF:-1 group-title="INFANTIL", PAKA PAKA - 22.2 (OPCION 2) YT
-https://www.youtube.com/watch?v=K9-MoM1m2ss
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1200px-Logo_The_Simpsons.svg.png" group-title="INFANTIL", LOS SIMPSONS 
@@ -1172,9 +1171,6 @@ https://www.youtube.com/watch?v=hl_nACnH42w
 #EXTINF:-1 group-title="INFANTIL", Colores
 https://www.youtube.com/watch?v=5Hiil6DdwLw
 
-#EXTINF:-1 group-title="INFANTIL", POCOYÓ
-https://www.youtube.com/watch?v=Z9SxctM5Nj4
-
 #EXTINF:-1 group-title="INFANTIL", HEROES EN PIJAMAS
 https://www.youtube.com/watch?v=SbugOb2aYFg
 
@@ -1184,11 +1180,6 @@ https://www.youtube.com/watch?v=kg1I6vR1t0g
 #EXTINF:-1 group-title="INFANTIL", La Granja de Zenón
 https://www.youtube.com/watch?v=Gb8yExL4evE
 
-#EXTINF:-1 group-title="INFANTIL", Sasha y Max
-https://www.youtube.com/watch?v=uIA1HAsvnhk
-
-#EXTINF:-1 group-title="INFANTIL", La Patrulla Canina en la Guardería Infantil
-https://www.youtube.com/watch?v=kphGaaCtlvs
 
 #EXTINF:-1 group-title="INFANTIL", Blippi
 https://www.youtube.com/watch?v=xytsE16CgUk
