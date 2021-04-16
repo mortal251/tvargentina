@@ -335,7 +335,7 @@ https://inliveserver.com:1936/9504/9504/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 3", CHILECITO TV LA RIOJA
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent-eze1-1.xx.fbcdn.net/v/t1.15752-9/53352560_304755697066033_2060357869873659904_n.png?_nc_cat=103&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeGWucPaEak7-9ZV8xohlBOWfxRyQKGVonp_FHJAoZWiehPtFoV9n9jHxe9VNnDu3LA&_nc_ohc=uPNhkemdn9sAX9Hyk36&_nc_ht=scontent-eze1-1.xx&oh=bc1e576d59fb57943ccd472bad41ea75&oe=609BB2B2" group-title="LOCALES 3", CANAL 5 ALCORTA SANTA FE
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.15752-9/173879036_800583104228116_8181791566486616057_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeEGaHxscLw4PuO08tsKy-VECJzXepHSEQIInNd6kdIRAmU-pzrJ6A97yIsVI265qXU&_nc_ohc=pcQx0ts_eD8AX_9PjIB&_nc_ht=scontent.fepa11-1.fna&oh=312923b6f968592b3d5be0dacfcbbd3e&oe=609F9054" group-title="LOCALES 3", CANAL 5 ALCORTA SANTA FE
 https://stmv1.srvif.com/radiosur/radiosur/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/913627349/telecondor_satelital_400x400.jpg" group-title="LOCALES 3", CANAL 4 TELECONDOR
@@ -760,8 +760,7 @@ http://video.streamtvradio.com:8081/uv022/uv022/chunks.m3u8
 https://www.youtube.com/watch?v=JXFwjEEK6d4
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 4", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1618512187&h=fedf8fac6819548364487723c25d1a79
-
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1618603424&h=02ee60ab79d868b534255b8907ef7f04
 
 
 
