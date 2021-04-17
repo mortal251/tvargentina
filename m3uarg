@@ -235,6 +235,9 @@ https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 #EXTINF:-1 group-title="LOCALES 2", CANAL 8 SAN JUAN
 https://www.youtube.com/watch?v=74TyBo37iV8
 
+#EXTINF:-1 group-title="LOCALES 2", CANAL 12 TRENQUE LAUQUEN
+https://www.youtube.com/watch?v=UHMT2dZrZNE
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gU0LdOci1cE/XrYL7uefhAI/AAAAAAAA0h0/N9ww7QKwrrY9kCL4fMrD3mroXZHoYMudACK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES 2", CANAL 7 JUJUY
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
