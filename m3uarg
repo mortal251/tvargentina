@@ -816,7 +816,8 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="CINE Y SERIES", READY
 http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/101693_Retro_TV_Palmares.png" group-title="CINE Y SERIES", RETRO TV
+http://tvretropalmares.com:8090/hls/envivo.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png" group-title="CINE Y SERIES", 74 TV
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
@@ -829,9 +830,6 @@ http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w156856882
 
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="CINE Y SERIES", LA VOZ TV
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="CINE Y SERIES", MOVIES
-https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_usk3hzv4/def_height/1654/def_width/3159/version/100011/type/2/q/100" group-title="CINE Y SERIES", NUESTRA VISION
 https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
@@ -892,8 +890,10 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg" group-title="CINE Y SERIES", TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/101693_Retro_TV_Palmares.png" group-title="CINE Y SERIES", RETRO TV
-http://tvretropalmares.com:8090/hls/envivo.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="CINE Y SERIES", MOVIES
+https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
 
 
 
