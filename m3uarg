@@ -531,14 +531,16 @@ https://live.autistici.org/hls/vibratelevision_mid.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title="LOCALES 4", ALBARDON TV SAN JUAN
+https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2rWFai7wm5hmr6nAciUu7Esm8YcLq10du0w&usqp=CAU" group-title="LOCALES 4", CANAL 2 SAN LUIS
 https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj3A5dsZMcJlJdjb7NWxnpPuV2HFmJVcJqzyf2Y9g=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 4", CANAL 18 SALTA
+https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Rq2DueK3lUg/YGpFUPnkHlI/AAAAAAABBM8/jOvaiSnJ6cEVltniX8zDuD-Mv9hc-HwzwCK8BGAsYHg/s512/2021-04-04.jpg" group-title="LOCALES 3", TRIBU TV LAS VARILLAS CORDOBA
@@ -607,7 +609,7 @@ https://stmv1.srvif.com/mercedestv/mercedestv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 4", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0226
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0227
 
 #EXTINF:-1 tvg-logo="https://66.media.tumblr.com/f1138b6d236d9787c1960cdd1ae51b26/tumblr_inline_polydyA71Z1ttmwm1_1280.png" group-title="LOCALES 4", CORREA RADIOVISION
 http://arcast.net:1935/correadigital/canal12/playlist.m3u8
@@ -704,22 +706,11 @@ https://5975e06a1f292.streamlock.net:4443/canal3/canal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 4", CNR JUJUY
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 4", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
 https://inliveserver.com:1936/14064/14064/playlist.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://linktvcanal.com/portal/wp-content/uploads/2017/07/logo.png" group-title="LOCALES 4", LINK TV SANTA FE
 https://panel.dattalive.com/8128/8128/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="LOCALES 4", 12 TARTAGAL
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
@@ -734,8 +725,7 @@ https://inliveserver.com:1936/8292/8292/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3MwF1xYI9s0/X4MNUuARJ3I/AAAAAAAA6Vk/f8VICRuKxms6s7DbkOc08AA8ZYmFWulZQCK8BGAsYHg/s0/2020-10-11.png" group-title="LOCALES 4", TELEESTRELLA ARGENTINA
 https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj3A5dsZMcJlJdjb7NWxnpPuV2HFmJVcJqzyf2Y9g=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 4", CANAL 18 SALTA
-https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2020/12/logo-web-retina-ok-si-300x99.png" group-title="LOCALES 4", CANAL 4 ESQUEL
 https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8
@@ -752,8 +742,7 @@ http://video.streamtvradio.com:8081/uv059/uv059/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/x24.png" group-title="LOCALES 4", X24 TUCUMAN
 https://srv1.zcast.com.ar/x24hd/x24hd/chunklist_w1182283463.m3u8
 
-#EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title="LOCALES 4", ALBARDON TV SAN JUAN
-http://video.streamtvradio.com:8081/uv022/uv022/chunks.m3u8
+
 
 #EXTINF:-1 group-title="LOCALES 3", ONCE PARANA
 https://www.youtube.com/watch?v=JXFwjEEK6d4
@@ -2150,6 +2139,12 @@ http://videostream.shockmedia.com.ar:1935/rbdvideo/rbdvideo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://delpueblo.somosturadio.net/wp-content/uploads/sites/9/2020/06/fm-del-pueblo1.png" group-title="RADIO 1", RADIO DEL PUEBLO 107.3 FM COMODORO RIVADAVIA
 https://vivo.solumedia.com:19360/fmdelpueblo/fmdelpueblo.m3u8
+
+#EXTINF:-1 tvg-logo="http://bahiahost.com.ar/appstore/wp-content/uploads/2020/11/img-play-logo.png" group-title="RADIO 1", FM 95.1 ADELA LA PAMPA
+https://stmv1.srvif.com/liberred/liberred/playlist.m3u8
+
+
+
 
 #EXTINF:-1 group-title="RADIO 2", VORTERIX - 92.1 FM
 https://www.youtube.com/watch?v=Bi4w23aW99s
