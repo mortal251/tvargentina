@@ -105,7 +105,7 @@ http://inliveserver.com:1935/8386/8386/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.telecreativa.com/logos/enc_TELECREATIVA_movil.gif" group-title="LOCALES 1", TELECREATIVA LANUS
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES 4", KZO
+#EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES 1", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
 #EXTINF:-1 group-title="LOCALES 1", KZO (OPCION 2) YT
@@ -711,7 +711,8 @@ https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.trutv.com.ar/wp-content/uploads/2018/05/logro-tru.png" group-title="LOCALES 4", TELEVISION REGIONAL UNIMARC CORDOBA
 https://vivo.solumedia.com:19360/trutv/trutv.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3MwF1xYI9s0/X4MNUuARJ3I/AAAAAAAA6Vk/f8VICRuKxms6s7DbkOc08AA8ZYmFWulZQCK8BGAsYHg/s0/2020-10-11.png" group-title="LOCALES 4", TELEESTRELLA ARGENTINA
+https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png" group-title="LOCALES 4", CANAL 21 POSADAS
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
@@ -719,8 +720,8 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2018/03/logocanal3-x1.png" group-title="LOCALES 4", CANAL 3 LAS HERAS
 https://5975e06a1f292.streamlock.net:4443/canal3/canal3/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="http://cabledigital.com.ar/wp-content/uploads/2020/03/cropped-Logo-Cabledigital-PNG-para-web-3.png" group-title="LOCALES 4", CABLEDIGITAL HIUNCA REANCO CORDOBA
+https://vivo.solumedia.com:19360/huinca/huinca.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 4", CNR JUJUY
@@ -735,26 +736,14 @@ https://panel.dattalive.com/8128/8128/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="LOCALES 4", 12 TARTAGAL
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://cable10.com/imagenes/logo.png" group-title="LOCALES 4", CABLE 10 HD RIO GALLEGOS
 https://inliveserver.com:1936/8292/8292/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3MwF1xYI9s0/X4MNUuARJ3I/AAAAAAAA6Vk/f8VICRuKxms6s7DbkOc08AA8ZYmFWulZQCK8BGAsYHg/s0/2020-10-11.png" group-title="LOCALES 4", TELEESTRELLA ARGENTINA
-https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2020/12/logo-web-retina-ok-si-300x99.png" group-title="LOCALES 4", CANAL 4 ESQUEL
 https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108679_UNIRIO.png" group-title="LOCALES 4", UNIRIO TV
 https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://cabledigital.com.ar/wp-content/uploads/2020/03/cropped-Logo-Cabledigital-PNG-para-web-3.png" group-title="LOCALES 4", CABLEDIGITAL HIUNCA REANCO CORDOBA
-https://vivo.solumedia.com:19360/huinca/huinca.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3487556435/aaae8392a11f89550187210f1a944807_400x400.jpeg" group-title="LOCALES 4", CANAL 29 ENSENADA
 http://video.streamtvradio.com:8081/uv059/uv059/chunks.m3u8
