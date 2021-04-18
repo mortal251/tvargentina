@@ -18,6 +18,9 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 #EXTINF:-1 group-title="LOCALES 1", TODO NOTICIAS   
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="LOCALES 1", TODO NOTICIAS (OPCION 2)
+http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/tn.playlist.m3u8
+
 
 #EXTINF:-1 group-title="LOCALES 1", C5N - 25.2
 https://www.youtube.com/watch?v=kt43n3r1jJo
@@ -25,8 +28,6 @@ https://www.youtube.com/watch?v=kt43n3r1jJo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="LOCALES 1", C5N (OPCION 2)
 http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/c5n.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="LOCALES 1", C5N (OPCION 2)
-http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/tn.playlist.m3u8
 
 
 #EXTINF:-1 group-title="LOCALES 1", LN+ - 25.3
@@ -764,16 +765,13 @@ https://vivo.solumedia.com:19360/huinca/huinca.m3u8
 http://video.streamtvradio.com:8081/uv059/uv059/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/x24.png" group-title="LOCALES 4", X24 TUCUMAN
-https://srv1.zcast.com.ar/x24hd/x24hd/chunklist_w1182283463.m3u8
-
-
+https://srv1.zcast.com.ar/x24hd/x24hd/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 3", ONCE PARANA
 https://www.youtube.com/watch?v=JXFwjEEK6d4
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 3", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1618603424&h=02ee60ab79d868b534255b8907ef7f04
-
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1618775441&h=3186d35f130e141a6c3cfb4f9d0ebd86
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
