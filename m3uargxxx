@@ -25,6 +25,9 @@ https://www.youtube.com/watch?v=kt43n3r1jJo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="LOCALES 1", C5N (OPCION 2)
 http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/c5n.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="LOCALES 1", C5N (OPCION 2)
+http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/tn.playlist.m3u8
+
 
 #EXTINF:-1 group-title="LOCALES 1", LN+ - 25.3
 https://www.youtube.com/watch?v=ns8-5XKA0Ww  
