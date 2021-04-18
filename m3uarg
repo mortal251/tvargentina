@@ -719,7 +719,8 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2018/03/logocanal3-x1.png" group-title="LOCALES 4", CANAL 3 LAS HERAS
 https://5975e06a1f292.streamlock.net:4443/canal3/canal3/playlist.m3u8
 
-
+#EXTINF:-1 group-title="LOCALES 4", LOCAL OLAVARRIA
+https://www.youtube.com/watch?v=KSe5CROgLEg
 
 
 
