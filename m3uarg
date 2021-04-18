@@ -25,6 +25,9 @@ https://www.youtube.com/watch?v=kt43n3r1jJo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="LOCALES 1", C5N (OPCION 2)
 http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/c5n.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="LOCALES 1", C5N (OPCION 2)
+http://45.170.41.14:9090/Live/bab8678cd9f400af8687f7740b0fed33/tn.playlist.m3u8
+
 
 #EXTINF:-1 group-title="LOCALES 1", LN+ - 25.3
 https://www.youtube.com/watch?v=ns8-5XKA0Ww  
@@ -99,13 +102,13 @@ https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 1", CINCO TV TIGRE - 30.1
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm0MM0BtkhB9xHWsECtnky05aGfA8KKnDSg&usqp=CAU" group-title="LOCALES 1", CANAL 29 QUILMES - 18.1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm0MM0BtkhB9xHWsECtnky05aGfA8KKnDSg&usqp=CAU" group-title="LOCALES 1", CANAL 29 QUILMES
 http://inliveserver.com:1935/8386/8386/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.telecreativa.com/logos/enc_TELECREATIVA_movil.gif" group-title="LOCALES 1", TELECREATIVA LANUS
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES 4", KZO
+#EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES 1", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
 #EXTINF:-1 group-title="LOCALES 1", KZO (OPCION 2) YT
