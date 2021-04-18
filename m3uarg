@@ -109,6 +109,10 @@ http://inliveserver.com:1935/8386/8386/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.telecreativa.com/logos/enc_TELECREATIVA_movil.gif" group-title="LOCALES 1", TELECREATIVA LANUS
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-9/67201213_2277976592256690_3703158027092754432_n.png?_nc_cat=105&ccb=1-3&_nc_sid=6e5ad9&_nc_ohc=-iIIZT8VF9cAX-lXlun&_nc_ht=scontent.fepa11-1.fna&oh=8a584a727dcb174a3c85b5851cd11ebf&oe=60A28B7A" group-title="LOCALES 1", BAYRES TV
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/Ct4ECasr7egSbkmcAXTUOBMTVD3Uo8YLGS9bMWTi41xrTW6O-OP4-usq3YBm0Y0Kti50P91fzKCVurbEqPPDzAcSEMA2JvAB5d8i-6A2FxM1tQ_soycRrGNuGzWmxWhdZbvGl0SN1ak_92Ft3Yvo10tBB7xz4hrMMJooYx-GfJxlF7JzK9SBVFy2HnUDWe0qw2BithSdx7Ad9OnETJfUO8sLX3T_hG-OVknT6anzkmX-6G7x7NpTuYlSoygL9oU-f44O-YppuvWgvJ24E3LM1FO7yseaA59iDTd6GgNVufdlzspSL7nxtJW8MGCTZCheaIPyw3yffmeyVHQVpBIuKaWZrt-kUYtqX6dBAaIKygFNNakU33U0BmJmmPXUusjKD-FiMA6hXjK2CDQ73UzrxzPb1nkoMsiX4zLWClCYAxenv65Xk_AaNubOmmzqbsLwxPea6Gu_Jek78kROSn7jJOW4JeedPyvztQ-7rIJSm4NKwNbm-48-OevZaHmo3YyXU8RdbTToLVoUIrHgfkQXwcnzfIjSFnUDNtJSG84vKA-1dav9CpMSTEEYSkkShDbL8Mv9fHiHyZ2WriHgJus7pUQasnahq3BVAeFMH4XqepBppCZCpYXHz5Yb-0mcXlJRSbBOsxMbvbcFjA-i2q64v56s1mEOY3F2UB4aRHrW9T9ArZ18sKT623-_f5ubv3TJkzcNTAJKH6IOyBNaf8ifvmkUZBjhovqn09xmd8B0cIPr08D1WuYE6nCS-rrJ4U5UzK3qCPnSkF2WHTIyePzugVP35Xfe69GL382Ti5KDTeqcEhA_9hdKSd9Uzh0ZRXSms5c5GgytSgac7ss6ch1CFxQ.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES 1", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
