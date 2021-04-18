@@ -1323,7 +1323,7 @@ https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/4308.gif" group-title="MUSICA", TV POP
-https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
+https://v1.tustreaming.cl:19360/radiopoptv/radiopoptv.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/101700_Rewind_TV.png" group-title="MUSICA", REWIND
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
@@ -1420,9 +1420,8 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/melodychannel.tv/wp-content/uploads/2021/01/cropped-logoMelody-2.png?resize=150%2C150&ssl=1" group-title="MUSICA", MELODY CHANNEL
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/124237_Norterama.png" group-title="MUSICA", NORTERAMA TV
-https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5_iLG_7dCR4/XzxsvrIsFsI/AAAAAAAA4po/GH4DSrK2H5YVOskucpzMxMZeU417wwVvQCK8BGAsYHg/s0/2020-08-18.jpg" group-title="MUSICA",  BEST CABLE MUSIC
+https://live.siete.us/bestcablemusic/bestcablemusic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/radioU.png" group-title="MUSICA",  RADIO U
 https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
