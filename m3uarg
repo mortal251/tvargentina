@@ -298,8 +298,7 @@ https://g2.vxral-hor.transport.edge-access.net/a12/ngrp:c12_live01-100129_all/c1
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-3-La-Pampa-en-vivo-Online.png" group-title="LOCALES 2", CANAL 3 LA PAMPA
 https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E_k6h1uVYe8/YHscpANLtMI/AAAAAAABBpM/x5nyrtk-tdMKfI9neaRMx8d0rXhI0DgYACK8BGAsYHg/s512/2021-04-17.jpg" group-title="LOCALES 2", CANAL 10 NORTEVISION
-https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8?WebM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", CANAL 4 JUJUY
 http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/chunklist_w565935666_b316000.m3u8
@@ -340,7 +339,8 @@ https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/pla
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="LOCALES 2", TELESOL SAN JUAN
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJyk1LbcH1cFHiW94bqNSt5gdWC1pa-exZg&usqp=CAU" group-title="LOCALES 3", CANAL 10 SALTA
+https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
 
 
 
@@ -368,6 +368,10 @@ http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://noticiaseps.com.ar/wp-content/uploads/2018/06/cropped-noticiastitulo-3.png" group-title="LOCALES 3", NOTICIAS EPS BRAGADO
 https://inliveserver.com:1936/9504/9504/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E_k6h1uVYe8/YHscpANLtMI/AAAAAAABBpM/x5nyrtk-tdMKfI9neaRMx8d0rXhI0DgYACK8BGAsYHg/s512/2021-04-17.jpg" group-title="LOCALES 2", CANAL 10 NORTEVISION
+https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 3", CHILECITO TV LA RIOJA
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
@@ -404,8 +408,7 @@ http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" group-title="LOCALES 3", DEL SUR TV SAN JUAN
 http://51.79.83.93:9998/live/delsurtv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJyk1LbcH1cFHiW94bqNSt5gdWC1pa-exZg&usqp=CAU" group-title="LOCALES 3", CANAL 10 SALTA
-https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 3", TDC TV SANTA FE
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
@@ -2242,8 +2245,7 @@ https://streamcasthd.com:19360/fmvanguardia/fmvanguardia.m3u8
 #EXTINF:-1 tvg-logo="http://radioplus983.com/wp-content/uploads/2016/07/log200-e1468504920544.png" group-title="RADIO 2", 98.3 RADIO PLUS - USHUAIA
 http://inliveserver.com:1935/9014/9014/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radioan24.com.ar/wp-content/uploads/2020/11/logo-radiotvan24-272X136-definitivo.png" group-title="RADIO 2", RADIO AN24
-https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.cadenamaxima.com.ar/cadmawp/wp-content/uploads/2017/04/logo-cadena-maxima-footer.png" group-title="RADIO 2", CADENA MAXIMA 106.7 - SALTA
 https://vivo.solumedia.com:19360/cadenamaxima/cadenamaxima.m3u8
@@ -2260,8 +2262,7 @@ https://stmvideo2.livecastv.com/centro/centro/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://fm1049.com.ar/wp-content/uploads/2017/10/TOP.png" group-title="RADIO 2", RADIO TOP 104.9 FM
 http://inliveserver.com:1935/14082/14082/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg/v1/fit/w_2500,h_1330,al_c/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg" group-title="RADIO 2", FM OK 105.7 FLORENCIO VARELA
-https://panel.dattalive.com/8124/8124/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://nacionalypopular.nvc.org.ar/wp-content/uploads/2017/04/logo.png" group-title="RADIO 2", FM 100.9 PRIMERO LO NUESTRO - MONTE GRANDE
 https://streamcasthd.com:1936/nacionalypopular/nacionalypopular/playlist.m3u8
@@ -2275,8 +2276,7 @@ https://stmv1.srvif.com/radiorocha/radiorocha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiotv.ar/img/logo/fmzetaradio.jpg" group-title="RADIO 2", FM 100.1 ZETA MORON
 https://clientes.videostreaming.ar:19360/fmzetaradio/fmzetaradio.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.fantastica1017.com.ar/images/logoOK.jpg" group-title="RADIO 2", FM FANTASTICA CHILECITO 101.7 FM
-https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://fmrio1075mbarete.esenvivo.com.ar/fb.jpg" group-title="RADIO 2", FM RIO 107.5 AVELLANEDA
 https://videostream.shockmedia.com.ar:1936/fmrio1075mbarete/fmrio1075mbarete/playlist.m3u8
@@ -2291,16 +2291,13 @@ https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 https://coopmorteros.online/radiourbana/canal01.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/06c8c8_ffc396a5d15745eeb1d47f02c6b1de89~mv2.gif" group-title="RADIO 2", ON RADIO ARGENTINA
-http://video.streamtvradio.com:8081/uv014/uv014/chunks.m3u8
+https://clientes.videostreaming.ar:19360/onradio/onradio.m3u8
 
 #EXTINF:-1 tvg-logo="http://am1010ondalatina.com/images/logo.png" group-title="RADIO 2", AM 1010 ONDA LATINA
 http://video.streamtvradio.com:8081/uv008/uv008/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VqFz7dg/logo-vinilo-medio-2.png" group-title="RADIO 2", VINILO FM 103.5 NECOCHEA
 https://srv3.zcast.com.br/vinilo/vinilo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vivafm.com.ar/wp-content/uploads/2020/04/cropped-ISOLOGO.png" group-title="RADIO 2", VIVA RADIO CATAMARCA
-https://tx.hls.nimo.tv/live/su2439520271345r7f61d6d38ad506f575d0ebfbaf0c7f2f_low.m3u8
 
 #EXTINF:-1 tvg-logo="http://la90fm.com/wp-content/uploads/2021/03/logo.png" group-title="RADIO 2", LA MEGA 90.9 AZUL
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
@@ -2326,17 +2323,26 @@ https://stmv1.srvif.com/am1470/am1470/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiodiversidad.com.ar/img/logo.png" group-title="RADIO 2", RADIO DIVERSIDAD 99.9 FM TUCUMAN
 https://srv2.zcast.com.br/diversidad/diversidad/playlist.m3u8  
 
-
 #EXTINF:-1 tvg-logo="http://www.citricaradio.com/assets/img/cropped-logo-web.png" group-title="RADIO 2", FM CITRICA 88.5 FM AVELLANEDA
 https://5f700d5b2c46f.streamlock.net/citricaradio/citricaradio/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://canal3lasflores.com.ar/wp-content/uploads/2020/11/canallogohead.png" group-title="RADIO 2", LAS FLORES DIGITAL
 https://inliveserver.com:1936/8436/8436/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://realidad10.com/wp-content/uploads/2020/11/cropped-WhatsApp-Image-2020-11-03-at-09.49.14.jpeg" group-title="RADIO 2", CN 22 CHACO
 https://5f6e1fe8f2d2e.streamlock.net/cn22/cn22/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radioan24.com.ar/wp-content/uploads/2020/11/logo-radiotvan24-272X136-definitivo.png" group-title="RADIO 2", RADIO AN24
+https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vivafm.com.ar/wp-content/uploads/2020/04/cropped-ISOLOGO.png" group-title="RADIO 2", VIVA RADIO CATAMARCA
+https://tx.hls.nimo.tv/live/su2439520271345r7f61d6d38ad506f575d0ebfbaf0c7f2f_low.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg/v1/fit/w_2500,h_1330,al_c/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg" group-title="RADIO 2", FM OK 105.7 FLORENCIO VARELA
+https://panel.dattalive.com/8124/8124/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.fantastica1017.com.ar/images/logoOK.jpg" group-title="RADIO 2", FM FANTASTICA CHILECITO 101.7 FM
+https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
 
 
 
