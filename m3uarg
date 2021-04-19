@@ -835,6 +835,9 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115395_AC_Vision.png" group-title="CINE Y SERIES", ACV
 https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1AkpM1rC75w/YGdiuKFuQzI/AAAAAAABBGg/lG-2DxIFeU8K4vxZQxqPVZ6J29Bu5ZuSgCK8BGAsYHg/s512/2021-04-02.png" group-title="CINE Y SERIES", ZPTV
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png" group-title="CINE Y SERIES", WOW
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
@@ -1387,8 +1390,8 @@ https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/in
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA", MIX 24/7 TOP 100
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109952_Karibena_TV.jpg" group-title="MUSICA", KARIBEÑA
-https://cu.onliv3.com/livevd/user1_low/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XR46wyY1FZc/XjomdF00q2I/AAAAAAAAvlY/RR7N6BVs2fQVrkRxUvldT5NN7KN5QGDDACK8BGAsYHg/s0/2020-02-04.png" group-title="MUSICA", CORAZON LLANERO
+https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="MUSICA", V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
@@ -1440,8 +1443,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37a
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_Orbita_Tv.png" group-title="MUSICA", ÓRBITA TV
-https://5dcabf026b188.streamlock.net/orbitatv/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png" group-title="MUSICA", 38 TV
+https://rtmp.info/canal38/envivo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1200px-Radio_m2o_-_Logo_2019.svg.png" group-title="MUSICA", M2O
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
@@ -1460,6 +1463,12 @@ http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ockostar.png" group-title="MUSICA", Ocko Star
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png" group-title="MUSICA", MAS CUMBIA
+https://live.siete.us/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WD49JzHZ9cM/Xrsv-mIjUjI/AAAAAAAA0rs/g_Pgm6hQvNIbp8aHuvQ3H7kEkiu3-M4zQCK8BGAsYHg/s0/2020-05-12.png" group-title="MUSICA", Ocko Star
+https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8
 
 
 
@@ -1794,6 +1803,9 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL._SR600,315_SCLZZZZZZZ_.png" group-title="INTERNACIONAL 2", NHK JAPON
 https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png" group-title="INTERNACIONAL 2", TELESUR ENGLISH
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80324_TV_Peru_Noticias.png" group-title="INTERNACIONAL", TV PERU NOTICIAS
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
