@@ -2328,7 +2328,7 @@ https://www.youtube.com/watch?v=Wt5M-1LAKDQ
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
 
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BUNGE Y EL MAR PINAMAR
-https://wowza.telpin.com.ar:1935/camara-bunge/camara-bunge.smil/playlist.m3u8
+https://wowza.telpin.com.ar:1935/camara-bunge/smil:camara-bunge.smil/chunklist_w968282560_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BUNGE Y LIBERTADOR PINAMAR
 https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/playlist.m3u8
@@ -2371,7 +2371,13 @@ http://camlapinocha.gesell.com.ar/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", PINAMAR GOLF
-https://wowza.telpin.com.ar:1935/camara-golf/camara-golf.smil/playlist.m3u8
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w1720287196_b1344100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", LA RAMBLA PINAMAR
+https://wowza.telpin.com.ar:1935/camara-bunge/smil:camara-bunge.smil/chunklist_w1609105194_b1344100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BOTAVARA PINAMAR
+https://wowza.telpin.com.ar:1935/camara-botavara/smil:camara-botavara.smil/chunklist_w555467229_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="WEB CAM Y CLIMA", CATRIEL WEB
 https://589ff3c36f7e8.streamlock.net/alastv/alastv/playlist.m3u8
