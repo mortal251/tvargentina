@@ -300,8 +300,7 @@ https://g2.vxral-hor.transport.edge-access.net/a12/ngrp:c12_live01-100129_all/c1
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-3-La-Pampa-en-vivo-Online.png" group-title="LOCALES 2", CANAL 3 LA PAMPA
 https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XB7qQwxGgsY/WKsrFu7SEMI/AAAAAAAAUW4/nJA6XK03oeI0v0iYaxfb1J5P-zGHRWCKACLcB/s1600/logo%2Bcanal.jpg" group-title="LOCALES 2", CANAL 3 FORMOSA
-https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", CANAL 4 JUJUY
 http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/chunklist_w565935666_b316000.m3u8
@@ -344,7 +343,6 @@ https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJyk1LbcH1cFHiW94bqNSt5gdWC1pa-exZg&usqp=CAU" group-title="LOCALES 2", CANAL 10 SALTA
 https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
-
 
 
 
@@ -396,13 +394,14 @@ https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 3", ZONDA TV 35.1 - SAN JUAN
 http://186.129.252.150:1935/live/351/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E_k6h1uVYe8/YHscpANLtMI/AAAAAAABBpM/x5nyrtk-tdMKfI9neaRMx8d0rXhI0DgYACK8BGAsYHg/s512/2021-04-17.jpg" group-title="LOCALES 3", CANAL 10 NORTEVISION
-https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XB7qQwxGgsY/WKsrFu7SEMI/AAAAAAAAUW4/nJA6XK03oeI0v0iYaxfb1J5P-zGHRWCKACLcB/s1600/logo%2Bcanal.jpg" group-title="LOCALES 2", CANAL 3 FORMOSA
+https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/canal22web.com/wp-content/uploads/2018/05/cropped-logo-canal22.gif?fit=512%2C512&ssl=1" group-title="LOCALES 3", CANAL 22 WEB
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E_k6h1uVYe8/YHscpANLtMI/AAAAAAABBpM/x5nyrtk-tdMKfI9neaRMx8d0rXhI0DgYACK8BGAsYHg/s512/2021-04-17.jpg" group-title="LOCALES 3", CANAL 10 NORTEVISION
+https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Telenord-en-vivo-Online.png?resize=100%2C70" group-title="LOCALES 3", TELENORD CORRIENTES
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
@@ -2437,58 +2436,6 @@ https://g5.proy-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_al
 
 
 
-
-
-
-    
-
-
-direccion corta : https://shortest.link/tvargentina
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
 EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO", SEX TV ARGENTINA
 https://59537faa0729a.streamlock.net/sextv/sextv/playlist.m3u8
 
@@ -2505,8 +2452,7 @@ https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO", ADULT IPTV ASIAN
 http://cdn.adultiptv.net/asian.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO", ADULT IPTV LESBIAN
-http://cdn.adultiptv.net/lesbian.m3u8
+
 
 
 
