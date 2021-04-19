@@ -168,8 +168,6 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="LOCALES 1", VIAJAR TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0030
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT 
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CuUECWEuQuv18wFTErnIiuOQkL76W7HvrwidQfM1gHRPOh0mcttU3X95msDXHwfUKzMVhMjPb-JADPPmf3VWtA6cq_IAFDFa4owRulIHAvLlz4IFKUgBgtvVb_4_X9CwUHIwvcU290v6j_5OqzF6Xqre07sYTSwKQgi3gHN1yul72V1QgXrSzlpgpAfOHRwgsuGg11jfEuOFJ6u6Jq1Gme_ocj8YrFvwLTw8wVatEbnGvL8YewiwRNvecCqJAWsV7UZv1xtTtIKmvQZJxJkTZBTwDj6sIi-n5JXW9-9XTMjvpY5C-_1J9fxAV71b-8gPXy4zsZlwvklpBo4f25TTi5Y9rber7nwrDHwJVAMMUuHD5gz2bC5R5WsoowsdDa3cZMUbKNYbHchAd1qfKVSATuaEJ4_kxDIrBs6qCyF5zw2ajO4S9Yd7JXL_PGH5l2j75ddQ9-mEbqfEZclRD4i9OrcDHfzAOUUoBhCgQ1LprxE3WRSfFVDrzUmG7gGW4u6GYBs4BIob_Km4wV2u1eMPep12nzJq2tcXvDJ9V8l2bUX57y3_7oz1MGFft9-xGiLReAQCF5smi7EIwb2JFEqKTmgo81MntKbSaIhFY-hcYfMfIq2gXhv66iAGeLOqUcFjAmuULaCPTxb0mZZfZdLFiEAhQOpqSmEQWyXHHmjTU5wTmcj7RmxtMS55VxlgclqWMwnN86RkdXrW3Fv88-5qmOqRA7BB70mlT6eTlHAc5E3Zje0lAaV0optRf_HjjqEUAvRMNu759-A11uWe8G8cUW9c9jpNtA5sd67RrNiDypZQl6_02xxBJxIQmAgBrOsg8eEh2cgcSfziNBoMqLSyc12-fuy2sUwo.m3u8
 
 
 
@@ -2412,11 +2410,7 @@ https://g5.proy-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_al
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="LOCALES 4", TyC SPORT
-https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="LOCALES 4", TyC SPORT
-https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
 
 
 
