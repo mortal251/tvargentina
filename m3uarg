@@ -314,7 +314,7 @@ https://panel.dattalive.com/8204/8204/playlist.m3u8
 https://cda2.streaming.ws/elrural/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png" group-title="LOCALES 1", CHACRA TV
-http://s8.stweb.tv:1935/chacra/live/chunks.m3u8
+https://s8.stweb.tv/chacra/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_senal-argentinisima-satelital-1_p_m.jpg" group-title="LOCALES 1", ARGENTINISIMA SATELITAL
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w859718981_b1912000_sleng.m3u8
