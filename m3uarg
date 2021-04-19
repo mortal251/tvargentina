@@ -2239,6 +2239,9 @@ https://streamcasthd.com:19360/fmvanguardia/fmvanguardia.m3u8
 #EXTINF:-1 tvg-logo="http://radioplus983.com/wp-content/uploads/2016/07/log200-e1468504920544.png" group-title="RADIO 2", 98.3 RADIO PLUS - USHUAIA
 http://inliveserver.com:1935/9014/9014/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.radioan24.com.ar/wp-content/uploads/2020/11/logo-radiotvan24-272X136-definitivo.png" group-title="RADIO 2", RADIO AN24
+https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cadenamaxima.com.ar/cadmawp/wp-content/uploads/2017/04/logo-cadena-maxima-footer.png" group-title="RADIO 2", CADENA MAXIMA 106.7 - SALTA
 https://vivo.solumedia.com:19360/cadenamaxima/cadenamaxima.m3u8
 
