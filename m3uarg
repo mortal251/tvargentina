@@ -176,8 +176,7 @@ https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/in
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN
 http://200.95.184.42:8000/play/a0ax
 
-#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN (OPCION 2)
-https://cdn14.esp-cdn.xyz/e/e_sur_c.html?.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
 http://23.237.78.54/live-1000/263/playlist.m3u8
