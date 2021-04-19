@@ -95,6 +95,10 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1200px-Logo_The_Simpsons.svg.png" group-title="INFANTIL", LOS SIMPSONS 
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="LOCALES 1", GEN TV - 17.3
 https://videohd.live:19360/8010/8010.m3u8
 
@@ -242,7 +246,7 @@ https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 https://www.youtube.com/watch?v=74TyBo37iV8
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 12 TRENQUE LAUQUEN
-https://www.youtube.com/watch?v=UHMT2dZrZNE
+https://www.youtube.com/watch?v=AOC9B6KD6OY
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gU0LdOci1cE/XrYL7uefhAI/AAAAAAAA0h0/N9ww7QKwrrY9kCL4fMrD3mroXZHoYMudACK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES 2", CANAL 7 JUJUY
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
@@ -770,7 +774,7 @@ http://video.streamtvradio.com:8081/uv059/uv059/chunks.m3u8
 https://srv1.zcast.com.ar/x24hd/x24hd/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 3", ONCE PARANA
-https://www.youtube.com/watch?v=JXFwjEEK6d4
+https://www.youtube.com/watch?v=gAjeR8UjSZQ
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 3", CANAL 10 TUCUMAN
 https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1618775441&h=3186d35f130e141a6c3cfb4f9d0ebd86
@@ -2384,8 +2388,6 @@ https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CuAENlfG0Qh9RiI0dZ1ZKWmdkc-
 
 
     
-
-
 
 EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO", SEX TV ARGENTINA
 https://59537faa0729a.streamlock.net/sextv/sextv/playlist.m3u8
