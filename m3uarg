@@ -1688,8 +1688,8 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://cultura24.tv/sites/default/files/inline-images/sponsor1.jpg" group-title="ESTILO DE VIDA 1", CULTURA 24 TV
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="ESTILO DE VIDA 2", LATIN ANGELS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df41355939756000921d15b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="ESTILO DE VIDA 2", HISTORIAS DE ULTRATUMBA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
