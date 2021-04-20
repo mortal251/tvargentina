@@ -206,7 +206,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c00099
 http://45.6.4.50:50601/America_Tucuman/video.m3u8  
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/133px-Telefe_Tucum%C3%A1n_%282018%29.png" group-title="LOCALES 2", TELEFE TUCUMAN
-https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/fa7d9c49-2cb8-4da9-b6c1-214a26efdf1c/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE5MDAzNTQ0LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODYuMTU4LjU2LjExOSIsIjE3OS4wLjIzOC41OSIsIjE4Ni4xNDguODMuMjUzIiwiMjgwMDo4MTA6NDczOjllOTk6NzgyZjpkNzFmOmViNDE6N2EyNiJdfSwic2lnbmF0dXJlIjoiZmNmYjYwYjBhZjhkNTllYWQzOTUzZThiY2M3ZjJjNDAzMmM1OTM5NyJ9
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1618922989~exp=1619099389~acl=/i/canal8tucuman_1@787002/*~hmac=711a40b92bcb487fff349a837d5016f234520ea77df962e94311c52f4bca61b1
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES 2", 6 ENTRE RIOS TV
 https://stmv1.questreaming.com/canal6er/canal6er/playlist.m3u8
