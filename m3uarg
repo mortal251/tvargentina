@@ -804,11 +804,10 @@ http://video.streamtvradio.com:8081/uv059/uv059/chunks.m3u8
 https://srv1.zcast.com.ar/x24hd/x24hd/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 3", ONCE PARANA
-https://www.youtube.com/watch?v=gAjeR8UjSZQ
+https://www.youtube.com/watch?v=akFTCH2Yyp0
 
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/newspaper/wp-content/uploads/2019/05/logo-canal-140x48-b.png" group-title="LOCALES 3", CANAL 10 TUCUMAN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1618867152&h=7f731847ec2185df54f3b1eed9d3d362
-
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1618946900&h=d5fcfdf4e2382b9af8b9804a18258a3b
 
 
 
