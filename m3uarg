@@ -902,11 +902,7 @@ https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-5
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/28058538_1234051790060138_3491248213466788660_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=973b4a&_nc_ohc=tY-GidK8Le4AX-sVoqu&_nc_ht=scontent.fepa11-1.fna&oh=d52dcb7ddcc6112595aebe2fd5669074&oe=608502DB" group-title="CINE Y SERIES", COLOSAL TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/2020-07/TeleSUR-Costa%2520Rica.png" group-title="CINE Y SERIES", TELESUR
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/06blQk_MW8hp4sQEfxlkxrm3Vlnyj0Wg6Diu_CdLui3wW8Pk9SXFaScG-ErDuKzYQes" group-title="CINE Y SERIES", SARAPIQUÍ
-http://209.126.105.158:1935/stv/web/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/UCV-TV_2013-0.png/revision/latest/scale-to-width-down/340?cb=20180329205151&path-prefix=es" group-title="CINE Y SERIES", UCV 
 https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
@@ -1529,7 +1525,7 @@ https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="MUSICA 2", Stingray Today's Latin Pop
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="MUSICA 2", Stingray Urban Beats (STIRR)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="MUSICA 2", Stingray Urban Beats
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 
 
@@ -1827,11 +1823,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b26947
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="INTERNACIONAL", EURONEWS
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/4204bc47-49ca-407d-8cab-a8e4f6db713a/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoDQLkIwY3J1UioFIBiSuyg2ocyNotWpOdw&usqp=CAU" group-title="INTERNACIONAL", 24 HORAS ESPAÑA
-https://rtvelivestream.akamaized.net/24h_dvr_1850.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246468579622400000/2PZnQjrY_400x400.jpg" group-title="INTERNACIONAL", CGTN Español
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246468579622400000/2PZnQjrY_400x400.jpg" group-title="INTERNACIONAL", CGTN ESPAÑOL
+http://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL._SR600,315_SCLZZZZZZZ_.png" group-title="INTERNACIONAL 2", NHK JAPON
 https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
@@ -1927,8 +1922,7 @@ http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_03/large.teleantioquiawhite.png.13828412c7e79365cebf6b87be4f4cdd.png" group-title="INTERNACIONAL", TELEANTIOQIUA
 https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://guillesainz.com/wp-content/uploads/2019/11/logo-ATB.jpg" group-title="INTERNACIONAL", ATB BOLIVIA
-https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.megatvarequipa.com/wp-content/uploads/2020/06/cropped-104684146_960970201020528_6006149684953973330_n-1-2.png" group-title="INTERNACIONAL", MEGA TV PERU 
 https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8
@@ -1963,8 +1957,7 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INTERNACIONAL 2", CNN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246468579622400000/2PZnQjrY_400x400.jpg" group-title="INTERNACIONAL", CGTN ESPAÑOL (OPCION 2)
-http://livees.cgtn.com/1000e/prog_index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/1200px-CBS_News.svg.png" group-title="INTERNACIONAL 2", CBS NEWS
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
@@ -2049,6 +2042,9 @@ https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC8Gc5fFs_4av_3It4hoaSP_CzT5gLkMRsm_xS6dN0DaGoxEsDeDNRagNODmODz3E7qRQ&usqp=CAU" group-title="INTERNACIONAL", EKIZ TV CHILE
 https://stmv.panel.mivideo.pro/ekiztv/ekiztv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/vallevision.png" group-title="INTERNACIONAL", 7 MURCIA
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 
 
 
