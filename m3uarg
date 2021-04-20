@@ -337,7 +337,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea
 https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1618914304~exp=1619090704~acl=/i/mdqdistri02_1@829747/*~hmac=5a73060fa1f4cea8dd11f902caf8989e6e55b0b4fed8a857cb4478919019a95b
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Telefe_Bah%C3%ADa_Blanca_%282018%29.png/133px-Telefe_Bah%C3%ADa_Blanca_%282018%29.png" group-title="LOCALES 2", TELEFE BAHIA BLANCA
-https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1618914304~exp=1619090704~acl=/i/mdqdistri02_1@829747/*~hmac=5a73060fa1f4cea8dd11f902caf8989e6e55b0b4fed8a857cb4478919019a95b
+https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1618934252~exp=1619110652~acl=/I/canal9bahiablanca_1@685725/*~hmac=6e58f1f7faa783b3e9c11474b586a4971dfb1e0f3ed478cd718a2433094a9163
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="LOCALES 2", CANAL 7 CATAMARCA
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
