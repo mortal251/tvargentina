@@ -186,12 +186,11 @@ http://23.237.78.54/live-1000/263/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT (OPCION 2)
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT (OPCION 2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTES 2", TyC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh4Xoyskq-XbqzphvBrsEpkoscRnlOq-CDUiz5inw=s900-c-k-c0x00ffffff-no-rj" group-title="DEPORTES 2",  TNT SPORTS
-http://ladyentertainment.com:8000/CarlosE01/AmJquzvHm4/7966
+
 
 
 #EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png?3" group-title="MUSICA", MUSIC TOP
@@ -2481,18 +2480,6 @@ http://45.71.202.210:50000/play/a00u/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/340?cb=20200417023402&path-prefix=es" group-title="DEPORTES 2",  PERU | GOLPERU
-http://ladyentertainment.com:8000/CarlosE01/AmJquzvHm4/7824
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES 2",  PERU | MOVISTAR DEPORTES
-http://170.79.233.222:8500/play/a0do/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES 2",  CO | WIN SPORTS
-http://ladyentertainment.com:8000/CarlosE01/AmJquzvHm4/6688
-
-
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fuiNMHxxBa8/Xj9K4sAvkaI/AAAAAAAANKs/JK__aGQCmXoUM-NLaoTKQoi9rl95olQCwCLcBGAsYHQ/s640/futv.png" group-title="DEPORTES 2",  COSTARICA | FUTV
 http://192.99.46.43:25461/Ultratoken/budTV/3232/2200.m3u8
@@ -2503,12 +2490,6 @@ http://192.99.46.43:25461/Ultratoken/budTV/3232/2200.m3u8
 http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="DEPORTES 2",  UY | VTV
-http://ladyentertainment.com:8000/CarlosE01/AmJquzvHm4/8547
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="DEPORTES 2",  UY | VTV PLUS
-http://ladyentertainment.com:8000/CarlosE01/AmJquzvHm4/7813
 
 #EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="DEPORTES 2",  EVENTOS TIGO HONDURAS 1
 https://d20tezjrkz1zmc.cloudfront.net/out/v1/70c5e7b2534245f69d923065ffefd6d2/index.m3u8?SBN
@@ -2551,8 +2532,7 @@ http://balancer1.ottmex.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="DEPORTES 2",  MX | FOX SPORTS 2 NORTE
 http://balancer1.ottmex.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png/revision/latest/scale-to-width-down/340?cb=20160412195331" group-title="DEPORTES 2", MX | FOX SPORTS 3 NORTE
-http://balancer1.ottmex.com:8081/tecno/FoxSports3.BKR/chunks.m3u8
+
 
 
 
