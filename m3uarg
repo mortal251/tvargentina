@@ -1458,6 +1458,16 @@ https://live.siete.us/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WD49JzHZ9cM/Xrsv-mIjUjI/AAAAAAAA0rs/g_Pgm6hQvNIbp8aHuvQ3H7kEkiu3-M4zQCK8BGAsYHg/s0/2020-05-12.png" group-title="MUSICA", Ocko Star
 https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="MUSICA", QUEST TV Classical
+https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bhSrOea.jpg" group-title="MUSICA", QUEST TV Jazz and Beyond
+https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="MUSICA", QUEST TV MIX
+https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
+
+
 
 
 
