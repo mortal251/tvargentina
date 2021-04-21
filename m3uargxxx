@@ -2456,6 +2456,12 @@ http://inliveserver.com:1935/8386/8386/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.envivofutbol.tv/wp-content/uploads/2020/03/Canales-para-ver-directv-sports-en-vivo.jpg" group-title="DEPORTES 2", CHILE | DIRECTV SPORTS 1
+http://45.181.121.78:8000/play/a028
+
+#EXTINF:-1 tvg-logo="https://www.envivofutbol.tv/wp-content/uploads/2020/03/Canales-para-ver-directv-sports-en-vivo.jpg" group-title="DEPORTES 2", CHILE | DIRECTV SPORTS 2
+http://23.227.145.10:128/budTV/3232/1644_.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="DEPORTES 2",  ECU | GOLTV ECUADOR
 http://45.71.202.210:50000/play/a00u/index.m3u8
 
@@ -2475,11 +2481,24 @@ http://balancer1.ottmex.com:8081/tecno/Espn2.BKR/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES 2",  MX | ESPN 3 NORTE
 http://balancer1.ottmex.com:8081/tecno/Espn3.BKR/chunks.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/996779176421019648/o1pPkhwJ_400x400.jpg" group-title="DEPORTES 2",  MX | FOX SPORTS 1 NORTE
 http://balancer1.ottmex.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="DEPORTES 2",  MX | FOX SPORTS 2 NORTE
 http://balancer1.ottmex.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png/revision/latest/scale-to-width-down/340?cb=20160412195331" group-title="DEPORTES 2", MX | FOX SPORTS 3 NORTE
+http://balancer1.ottmex.com:8081/tecno/FoxSports3.BKR/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="DEPORTES 2", ES | EUROSPORT 1
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="DEPORTES 2", ES | EUROSPORT 2
+http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="DEPORTES 2",  EVENTOS TIGO BOLIVIA 1
 https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
@@ -2498,11 +2517,6 @@ https://d20tezjrkz1zmc.cloudfront.net/out/v1/70c5e7b2534245f69d923065ffefd6d2/in
 https://d1t6zcudgmh6wd.cloudfront.net/out/v1/88e67fc9be954233a769f97bada38a56/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="DEPORTES 2", ES | EUROSPORT 1
-http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="DEPORTES 2", ES | EUROSPORT 2
-http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8
 
 
 
@@ -2511,10 +2525,6 @@ http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8
 
 
 
-
-
-
-  
 
 
 
