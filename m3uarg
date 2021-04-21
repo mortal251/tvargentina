@@ -2520,7 +2520,8 @@ https://d20tezjrkz1zmc.cloudfront.net/out/v1/70c5e7b2534245f69d923065ffefd6d2/in
 https://d1t6zcudgmh6wd.cloudfront.net/out/v1/88e67fc9be954233a769f97bada38a56/index.m3u8
 
 
-
+#EXTINF:-1 group-title="DEPORTES 2", ESPN
+http://zufreelist.net:8080/listam3u/m3ulistam3u/88
 
 
 
