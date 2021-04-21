@@ -2042,6 +2042,9 @@ https://stmv.panel.mivideo.pro/ekiztv/ekiztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK_400x400.jpg" group-title="INTERNACIONAL", 7 MURCIA
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/bbcltv-2019/img/share.png" group-title="INTERNACIONAL", BIO BIO TV CHILE
+https://unlimited1-us.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
+
 
 
 
