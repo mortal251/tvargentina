@@ -2502,7 +2502,7 @@ https://d1t6zcudgmh6wd.cloudfront.net/out/v1/88e67fc9be954233a769f97bada38a56/in
 http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="DEPORTES 2", ES | EUROSPORT 2
-http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8
+http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8
 
 
 
