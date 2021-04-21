@@ -442,7 +442,7 @@ https://panel.dattalive.com/8138/8138/chunklist_w430516847.m3u8
 
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=GAVETq5LY_w
+https://www.youtube.com/watch?v=TEdcHI628pk
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
 https://www.youtube.com/watch?v=usGe4Oxdii0
@@ -775,8 +775,8 @@ http://video.streamtvradio.com:8081/uv059/uv059/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/x24.png" group-title="LOCALES 4", X24 TUCUMAN
 https://srv1.zcast.com.ar/x24hd/x24hd/playlist.m3u8
 
-#EXTINF:-1 group-title="LOCALES 2", CANAL 12 TRENQUE LAUQUEN
-https://www.youtube.com/watch?v=AOC9B6KD6OY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_12.png" group-title="LOCALES 2", CANAL 12 TRENQUE LAUQUEN
+https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
 https://www.youtube.com/watch?v=Z6hkUqZO2Ng
