@@ -96,7 +96,7 @@ http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa64277
 https://www.youtube.com/watch?v=FBAzNfv4V18
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="INTERNACIONAL", FRANCE 24 ESPAÑOL - 24.3
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8   
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="INTERNACIONAL", TELESUR - 25.4
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
@@ -442,7 +442,7 @@ https://panel.dattalive.com/8138/8138/chunklist_w430516847.m3u8
 
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=GAVETq5LY_w
+https://www.youtube.com/watch?v=TEdcHI628pk
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
 https://www.youtube.com/watch?v=usGe4Oxdii0
@@ -556,8 +556,7 @@ https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
 https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj3A5dsZMcJlJdjb7NWxnpPuV2HFmJVcJqzyf2Y9g=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 4", CANAL 18 SALTA
-https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Rq2DueK3lUg/YGpFUPnkHlI/AAAAAAABBM8/jOvaiSnJ6cEVltniX8zDuD-Mv9hc-HwzwCK8BGAsYHg/s512/2021-04-04.jpg" group-title="LOCALES 3", TRIBU TV LAS VARILLAS CORDOBA
@@ -571,6 +570,10 @@ https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="LOCALES 4", CTV CORRIENTES
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3487556435/aaae8392a11f89550187210f1a944807_400x400.jpeg" group-title="LOCALES 4", CANAL 29 ENSENADA
+https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://diariosanjuan.com.ar/imagenes/banner.png" group-title="LOCALES 3", DIARIO DE SAN JUAN
@@ -647,7 +650,11 @@ http://190.103.192.6:8080/hls/mystreamkey.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="LOCALES 4", CANAL 10 SAN RAFAEL
 https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
 
+#EXTINF:-1 tvg-logo="https://madmultimedios.com.ar/download/publicidades.imagen.85ca37af4521c2f4.696d6167656e2e706e67.png" group-title="LOCALES 4", CANAL 5 TANDIL
+https://stmv1.srvif.com/madmultimedios/madmultimedios/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU" group-title="LOCALES 4", TELEDIEZ PASO DE LOS LIBRES
+https://videohd.live:19360/8020/8020.m3u8
 
 
 
@@ -676,8 +683,7 @@ http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" group-title="LOCALES 4", TELECINCO TRELEW
 https://videohd.live:19360/8016/8016.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.18169-9/12208406_1690135961244153_7586777154322887798_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=973b4a&_nc_ohc=Pr00Fl-9ySIAX9WU8Io&_nc_ht=scontent.fepa11-1.fna&oh=3bfbf0b5af24d2d2926c813e2d603428&oe=60A44A37" group-title="LOCALES 4", CANAL 8 CATAMARCA
-https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w2100099889.m3u8
+
 
 
 
@@ -695,9 +701,11 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg" group-title="LOCALES 4", CANAL 10 SENILLOSA NEUQUEN
 https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://linktvcanal.com/portal/wp-content/uploads/2017/07/logo.png" group-title="LOCALES 4", LINK TV SANTA FE
+https://panel.dattalive.com/8128/8128/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="http://www.canal4teleba.com.ar/img/banner.png" group-title="LOCALES 4", TELEBA BALCARCE
+http://inliveserver.com:1935/8550/8550/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png" group-title="LOCALES 4", CANAL 21 POSADAS
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
@@ -706,24 +714,13 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
 https://5975e06a1f292.streamlock.net:4443/canal3/canal3/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://madmultimedios.com.ar/download/publicidades.imagen.85ca37af4521c2f4.696d6167656e2e706e67.png" group-title="LOCALES 4", CANAL 5 TANDIL
-https://stmv1.srvif.com/madmultimedios/madmultimedios/playlist.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 4", CNR JUJUY
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 4", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
 https://inliveserver.com:1936/14064/14064/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://linktvcanal.com/portal/wp-content/uploads/2017/07/logo.png" group-title="LOCALES 4", LINK TV SANTA FE
-https://panel.dattalive.com/8128/8128/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="LOCALES 4", 12 TARTAGAL
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
@@ -732,11 +729,13 @@ https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
 http://arcast.net:1935/correadigital/canal12/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.trutv.com.ar/wp-content/uploads/2018/05/logro-tru.png" group-title="LOCALES 4", TELEVISION REGIONAL UNIMARC CORDOBA
+https://vivo.solumedia.com:19360/trutv/trutv.m3u8
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/logo-canal-2-perico.jpg" group-title="LOCALES 4", CANAL 2 PERICO
+https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8?_=1
 
 
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3MwF1xYI9s0/X4MNUuARJ3I/AAAAAAAA6Vk/f8VICRuKxms6s7DbkOc08AA8ZYmFWulZQCK8BGAsYHg/s0/2020-10-11.png" group-title="LOCALES 4", TELEESTRELLA ARGENTINA
-https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108679_UNIRIO.png" group-title="LOCALES 4", UNIRIO TV
@@ -756,27 +755,27 @@ https://inliveserver.com:1936/8292/8292/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://realidad10.com/wp-content/uploads/2020/11/cropped-WhatsApp-Image-2020-11-03-at-09.49.14.jpeg" group-title="LOCALES 4", REALIDAD 10 SANTA FE
 https://streamcasthd.com:1936/realidad10/realidad10/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.trutv.com.ar/wp-content/uploads/2018/05/logro-tru.png" group-title="LOCALES 4", TELEVISION REGIONAL UNIMARC CORDOBA
-https://vivo.solumedia.com:19360/trutv/trutv.m3u8
-
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/logo-canal-2-perico.jpg" group-title="LOCALES 4", CANAL 2 PERICO
-https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8?_=1
-
-#EXTINF:-1 tvg-logo="http://www.canal4teleba.com.ar/img/banner.png" group-title="LOCALES 4", TELEBA BALCARCE
-http://inliveserver.com:1935/8550/8550/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU" group-title="LOCALES 4", TELEDIEZ PASO DE LOS LIBRES
-https://videohd.live:19360/8020/8020.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3487556435/aaae8392a11f89550187210f1a944807_400x400.jpeg" group-title="LOCALES 4", CANAL 29 ENSENADA
-http://video.streamtvradio.com:8081/uv059/uv059/chunks.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3MwF1xYI9s0/X4MNUuARJ3I/AAAAAAAA6Vk/f8VICRuKxms6s7DbkOc08AA8ZYmFWulZQCK8BGAsYHg/s0/2020-10-11.png" group-title="LOCALES 4", TELEESTRELLA ARGENTINA
+https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/x24.png" group-title="LOCALES 4", X24 TUCUMAN
 https://srv1.zcast.com.ar/x24hd/x24hd/playlist.m3u8
 
-#EXTINF:-1 group-title="LOCALES 2", CANAL 12 TRENQUE LAUQUEN
-https://www.youtube.com/watch?v=AOC9B6KD6OY
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.18169-9/12208406_1690135961244153_7586777154322887798_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=973b4a&_nc_ohc=Pr00Fl-9ySIAX9WU8Io&_nc_ht=scontent.fepa11-1.fna&oh=3bfbf0b5af24d2d2926c813e2d603428&oe=60A44A37" group-title="LOCALES 4", CANAL 8 CATAMARCA
+https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_12.png" group-title="LOCALES 2", CANAL 12 TRENQUE LAUQUEN
+https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
 https://www.youtube.com/watch?v=Z6hkUqZO2Ng
@@ -1196,8 +1195,6 @@ https://www.youtube.com/watch?v=sbpG3Evg8eY
 #EXTINF:-1 group-title="INFANTIL", PEPPA PIG
 https://www.youtube.com/watch?v=hl_nACnH42w
 
-#EXTINF:-1 group-title="INFANTIL", Biper y sus Amigos
-https://www.youtube.com/watch?v=hp8mkope_yE
 
 #EXTINF:-1 group-title="INFANTIL", HEROES EN PIJAMAS
 https://www.youtube.com/watch?v=SbugOb2aYFg
@@ -2044,6 +2041,9 @@ https://stmv.panel.mivideo.pro/ekiztv/ekiztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK_400x400.jpg" group-title="INTERNACIONAL", 7 MURCIA
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/bbcltv-2019/img/share.png" group-title="INTERNACIONAL", BIO BIO TV CHILE
+https://unlimited1-us.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
+
 
 
 
@@ -2094,6 +2094,9 @@ https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/fmlavozsao.com/wp-content/uploads/2018/08/radio-nuevo.jpg?fit=573%2C524&ssl=1" group-title="RELIGION", FM LA VOZ 91.5 SAN ANTONIO OESTE
 https://stmvideo2.livecastv.com/lavoztv/lavoztv/chunklist_w859988336.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj3A5dsZMcJlJdjb7NWxnpPuV2HFmJVcJqzyf2Y9g=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGION", CANAL 18 SALTA
+https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
 
 
 
@@ -2515,6 +2518,50 @@ https://d20tezjrkz1zmc.cloudfront.net/out/v1/70c5e7b2534245f69d923065ffefd6d2/in
 
 #EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="DEPORTES 2",  EVENTOS TIGO GUATEMALA 1
 https://d1t6zcudgmh6wd.cloudfront.net/out/v1/88e67fc9be954233a769f97bada38a56/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
