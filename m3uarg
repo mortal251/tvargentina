@@ -2498,33 +2498,7 @@ http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="DEPORTES 2", ES | EUROSPORT 2
 http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/TNT_Sports_2.svg/revision/latest/scale-to-width-down/340?cb=20210117042357" group-title="DEPORTES 2", CHILE | TNT SPORTS
-http://200.95.184.42:8000/play/cdfhd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/TNT_Sports_2.svg/revision/latest/scale-to-width-down/340?cb=20210117042357" group-title="DEPORTES 2", CHILE | TNT SPORTS 2
-http://190.13.162.66:8081/play/a00g
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU" group-title="DEPORTES 2", CHILE | ESPN 1 SUR
-http://200.95.184.42:8000/play/a0ax
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26QU1pi5nhbw9hndTtO7GOZJfwoMPtlED0Q&usqp=CAU" group-title="DEPORTES 2", CHILE | ESPN 2 SUR
-http://200.95.184.42:8000/play/a06j
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES 2", CHILE | ESPN 3 SUR
-http://200.95.184.42:8000/play/espn3hd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqpExEOU8bgI4lxxRHUSDL6_wm3HWI5MvjAA&usqp=CAU" group-title="DEPORTES 2", CHILE | ESPN EXTRA SUR
-http://200.95.184.42:8000/play/a05e
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES 2", CHILE | FOX SPORTS 1 SUR
-http://200.95.184.42:8000/play/a07k
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="DEPORTES 2", CHILE | FOX SPORTS 2 SUR
-http://200.95.184.42:8000/play/a0at
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png/revision/latest/scale-to-width-down/340?cb=20160412195331" group-title="DEPORTES 2", CHILE | FOX SPORTS 3 SUR
-http://200.95.184.42:8000/play/foxsports3hd
 
 #EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="DEPORTES 2",  EVENTOS TIGO BOLIVIA 1
 https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
