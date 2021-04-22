@@ -610,7 +610,7 @@ https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="LOCALES 3", ITEL CHAJARI
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0166 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0165 
 
 
 
@@ -622,7 +622,7 @@ https://stmv1.srvif.com/mercedestv/mercedestv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 4", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0232
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0233
 
 
 
@@ -2247,6 +2247,9 @@ https://stmv1.srvif.com/radiocity/radiocity/playlist.m3u8
 #EXTINF:-1 group-title="RADIO 2", VORTERIX - 92.1 FM
 https://www.youtube.com/watch?v=Y2yMb6wy7xo
 
+#EXTINF:-1 tvg-logo="https://cadenaritmo.com.ar/imagenes/logo.png" group-title="RADIO 2", CADENA RITMO 101.1 FM NEUQUEN
+https://59537faa0729a.streamlock.net/cadenaritmo/cadenaritmo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://fmsoledad885.com.ar/wp-content/uploads/2020/11/Logo-header-1-1024x132.png" group-title="RADIO 2", FM SOLEDAD 88.5 LAS HIGHERAS CORDOBA
 https://59537faa0729a.streamlock.net/fmsoledad885/fmsoledad885/playlist.m3u8
 
@@ -2455,7 +2458,7 @@ https://cdnhd.iblups.com/hls/ycxwLxWuQv.m3u8
 https://nd106.republicaservers.com/canal2misiones.mp4
 
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES 4", VEO SANTA FE (SOLO IPTV AZUL)
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0258
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0259
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="LOCALES 4", MAGAZINE
 https://g5.proy-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
