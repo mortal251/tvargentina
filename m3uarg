@@ -2237,7 +2237,8 @@ https://stmv1.srvif.com/liberred/liberred/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiocity.com.ar/uploads/logo/logo_5b52099c0e558.png" group-title="RADIO 1", RADIO CITY 97.5 FM VILLA DEL ROSARIO CORDOBA
 https://stmv1.srvif.com/radiocity/radiocity/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://fmuniversidad.com/web/wp-content/uploads/2018/07/logoradio-utn-positivo.png" group-title="RADIO 1", FM UNIVERSIDAD 105.7 PARANA
+https://5f93e494d5906.streamlock.net/rtmputnfrp/utnfrp.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="RADIO 2", VORTERIX - 92.1 FM
@@ -2368,6 +2369,12 @@ https://inliveserver.com:1936/8436/8436/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://realidad10.com/wp-content/uploads/2020/11/cropped-WhatsApp-Image-2020-11-03-at-09.49.14.jpeg" group-title="RADIO 2", CN 22 CHACO
 https://5f6e1fe8f2d2e.streamlock.net/cn22/cn22/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://scontent-eze1-1.xx.fbcdn.net/v/t1.6435-9/94964811_865776633919612_7072925299507200000_n.png?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeEqGQM5_05Ymv96UBERJnzTaQCaMMYJN3ppAJowxgk3evezYyL-wW27QeuZ7X1Rpdk&_nc_ohc=RJ3lyNjAkvoAX9zBawB&_nc_ht=scontent-eze1-1.xx&oh=b40285a7db58b91a7eee753fb0e17011&oe=60A98187" group-title="RADIO 2", FM 92.1 PLAYA UNION CHUBUT
+https://stmv1.srvif.com/tulugar/tulugar/playlist.m3u8
+
+
 
 
 
