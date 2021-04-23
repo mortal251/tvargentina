@@ -1097,6 +1097,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f800077
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUfXn6czYrT7z_8DubKtd29uPxZi3ZtUDoIQ&usqp=CAU" group-title="INFANTIL", ANIME ZONE TV
 http://animeloving.net/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ja67hoMAcTg/YHTMV3U0IAI/AAAAAAABBXg/NR0gddxhYwo40O6_A5dSQJBMUAyHdEiywCK8BGAsYHg/s512/2021-04-12.png" group-title="INFANTIL", ETC
+https://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/etctv/livestream4/chunks.m3u8?nimblesessionid=18156387
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", NICK JR. LATINO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff372-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=508efa49-44d3-42fd-8d4d-75f10b4e7cc7&userId=&serverSideAds=true
 
@@ -1200,6 +1203,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb554d87a0c480007c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="INFANTIL", TV GAMER 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d5b62-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8311f10-8c2e-45bb-a408-7e2c579d7adb&userId=&serverSideAds=true
+
 
 
 
