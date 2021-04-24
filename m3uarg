@@ -84,7 +84,8 @@ https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 1", CINCO TV TIGRE - 30.1
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm0MM0BtkhB9xHWsECtnky05aGfA8KKnDSg&usqp=CAU" group-title="LOCALES 1", CANAL 29 QUILMES
+http://inliveserver.com:1935/8386/8386/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.telecreativa.com/logos/enc_TELECREATIVA_movil.gif" group-title="LOCALES 1", TELECREATIVA LANUS
 https://panel.dattalive.com/8012/8012/playlist.m3u8
@@ -895,8 +896,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg" group-title="CINE Y SERIES", TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="CINE Y SERIES", MOVIES
 https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
@@ -2229,8 +2228,7 @@ https://stmv1.srvif.com/liberred/liberred/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiocity.com.ar/uploads/logo/logo_5b52099c0e558.png" group-title="RADIO 1", RADIO CITY 97.5 FM VILLA DEL ROSARIO CORDOBA
 https://stmv1.srvif.com/radiocity/radiocity/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://fmuniversidad.com/web/wp-content/uploads/2018/07/logoradio-utn-positivo.png" group-title="RADIO 1", FM UNIVERSIDAD 105.7 PARANA
-https://5f93e494d5906.streamlock.net/rtmputnfrp/utnfrp.stream/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="RADIO 2", VORTERIX - 92.1 FM
@@ -2460,8 +2458,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0259
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="LOCALES 4", MAGAZINE
 https://g5.proy-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm0MM0BtkhB9xHWsECtnky05aGfA8KKnDSg&usqp=CAU" group-title="LOCALES 4", CANAL 29 QUILMES
-http://inliveserver.com:1935/8386/8386/playlist.m3u8
+
 
 
 
