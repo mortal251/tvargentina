@@ -1029,7 +1029,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007f
 
 
 
-
+#EXTINF:-1 group-title="INFANTIL", Super Dragon Ball Heroes
+https://www.youtube.com/watch?v=B2rUo7Ueu94
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" group-title="INFANTIL", EL CHAVO
