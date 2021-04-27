@@ -192,7 +192,7 @@ https://www.youtube.com/watch?v=gBbMbqILzXU
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/133px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="LOCALES 2", TELEFE CORDOBA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1619367721~exp=1619544121~acl=/i/canal8cordoba_1@685726/*~hmac=11007b7c0377cd3dc5d628a030ba221f2d2ad3f0e1f7e2449a18c6eb332b6434
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1619516931~exp=1619693331~acl=/i/canal8cordoba_1@685726/*~hmac=fe045b7819d7cf687f244af50fd4439a11e0225099970472cbda136eafbb55f5
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", CANAL 10 CORDOBA
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
@@ -305,7 +305,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Telefe_Mar_del_Plata_%282018%29.png/133px-Telefe_Mar_del_Plata_%282018%29.png" group-title="LOCALES 2", TELEFE MAR DEL PLATA
-https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1619367985~exp=1619544385~acl=/i/mdqdistri02_1@829747/*~hmac=514c9dc6f7745e3aed5e269b1c343359d1c0c2fa0971bba21ecdd51920823752
+https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1619516850~exp=1619693250~acl=/i/mdqdistri02_1@829747/*~hmac=c103cb58c1dd7808fb0beb0793639d8f5109ca0a510623fd471c526cd2120d32
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Telefe_Bah%C3%ADa_Blanca_%282018%29.png/133px-Telefe_Bah%C3%ADa_Blanca_%282018%29.png" group-title="LOCALES 2", TELEFE BAHIA BLANCA
 https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1619367928~exp=1619544328~acl=/I/canal9bahiablanca_1@685725/*~hmac=bf6e0386e538eaf7147c45d86d92d292afaad9b25ad99a30a2ecb5c886f5451f
