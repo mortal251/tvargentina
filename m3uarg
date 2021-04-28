@@ -148,9 +148,8 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0031
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT *
-https://playback2.akamaized.net/streams/27014129_8167338_lsik6pxptjy6yigt577_1/exp=1619695857~acl=%2f*~data=hdntl~hmac=d3f0303c932f671ecabf65a870647d635f0c5965e2c203fba1909f47fef2b802/media/27014129_8167338_lsik6pxptjy6yigt577_1@1756000pb.m3u8?dw=80&ts=1619607600
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT int
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=321|User-Agent=ajajajaja
 
 
 
