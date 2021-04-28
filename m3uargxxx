@@ -49,7 +49,7 @@ http://rv.therevenge.co:80/307201000154/307201000154/87121
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 (OPCION 2)
-https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/62a51348-4e9a-437a-bc3d-d79c595365ee/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE5NjU1MTY5LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIiwiMjgwMDo4MTA6NDczOjllOTk6YzA2Yzo2MTRhOjJmZmI6Njk2MyJdfSwic2lnbmF0dXJlIjoiMTYxMDU2OGEwZjZhMTAzNmE0ZDZmZTAyYTdjMDI4YjRlMzFlODgzOSJ9
+https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/93f7f831-b0ae-4345-8544-c2f8c19861a9/2.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE5NjkyMjMyLCJzZXNzaW9uIjoiMjAwLjMuMTEzLjE1MCIsIndoaXRlbGlzdCI6WyIyMDAuMy4xMTMuMTUwIl19LCJzaWduYXR1cmUiOiIzMThiZmMwMDRmZjc4ZDYyNDNjODIxYzVlMTI0NTY5M2FmN2VkY2ZiIn0%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051 
@@ -148,10 +148,8 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0031
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT
-https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT int
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=321|User-Agent=ajajajaja
 
 
 
@@ -2665,6 +2663,9 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+
+
+
 
 
 
