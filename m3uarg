@@ -471,8 +471,7 @@ https://panel.dattalive.com/8138/8138/playlist.m3u8
 
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=PFq7-KeEVXA
-
+https://www.youtube.com/watch?v=IXwr6IpSmpo
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
 https://www.youtube.com/watch?v=HhJS0M9Ker4
@@ -2265,7 +2264,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/b64e7d2ed9904a48b0f3d70609562d6b/c
 #EXTINF:-1 tvg-logo="https://launotv.com.ar/templates/default/images/logo.png" group-title="RADIO 1", RADIO UNO 95.1 FM - AMERICA  RIVADAVIA  
 https://stmvideo2.livecastv.com/launotv/launotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://launotv.com.ar/templates/default/images/logo.png" group-title="RADIO 1", RADIO MEDIATICA 98.9 FM - RIO GALLEGOS
+#EXTINF:-1 tvg-logo="https://www.mediaticadigital.com.ar/files/image/23/23202/5bacedbf70730.png" group-title="RADIO 1", RADIO MEDIATICA 98.9 FM - RIO GALLEGOS
 https://streamyes.alsolnet.com/radiomediaticavideo/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s171364/images/logog.jpg?t=153684" group-title="RADIO 2", RADIO FM SER 89.7
@@ -2273,7 +2272,7 @@ http://wowza1.sion.com:1935/fmser/radio/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="RADIO 2", POWER FM PINAMAR 100.3 FM
-https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8 +
+https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8 
 
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio17226_1475156823.png" group-title="RADIO 2", FM IBEROAMERICA 100.3 MAR DEL PLATA
