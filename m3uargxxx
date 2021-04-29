@@ -148,8 +148,9 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0031
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT int
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=321|User-Agent=ajajajaja
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT
+https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+
 
 
 
@@ -1235,7 +1236,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b26947
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg" group-title="DEPORTE", CIUDAD MAGICA 105.1 FM AUSONIA 
+https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT (OPCION 2)
@@ -1251,7 +1253,7 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/in
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT PLAY 3
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Sports_Channel_Network.png/revision/latest/scale-to-width-down/200?cb=20200608142627" group-title="DEPORTE", SPORT CHANEL NETWORK
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Sports_Channel_Network.png/revision/latest/scale-to-width-down/200?cb=20200608142627" group-title="DEPORTE", SPORT CHANNEL NETWORK
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8 
 
 
@@ -2231,12 +2233,17 @@ https://stmv4.srvstm.com/litoral2/litoral2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.conexionabierta.com.ar/images/logo-conexion-abierta.png" group-title="RADIO 1", RADIO CONEXION ABIERTA
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/b64e7d2ed9904a48b0f3d70609562d6b/chunklist_b3692000.m3u8?p=79&s=1607779032&e=1607779152&h=91800526ed9f2926f876f628593822e0
 
+
+#EXTINF:-1 tvg-logo="https://launotv.com.ar/templates/default/images/logo.png" group-title="RADIO 1", RADIO UNO 95.1 FM - AMERICA  RIVADAVIA  
+https://stmvideo2.livecastv.com/launotv/launotv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s171364/images/logog.jpg?t=153684" group-title="RADIO 2", RADIO FM SER 89.7
 http://wowza1.sion.com:1935/fmser/radio/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="RADIO 2", POWER FM PINAMAR 100.3 FM
-https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8 
+https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8 +
+
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio17226_1475156823.png" group-title="RADIO 2", FM IBEROAMERICA 100.3 MAR DEL PLATA
 http://videostream.shockmedia.com.ar:1935/fmiberoamerica/fmiberoamerica/playlist.m3u8
@@ -2511,14 +2518,34 @@ https://g5.proy-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_al
 
 
 
-#EXTINF:-1 tvg-logo="https://www.envivofutbol.tv/wp-content/uploads/2020/03/Canales-para-ver-directv-sports-en-vivo.jpg" group-title="DEPORTES 2", CHILE | DIRECTV SPORTS 1
-http://45.181.121.78:8000/play/a028
+
 
 #EXTINF:-1 tvg-logo="https://www.envivofutbol.tv/wp-content/uploads/2020/03/Canales-para-ver-directv-sports-en-vivo.jpg" group-title="DEPORTES 2", CHILE | DIRECTV SPORTS 2
 http://23.227.145.10:128/budTV/3232/1644_.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="DEPORTES 2",  ECU | GOLTV ECUADOR
-http://45.71.202.210:50000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU" group-title="DEPORTES 2", CHILE | ESPN 1 SUR
+http://200.95.184.42:8000/play/a0ax
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26QU1pi5nhbw9hndTtO7GOZJfwoMPtlED0Q&usqp=CAU" group-title="DEPORTES 2", CHILE | ESPN 2 SUR
+http://200.95.184.42:8000/play/a06j
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES 2", CHILE | ESPN 3 SUR
+http://200.95.184.42:8000/play/espn3hd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqpExEOU8bgI4lxxRHUSDL6_wm3HWI5MvjAA&usqp=CAU" group-title="DEPORTES 2", CHILE | ESPN EXTRA SUR
+http://200.95.184.42:8000/play/a05e
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES 2", CHILE | FOX SPORTS 1 SUR
+http://200.95.184.42:8000/play/a07k
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="DEPORTES 2", CHILE | FOX SPORTS 2 SUR
+http://200.95.184.42:8000/play/a0at
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png/revision/latest/scale-to-width-down/340?cb=20160412195331" group-title="DEPORTES 2", CHILE | FOX SPORTS 3 SUR
+http://200.95.184.42:8000/play/foxsports3hd
+
+
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fuiNMHxxBa8/Xj9K4sAvkaI/AAAAAAAANKs/JK__aGQCmXoUM-NLaoTKQoi9rl95olQCwCLcBGAsYHQ/s640/futv.png" group-title="DEPORTES 2",  COSTARICA | FUTV
 http://192.99.46.43:25461/Ultratoken/budTV/3232/2200.m3u8
@@ -2570,6 +2597,9 @@ https://d20tezjrkz1zmc.cloudfront.net/out/v1/70c5e7b2534245f69d923065ffefd6d2/in
 
 #EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="DEPORTES 2",  EVENTOS TIGO GUATEMALA 1
 https://d1t6zcudgmh6wd.cloudfront.net/out/v1/88e67fc9be954233a769f97bada38a56/index.m3u8
+
+
+
 
 
 
@@ -2666,6 +2696,9 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+
+
+
 
 
 
