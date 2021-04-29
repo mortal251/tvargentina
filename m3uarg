@@ -1512,6 +1512,9 @@ https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="MUSICA 2", CMT MUSIC
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
 
@@ -2094,6 +2097,9 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/bbcltv-2019/img/share.png" group-title="INTERNACIONAL", BIO BIO TV CHILE
 https://unlimited1-us.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="http://ondaalgecirastv.com/wp-content/uploads/2017/05/logo-oatv-footer-final.png" group-title="INTERNACIONAL", ONDA ALGECIRAS ESPAÑA
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+
 
 
 
@@ -2147,6 +2153,9 @@ https://stmvideo2.livecastv.com/lavoztv/lavoztv/chunklist_w859988336.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj3A5dsZMcJlJdjb7NWxnpPuV2HFmJVcJqzyf2Y9g=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGION", CANAL 18 SALTA
 https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://positivochannel.com/images/MOSCA-POSITIVO-OFICIAL-1.png" group-title="RELIGION", POSITIVO CHANEL
+https://5fa5de1a545ae.streamlock.net/PositivoChannel/PositivoChannel/playlist.m3u8
 
 
 
