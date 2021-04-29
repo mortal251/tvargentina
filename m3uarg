@@ -62,7 +62,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051
  
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvcEbumz0EyMQf94m7CtPy4IZWXXvxA7aOHhe4Mb2KAOypnpKwQadW6XH6PIoabbsKyGiy-IGpiiE25Y0_YDNf4K6GLeb2N15DnUEk7knFB77ipoFtbH8enC_iKAoTFAJMDDQyLAOafX8tx3RxnJYW4mMY7zFspGbk6rEWFE69-RY79t0gq0eHxuUek3gsHBtqGe0pQig-51Jl_oiwXuxbfFoZXSqr9Rk0PSyjJfsxFOfpPoOrJtlQk2GRyLNiPIVTpemDAZlykknL5vXIzqtRBZa4z0q9XZh4dr67gh7zLBcBFmD0lbUdDpke55d4jckAqhQC89C7sKKrswtid-W0PVdh09-v59EoQgaNHSlrmT4lyqDo_wN4L_XJPs7fRvE9s-VljdoYyZDpXSyKmo98redsGLUoj9h3SJFRmDWBWojMrI7V3sou4VI6YUEkrX8l6JY8KBuSli0BzkLWFLqklEwYoyPgrfwxb6gOfNoat3vyea8DJ0hmYm3WsWUgPRzfWXbEuC3f4L65qgUo2hjEY2ierWb_ROkqrNOCKr-twPEhTdABxEyG4s4J-Bh_hFPCcc82aIubbr-bvni0qyj5yEAvQVEID90IIS6zIzc8pIIwnI_EjFkyS-pmIPiZCXDGQWrEQeePF80Rmq97SzeSgPSE70AF0oGp7MAxTFQfr4y9Fq1JEn5sdrId7kuB4dSRVFat0CQ2mflrdPXisysIxV-NuViFKWt3zobSy-Gae_3UbPCsSzWKMtiFLP5AqhPF_ZAYwguhGGLJs3wtVL6zjXGbHSwvKo9fBfLTjnlqQpU71JqTaxPxbEYc0-KwJ15k1ZM7G6esTNYxIQoVuK4rGmgUevDROybCG1KhoMOHHgboq90CJrkRA4.m3u8
+https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CvkEXa537s6zSjKnCrZptIxhPUN4-UWf467m6siSw51mnJ7gNE0ggZJhSseQa4F-2UhNx7dNGLo6hWFuJkF3azkcp-LxjfCacBVAOzQob6PLDOn2XgdUjMlPuxCaLzbrWYqtXQfcIQzr2c1dEsQ3uFIMqGZSu3bGEAwmuywVLXx6uuLudPlrDQYYCbhajGNcQbqHn23nNAUlsfohmHV_j5KIZGD55X6rdX4Lqgqn8MqGE4FNx4uiRH_8QlP7d9CiBMexkoIiy_wHMjg6J2xXNUaayryAIxoQmdEgPO_k--WRuXmrF2IAnCjzeo0fhYcIxQ9kuONnSWF5aF2Myfv0rrAQxsLs8ZBqogS7P-gHYRlUEnsFe1ARDdkJofs_L1FxXJCKTJtHVgkuTkYX3YOtsahzGmygZrVS0t8rTzCXGOcvFMK0_uWBHRi62HO9mdEskAo7VMwq0sHCk4bEgebNRjSi1RV0ORexZKY7-D4OChlRWlgX8lOoCzVTzQ5-1HYWf7JN7ZEsc1Y3FuJ_kGFi7j4tbvhHwFiM7qSpOOQD1IkhdJZMLvbSZicJDGlI1iqAE26OkEzG900lWgpmLRrWkvWB748zcr_tH3TZlnDKMA2vL-Kc7ycpQ8max_l8LSHgW49L6eZ8sOassu0FglNC24oWmwVMZj75Y2Mx2AtpMRkaZ9FiXg6wqj9zIZR6d0XxWp0muc1b90isO8xtSb7VZjbQWA-P6D5LaoZ8ruihIpVAQrhr1RWYCpGXVR2n55OEjpHgXPmreg1TVpS8n2zTizqdcyI0r8Ml1YvuPz9Ycso4kunsJ7Vnuftj3rFUmBUyVBh-rIscyyOi5DiXEhDN_fvZxp337k4EBLzwj5z9Ggxr_h1wnKSovLNvQa8.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1 (OPCION 2)
 http://rv.therevenge.co:80/307201000154/307201000154/87122
@@ -635,7 +635,7 @@ https://stmv1.srvif.com/mercedestv/mercedestv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 4", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0236
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0238
 
 
 
@@ -2239,6 +2239,9 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/b64e7d2ed9904a48b0f3d70609562d6b/c
 #EXTINF:-1 tvg-logo="https://launotv.com.ar/templates/default/images/logo.png" group-title="RADIO 1", RADIO UNO 95.1 FM - AMERICA  RIVADAVIA  
 https://stmvideo2.livecastv.com/launotv/launotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://launotv.com.ar/templates/default/images/logo.png" group-title="RADIO 1", RADIO MEDIATICA 98.9 FM - RIO GALLEGOS
+https://streamyes.alsolnet.com/radiomediaticavideo/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s171364/images/logog.jpg?t=153684" group-title="RADIO 2", RADIO FM SER 89.7
 http://wowza1.sion.com:1935/fmser/radio/playlist.m3u8
 
@@ -2509,7 +2512,7 @@ https://cdnhd.iblups.com/hls/ycxwLxWuQv.m3u8
 https://nd106.republicaservers.com/canal2misiones.mp4
 
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES 4", VEO SANTA FE (SOLO IPTV AZUL)
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0262   
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0264   
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="LOCALES 4", MAGAZINE
 https://g5.proy-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
