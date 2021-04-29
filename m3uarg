@@ -16,11 +16,20 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 #EXTINF:-1 group-title="LOCALES 1", TODO NOTICIAS   
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="LOCALES 1", TODO NOTICIAS
+http://rv.therevenge.co:80/307201000154/307201000154/87109
+
 #EXTINF:-1 group-title="LOCALES 1", C5N - 25.2
 https://www.youtube.com/watch?v=kt43n3r1jJo
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/1200px-C5N_%282017%29.png" group-title="LOCALES 1", C5N - 25.2
+http://rv.therevenge.co:80/307201000154/307201000154/87108
+
 #EXTINF:-1 group-title="LOCALES 1", LN+ - 25.3
 https://www.youtube.com/watch?v=ns8-5XKA0Ww  
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="LOCALES 1", LN+ - 25.3
+http://rv.therevenge.co:80/307201000154/307201000154/87119
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="LOCALES 1", CANAL DE LA CIUDAD
@@ -58,8 +67,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE - 34.1 (OPCION 2)
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051 
- 
+http://rv.therevenge.co:80/307201000154/307201000154/87123
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1
 https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CvkEXa537s6zSjKnCrZptIxhPUN4-UWf467m6siSw51mnJ7gNE0ggZJhSseQa4F-2UhNx7dNGLo6hWFuJkF3azkcp-LxjfCacBVAOzQob6PLDOn2XgdUjMlPuxCaLzbrWYqtXQfcIQzr2c1dEsQ3uFIMqGZSu3bGEAwmuywVLXx6uuLudPlrDQYYCbhajGNcQbqHn23nNAUlsfohmHV_j5KIZGD55X6rdX4Lqgqn8MqGE4FNx4uiRH_8QlP7d9CiBMexkoIiy_wHMjg6J2xXNUaayryAIxoQmdEgPO_k--WRuXmrF2IAnCjzeo0fhYcIxQ9kuONnSWF5aF2Myfv0rrAQxsLs8ZBqogS7P-gHYRlUEnsFe1ARDdkJofs_L1FxXJCKTJtHVgkuTkYX3YOtsahzGmygZrVS0t8rTzCXGOcvFMK0_uWBHRi62HO9mdEskAo7VMwq0sHCk4bEgebNRjSi1RV0ORexZKY7-D4OChlRWlgX8lOoCzVTzQ5-1HYWf7JN7ZEsc1Y3FuJ_kGFi7j4tbvhHwFiM7qSpOOQD1IkhdJZMLvbSZicJDGlI1iqAE26OkEzG900lWgpmLRrWkvWB748zcr_tH3TZlnDKMA2vL-Kc7ycpQ8max_l8LSHgW49L6eZ8sOassu0FglNC24oWmwVMZj75Y2Mx2AtpMRkaZ9FiXg6wqj9zIZR6d0XxWp0muc1b90isO8xtSb7VZjbQWA-P6D5LaoZ8ruihIpVAQrhr1RWYCpGXVR2n55OEjpHgXPmreg1TVpS8n2zTizqdcyI0r8Ml1YvuPz9Ycso4kunsJ7Vnuftj3rFUmBUyVBh-rIscyyOi5DiXEhDN_fvZxp337k4EBLzwj5z9Ggxr_h1wnKSovLNvQa8.m3u8
@@ -153,8 +161,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0031
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN
+http://rv.therevenge.co:80/307201000154/307201000154/87094
 
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
 http://23.237.78.54/live-1000/263/playlist.m3u8
