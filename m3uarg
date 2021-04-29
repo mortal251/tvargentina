@@ -1501,15 +1501,6 @@ https://live.siete.us/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WD49JzHZ9cM/Xrsv-mIjUjI/AAAAAAAA0rs/g_Pgm6hQvNIbp8aHuvQ3H7kEkiu3-M4zQCK8BGAsYHg/s0/2020-05-12.png" group-title="MUSICA", Ocko Star
 https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="MUSICA", QUEST TV Classical
-https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bhSrOea.jpg" group-title="MUSICA", QUEST TV Jazz and Beyond
-https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="MUSICA", QUEST TV MIX
-https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E4ZhmiDMypI/XzxnbBAnLcI/AAAAAAAA4oQ/ZAvYXo5pj0QDb-wMX0XmFWJmEnPKg-jbACK8BGAsYHg/s0/2020-08-18.png" group-title="MUSICA", LATINOS UP
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 
@@ -1518,7 +1509,18 @@ https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="MUSICA 2", QUEST TV Classical
+https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bhSrOea.jpg" group-title="MUSICA 2", QUEST TV Jazz and Beyond
+https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="MUSICA 2", QUEST TV MIX
+https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="MUSICA 2", CLASSIC ART SHOWCASE
+https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="MUSICA 2", CMT MUSIC
@@ -1715,7 +1717,7 @@ https://sony-novelas-1.roku.wurl.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="ESTILO DE VIDA 1", SONY COMPETENCIA
 https://sony-competencias-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="ESTILO DE VIDA 1", PLUTO TV COMPETENCIAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="ESTILO DE VIDA 1", TV COMPETENCIAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c3600a0-cf5d-4708-b2b3-adcada18c483&userId=&serverSideAds=true
 
 
