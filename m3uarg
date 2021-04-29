@@ -49,7 +49,7 @@ http://rv.therevenge.co:80/307201000154/307201000154/87121
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 (OPCION 2)
-https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/93f7f831-b0ae-4345-8544-c2f8c19861a9/2.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE5NjkyMjMyLCJzZXNzaW9uIjoiMjAwLjMuMTEzLjE1MCIsIndoaXRlbGlzdCI6WyIyMDAuMy4xMTMuMTUwIl19LCJzaWduYXR1cmUiOiIzMThiZmMwMDRmZjc4ZDYyNDNjODIxYzVlMTI0NTY5M2FmN2VkY2ZiIn0%3D
+https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/5ca504ff-f134-47c0-b264-9f6bb63b591a/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE5Nzc5NTA1LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6OWU5OToxYzAzOjdmZDY6OTQ3Yzo4N2FjIl19LCJzaWduYXR1cmUiOiI4Yzc1NmU1MTBiYTkwZTMxMGY5YTU5YTY1OWMwNDIyNzIyNjVjMWZkIn0%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051 
@@ -58,11 +58,11 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE - 34.1 (OPCION 2)
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEFE/20-hls/live-media.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051 
  
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvcEbumz0EyMQf94m7CtPy4IZWXXvxA7aOHhe4Mb2KAOypnpKwQadW6XH6PIoabbsKyGiy-IGpiiE25Y0_YDNf4K6GLeb2N15DnUEk7knFB77ipoFtbH8enC_iKAoTFAJMDDQyLAOafX8tx3RxnJYW4mMY7zFspGbk6rEWFE69-RY79t0gq0eHxuUek3gsHBtqGe0pQig-51Jl_oiwXuxbfFoZXSqr9Rk0PSyjJfsxFOfpPoOrJtlQk2GRyLNiPIVTpemDAZlykknL5vXIzqtRBZa4z0q9XZh4dr67gh7zLBcBFmD0lbUdDpke55d4jckAqhQC89C7sKKrswtid-W0PVdh09-v59EoQgaNHSlrmT4lyqDo_wN4L_XJPs7fRvE9s-VljdoYyZDpXSyKmo98redsGLUoj9h3SJFRmDWBWojMrI7V3sou4VI6YUEkrX8l6JY8KBuSli0BzkLWFLqklEwYoyPgrfwxb6gOfNoat3vyea8DJ0hmYm3WsWUgPRzfWXbEuC3f4L65qgUo2hjEY2ierWb_ROkqrNOCKr-twPEhTdABxEyG4s4J-Bh_hFPCcc82aIubbr-bvni0qyj5yEAvQVEID90IIS6zIzc8pIIwnI_EjFkyS-pmIPiZCXDGQWrEQeePF80Rmq97SzeSgPSE70AF0oGp7MAxTFQfr4y9Fq1JEn5sdrId7kuB4dSRVFat0CQ2mflrdPXisysIxV-NuViFKWt3zobSy-Gae_3UbPCsSzWKMtiFLP5AqhPF_ZAYwguhGGLJs3wtVL6zjXGbHSwvKo9fBfLTjnlqQpU71JqTaxPxbEYc0-KwJ15k1ZM7G6esTNYxIQoVuK4rGmgUevDROybCG1KhoMOHHgboq90CJrkRA4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1 (OPCION 2)
 http://rv.therevenge.co:80/307201000154/307201000154/87122
