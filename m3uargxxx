@@ -1278,6 +1278,9 @@ https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1200px-Gol.svg.png" group-title="DEPORTE", GOL TV ESPAÑA
 http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="DEPORTE", ALL SPORT
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTE", TENIS CHANNEL
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
@@ -1938,8 +1941,8 @@ https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w2010324553_b800000.m
 #EXTINF:-1 tvg-logo="https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png" group-title="INTERNACIONAL", VOA ESTADOS UNIDOS
 https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONAL", CARACOL NOTICIAS COLOMBIA
-https://www.youtube.com/watch?v=dwzaDAVLiHg
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1200px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="INTERNACIONAL", CARACOL
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL", FORO TV MEXICO
 https://www.youtube.com/watch?v=9RzOKoaDnC8
@@ -2766,6 +2769,48 @@ http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecal
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
 #EXTINF:-1 tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png" group-title="ADULTO", SEX TV ARGENTINA
 https://59537faa0729a.streamlock.net/sextv/sextv/playlist.m3u8
 
@@ -2788,6 +2833,6 @@ https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 
 
-direccion corta : https://shortest.link/tvargentinaxxx
+
 
 
