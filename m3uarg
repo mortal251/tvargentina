@@ -167,10 +167,10 @@ http://rv.therevenge.co:80/307201000154/307201000154/87094
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
 http://23.237.78.54/live-1000/263/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="DEPORTES 2",  MX | TUDN
+http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.envivofutbol.tv/wp-content/uploads/2020/03/Canales-para-ver-directv-sports-en-vivo.jpg" group-title="DEPORTES 2",  DIRECTV SPORTS +
-http://23.227.145.10:128/budTV/3232/1645_.m3u8
 
 
 
@@ -1519,7 +1519,7 @@ https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
 https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="MUSICA 2", CLASSIC ART SHOWCASE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artschannel.png" group-title="MUSICA 2", CLASSIC ART SHOWCASE
 https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
 
 
@@ -2553,8 +2553,7 @@ https://g5.proy-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_al
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="DEPORTES 2",  MX | TUDN
-http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU" group-title="DEPORTES 2",  MX | ESPN 1 NORTE
