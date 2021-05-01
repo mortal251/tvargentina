@@ -2403,7 +2403,7 @@ https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 https://coopmorteros.online/radiourbana/canal01.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/06c8c8_ffc396a5d15745eeb1d47f02c6b1de89~mv2.gif" group-title="RADIO 3", ON RADIO ARGENTINA
-http://video.streamtvradio.com:8081/uv014/uv014/chunks.m3u8
+https://clientes.videostreaming.ar:19360/onradio/onradio.m3u8
 
 #EXTINF:-1 tvg-logo="http://am1010ondalatina.com/images/logo.png" group-title="RADIO 3", AM 1010 ONDA LATINA
 http://video.streamtvradio.com:8081/uv008/uv008/chunks.m3u8
@@ -2418,7 +2418,7 @@ https://tx.hls.nimo.tv/live/su2439520271345r7f61d6d38ad506f575d0ebfbaf0c7f2f_low
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiotupac.com.ar/wp-content/uploads/2020/04/LOGO-TUPAC-WEBCAST-05.jpg" group-title="RADIO 3", RADIO TUPAC WEBCAST
-https://panel.tuvideostreaming.com/wowzademo/wowzademo/playlist.m3u8
+https://video.turadioonline.com.ar:5443/LiveApp/streams/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static-1.ivoox.com/canales/4/0/4/1/741470821404_XXL.jpg" group-title="RADIO 3", RADIO CARDINAL MIRAMAR CORDOBA
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
