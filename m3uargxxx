@@ -217,7 +217,7 @@ https://5975e06a1f292.streamlock.net:4443/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Telefe_Santa_Fe.png/133px-Telefe_Santa_Fe.png" group-title="LOCALES 2", TELEFE SANTA FE
 https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1619886039~exp=1620062439~acl=/i/canal13santafe_1@751190/*~hmac=f65e19c85d16239551324460330e74f0085e5840f6dc264c04a038127ef06c52
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1175110925835284481/wRJimpYE_400x400.png" group-title="LOCALES 2", 5RTV SANTA FE
+#EXTINF:-1 tvg-logo="https://5rtv.com.ar/wp-content/themes/5rtv-theme/assets/dist/img/logo-5r-texto.svg" group-title="LOCALES 2", SANTA FE CANAL
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OmdVIgiYcpQ/XrYImNhAa7I/AAAAAAAA0hA/HKMr0zop2CsNpUAuev_aVuelSQkqOLzTQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="LOCALES 2", CANAL 10 MAR DEL PLATA
@@ -2621,29 +2621,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c85976dfbe6af2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1200px-TSN_Logo.svg.png" group-title="DEPORTES 2",  CAN | TSN SPORTS  1
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3fe954432a70b78.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="DEPORTES 2",  USA | ATG
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5a6f534f017db2d628751be1/1517245784024-WJ6Y9V6LM2M31WOLRUDO/Edge_Logo_Dark_RGB.jpg?format=1500w&content-type=image%2Fjpeg" group-title="DEPORTES 2",  USA | EDGE SPORT
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="DEPORTES 2",  USA | ESPN ACCN
-https://gma2.blab.email/acc.m3u8
-
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" group-title="DEPORTES 2",  USA | ESPN 1
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/12fb30f24c10a6c.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/espn2.png" group-title="DEPORTES 2",  USA | ESPN 2
-https://gma2.blab.email/espn2.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="DEPORTES 2",  USA | ESPN SEC NETWORK
-https://gma2.blab.email/sec.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="DEPORTES 2",  USA | ESPN
-https://gma2.blab.email/fs2.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stadium-logo-E51B33CA35-seeklogo.com.png" group-title="DEPORTES 2",  USA | STADIUM
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 
 
@@ -2761,25 +2739,6 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
