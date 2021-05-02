@@ -52,8 +52,7 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1
-https://ar-elnueve-elnueve-dev-live-1-cdn-0.ned.media/live-480-20210501T130100_876825.ts?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE5OTYwNDEwLCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6OWU5OTpiOGNjOjk3MDY6MjNiNzo4NWNkIl19LCJzaWduYXR1cmUiOiIzNDI4NDM3ZjBjNTU2ZTE5MDYxZDE3NGI1YmU5N2Y1MzgyZDdmNDNkIn0%3D
-
+http://rv.therevenge.co:80/307201000154/307201000154/87121
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE - 34.1
@@ -64,8 +63,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051
 http://rv.therevenge.co:80/307201000154/307201000154/87123
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvcE1TgdccdAsIzZOLaCmV_Tzg5CR_qOOYPUf8TfnxegxDBXRNt8NWNC2VTVtV6K2z_F_CKdzerezgvaPv0QhvqVU2o_3QkElSgIOsa4627M45zgC80EmkbIBRf7QxZmO7cv3_UiWgL4G__OcNTHZtknYZ7KCzcXquecpIY8QCrmPh1rX1hKR8bHAdCy9zy2n2dGPD6atBkfFWeg-PP8Au43Iun4Mub26w-VFkjOTjWy7vzb89plx44S_-iHK6V_0sRA-rnfK-9Ut4yTYHu1Nlsa302ii6kqScHUy-J6Ky2CdXPWbwK5zba-xC2OCFnL0LxSHJB6ACuGctL4aYJpcKPKE7fD0ObT2e1w_ZsNtbJhVPxSgQ8CJblPLa3eNGVbyeo_b0qUjaDJNPez2LV-j5h24Fqz61L0TSUpZIVWdl23P94on7SoPU36Ajjc-HWKCznUzps5Xf-dtj_6CVZUEbwEIfeDThErOVU_wz7V2ptOQsK826n-QVKFagcHlm_wPwUyhDXnYJNpucQ6kxqt9WbXiGQ1gXtx-NDpLRog1UY2eJhu4SJfj2ANMSjZKxJL7hZLYULjUjjPJRb0LyBkMb4UyBEBzCfZT87q7I8pNdzm4jXc3aAteorvzSsbzK6CkBHRobuJYYnkNakrhDixnaiht9PFIJncPHk4PBvRq9Pb5wBwKye_-iWDeNFuq6WmByw40xXWQbNlulOKwbVmTKCVRiNNKz4h_8d0_60gR2dlCPexx_aI1fHHOTc0VGIkmpDEYQCiNzAmbOcTm4Jf6R6GY-wSYdl1ulHvFmgPRKhFnOtYARyXsrz9NQsrgMu2J2RHPKIN4PzmWRIQcormyBh15E8nk1TAKhx64xoM_kw3E4TQmIznJg43.m3u8
-
+https://sgynhk35h4v06h77.ezcdn285.net:8443/hls/s7smi57g.m3u8?s=jolEh6SISxY4zgrYcMMuaQ&e=1619980201
 
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES 1", NET TV - 27.2
@@ -1385,8 +1383,7 @@ https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/1DnAyuT.jpeg" group-title="MUSICA", FACTORY HD
 https://videohd.live:19360/8072/8072.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rockfm.fm/apple-touch-icon-152x152.png" group-title="MUSICA", RodkFM 
-https://rockfm-cope.flumotion.com/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/4308.gif" group-title="MUSICA", TV POP
 https://v1.tustreaming.cl:19360/radiopoptv/radiopoptv.m3u8
