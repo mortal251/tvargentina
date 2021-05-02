@@ -809,6 +809,9 @@ https://stmv.panel.mivideo.pro/cineclubtv/cineclubtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg" group-title="CINE Y SERIES", DANTV
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/98871_EvaStream.png" group-title="CINE Y SERIES", EVASTREAM
 https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/chunklist_w191787199.m3u8
 
@@ -1381,6 +1384,9 @@ https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/1DnAyuT.jpeg" group-title="MUSICA", FACTORY HD
 https://videohd.live:19360/8072/8072.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rockfm.fm/apple-touch-icon-152x152.png" group-title="MUSICA", RodkFM 
+https://rockfm-cope.flumotion.com/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/4308.gif" group-title="MUSICA", TV POP
 https://v1.tustreaming.cl:19360/radiopoptv/radiopoptv.m3u8
