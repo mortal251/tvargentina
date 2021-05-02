@@ -5,7 +5,10 @@
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8?SSIPTV ARGENTINA
 
 #EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="LOCALES 1", CRONICA HD - 24.4
-https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8?SSIPTV ARGENTINA
+https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
+
+#EXTINF:-1 group-title="LOCALES 1", CRONICA HD - 24.4 (OPCION 2) YT  
+https://www.youtube.com/watch?v=etGhm_c5IBQ
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 1", CANAL 26 - 26.1
 https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8?SSIPTV ARGENTINA
