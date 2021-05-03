@@ -222,7 +222,7 @@ https://5975e06a1f292.streamlock.net:4443/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Telefe_Santa_Fe.png/133px-Telefe_Santa_Fe.png" group-title="LOCALES 2", TELEFE SANTA FE
 https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1620040724~exp=1620217124~acl=/i/canal13santafe_1@751190/*~hmac=fe16f2ba466174fb45e595f34c58398583699e72b55b9025c2d48d4fca5af9e2
 
-#EXTINF:-1 tvg-logo="https://5rtv.com.ar/wp-content/themes/5rtv-theme/assets/dist/img/logo-5r-texto.svg" group-title="LOCALES 2", SANTA FE CANAL
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-9/181018250_1613796408815889_7185039042968837626_n.png?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeFw4QmGx1wEzSanBrK9a-9JqRnj-TsgS9KpGeP5OyBL0m9noVGAceDi-TJxNZgSA0Q&_nc_ohc=XZ3cHH2NcxwAX9Ynhg7&_nc_ht=scontent.fepa11-1.fna&oh=49a709c212ebbe8bcef6cd72046b87e6&oe=60B3BF48" group-title="LOCALES 2", SANTA FE CANAL
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OmdVIgiYcpQ/XrYImNhAa7I/AAAAAAAA0hA/HKMr0zop2CsNpUAuev_aVuelSQkqOLzTQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="LOCALES 2", CANAL 10 MAR DEL PLATA
