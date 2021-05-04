@@ -652,7 +652,7 @@ https://stmv1.srvif.com/mercedestv/mercedestv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 4", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0240
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0241
 
 
 
@@ -699,7 +699,7 @@ https://video.turadioonline.com.ar:5443/LiveApp/streams/017475634527020836600699
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES 4", UNIVERSIDAD TV MAR DEL PLATA
-https://stream-01.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54-4yC5lUTx4eIzrQv_rd_5w)/dm/3/x7kvvgi/s/live-2.m3u8
+https://stream-01.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL544F97r4pCgfWC9CfdPdjUcQ)/dm/3/x7kvvgi/s/live-1.m3u8
 
 
 
@@ -2397,6 +2397,9 @@ https://inliveserver.com:1936/14102/14102/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.elchubut.com.ar/img/logo.png" group-title="RADIO 3", CHUBUT TV 90.1 FM 
 https://streamyes.alsolnet.com/elchubuttv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.fmargentina.com.ar/Graficos/intro.png" group-title="RADIO 3", FM ARGENTINA 98.9 NEUQUEN
+https://stmv1.srvstm.com/fmargentina/fmargentina/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu9w1RZeP-9qPRH7EEj8WGxlLE2smh1hCv-Q&usqp=CAU" group-title="RADIO 3", RADIO CENTRO 92.9 VILLA MARIA CORDOBA
 https://stmvideo2.livecastv.com/centro/centro/playlist.m3u8
 
@@ -2572,7 +2575,7 @@ https://cdnhd.iblups.com/hls/ycxwLxWuQv.m3u8
 https://nd106.republicaservers.com/canal2misiones.mp4
 
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES 4", VEO SANTA FE (SOLO IPTV AZUL)
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0266  
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0267  
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="LOCALES 4", MAGAZINE
 https://g5.proy-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
