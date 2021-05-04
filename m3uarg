@@ -75,9 +75,10 @@ http://rv.therevenge.co:80/307201000154/307201000154/87123
 http://rv.therevenge.co:80/307201000154/307201000154/87122
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1 (OPCION 2)
-https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CvkEbvpBEgSA1Kt89R_o5xqmOmHpFdRRrGVzhtcC6WxldIdw5WoQFTwW26Ul7mttrXXaqO6SXHRm6HdSrZgYMxUrMgfzS17vXWJ1ANVgROO_5AcfTvN9Nkw3qZaEm_wR7P2bVlksqmxZOqjXkXqADl-ULKWSJKsakqMu-jF5o6pbAwjEBi4vbBe3fQYfhfmk5CfUTJQmQ2PEdQWLJQ96F6iFsMWGn1EOlbOBCKoHEqPg-hZD0HxtCPrTWf7fi3OGr113INjMMSVWYbIvDz72GngUXv49Fmcuu46cZU8n-SPbmRfdDxY5rMi3kGKyPyrL0uRKm81yT1yBx8Upv49kzREj3j1N6c5kfL5A_DHI8QRHa0Iio4dXBNCCjN9uBbxwVTIEWZygyjp76Psqx7InJLY51t6NSuBOk7ku0lWQvWYU5Qcn3vh57jlHu-NMvTcsvcQHxKDUwRh8EDYWoct39vNd0K5x-5coXE24NGnuLw3bvuVc8x8ZxZS3q--W8SzpOKRUFZ-cRa0KcKvQ3xla30IHqXQwHYXI_BlKhl-Wt5CXCrfvjzz1l0VCL26nVzuu5-Ze22H4JvjPT5EtrdZViFILckV9loqWv9A1kLBIkQ9qnj0CLopUgtspghI7AUi6Sdhyyu3zWw3V2phAcwBqUElG06MKhft33oiZaCvKeZt09tjDDnFU1-90EmifriE7TX9qwfSaTBVwnCC-8N8rkrcMBeF29-UvxNjz1S06CLbgxkcT26U77naO7eYkkbxSP8miwFmXrDVKaZr_gWVsYMAC0sfOnJ8yhClVP_mWH3mzCwHJfUPXWbEAJEIwDtoHlTVRvlzTmhoKIYUQEhAOM6NqCiTZhzvwEktAC-VJGgzIHBjGpBxCk8YUSjM.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvgEkr0RoRahXwx-sGy0D8_VXiSHgH8SOwHBAZ5w6MsOzAdFoKVXAWspwIXMyyEyhhQ3MdnzmM1q7P4aeP9RMmRj2UgUY9k-A2Smm-pGjTsXCFE1-LnB1SGHOoorAVdbHowccp080pygLVnAMEUSKNbU1hC8cRRNv8bMDkH-oWexjFnsdJ6xWnDbHiIK3rEoLYh2VIrokVsOoEHpq4QNRKW-W9WiNYhP7-ylLtC2sFj3xT0qdyc657bOxtLGkKcIENea3Fl7IwXWX24O2vul7DAszxwRBCalQrSN4T0Mb32f200FlNrp2BTHnkIqM531YMpXtTmR2Leg5FyERLHfA8qmviDJNpD_alNn51RA-avpijiQLJtS3F95zoqq1jdahOGDIFAIpo2wUykCFLGjeMObKjRbtVCyK-koh-g9uyYreT-IlMeDjmBFeFeMgoK1QuWh_ZfzpXtzRzBV90FzLAKW193ncP6NMEkQ_3ieVxFIUf3foyrNZ7-pqW1XnasQWcrzdhKbDDBxr4oclXNkTsFGy0AkKqiDkwCsLcsnQlqLd7phgfGc8rVfpwHMLltHGF0nTcFOkAYqAGubVnr5ueXo_ESbPGDVWBS-Gm7Ku4JWhOFIWzDC5yT4k4qh8XishmZyteWdoXQW0oy-GCYkRvIS3_meFeCjBwpInlyJnP4o0zt2mMQMCN3VgjLTpiVFQiOXAZ75nun3HQPW-YxgJLGchQp7tq0LqldVuulMC3fw0ab5H6AQmzmJNr0EFK8RMEqd59fz43UO2nNJYublMBHNfotsermuoF38D1YnLUhe_bD9_A1pLqzUgNfMkDMH09WYmOAcRvFj1FwSEDWNFeLfySEIGwvMoa2olBkaDLQSHfIaK7MEQPw7hQ.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", NOTICIEROS CANAL 13 
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES 1", NET TV - 27.2
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
@@ -216,6 +217,7 @@ https://www.youtube.com/watch?v=cyqHfQb84LE
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="LOCALES 2", CANAL 9 MENDOZA
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online.png" group-title="LOCALES 2", CANAL 3 ROSARIO
