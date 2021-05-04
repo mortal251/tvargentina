@@ -58,12 +58,14 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 
+http://rv.therevenge.co:80/307201000154/307201000154/87121
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 (OPCION 2)
 https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/767beae2-d71b-4171-a044-ed90e696156e/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIwMjE3Njc1LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6OWU5OTo2NDBmOjczMTQ6ZGM5YzpmMjhmIl19LCJzaWduYXR1cmUiOiI2ZGJlYzUxOTA2NzczMGM3Nzg3Njg0MWFhYThjNmZjNWY2MTYwNDY2In0%3D
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 (OPCION 2)
-http://rv.therevenge.co:80/307201000154/307201000154/87121
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051 
@@ -72,14 +74,19 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE - 34.1 (OPCION 2)
 http://rv.therevenge.co:80/307201000154/307201000154/87123
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1 
-http://rv.therevenge.co:80/307201000154/307201000154/87122
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1 (OPCION 2)
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvgEkr0RoRahXwx-sGy0D8_VXiSHgH8SOwHBAZ5w6MsOzAdFoKVXAWspwIXMyyEyhhQ3MdnzmM1q7P4aeP9RMmRj2UgUY9k-A2Smm-pGjTsXCFE1-LnB1SGHOoorAVdbHowccp080pygLVnAMEUSKNbU1hC8cRRNv8bMDkH-oWexjFnsdJ6xWnDbHiIK3rEoLYh2VIrokVsOoEHpq4QNRKW-W9WiNYhP7-ylLtC2sFj3xT0qdyc657bOxtLGkKcIENea3Fl7IwXWX24O2vul7DAszxwRBCalQrSN4T0Mb32f200FlNrp2BTHnkIqM531YMpXtTmR2Leg5FyERLHfA8qmviDJNpD_alNn51RA-avpijiQLJtS3F95zoqq1jdahOGDIFAIpo2wUykCFLGjeMObKjRbtVCyK-koh-g9uyYreT-IlMeDjmBFeFeMgoK1QuWh_ZfzpXtzRzBV90FzLAKW193ncP6NMEkQ_3ieVxFIUf3foyrNZ7-pqW1XnasQWcrzdhKbDDBxr4oclXNkTsFGy0AkKqiDkwCsLcsnQlqLd7phgfGc8rVfpwHMLltHGF0nTcFOkAYqAGubVnr5ueXo_ESbPGDVWBS-Gm7Ku4JWhOFIWzDC5yT4k4qh8XishmZyteWdoXQW0oy-GCYkRvIS3_meFeCjBwpInlyJnP4o0zt2mMQMCN3VgjLTpiVFQiOXAZ75nun3HQPW-YxgJLGchQp7tq0LqldVuulMC3fw0ab5H6AQmzmJNr0EFK8RMEqd59fz43UO2nNJYublMBHNfotsermuoF38D1YnLUhe_bD9_A1pLqzUgNfMkDMH09WYmOAcRvFj1FwSEDWNFeLfySEIGwvMoa2olBkaDLQSHfIaK7MEQPw7hQ.m3u8
+http://rv.therevenge.co:80/307201000154/307201000154/87122
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", NOTICIEROS CANAL 13 
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1 (OPCION 3)
+https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CvgEacuFqUP8OfQ9ZuFRr29J62GeH3IheEMU4gMdMtiTvRIdo8awGKO5Od7Zx1qv4d_1AFeeKJeic6oKHxnyfWju4bclfKjWYL867sGf7O-dd5bmyg_Lxuy4mZhmEGA9B4gJPMFyacPQdd4-5ogJJfirwzHToMp3mthY9w_svaLMOJFnlxiVPVN5Lf91U8a4lGQvll8AjCmftzX2U_I2m7JibxaaB0oYF3E14T8qi_UjbxDhm8mP1Yo2MkGBpqzovTrp5AzcS708JW89Dst15jUwtpGnyfpWoDnhGIvlHtYMgDdVxXtbjChIx6qh5kJF3hOK4kChq21jLptUOXjISQo9R5DLYBPxaGL10sodj-IdUdMc0CoEAjmqdDGne6xpcuyxeR4-UXrT7AmR9Ksl-f79vH9wP43S0XXeJy62hx9kgxhLsxIqh92luVODjttiEcGBxqChGKO2Fo8k48XPS2oKrEEvZmSMJyCetjudnKPxXlv8EL6QAWZJfjp-I3Cr4DeTPxx0Yb4dx7RG-1FlJQtkSCX3BcGtBPpl7N3g-rkO_lKygklr0ESTjyNETtTo2xrtN_CzvDVpjxWT4I7SlVWzqVKV3zUDv4XJ9bb3C-jY-DNXPlE3eUgYux2_t1QBHuoQtI6nhmh9rsEDtVMZWyZ2YjrQWMokOfcWYc-qC3_Xh1CIi7CYCTlInBpfrNHsxI7d8T3QtWmBBwaZBoQNMY6E5DH4b0hAvoNarJFuDy2JvwBJJfLvAp_8aSAGjxuI5Ux_U5wJsWXLnXGKPh4brsk0xZ6ehso4r0OcCSGTK4lKGv-SodMXtlEYmpxPnWX_WRPYDbOssFnxqqMSEJ4kM5rIjYT3Gct4H_XbVXEaDNQRzNTMqDMqzg_XYw.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCALES 1", NET TV - 27.2
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
