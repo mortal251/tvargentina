@@ -1547,6 +1547,9 @@ https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E4ZhmiDMypI/XzxnbBAnLcI/AAAAAAAA4oQ/ZAvYXo5pj0QDb-wMX0XmFWJmEnPKg-jbACK8BGAsYHg/s0/2020-08-18.png" group-title="MUSICA", LATINOS UP
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0/2020-10-26.png" group-title="MUSICA", ZAPPING MUSIC
+https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_1_sles.m3u8
+
 
 
 
