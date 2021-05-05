@@ -986,8 +986,6 @@ https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="CINE Y SERIES 2", STAR TREK
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ec5761aabe4690007f6e047/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d2891-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd9d9781-2910-4dd2-9b1f-a1fd662d0cc3&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="CINE Y SERIES 2", SCI-FI
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d2891-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd9d9781-2910-4dd2-9b1f-a1fd662d0cc3&userId=&serverSideAds=true
