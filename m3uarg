@@ -972,7 +972,7 @@ https://ss5.domint.net:3036/ctv_str/cascaratv/playlist.m3u8?DVR%22
 #EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png" group-title="CINE Y SERIES",  Chinola
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png" group-title=""CINE Y SERIES", TV Mas
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png" group-title="CINE Y SERIES", TV MAS
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
 
