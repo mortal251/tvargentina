@@ -162,7 +162,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0031
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN *
-https://e10.espncdn.live/ingestnb4s/espn_sur/d.m3u8
+http://23.237.78.54/live-1000/260/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
 http://23.237.78.54/live-1000/263/playlist.m3u8
