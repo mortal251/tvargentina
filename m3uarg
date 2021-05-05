@@ -2201,6 +2201,11 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hlrdeds.png" group-title="INTERNACIONAL", CANAL CAPITAL COLOMBIA
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCaturZ.png" group-title="INTERNACIONAL", CANAL MALAGA
+http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+
+
+
 
 
 
