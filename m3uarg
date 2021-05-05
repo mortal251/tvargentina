@@ -1575,6 +1575,10 @@ https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_1_sles.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="MUSICA", 88 STEREO
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+
+
 
 
 
