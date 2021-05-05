@@ -978,6 +978,9 @@ https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="CINE Y SERIES", BHTV
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="CINE Y SERIES", IMAS TV
+https://secure3.todostreaming.es/live/imastv-livestream.m3u8
+
 
 
 
@@ -1506,8 +1509,9 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.
 #EXTINF:-1 tvg-logo="http://www.hits360live.com/wp-content/uploads/2018/05/cropped-logo1-hits-360-2-2.png" group-title="MUSICA", HIT 360
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/eurolatinatelevision/picture?width=320&height=320" group-title="MUSICA", EuroLatina TV
-https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg" group-title="MUSICA", CANAL HM 
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/67657013_2493383847561162_8934152675763683328_n.png?_nc_cat=101&ccb=3&_nc_sid=85a577&_nc_ohc=P8eD8txjk5sAX9p1YsQ&_nc_ht=scontent.fepa11-1.fna&oh=79a9a33cce816d7cd256031d98b667e8&oe=604D0194" group-title="MUSICA", TU MUSICA HD
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
