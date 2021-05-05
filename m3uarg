@@ -7,8 +7,7 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 #EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="LOCALES 1", CRONICA HD - 24.4
 https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
-#EXTINF:-1 group-title="LOCALES 1", CRONICA HD - 24.4 (OPCION 2) YT  
-https://www.youtube.com/watch?v=etGhm_c5IBQ
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 1", CANAL 26 - 26.1
 https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
@@ -34,8 +33,7 @@ https://www.youtube.com/watch?v=ns8-5XKA0Ww
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="LOCALES 1", CANAL DE LA CIUDAD
 https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8   
 
-#EXTINF:-1 group-title="LOCALES 1", CANAL DE LA CIUDAD
-https://www.youtube.com/watch?v=LeEmdRVEzxk
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES 1", CANAL ENCUENTRO - 22.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8       
@@ -61,8 +59,7 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 http://rv.therevenge.co:80/307201000154/307201000154/87121
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 (OPCION 2)
-https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/767beae2-d71b-4171-a044-ed90e696156e/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIwMjE3Njc1LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6OWU5OTo2NDBmOjczMTQ6ZGM5YzpmMjhmIl19LCJzaWduYXR1cmUiOiI2ZGJlYzUxOTA2NzczMGM3Nzg3Njg0MWFhYThjNmZjNWY2MTYwNDY2In0%3D
-
+https://ar-elnueve-elnueve-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIwMzAwODIzLCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6OWU5OTo5YzU5OjExYzc6MjlkNDpmOTgxIl19LCJzaWduYXR1cmUiOiJiODJjMWM2YmM1ZjBkOTE5MzQ4M2NhNzA4MTg5M2QyNjRlMTVhODQ1In0%3D
 
 
 
@@ -84,7 +81,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 http://rv.therevenge.co:80/307201000154/307201000154/87122
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1 (OPCION 3)
-https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CvgEacuFqUP8OfQ9ZuFRr29J62GeH3IheEMU4gMdMtiTvRIdo8awGKO5Od7Zx1qv4d_1AFeeKJeic6oKHxnyfWju4bclfKjWYL867sGf7O-dd5bmyg_Lxuy4mZhmEGA9B4gJPMFyacPQdd4-5ogJJfirwzHToMp3mthY9w_svaLMOJFnlxiVPVN5Lf91U8a4lGQvll8AjCmftzX2U_I2m7JibxaaB0oYF3E14T8qi_UjbxDhm8mP1Yo2MkGBpqzovTrp5AzcS708JW89Dst15jUwtpGnyfpWoDnhGIvlHtYMgDdVxXtbjChIx6qh5kJF3hOK4kChq21jLptUOXjISQo9R5DLYBPxaGL10sodj-IdUdMc0CoEAjmqdDGne6xpcuyxeR4-UXrT7AmR9Ksl-f79vH9wP43S0XXeJy62hx9kgxhLsxIqh92luVODjttiEcGBxqChGKO2Fo8k48XPS2oKrEEvZmSMJyCetjudnKPxXlv8EL6QAWZJfjp-I3Cr4DeTPxx0Yb4dx7RG-1FlJQtkSCX3BcGtBPpl7N3g-rkO_lKygklr0ESTjyNETtTo2xrtN_CzvDVpjxWT4I7SlVWzqVKV3zUDv4XJ9bb3C-jY-DNXPlE3eUgYux2_t1QBHuoQtI6nhmh9rsEDtVMZWyZ2YjrQWMokOfcWYc-qC3_Xh1CIi7CYCTlInBpfrNHsxI7d8T3QtWmBBwaZBoQNMY6E5DH4b0hAvoNarJFuDy2JvwBJJfLvAp_8aSAGjxuI5Ux_U5wJsWXLnXGKPh4brsk0xZ6ehso4r0OcCSGTK4lKGv-SodMXtlEYmpxPnWX_WRPYDbOssFnxqqMSEJ4kM5rIjYT3Gct4H_XbVXEaDNQRzNTMqDMqzg_XYw.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvcE3yaCiP7kpuoqltM6b5C4lD9Zjtq8Bk-UoJWF9C_lfpLZedHHeAEFi2G6lxLVv85hotDMvrAWkElwcIEIUykkxmPSpts9hWhltNdwDaUpcNlYDLKzr9L0q1xKShtFSkDaWHCrJV94zfe_7iJlfnr7Jl9rYP8EbsrVBLBNvyyaZr0jxz0dCid-uZdThL1JeScFDRddYSmvn1kAS63NYfXF81ofWxn3SFebbVGVFNV5UkeygDmddwnOfjmf_ePPmcGlQro-p8Pb8Tx4i9zSUqinHWc7k0vyBhrps8Fx8u7sx03V2Fs7RSeWqwQAGyTUsFwYlGSy0NZbNTlYuCzfcfDrsgkKvhmfJhYY3YvH51ep-DeS1BzAJjruuvfJ1jVDdfMh72ddmO8c-7o3vdOAhvmW64OcjTdyVQKSZT9AFBtzpi82ShJZJ2WdfPSRSmKaAKx5doblvaCcJJpHiVRxUMrPkO7cjpduffYndvgH5htBDbzcz9v8R8okjRL1_lwBjKy8eb6I5SO_hh_GfeUjKti2fYh3Rnw_QUI-46q0ft0OdePyK4Ky9gqvrPV8Od0Gt_MfGOZdj6hoWzpBc6texTibj5oCnoLdZxpTOLWZTAiFJG9TtiWVkvVytK_ehnbuSBOtn8B4s0KATsAGJ-pmQ8d9mR0MaHRnn_l2g65zu_9Q9bTdjq87HJj4YVENEg9xqJgvz6yIvomVzX1XzJnnNvrvvA3uOtrpihOOqodnK1wuZ6ggdpq9FlVPXWMpyMB7a7jgSroPu7fR9bKvfnsxau9F8bIFjkw54hmhplfLY-fyVk2XoR5YbEplM3_D3I3z-OyP4UOp6qJX3RIQL6QpLTYzUmgSX6g7vzZ7iBoM2lb9CQR-yISxmzr3.m3u8
 
 
 
@@ -116,7 +113,6 @@ https://panel.dattalive.com/8012/8012/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmExMjNmcmVlYXBwcy5mcmVlLmFwcDVkNWVjMWY4ODliOThfaWNvbl8xNTY3NjE5OTcxXzAxNw/icon.png?w=170&fakeurl=1" group-title="LOCALES 1", CANAL 4 TELEAIRE SAN MARTIN
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
-
 
 
 #EXTINF:-1 group-title="LOCALES 1", KZO 
