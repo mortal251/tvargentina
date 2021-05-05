@@ -2189,14 +2189,17 @@ https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DCAtokY.png" group-title="INTERNACIONAL", ATB
 http://186.121.206.197/live/daniel/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.boliviatv.bo/principal/assets/images/the-voyager/btv1.png" group-title="INTERNACIONAL", Bolivia TV 
+#EXTINF:-1 tvg-logo="http://www.boliviatv.bo/principal/assets/images/the-voyager/btv1.png" group-title="INTERNACIONAL", BOLIVIA TV 
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1zTLGdj.jpg" group-title="INTERNACIONAL", Bolivia TV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1zTLGdj.jpg" group-title="INTERNACIONAL", BOLIVIA TV 2
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vakdxny.jpg" group-title="INTERNACIONAL", Canal 10 Cancún
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vakdxny.jpg" group-title="INTERNACIONAL", CANAL 10 CANCUN
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hlrdeds.png" group-title="INTERNACIONAL", CANAL CAPITAL COLOMBIA
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
 
 
