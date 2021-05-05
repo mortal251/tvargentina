@@ -2234,6 +2234,9 @@ http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telepacifico_co.png" group-title="INTERNACIONAL", TELEPACIFICO COLOMBIA
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qZ9LcJb.jpeg" group-title="INTERNACIONAL", TELEFUTURO PARAGUAY
+https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_med/playlist.m3u8?k=d9185e101ab199e7333c542362965ef797b30c4dc2f64263832b27190bfe40f7&exp=1615764240
+
 
 
 
