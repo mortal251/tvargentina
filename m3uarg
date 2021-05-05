@@ -834,7 +834,7 @@ https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/UCV-TV_2013-0.png/revision/latest/scale-to-width-down/340?cb=20180329205151&path-prefix=es" group-title="CINE Y SERIES", UCV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png" group-title="CINE Y SERIES", UCV 
 https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 
