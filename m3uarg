@@ -1790,6 +1790,9 @@ http://server.miamitvchannel.com/externos/nuevaimagen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tentv.es/images/logo-white.png" group-title="ESTILO DE VIDA 1", TEN
 http://91.126.141.201:1935/live/ten/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="ESTILO DE VIDA 1", PEOPLE ARE AWESOME
+https://jukin-peopleareawesome-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/250px-DKISS_2019_logo.svg.png" group-title="ESTILO DE VIDA 1", DKISS
 http://91.126.141.201:1935/live/kiss/playlist.m3u8
 
