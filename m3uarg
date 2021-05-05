@@ -982,6 +982,10 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="CINE Y SERIES", PH TV
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
+
+
 
 
 
