@@ -975,6 +975,9 @@ https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png" group-title="CINE Y SERIES", TV MAS
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="CINE Y SERIES", BHTV
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u
+
 
 
 
