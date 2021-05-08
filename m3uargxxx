@@ -965,6 +965,9 @@ https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png" group-title="CINE Y SERIES", ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gJfa300HIW8/YH9i0sA4HoI/AAAAAAABB0c/wG725xrO-_cjTrAz0XP4F_TMjoZxawdCQCK8BGAsYHg/s512/2021-04-20.png" group-title="CINE Y SERIES", CABLEMAS
+https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
+
 
 
 
@@ -1381,6 +1384,10 @@ https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" group-title="DEPORTE", EDGE SPORT
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="DEPORTE", MMA TV
 https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -1435,7 +1442,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="DEPORTE", MLB CHANNEL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTE", ESPN EUA
+https://gma2.blab.email/fs2.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTE", ESPN 2 EUA
+https://gma2.blab.email/espn2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTE", ESPN U
+https://gma2.blab.email/espnu.m3u8
 
 
 
@@ -1590,6 +1604,9 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_1_sles.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="MUSICA", 88 STEREO
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="MUSICA", AFROBEATS 24/7
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 
 
 
@@ -1888,6 +1905,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009a
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="ESTILO DE VIDA 2", TV CIENCIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1f0bad78-81a8-4ec0-bca7-e97463a2cc94&userId=&serverSideAds=true
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d103f031154a4172d262b/colorLogoPNG.png" group-title="ESTILO DE VIDA 2", TV MUNDO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=959&deviceId=5d8d103f031154a4172d262b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="ESTILO DE VIDA 2", TV HISTORIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
@@ -2946,6 +2969,15 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0267
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="LOCALES 4", MAGAZINE
 https://g5.proy-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
