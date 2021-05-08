@@ -1207,8 +1207,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f800077
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUfXn6czYrT7z_8DubKtd29uPxZi3ZtUDoIQ&usqp=CAU" group-title="INFANTIL", ANIME ZONE TV
 http://animeloving.net/hls/stream.m3u8
 
-#EXTINF:-1 group-title="INFANTIL", Super Dragon Ball Heroes
-https://www.youtube.com/watch?v=B2rUo7Ueu94
+
 
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png" group-title="INFANTIL", NICK JR. LATINO
@@ -2008,7 +2007,7 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_12
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="INTERNACIONAL", NPY PARAGUAY
-https://rds3.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?k=ff9efd99a197a2d0d611b7670e2570dcf59ad66631698d268ec4866e700c1ae2&exp=1614801400
+http://cdn.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-audio_20000=144800-video=3000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeyouiniran.org/wp-content/uploads/hispan-tv.jpg" group-title="INTERNACIONAL", HISPAN TV
 https://live1.presstv.com/live/hispan_360p/index.m3u8
@@ -2065,11 +2064,10 @@ https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/cGhvdG9jYWxsLnR2.m3u8?d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png" group-title="INTERNACIONAL", LA 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="INTERNACIONAL", Galicia TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="INTERNACIONAL", GALICIA TV
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/100px-BBC_News.svg.png" group-title="INTERNACIONAL 2", BBC NEWS
-http://51.52.156.22:8888/http/004
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="INTERNACIONAL 2", FOX NEWS
 https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
@@ -2195,8 +2193,7 @@ http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Jalisco-TV-2-en-vivo-Online-218x150.png" group-title="INTERNACIONAL", JALISCO TV MEXICO
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="INTERNACIONAL", LIM
-https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC8Gc5fFs_4av_3It4hoaSP_CzT5gLkMRsm_xS6dN0DaGoxEsDeDNRagNODmODz3E7qRQ&usqp=CAU" group-title="INTERNACIONAL", EKIZ TV CHILE
 https://stmv.panel.mivideo.pro/ekiztv/ekiztv/playlist.m3u8
@@ -2232,8 +2229,7 @@ http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telepacifico_co.png" group-title="INTERNACIONAL", TELEPACIFICO COLOMBIA
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qZ9LcJb.jpeg" group-title="INTERNACIONAL", TELEFUTURO PARAGUAY
-https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_med/playlist.m3u8?k=d9185e101ab199e7333c542362965ef797b30c4dc2f64263832b27190bfe40f7&exp=1615764240
+
 
 
 
@@ -2953,6 +2949,12 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0267
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="LOCALES 4", MAGAZINE
 https://g5.proy-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
+
+
+
+
+
+
 
 
 
