@@ -1384,6 +1384,10 @@ https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" group-title="DEPORTE", EDGE SPORT
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="DEPORTE", MMA TV
 https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -1438,7 +1442,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="DEPORTE", MLB CHANNEL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTE", ESPN EUA
+https://gma2.blab.email/fs2.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTE", ESPN 2 EUA
+https://gma2.blab.email/espn2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTE", ESPN U
+https://gma2.blab.email/espnu.m3u8
 
 
 
