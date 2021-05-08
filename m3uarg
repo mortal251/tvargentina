@@ -1594,6 +1594,9 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_1_sles.m3u8
 #EXTINF:-1 tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="MUSICA", 88 STEREO
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="MUSICA", AFROBEATS 24/7
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -1891,6 +1894,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009a
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="ESTILO DE VIDA 2", TV CIENCIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1f0bad78-81a8-4ec0-bca7-e97463a2cc94&userId=&serverSideAds=true
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d103f031154a4172d262b/colorLogoPNG.png" group-title="ESTILO DE VIDA 2", TV MUNDO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=959&deviceId=5d8d103f031154a4172d262b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="ESTILO DE VIDA 2", TV HISTORIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
