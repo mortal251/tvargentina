@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 
@@ -1606,6 +1605,10 @@ https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="MUSICA 2", QUEST TV MIX
 https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="MUSICA 2", CONCIERTO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cdlivestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artschannel.png" group-title="MUSICA 2", CLASSIC ART SHOWCASE
 https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
@@ -2949,29 +2952,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0267
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="LOCALES 4", MAGAZINE
 https://g5.proy-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
