@@ -840,7 +840,7 @@ https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES", RAKUTEN TV  2
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
+   
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES", RAKUTEN TV  3
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
