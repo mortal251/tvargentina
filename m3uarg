@@ -53,7 +53,8 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 
-https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIwNjY3MTg1LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6MTI0ODpjNDQ0OmMxM2E6N2MyYTo5MGZiIl19LCJzaWduYXR1cmUiOiI3ODcwNjJiZGJkNDMwMjIzNzMxNzk4NWNmMDFhYjg0ZWU0ZWFjY2E3In0%3D
+https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/5958694c-7e5b-4926-b677-2fb57eea4529/2.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIwNzI0MDU4LCJzZXNzaW9uIjoiMjAwLjMuMTEzLjE1MCIsIndoaXRlbGlzdCI6WyIyMDAuMy4xMTMuMTUwIl19LCJzaWduYXR1cmUiOiI0YWRiNGQ5YWIxZDFhMDczOWZhZTgzNzM0NTg5M2M3NjcwMWJlYjk4In0%3D
+
 
 
 
@@ -940,16 +941,16 @@ https://master.tucableip.com/reconline/live/video.m3u8?_=1
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-9/60282518_2318162771800734_6668398006527590400_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=973b4a&_nc_ohc=obZxjvchla8AX_YakiY&_nc_ht=scontent.fepa11-1.fna&oh=26c61d227963578d2cc7fdd1441aab15&oe=60B62E4E"  group-title="CINE Y SERIES", Cascara
-https://ss5.domint.net:3036/ctv_str/cascaratv/playlist.m3u8?DVR%22
+https://ss5.domint.net:3036/ctv_str/cascaratv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png" group-title="CINE Y SERIES",  Chinola
-https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8?DVR
+https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png" group-title="CINE Y SERIES", TV MAS
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="CINE Y SERIES", BHTV
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="CINE Y SERIES", IMAS TV
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
@@ -2111,7 +2112,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://190.122.96.187:8888/http/010
 
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg" group-title="INTERNACIONAL", CANAL SUR ANDALUCIA
-https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/cGhvdG9jYWxsLnR2.m3u8?dvr
+https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/cGhvdG9jYWxsLnR2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png" group-title="INTERNACIONAL", LA 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on
