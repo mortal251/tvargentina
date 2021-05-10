@@ -53,7 +53,8 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 
-https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIwNjY3MTg1LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6MTI0ODpjNDQ0OmMxM2E6N2MyYTo5MGZiIl19LCJzaWduYXR1cmUiOiI3ODcwNjJiZGJkNDMwMjIzNzMxNzk4NWNmMDFhYjg0ZWU0ZWFjY2E3In0%3D
+https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/5958694c-7e5b-4926-b677-2fb57eea4529/2.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIwNzI0MDU4LCJzZXNzaW9uIjoiMjAwLjMuMTEzLjE1MCIsIndoaXRlbGlzdCI6WyIyMDAuMy4xMTMuMTUwIl19LCJzaWduYXR1cmUiOiI0YWRiNGQ5YWIxZDFhMDczOWZhZTgzNzM0NTg5M2M3NjcwMWJlYjk4In0%3D
+
 
 
 
@@ -311,8 +312,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=s
 https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1620576738~exp=1620753138~acl=/I/canal9bahiablanca_1@685725/*~hmac=73089047f61bc6662e61ffc7f247daa7cf623593cbad7cbc6ec85d08b2ae7649
 
 #EXTINF:-1 group-title="LOCALES 2", NOTICIERO CANAL 7 BAHIA BLANCA
-https://www.youtube.com/watch?v=Td4JLHU79_0
-
+https://www.youtube.com/watch?v=LmIBRtje6i4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="LOCALES 2", CANAL 7 CATAMARCA
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
@@ -404,6 +404,9 @@ http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" group-title="LOCALES 3", DEL SUR TV SAN JUAN
 http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES 3", VIBRA HD MONTE CASEROS
+http://88.99.75.194/hls/vibratelevision.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 3", TDC TV SANTA FE
@@ -467,14 +470,14 @@ https://panel.dattalive.com/8138/8138/playlist.m3u8
 
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=lGwqKFOXK2o
+https://www.youtube.com/watch?v=NqMIK6Fg7z4
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
 https://www.youtube.com/watch?v=lMQGGOKlaQI
 
 
-
-
+#EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
+https://www.youtube.com/watch?v=zmFReAxhYqs
 
 
 
@@ -801,8 +804,7 @@ http://video.streamtvradio.com:8081/uv038/uv038/playlist.m3u8
 https://59537faa0729a.streamlock.net/canal2hernandarias/canal2hernandarias/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES 3", VIBRA HD MONTE CASEROS
-http://88.99.75.194/hls/vibratelevision.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES 4", 7 NORTE TUCUMAN
 http://video.streamtvradio.com:8081/uv027/uv027/playlist.m3u8
@@ -938,16 +940,16 @@ https://master.tucableip.com/reconline/live/video.m3u8?_=1
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-9/60282518_2318162771800734_6668398006527590400_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=973b4a&_nc_ohc=obZxjvchla8AX_YakiY&_nc_ht=scontent.fepa11-1.fna&oh=26c61d227963578d2cc7fdd1441aab15&oe=60B62E4E"  group-title="CINE Y SERIES", Cascara
-https://ss5.domint.net:3036/ctv_str/cascaratv/playlist.m3u8?DVR%22
+https://ss5.domint.net:3036/ctv_str/cascaratv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png" group-title="CINE Y SERIES",  Chinola
-https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8?DVR
+https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png" group-title="CINE Y SERIES", TV MAS
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="CINE Y SERIES", BHTV
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="CINE Y SERIES", IMAS TV
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
@@ -2109,7 +2111,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://190.122.96.187:8888/http/010
 
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg" group-title="INTERNACIONAL", CANAL SUR ANDALUCIA
-https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/cGhvdG9jYWxsLnR2.m3u8?dvr
+https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/cGhvdG9jYWxsLnR2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png" group-title="INTERNACIONAL", LA 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on
@@ -2418,6 +2420,7 @@ https://streamcasthd.com:1936/woxtv/woxtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fmbrasilera.com/wp-content/uploads/2020/06/brasil512omb8eRVSHJX.jpg" group-title="RADIO 1", LA NUEVA FM BRASILERA 106.7 ENTRE RIOS
 https://stmv6.srvstm.com/brasil/brasil/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://fmlitoral.com.ar/web/wp-content/uploads/2021/02/logolitoralmovil.png" group-title="RADIO 1", FM LITORAL 103.1 PARANA
 https://stmv4.srvstm.com/litoral2/litoral2/playlist.m3u8 
 
@@ -2583,7 +2586,7 @@ https://tx.hls.nimo.tv/live/su2439520271345r7f61d6d38ad506f575d0ebfbaf0c7f2f_low
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiotupac.com.ar/wp-content/uploads/2020/04/LOGO-TUPAC-WEBCAST-05.jpg" group-title="RADIO 3", RADIO TUPAC WEBCAST
-https://video.turadioonline.com.ar:5443/LiveApp/streams/playlist.m3u8
+https://video.turadioonline.com.ar:5443/LiveApp/streams/235402511797957164799618.m3u8
 
 #EXTINF:-1 tvg-logo="http://static-1.ivoox.com/canales/4/0/4/1/741470821404_XXL.jpg" group-title="RADIO 3", RADIO CARDINAL MIRAMAR CORDOBA
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
@@ -2984,59 +2987,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0267
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E5vgnpW5gC84PDwt3WB6jOej-t-dEIhn6bs7VvJ5nwESvlX9FB4Yx_SCCY-wUkbhbf4" group-title="LOCALES 4", MAGAZINE
 https://g5.proy-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
- 
-
-
-
-
 
 
 
