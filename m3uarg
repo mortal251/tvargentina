@@ -2219,6 +2219,9 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2015/02/17140854/aster1-300x165.jpg" group-title="INTERNACIONAL", ASTER REPUBLICA DOMINCANA
 http://96.30.193.226:81/hls/canalaster.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.uniradiopy.com/gallery_gen/a0b94378c0f3d5f82cf4273bdcca0980_250x123.png" group-title="INTERNACIONAL", UNIRADIO PARAGUAY
+https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
+
 
 
 
