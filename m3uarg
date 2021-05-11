@@ -53,7 +53,7 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 
-https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/0efa967a-d08f-425d-b479-ff6d0ea74cbb/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIwNzY5NzU1LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIiwiMjgwMDo4MTA6NDczOjEyNDg6YjRlZjo0OThlOjI0ZmE6MjE5OCJdfSwic2lnbmF0dXJlIjoiNTNjOTI1OWExZjhiODBjZjM1YjI1MjJlNjMwY2Y0MjhiNzg0NTE3NCJ9
+https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/1d77e760-2de4-4eb1-8636-6a999dbc1556/2.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIwODExMjI5LCJzZXNzaW9uIjoiMjAwLjMuMTEzLjE1MCIsIndoaXRlbGlzdCI6WyIyMDAuMy4xMTMuMTUwIl19LCJzaWduYXR1cmUiOiIyOGQwODMwYjdiMmNjNGVjOTJkOThlYjQ2NDZmYTY3ODUzN2ZlOTMxIn0%3D
 
 
 
@@ -196,7 +196,7 @@ https://www.youtube.com/watch?v=gBbMbqILzXU
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/133px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="LOCALES 2", TELEFE CORDOBA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1620576497~exp=1620752897~acl=/i/canal8cordoba_1@685726/*~hmac=aee681830434675e0c95e9b5c87a6fc4ca05e92e87a233c131e65ff20bfed88d
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1620721337~exp=1620897737~acl=/i/canal8cordoba_1@685726/*~hmac=4272e6c03db4f24a7ba691636501550e8fb9f2eb4dac1800208fc4479bfa48a5
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", CANAL 10 CORDOBA
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
@@ -302,7 +302,7 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w859718
 https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1620576554~exp=1620752954~acl=/i/canal11salta_1@722934/*~hmac=2b38fa2dcd0f1a5003710697c5c2c2a1c7babf134360aa9749283f2b39245d34
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png/133px-Telefe_Neuqu%C3%A9n_%282018%29.png" group-title="LOCALES 2", TELEFE NEUQUEN
-https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1620576785~exp=1620753185~acl=/i/canal7neuquen_1@751158/*~hmac=50b43552b28cc609d35ec588b4a973dad9864edaacd955bff7a15ef84887a98d
+https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1620721311~exp=1620897711~acl=/i/canal7neuquen_1@751158/*~hmac=b7e5f10f2cf8c12c29c3819835d1925bc6a6d275eb431f98b8648724d5ecca50
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Telefe_Mar_del_Plata_%282018%29.png/133px-Telefe_Mar_del_Plata_%282018%29.png" group-title="LOCALES 2", TELEFE MAR DEL PLATA
 https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1620576713~exp=1620753113~acl=/i/mdqdistri02_1@829747/*~hmac=57ba74eeda31663e242833941792d29489ca506541eaff7676c0ddd2585b855b
@@ -476,8 +476,7 @@ https://www.youtube.com/watch?v=lMQGGOKlaQI
 
 
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=aLwsjeXGrpQ
-
+https://www.youtube.com/watch?v=wBQyGhh54HY
 
 
 
