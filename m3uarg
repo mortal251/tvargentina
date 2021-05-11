@@ -60,6 +60,8 @@ https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE - 34.1 (OPCION 2)
+https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1620722028~exp=1620729228~acl=/i/appmitelefe_1@326430/*~hmac=0e0b3bc9ef345d81beb11b5e65384034f3aa73332fa3715d4b0545ce41bf6ae9
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCALES 1", CANAL 13 - 33.1
