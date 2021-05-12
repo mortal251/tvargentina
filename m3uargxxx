@@ -53,7 +53,7 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 
-https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/705d2d30-8322-4fa2-8473-3aaa082676a6/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIwODU3Mjg3LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6MTI0ODpjY2NhOmMyZDU6OTdkOjY4N2YiXX0sInNpZ25hdHVyZSI6IjFlYjZhNWFkOWQ3MDQ5NWIxNWI2M2ZiZjZlZjIwZTBiZDk3ZWRmNmYifQ%3D%3D
+https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/d435787a-da43-45c1-b891-cc4a1887855d/2.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIwODk4NTczLCJzZXNzaW9uIjoiMjAwLjMuMTEzLjE1MCIsIndoaXRlbGlzdCI6WyIyMDAuMy4xMTMuMTUwIl19LCJzaWduYXR1cmUiOiJhYzljNTIzMjJiNTJhMDU2MzAwODExYWEwNjQ1OWM3MjdmMWEwMDhhIn0%3D
 
 
 
@@ -309,7 +309,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=s
 https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1620768039~exp=1620944439~acl=/I/canal9bahiablanca_1@685725/*~hmac=7d696439ebad67d0cf0bf560af28b4bd7f2f6fa4d3f86730359fcc49ce053902
 
 #EXTINF:-1 group-title="LOCALES 2", NOTICIERO CANAL 7 BAHIA BLANCA
-https://www.youtube.com/watch?v=LmIBRtje6i4&t=1s
+https://www.youtube.com/watch?v=ch9Te-6IGIc
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="LOCALES 2", CANAL 7 CATAMARCA
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
@@ -351,8 +351,7 @@ https://www.youtube.com/watch?v=lMQGGOKlaQI
 
 
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=izj_DoTWGg8
-
+https://www.youtube.com/watch?v=aV8W7ckCtWI
 
 
 
@@ -2219,6 +2218,9 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2015/02/17140854/aster1-300x165.jpg" group-title="INTERNACIONAL", ASTER REPUBLICA DOMINCANA
 http://96.30.193.226:81/hls/canalaster.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.uniradiopy.com/gallery_gen/a0b94378c0f3d5f82cf4273bdcca0980_250x123.png" group-title="INTERNACIONAL", UNIRADIO PARAGUAY
+https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
+
 
 
 
@@ -2911,6 +2913,22 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
