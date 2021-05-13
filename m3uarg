@@ -2099,11 +2099,11 @@ https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45154_PinguinoTV.png" group-title="INTERNACIONAL", EL PINGUINO TV CHILE
 http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_03/large.teleantioquiawhite.png.13828412c7e79365cebf6b87be4f4cdd.png" group-title="INTERNACIONAL", TELEANTIOQIUA
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_03/large.teleantioquiawhite.png.13828412c7e79365cebf6b87be4f4cdd.png" group-title="INTERNACIONAL", TELEANTIOQUIA
 https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.megatvarequipa.com/wp-content/uploads/2020/06/cropped-104684146_960970201020528_6006149684953973330_n-1-2.png" group-title="INTERNACIONAL", MEGA TV PERU 
-https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jrfVQHwUBx4/Xzx0rORBjXI/AAAAAAAA4qg/NiiIK4hjt_8RUGtKV-xMvHgY1ttnwcNMQCK8BGAsYHg/s0/2020-08-18.jpg" group-title="INTERNACIONAL", UCI PERU
+http://168.205.133.38/uci1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online.png" group-title="INTERNACIONAL", MUNDO+ COLOMBIA
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
