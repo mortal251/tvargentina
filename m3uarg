@@ -103,6 +103,9 @@ https://panel.dattalive.com/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmExMjNmcmVlYXBwcy5mcmVlLmFwcDVkNWVjMWY4ODliOThfaWNvbl8xNTY3NjE5OTcxXzAxNw/icon.png?w=170&fakeurl=1" group-title="LOCALES 1", CANAL 4 TELEAIRE SAN MARTIN
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-SlqJrd0GiYk/XjtCBz2FbhI/AAAAAAAAvog/HkkKzNWrEOYiE08Rdlw-mxsDtzpJ_zD8wCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 1", CANAL 6 MORENO
+https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES 1", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
@@ -584,8 +587,7 @@ http://arcast.com.ar:1935/atbargentina/atbargentina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KCqAdPir4u0/XrYMI6iIs_I/AAAAAAAA0h4/UaFlSVSv3Foz_7161A3vWWA5kkH4RTZbQCK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES 4", CANAL 7 SALTA
 https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-SlqJrd0GiYk/XjtCBz2FbhI/AAAAAAAAvog/HkkKzNWrEOYiE08Rdlw-mxsDtzpJ_zD8wCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 4", CANAL 6 MORENO
-https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.valletv.com/Graficos/logo.jpg" group-title="LOCALES 4", VALLE TV NEUQUEN
 https://stmv1.srvstm.com/valletv/valletv/playlist.m3u8
@@ -641,8 +643,11 @@ https://video.turadioonline.com.ar:5443/LiveApp/streams/017475634527020836600699
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES 4", CANAL 12 TUCUMAN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3MwF1xYI9s0/X4MNUuARJ3I/AAAAAAAA6Vk/f8VICRuKxms6s7DbkOc08AA8ZYmFWulZQCK8BGAsYHg/s0/2020-10-11.png" group-title="LOCALES 4", TELEESTRELLA ARGENTINA
+https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
+
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES 4", UNIVERSIDAD TV MAR DEL PLATA
-https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL541hBwkXdS1Nu0LQ9ekYdG1k)/dm/3/x7kvvgi/s/live-1.m3u8
+https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL546a_nE4wBuFHPjZZKSDoWjw)/dm/3/x7kvvgi/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU" group-title="LOCALES 4", PLAY TELEVISION SANTA FE
 http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8
@@ -652,6 +657,9 @@ https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgHZgj0j0s3y22Xu7XjBqMSGaRJJHIdGmkrg&usqp=CAU" group-title="LOCALES 3", CANAL 50 MORTEROS
 https://coopmorteros.online/canal50/vivo.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="LOCALES 4", CTV CORRIENTES
+https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 #EXTINF:-1 tvg-logo="https://bragadotv.com.ar/wp-content/uploads/2020/08/logoicono.png" group-title="LOCALES 4", BRAGADO TV
 https://inliveserver.com:1936/9500/9500/chunklist_w1908919579.m3u8
@@ -667,6 +675,9 @@ https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://linktvcanal.com/portal/wp-content/uploads/2017/07/logo.png" group-title="LOCALES 4", LINK TV SANTA FE
 https://panel.dattalive.com/8128/8128/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 4", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
+https://inliveserver.com:1936/14064/14064/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.crossingcontenidos.com.ar/wp-content/uploads/2020/10/LOGO-CROSSING-IPTV-300x282.png" group-title="LOCALES 4", CROSSING TV RIO GALLEGOS
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8
@@ -723,11 +734,9 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t31.0-8/26685868_1958993101094528_1908377306708236386_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeFWPkP2qw0Fxixg4xhLvVkraZPvngY3MGtpk--eBjcwa979VHeDUonToea7uekGUQI&_nc_ohc=Mhjj89CWgCMAX9jpqAo&_nc_oc=AQmzFI2sNHh4dDh6yoNL1ojPwAWWH5haivqHmMi1HjdW5oU9UNzQr0TMCiK6jbTOESyWdqST8LStHK9Hb1f6X1Pj&_nc_ht=scontent.fepa11-1.fna&oh=4ac10c7fd15ab0331e12c1804e934a85&oe=6080FD34" group-title="LOCALES 4", REMANZO TV CANAL 2 HERNANDARIAS ENTRE RIOS
 https://59537faa0729a.streamlock.net/canal2hernandarias/canal2hernandarias/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="LOCALES 4", CTV CORRIENTES
-https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 4", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
-https://inliveserver.com:1936/14064/14064/playlist.m3u8
+
+
 
 
 
@@ -741,8 +750,7 @@ https://nd106.republicaservers.com/canal2misiones.mp4
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES 4", VEO SANTA FE (SOLO IPTV AZUL)
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0267 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3MwF1xYI9s0/X4MNUuARJ3I/AAAAAAAA6Vk/f8VICRuKxms6s7DbkOc08AA8ZYmFWulZQCK8BGAsYHg/s0/2020-10-11.png" group-title="LOCALES 4", TELEESTRELLA ARGENTINA
-https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_12.png" group-title="LOCALES 2", CANAL 12 TRENQUE LAUQUEN
 https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
