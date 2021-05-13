@@ -1242,11 +1242,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa89d42a05000073
 #EXTINF:-1 group-title="INFANTIL", BabyBus
 https://www.youtube.com/watch?v=9FOhlvqOW9g
 
-#EXTINF:-1 group-title="INFANTIL", Dave y Ava
-https://www.youtube.com/watch?v=sbpG3Evg8eY
+#EXTINF:-1 group-title="INFANTIL", La Granja de Zenón
+https://www.youtube.com/watch?v=aWvEBIBX7e0
+
+#EXTINF:-1 group-title="INFANTIL", Las Ruedas del Autobús
+https://www.youtube.com/watch?v=jmxcCw1UrwA
 
 #EXTINF:-1 group-title="INFANTIL", PEPPA PIG
 https://www.youtube.com/watch?v=hl_nACnH42w
+
+#EXTINF:-1 group-title="INFANTIL", Dave and Ava
+https://www.youtube.com/watch?v=QojxoIFWKOM
 
 
 #EXTINF:-1 group-title="INFANTIL", HEROES EN PIJAMAS
