@@ -790,24 +790,24 @@ https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="CINE Y SERIES", RAKUTEN TV DRAMA 2
 https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
    
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="CINE Y SERIES", RAKUTEN COMEDY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="CINE Y SERIES", RAKUTEN COMEDIA
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="CINE Y SERIES", RAKUTEN COMEDY 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="CINE Y SERIES", RAKUTEN COMEDIA 2
 https://rakuten-comedymovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="CINE Y SERIES", RAKUTEN ACTION
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="CINE Y SERIES", RAKUTEN ACCION
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="CINE Y SERIES", RAKUTEN ACTION 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="CINE Y SERIES", RAKUTEN ACCION 2
 https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="CINE Y SERIES", RAKUTEN FAMILY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="CINE Y SERIES", RAKUTEN FAMILIA
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES", RAKUTEN TOP FREE 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES", RAKUTEN TOP FREE
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 
@@ -817,7 +817,8 @@ https://runtimeespana-samsungspain.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN TIME 2
 https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f5132e362fe160040f26c15/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", Canal Cinesverdi
+https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LnXLukJpoCw/maxresdefault.jpg" group-title="CINE Y SERIES", MI TV 
 http://162.244.80.176:8081/abr/stream/playlist.m3u8
@@ -846,22 +847,22 @@ https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WRgrmcHYIf0/XzxpQ2g856I/AAAAAAAA4os/J9nPPyj6GEQoCs9ilc05e_SgKYfLy-bcQCK8BGAsYHg/s0/2020-08-18.png" group-title="CINE Y SERIES", CINE CABLE TV
 https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg" group-title="CINE Y SERIES", TU CINE
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", TU CINE
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg" group-title="CINE Y SERIES", CINE REAL
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", CINE REAL
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg" group-title="CINE Y SERIES", HORRORFY
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", HORRORFY
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg" group-title="CINE Y SERIES", JUNTOS
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", JUNTOS
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg" group-title="CINE Y SERIES", CINE SUREÑO
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", CINE SUREÑO
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg" group-title="CINE Y SERIES", TOP CINE
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 
@@ -1784,7 +1785,24 @@ https://paneltv.online:1936/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/70671542_1686593204818244_6449780340050362368_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHkpqXYZ6dMPfQfqZAWvka4YQyI8Mm8gAhhDIjwybyACOYzk2tT4B6Mqv1w1wq7QSQ&_nc_ohc=FnY4QXYWhz0AX-bfHs9&_nc_ht=scontent.fepa11-1.fna&oh=e99ba1e8d8abd3c50125a033049a21a7&oe=60809E0C" group-title="ESTILO DE VIDA 1", MILENNIO LOS CONDORES
 https://59537faa0729a.streamlock.net/milenniotv/milenniotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/117670_Chic_Magazine.png" group-title="ESTILO DE VIDA 1", Canal Feel good
+https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/117670_Chic_Magazine.png" group-title="ESTILO DE VIDA 1", Fuel TV
+https://fueltv-fueltv-7-es.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/117670_Chic_Magazine.png" group-title="ESTILO DE VIDA 1", Unearth
+https://alchimie-unearth-3-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zSdsBGc.jpg" group-title="ESTILO DE VIDA 1",MOODS
+https://alchimie-moods-4-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hChduSn.png" group-title="ESTILO DE VIDA 1",BIG NAME
+https://alchimie-big-names-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/48427210_325701461614645_8188794366064590848_o.jpg?_nc_cat=107&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeE0w6xxxggX9dwSkxkmZ_Wfo3l5ohkQmVOjeXmiGRCZU5PXVmFuZY-G90M3kz-GBPs&_nc_ohc=t0jauJRBNSEAX-Eus-y&_nc_ht=scontent.fepa11-1.fna&oh=85b7587a15fa481bb6b14002d1932594&oe=604416B9" group-title="ESTILO DE VIDA 1", HD FASHION
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
@@ -2270,6 +2288,9 @@ http://96.30.193.226:81/hls/canalaster.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.uniradiopy.com/gallery_gen/a0b94378c0f3d5f82cf4273bdcca0980_250x123.png" group-title="INTERNACIONAL", UNIRADIO PARAGUAY
 https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="INTERNACIONAL", Bloomberg TV+
+https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
