@@ -794,7 +794,7 @@ https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="CINE Y SERIES", RAKUTEN COMEDY 2
- 2https://rakuten-comedymovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+https://rakuten-comedymovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="CINE Y SERIES", RAKUTEN ACTION
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -808,13 +808,13 @@ https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="CINE Y SERIES", RAKUTEN FAMILY 2
-https://rakuten-family-2-eu.samsung.wurl.com/manifest/playlist.m3u8
+https://rakuten-family-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES", RAKUTEN TOP FREE 
 https://rakuten-topfree-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES", RAKUTEN TOP FREE 2
-https://rakuten-topfree-2-eu.samsung.wurl.com/manifest/playlist.m3u8
+https://rakuten-topfree-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 
 
