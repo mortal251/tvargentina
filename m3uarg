@@ -840,14 +840,18 @@ https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1AkpM1rC75w/YGdiuKFuQzI/AAAAAAABBGg/lG-2DxIFeU8K4vxZQxqPVZ6J29Bu5ZuSgCK8BGAsYHg/s512/2021-04-02.png" group-title="CINE Y SERIES", ZPTV
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png" group-title="CINE Y SERIES", WOW
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="CINE Y SERIES", SOL TV
+https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BfAOGODBZEc/Xjtifr8ZrYI/AAAAAAAAvr0/nK_E67xjC9gwzgwb_zMBrzS-RAGAAy0DQCK8BGAsYHg/s0/2020-02-05.png" group-title="CINE Y SERIES", REC ONLINE
+https://master.tucableip.com/reconline/live/video.m3u8?_=1
+
+
 
 #EXTINF:-1 tvg-logo="https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg" group-title="CINE Y SERIES", WMS HD
 https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WRgrmcHYIf0/XzxpQ2g856I/AAAAAAAA4os/J9nPPyj6GEQoCs9ilc05e_SgKYfLy-bcQCK8BGAsYHg/s0/2020-08-18.png" group-title="CINE Y SERIES", CINE CABLE TV
-https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_usk3hzv4/def_height/1654/def_width/3159/version/100011/type/2/q/100" group-title="CINE Y SERIES", NUESTRA VISION
 https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
@@ -895,8 +899,13 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/101693_Retro_TV_Palmares.png" group-title="CINE Y SERIES", RETRO TV
 http://tvretropalmares.com:8090/hls/envivo.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="CINE Y SERIES", SOL TV
-https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png" group-title="CINE Y SERIES", WOW
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WRgrmcHYIf0/XzxpQ2g856I/AAAAAAAA4os/J9nPPyj6GEQoCs9ilc05e_SgKYfLy-bcQCK8BGAsYHg/s0/2020-08-18.png" group-title="CINE Y SERIES", CINE CABLE TV
+https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvsurvision.cl/wp-content/uploads/2020/10/LOGO-PNG.png" group-title="CINE Y SERIES", TV SUR VISION
 http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w1568568829.m3u8
@@ -914,8 +923,7 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="CINE Y SERIES", MOVIES
 https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BfAOGODBZEc/Xjtifr8ZrYI/AAAAAAAAvr0/nK_E67xjC9gwzgwb_zMBrzS-RAGAAy0DQCK8BGAsYHg/s0/2020-02-05.png" group-title="CINE Y SERIES", REC ONLINE
-https://master.tucableip.com/reconline/live/video.m3u8?_=1
+
 
 #EXTINF:-1 tvg-logo="http://amecanal47.com/images/ame_47_sm.jpg" group-title="CINE Y SERIES", AME47
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
@@ -925,11 +933,7 @@ http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png" group-title="CINE Y SERIES", TV MAS
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="CINE Y SERIES", BHTV
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="CINE Y SERIES", IMAS TV
-https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="CINE Y SERIES", PH TV
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
@@ -949,8 +953,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gJfa300HIW8/YH9i0sA4HoI/AAAAAAABB0c/wG725xrO-_cjTrAz0XP4F_TMjoZxawdCQCK8BGAsYHg/s512/2021-04-20.png" group-title="CINE Y SERIES", CABLEMAS
 https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logonuevo2.png" group-title="CINE Y SERIES", SUCESO TV
-https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4nXoFlDVb7s/YI8_ap7Pw-I/AAAAAAABCJs/Ddgvvadk8pcJOwjJQwsUK1rAEsu-EWVPgCK8BGAsYHg/s512/2021-05-02.png" group-title="CINE Y SERIES", TV QUINTA REGION
@@ -2297,9 +2300,14 @@ http://96.30.193.226:81/hls/canalaster.m3u8
 #EXTINF:-1 tvg-logo="http://www.uniradiopy.com/gallery_gen/a0b94378c0f3d5f82cf4273bdcca0980_250x123.png" group-title="INTERNACIONAL", UNIRADIO PARAGUAY
 https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="INTERNACIONAL", Bloomberg TV+
-https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="CINE Y SERIES", BHTV PERU
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="CINE Y SERIES", IMAS TV ESPAÑA
+https://secure3.todostreaming.es/live/imastv-livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logonuevo2.png" group-title="CINE Y SERIES", SUCESO TV PARAGUAY
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 
 
 
