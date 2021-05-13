@@ -2330,13 +2330,13 @@ http://96.30.193.226:81/hls/canalaster.m3u8
 #EXTINF:-1 tvg-logo="http://www.uniradiopy.com/gallery_gen/a0b94378c0f3d5f82cf4273bdcca0980_250x123.png" group-title="INTERNACIONAL", UNIRADIO PARAGUAY
 https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="CINE Y SERIES", BHTV PERU
+#EXTINF:-1 tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="INTERNACIONAL", BHTV PERU
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="CINE Y SERIES", IMAS TV ESPAÑA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="INTERNACIONAL", IMAS TV ESPAÑA
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logonuevo2.png" group-title="CINE Y SERIES", SUCESO TV PARAGUAY
+#EXTINF:-1 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logonuevo2.png" group-title="INTERNACIONAL", SUCESO TV PARAGUAY
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 
 
