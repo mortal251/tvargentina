@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 
@@ -778,22 +779,55 @@ https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png" group-title="CINE Y SERIES", UCV 
 https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES", RAKUTEN TV  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="CINE Y SERIES", RAKUTEN SPOTLIGHT
 https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES", RAKUTEN TV  2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="CINE Y SERIES", RAKUTEN SPOTLIGHT 2
+https://rakuten-spotlight-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="CINE Y SERIES", RAKUTEN TV DRAMA
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="CINE Y SERIES", RAKUTEN TV DRAMA 2
+https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
    
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES", RAKUTEN TV  3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="CINE Y SERIES", RAKUTEN COMEDY
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES", RAKUTEN TV  4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="CINE Y SERIES", RAKUTEN COMEDY 2
+ 2https://rakuten-comedymovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="CINE Y SERIES", RAKUTEN ACTION
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES", RAKUTEN TV  5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="CINE Y SERIES", RAKUTEN ACTION 2
+https://rakuten-actionmovies-2-es.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="CINE Y SERIES", RAKUTEN FAMILY
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LnXLukJpoCw/maxresdefault.jpg" group-title="CINE Y SERIES", MI TV TELEVISION CLASICA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="CINE Y SERIES", RAKUTEN FAMILY 2
+https://rakuten-family-2-eu.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES", RAKUTEN TOP FREE 
+https://rakuten-topfree-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES", RAKUTEN TOP FREE 2
+https://rakuten-topfree-2-eu.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN TIME
+https://runtimeespana-samsungspain.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.pngg" group-title="CINE Y SERIES", RUN TIME 2
+https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f5132e362fe160040f26c15/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LnXLukJpoCw/maxresdefault.jpg" group-title="CINE Y SERIES", MI TV 
 http://162.244.80.176:8081/abr/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
@@ -868,9 +902,6 @@ https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51SN4YBCY6L.png" group-title="CINE Y SERIES", BUTACA TV
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/77/b7/b7/77b7b752c047c55ac10ea10a393adfc3.jpg" group-title="CINE Y SERIES", ESPAÑOL RUN TIME
-https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f5132e362fe160040f26c15/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="CINE Y SERIES", MOVIES
@@ -1242,11 +1273,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa89d42a05000073
 #EXTINF:-1 group-title="INFANTIL", BabyBus
 https://www.youtube.com/watch?v=9FOhlvqOW9g
 
-#EXTINF:-1 group-title="INFANTIL", Dave y Ava
-https://www.youtube.com/watch?v=sbpG3Evg8eY
+#EXTINF:-1 group-title="INFANTIL", La Granja de Zenón
+https://www.youtube.com/watch?v=aWvEBIBX7e0
+
+#EXTINF:-1 group-title="INFANTIL", Las Ruedas del Autobús
+https://www.youtube.com/watch?v=jmxcCw1UrwA
 
 #EXTINF:-1 group-title="INFANTIL", PEPPA PIG
 https://www.youtube.com/watch?v=hl_nACnH42w
+
+#EXTINF:-1 group-title="INFANTIL", Dave and Ava
+https://www.youtube.com/watch?v=QojxoIFWKOM
 
 
 #EXTINF:-1 group-title="INFANTIL", HEROES EN PIJAMAS
@@ -2093,11 +2130,11 @@ https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45154_PinguinoTV.png" group-title="INTERNACIONAL", EL PINGUINO TV CHILE
 http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_03/large.teleantioquiawhite.png.13828412c7e79365cebf6b87be4f4cdd.png" group-title="INTERNACIONAL", TELEANTIOQIUA
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_03/large.teleantioquiawhite.png.13828412c7e79365cebf6b87be4f4cdd.png" group-title="INTERNACIONAL", TELEANTIOQUIA
 https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.megatvarequipa.com/wp-content/uploads/2020/06/cropped-104684146_960970201020528_6006149684953973330_n-1-2.png" group-title="INTERNACIONAL", MEGA TV PERU 
-https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jrfVQHwUBx4/Xzx0rORBjXI/AAAAAAAA4qg/NiiIK4hjt_8RUGtKV-xMvHgY1ttnwcNMQCK8BGAsYHg/s0/2020-08-18.jpg" group-title="INTERNACIONAL", UCI PERU
+http://168.205.133.38/uci1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online.png" group-title="INTERNACIONAL", MUNDO+ COLOMBIA
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
@@ -2930,6 +2967,22 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
