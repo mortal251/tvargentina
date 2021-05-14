@@ -210,6 +210,9 @@ https://www.youtube.com/watch?v=9k8s9Fi_uBg
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="LOCALES 2", CANAL 9 MENDOZA
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Canal_11_(Paran%C3%A1)#/media/Archivo:Logo_elonce_tv_2019.png.jpg" group-title="LOCALES 2", ONCE PARANA
+https://n-akamai-fastly.castr.com/edge/live_50437d10b1d611eb99fae924669b7218/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online.png" group-title="LOCALES 2", CANAL 3 ROSARIO
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 
@@ -353,8 +356,7 @@ https://www.youtube.com/watch?v=TRVr5YTRR3I
 https://www.youtube.com/watch?v=lMQGGOKlaQI
 
 
-#EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=vL0CK5DdfxQ
+
 
 
 #EXTINF:-1 tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png" group-title="LOCALES 3", CANAL 2 SANAGASTA
