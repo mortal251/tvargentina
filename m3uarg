@@ -221,8 +221,8 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Nueve_Litoral_%28Logo_2010%29.png/133px-Nueve_Litoral_%28Logo_2010%29.png" group-title="LOCALES 2", CANAL 9 PARANA
 https://5975e06a1f292.streamlock.net:4443/ahora/ahora/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo_elonce_tv_2019.png.jpg" group-title="LOCALES 2", ONCE PARANA
-https://n-akamai-fastly.castr.com/edge/live_50437d10b1d611eb99fae924669b7218/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo_elonce_tv_2019.png.jpg" group-title="LOCALES 2", ONCE PARANA *
+https://n-akamai-fastly.castr.com/edge/live_50437d10b1d611eb99fae924669b7218/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Telefe_Santa_Fe.png/133px-Telefe_Santa_Fe.png" group-title="LOCALES 2", TELEFE SANTA FE
 https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1620899963~exp=1621076363~acl=/i/canal13santafe_1@751190/*~hmac=84c738fdc7619ab862c75ac13b6f7f45863dbfb07c94d68a5b3e4aab6038097f
