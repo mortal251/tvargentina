@@ -1560,14 +1560,11 @@ https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/103795_CEAC_TV.png" group-title="MUSICA", CEACTV
 https://videostreaming.cloudserverlatam.com/ceactv/ceactv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="MUSICA", CLASICA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
+#EXTINF:-1 group-title="MUSICA", CLASIC MUSIC PIANO
+https://www.youtube.com/watch?v=OowUi602GdU
 
-
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5d486b87428fe37d8cadba44/colorLogoPNG.png" group-title="MUSICA", HILLSONG CHANNEL
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486b87428fe37d8cadba44/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
-
+#EXTINF:-1 group-title="MUSICA", BAROQUE LIVE MUSIC
+https://www.youtube.com/watch?v=2gO1v2GPMFk
 
 #EXTINF:-1 tvg-logo="https://onradiochile.cl/wp-content/themes/onair2/img/play.png" group-title="MUSICA", ON RADIO KPOP CHILE
 https://tls.cdnz.cl/onradio4/live/playlist.m3u8
