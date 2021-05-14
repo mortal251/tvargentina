@@ -164,8 +164,8 @@ https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="DEPORTES 2",  MX | TUDN
-http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="DEPORTES 2",  USA | BEIN SPORTS XTRA
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
 
 
@@ -2792,8 +2792,7 @@ http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="DEPORTES 2",  USA | BEIN SPORTS XTRA
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="DEPORTES 2",  USA | ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
