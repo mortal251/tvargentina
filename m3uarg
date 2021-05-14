@@ -2116,8 +2116,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492c67f4c48700075
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
 
-
-
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png" group-title="ESTILO DE VIDA 3", ESCAPE PERFECTO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/605e479d5b8229000763e697/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
@@ -2478,9 +2476,6 @@ https://stmvideo2.livecastv.com/lavoztv/lavoztv/chunklist_w859988336.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj3A5dsZMcJlJdjb7NWxnpPuV2HFmJVcJqzyf2Y9g=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGION", CANAL 18 SALTA
 https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://positivochannel.com/images/MOSCA-POSITIVO-OFICIAL-1.png" group-title="RELIGION", POSITIVO CHANEL
-https://5fa5de1a545ae.streamlock.net/PositivoChannel/PositivoChannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzVUVoX.jpg" group-title="RELIGION", MONTE MARIA
 http://162.212.176.51:1935/live/myStream/playlist.m3u8
