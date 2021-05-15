@@ -2296,10 +2296,10 @@ https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DCAtokY.png" group-title="INTERNACIONAL", ATB
 http://186.121.206.197/live/daniel/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.boliviatv.bo/principal/assets/images/the-voyager/btv1.png" group-title="INTERNACIONAL", BOLIVIA TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/BoliviaTVlogotwo.png" group-title="INTERNACIONAL", BOLIVIA TV 
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1zTLGdj.jpg" group-title="INTERNACIONAL", BOLIVIA TV 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/BoliviaTVlogotwo.png" group-title="INTERNACIONAL", BOLIVIA TV 2
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vakdxny.jpg" group-title="INTERNACIONAL", CANAL 10 CANCUN
@@ -2308,7 +2308,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hlrdeds.png" group-title="INTERNACIONAL", CANAL CAPITAL COLOMBIA
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCaturZ.png" group-title="INTERNACIONAL", CANAL MALAGA
+#EXTINF:-1 tvg-logo="http://www.canalmalaga.es/wp-content/uploads/2018/03/xCanalMalaga_FAV_02.png" group-title="INTERNACIONAL", CANAL MALAGA
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telepacifico_co.png" group-title="INTERNACIONAL", TELEPACIFICO COLOMBIA
