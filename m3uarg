@@ -2308,7 +2308,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hlrdeds.png" group-title="INTERNACIONAL", CANAL CAPITAL COLOMBIA
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.canalmalaga.es/wp-content/uploads/2018/03/xCanalMalaga_FAV_02.png" group-title="INTERNACIONAL", CANAL MALAGA
+#EXTINF:-1 tvg-logo="http://www.canalmalaga.es/wp-content/uploads/2018/03/xCanalMalaga_FAV_02.png.pagespeed.ic.WpmLeMu7ag.png?fbclid=IwAR0lsiAr7zTxffwhpxn9pQugbQwY_doGWs6YrAIu_opWhPePQwo2zsu9EZw" group-title="INTERNACIONAL", CANAL MALAGA
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telepacifico_co.png" group-title="INTERNACIONAL", TELEPACIFICO COLOMBIA
