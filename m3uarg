@@ -945,6 +945,9 @@ https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4nXoFlDVb7s/YI8_ap7Pw-I/AAAAAAABCJs/Ddgvvadk8pcJOwjJQwsUK1rAEsu-EWVPgCK8BGAsYHg/s512/2021-05-02.png" group-title="CINE Y SERIES", TV QUINTA REGION
 https://srv1.zcast.com.br/daniel2525/daniel2525/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://barvatvplus.com/wp-content/uploads/2020/12/PicsArt_11-24-11.04.44.png" group-title="CINE Y SERIES", BARVA TV
+https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
+
 
 
 
@@ -1358,6 +1361,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf500092
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="DEPORTE", CLARO SPORTS
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Best-Cable-Sports-en-vivo.jpg" group-title="DEPORTE", BEST CABLE SPORT
+https://live.siete.us/bestcablesports/bestcablesports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT PLAY 1
 https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
@@ -1884,6 +1890,9 @@ http://91.126.141.201:1935/live/ten/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="ESTILO DE VIDA 1", PEOPLE ARE AWESOME
 https://jukin-peopleareawesome-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3n7ECn.png" group-title="ESTILO DE VIDA 1", AFV
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/250px-DKISS_2019_logo.svg.png" group-title="ESTILO DE VIDA 1", DKISS
 http://91.126.141.201:1935/live/kiss/playlist.m3u8
