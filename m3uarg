@@ -2900,6 +2900,18 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fc54366b04b2300072
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHcFiHk.png" group-title="DEPORTES 2", ACCDN 1
+https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHcFiHk.png" group-title="DEPORTES 2", ACCDN 2
+https://120sports-accdn-1.samsung.wurl.com/manifest/1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHcFiHk.png" group-title="DEPORTES 2", ACCDN 3
+https://120sports-accdn-2.roku.wurl.com/manifest/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU" group-title="DEPORTES 2",  MX | ESPN 1 NORTE
 http://balancer1.ottmex.com:8081/tecno/Espn1.BKR/chunks.m3u8
