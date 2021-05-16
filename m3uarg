@@ -1754,8 +1754,29 @@ https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA", MIX 24/7 TOP 100
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24/7 TOP 100
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 BALADAS
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 RETRO
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 CONCIERTOS
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 TROPICAL
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 PURO ROCK
+http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 POP
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
 
 
 
