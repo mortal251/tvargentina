@@ -1843,6 +1843,9 @@ http://190.122.96.187:8888/http/006
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU" group-title="ESTILO DE VIDA 1", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJZHoUj.png" group-title="ESTILO DE VIDA 1", ANIMALS LIVE
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/83f9f0ddd6f6d0bd9394ab0b34fcc7daa84ea75a1b923b8872acdb36f26c034a.png" group-title="ESTILO DE VIDA 1", PET COLLECTIVE
 https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
 
