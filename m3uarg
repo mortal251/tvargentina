@@ -2943,6 +2943,9 @@ https://120sports-accdn-1.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHcFiHk.png" group-title="DEPORTES 2", ACCDN 3
 https://120sports-accdn-2.roku.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H3iaTB5.png" group-title="DEPORTES 2", AUTOMOTO
+https://stitcheraws.unreel.me/wse-node04.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="DEPORTES 2", ES | EUROSPORT 1
 http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 
