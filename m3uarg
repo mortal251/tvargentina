@@ -1545,8 +1545,8 @@ https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/005744bff637aa2e851abd60710e4001c53576399f8a7f04b671a639e604fd73.png" group-title="MUSICA", TANGO TV
 https://panel.streamingtv-mediacp.online:1936/8066/8066/chunklist_w1405405382.m3u8
 
-#EXTINF:-1 tvg-logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png" group-title="MUSICA", SEXY KPOP TV
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1 tvg-logo="https://www.radioan24.com.ar/wp-content/uploads/2020/11/logo-radiotvan24-272X136-definitivo.png" group-title="MUSICA", AN24
+https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/watermarks/QQnSLaBB.png" group-title="MUSICA", COOPE TV
 https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
@@ -1554,6 +1554,8 @@ https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/1DnAyuT.jpeg" group-title="MUSICA", FACTORY HD
 https://videohd.live:19360/8072/8072.m3u8
 
+#EXTINF:-1 tvg-logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png" group-title="MUSICA", SEXY KPOP TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/4308.gif" group-title="MUSICA", TV POP
@@ -1589,8 +1591,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Lg_videorola-300x199.png" group-title="MUSICA", VIDEO ROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA", MIX 24/7 TOP 100
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XR46wyY1FZc/XjomdF00q2I/AAAAAAAAvlY/RR7N6BVs2fQVrkRxUvldT5NN7KN5QGDDACK8BGAsYHg/s0/2020-02-04.png" group-title="MUSICA", CORAZON LLANERO
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8
@@ -1752,6 +1752,11 @@ https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="MUSICA 2", Stingray Urban Beats
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA", MIX 24/7 TOP 100
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600ae79fa46e17000794e84c/colorLogoPNG.png" group-title="MUSICA 2", MTV LOVE MUSIC
@@ -2698,8 +2703,7 @@ https://streamcasthd.com:19360/fmvanguardia/fmvanguardia.m3u8
 #EXTINF:-1 tvg-logo="http://radioplus983.com/wp-content/uploads/2016/07/log200-e1468504920544.png" group-title="RADIO 2", 98.3 RADIO PLUS - USHUAIA
 http://inliveserver.com:1935/9014/9014/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radioan24.com.ar/wp-content/uploads/2020/11/logo-radiotvan24-272X136-definitivo.png" group-title="RADIO 2", RADIO AN24
-https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.cadenamaxima.com.ar/cadmawp/wp-content/uploads/2017/04/logo-cadena-maxima-footer.png" group-title="RADIO 2", CADENA MAXIMA 106.7 - SALTA
 https://vivo.solumedia.com:19360/cadenamaxima/cadenamaxima.m3u8
