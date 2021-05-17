@@ -818,8 +818,6 @@ https://runtimeespana-samsungspain.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN TIME 2
 https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f5132e362fe160040f26c15/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN TIME 3
-https://ammo-espanol-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8?us_privacy=1---&did=&dnt=1&X-Plex-Token=vX2gxiT5Q_vtARVYwbZa&channelId=5f5132e362fe160040f26c15
 
  
 
@@ -973,8 +971,7 @@ https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
 https://stmv.panel.mivideo.pro/cineclubtv/cineclubtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51tTqQ-y-WL.png" group-title="CINE Y SERIES", CANAL CINES VERDI
-https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3U8
+
 
 
 
