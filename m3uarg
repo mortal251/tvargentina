@@ -2490,28 +2490,15 @@ https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL._SR600,315_SCLZZZZZZZ_.png" group-title="INTERNACIONAL 2", NHK JAPON
-https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png" group-title="INTERNACIONAL 2", TELESUR ENGLISH
-https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTP.svg/1200px-RTP.svg.png" group-title="INTERNACIONAL 2", RTP PORTUGAL
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSc-TKCQe6pb7OpPC4tprynHyWiNuFJh7h7H8DIwDL2B-pfAHPURhXP90v61gQnufz0SKWbgJ6rdxTAxryYfqJl2TJpXOhHM8aWxw&usqp=CAU&ec=45702846" group-title="INTERNACIONAL 2", NTV 24 NEWS JAPON
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1200px-Rai_News_24_-_Logo_2013.svg.png" group-title="INTERNACIONAL 2", RAI NEWS
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1200/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/245px-Rai_3_-_Logo_2016.svg.png" group-title="INTERNACIONAL 2", RAI 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w994803816.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL._SR600,315_SCLZZZZZZZ_.png" group-title="INTERNACIONAL 2", NHK JAPON
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL 2", ANN JAPAN
 https://www.youtube.com/watch?v=coYw-eVU0Ks
@@ -2519,44 +2506,12 @@ https://www.youtube.com/watch?v=coYw-eVU0Ks
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83643_Arirang.png" group-title="INTERNACIONAL 2", ARIRANG KOREA
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" group-title="INTERNACIONAL 2", ABC ESTADOS UNIDOS
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8   
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTP.svg/1200px-RTP.svg.png" group-title="INTERNACIONAL 2", RTP PORTUGAL
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://news.sky.com/resources/sky-news-logo.png?v=1?bypass-service-worker" group-title="INTERNACIONAL 2", SKY NEWS REINO UNIDO
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSc-TKCQe6pb7OpPC4tprynHyWiNuFJh7h7H8DIwDL2B-pfAHPURhXP90v61gQnufz0SKWbgJ6rdxTAxryYfqJl2TJpXOhHM8aWxw&usqp=CAU&ec=45702846" group-title="INTERNACIONAL 2", NTV 24 NEWS JAPON
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/CNC_TV_2020_2.svg/revision/latest/scale-to-width-down/340?cb=20200910013723" group-title="INTERNACIONAL 2", CNC CHINA
-https://source07.v.news.cn/live/CNC_CN/playlist.m3u8?wsSession=bed2e3a67ad6d4269809e919-160881726993209&wsIPSercert=b45b1734986e59cef74116f016f4b676&wsMonitor=0
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="INTERNACIONAL 2", AL JAZEERA
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="INTERNACIONAL 2", FOX NEWS
-https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="INTERNACIONAL 2", TV CULTURA BRASIL
-http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="INTERNACIONAL 2", CNN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/1200px-CBS_News.svg.png" group-title="INTERNACIONAL 2", CBS NEWS
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/feea098d37b40f151f8c8d64993edcff.png" group-title="INTERNACIONAL 2", TVC BRASIL
-https://srv1.zcast.com.br/tvc/tvc/.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/TV-CARIOCA-.NET-ao-vivo-Online.png" group-title="INTERNACIONAL 2", TV CARIOCA BRASIL
-https://srv5.zcast.com.br/tvcarioca/tvcarioca/.m3u8
-
-#EXTINF:-1 group-title="INTERNACIONAL 2", RECORD NEWS BRASIL
-https://www.youtube.com/watch?v=ZZfVgVnnUpo
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TV5-Monde-Info.png" group-title="INTERNACIONAL 2", TV5 Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-bloomberg_television_logo.svg_.png" group-title="INTERNACIONAL 2", Bloomberg TV
-https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv1.png" group-title="INTERNACIONAL 2", CCTV
 https://cctvcnchwh5ca.v.cdn20.com/live/cctv1_2/index.m3u8?contentid=2820180516001
@@ -2564,7 +2519,44 @@ https://cctvcnchwh5ca.v.cdn20.com/live/cctv1_2/index.m3u8?contentid=282018051600
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv13.png" group-title="INTERNACIONAL 2", CCTV Notícias
 https://cctvcnchwh5ca.v.cdn20.com/live/cctv13_2/index.m3u8?contentid=2820180516001
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="INTERNACIONAL 2", NBC NEWS
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/CNC_World#/media/File:CNC_World_logo.png" group-title="INTERNACIONAL 2", CNC CHINA
+https://source07.v.news.cn/live/CNC_CN/playlist.m3u8?wsSession=bed2e3a67ad6d4269809e919-160881726993209&wsIPSercert=b45b1734986e59cef74116f016f4b676&wsMonitor=0
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TV5-Monde-Info.png" group-title="INTERNACIONAL 2", TV5 Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png" group-title="INTERNACIONAL 2", TELESUR ENGLISH
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" group-title="INTERNACIONAL 2", ABC ESTADOS UNIDOS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8   
+
+#EXTINF:-1 tvg-logo="https://news.sky.com/resources/sky-news-logo.png?v=1?bypass-service-worker" group-title="INTERNACIONAL 2", SKY NEWS REINO UNIDO
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="INTERNACIONAL 2", AL JAZEERA
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="INTERNACIONAL 2", FOX NEWS
+https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="INTERNACIONAL 2", CNN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/1200px-CBS_News.svg.png" group-title="INTERNACIONAL 2", CBS NEWS
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-bloomberg_television_logo.svg_.png" group-title="INTERNACIONAL 2", Bloomberg TV
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="INTERNACIONAL 2", NBC NEWS NOW
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b291-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8e4a249a-04a3-4a0f-b14f-6675b67c77c4&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dc48170e280c80009a861ab/colorLogoPNG.png" group-title="INTERNACIONAL 2", CBS NEWS NEW YORK
@@ -2576,17 +2568,21 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55b179af994403942f3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Reuters_TV_logo.png/799px-Reuters_TV_logo.png" group-title="INTERNACIONAL 2", REUTERS NOW
 https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjh2_NjJ7Mk5Xh7LvceBlrEKDT7xGqyDH1UGnaShUlklW-OYM2pm1kP3jRH7y9OBbwpWk&usqp=CAU" group-title="INTERNACIONAL 2", NBC NEWS NOW
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8?p=roku
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/220px-ABC_News_solid_black_logo.svg.png" group-title="INTERNACIONAL 2", ABC News
-https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/USA_Today_Logo.svg/180px-USA_Today_Logo.svg.png" group-title="INTERNACIONAL 2", USA TODAY
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuusatodaynews/CDN/playlist.m3u8?p=roku
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Yahoo_Finance_Logo_2019.svg/394px-Yahoo_Finance_Logo_2019.svg.png" group-title="INTERNACIONAL 2", YAHOO FINANCE
 https://yahoo-roku-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/feea098d37b40f151f8c8d64993edcff.png" group-title="INTERNACIONAL 2", TVC BRASIL
+https://srv1.zcast.com.br/tvc/tvc/.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/TV-CARIOCA-.NET-ao-vivo-Online.png" group-title="INTERNACIONAL 2", TV CARIOCA BRASIL
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL 2", RECORD NEWS BRASIL
+https://www.youtube.com/watch?v=ZZfVgVnnUpo
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/combrasil.png" group-title="INTERNACIONAL 2", TV COM BRASIL
 https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
@@ -2602,6 +2598,10 @@ https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/play
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="INTERNACIONAL 2", RecordTV Manaus BRASIL
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="INTERNACIONAL 2", TV CULTURA BRASIL
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 
 
 
