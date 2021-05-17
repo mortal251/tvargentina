@@ -2165,19 +2165,19 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="ESTILO DE VIDA 3", MTV ORIGINALS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b4495152-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c371865e-69ac-45d8-80b7-62e5b4982b87&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f59f5b7cc331900075e7767/colorLogoPNG.png" group-title="ESTILO DE VIDA 3", MTV ORIGINALS 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="ESTILO DE VIDA 3", MTV ORIGINALS 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f5b7cc331900075e7767/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff05-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=515c9042-50ef-465d-8e07-385e27e4cdaf&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ab9c6d8f1300007f54e30/colorLogoPNG.png" group-title="ESTILO DE VIDA 3", MTV CRIBS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab9c6d8f1300007f54e30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449c680-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a40f774d-360e-44d5-8490-935e6ac7b98a&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="hhttps://images.pluto.tv/channels/5f5a0a5ea82f7200075cb926/colorLogoPNG.png" group-title="ESTILO DE VIDA 3", MTV CRIBS 2
+#EXTINF:-1 tvg-logo="hhttps://images.pluto.tv/channels/5f1ab9c6d8f1300007f54e30/colorLogoPNG.png" group-title="ESTILO DE VIDA 3", MTV CRIBS 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a0a5ea82f7200075cb926/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b2612-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=786f8457-42a5-48f9-8833-bffe6bb92508&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="ESTILO DE VIDA 3", MTV CATFISH
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b4497861-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=233b67dc-c1e8-4702-97db-01e491dfcc9b&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f59f661f68f9200078870d4/colorLogoPNG.png" group-title="ESTILO DE VIDA 3", MTV CATFISH 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="ESTILO DE VIDA 3", MTV CATFISH 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f661f68f9200078870d4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff06-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=807d26b3-dae4-4895-b8e0-c9e4ab926b6d&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png" group-title="ESTILO DE VIDA 3", MTV DATING
