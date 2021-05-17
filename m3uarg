@@ -931,6 +931,9 @@ http://209.126.105.158:1935/stv/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2015/02/17140854/aster1-300x165.jpg" group-title="CINE Y SERIES", ASTER
 http://96.30.193.226:81/hls/canalaster.m3u8
 
+#EXTINF:-1 tvg-logo="https://madrid.cines-verdi.com/storage/app/media/cinesverditv.jpg" group-title="CINE Y SERIES", Canal Cinesverdi 
+https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
 
 
 
