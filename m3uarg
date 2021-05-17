@@ -2620,6 +2620,9 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISANTAM.png" group-title="RELIGION", SANTA MARIA
 http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.radiojai.com/wp-content/uploads/2019/07/logo-m-2.png" group-title="RELIGION", RADIO JAI FM 96.3
+https://streamyes.alsolnet.com/radiojaitv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png" group-title="RELIGION", CANAL LUZ
 http://g3.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
@@ -2641,8 +2644,10 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosublimegraciatv.com.ar/img/logo.png" group-title="RELIGION", SUBLIME GRACIA TV FORMOSA
 https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://jtamendoza.com/images/icon_144.png" group-title="RELIGION", JTA TV 21.1 MENDOZA
-https://vps230094.vps.ovh.ca:5443/LiveApp/streams/393652112954910559315368.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s171364/images/logog.jpg?t=153684" group-title="RELIGION", RADIO FM SER 89.7
+http://wowza1.sion.com:1935/fmser/radio/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/ar-tv-sion-satelital-6487.jpg" group-title="RELIGION", SION TV
 https://stmv1.srvif.com/tvsion/tvsion/playlist.m3u8
@@ -2665,6 +2670,9 @@ http://162.212.176.51:1935/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online.png?fit=1920%2C1080" group-title="RELIGION", Canal Diocesano
 https://cdn01.yowi.tv/DDDDDDDDDD/live-1000.m3u8
+
+#EXTINF:-1 tvg-logo="https://jtamendoza.com/images/icon_144.png" group-title="RELIGION", JTA TV 21.1 MENDOZA
+https://vps230094.vps.ovh.ca:5443/LiveApp/streams/393652112954910559315368.m3u8
 
 
 
@@ -2770,8 +2778,7 @@ https://stmvideo2.livecastv.com/launotv/launotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mediaticadigital.com.ar/files/image/23/23202/5bacedbf70730.png" group-title="RADIO 1", RADIO MEDIATICA 98.9 FM - RIO GALLEGOS
 https://streamyes.alsolnet.com/radiomediaticavideo/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s171364/images/logog.jpg?t=153684" group-title="RADIO 2", RADIO FM SER 89.7
-http://wowza1.sion.com:1935/fmser/radio/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="RADIO 2", POWER FM PINAMAR 100.3 FM
@@ -2830,8 +2837,7 @@ https://59537faa0729a.streamlock.net/fmsoledad885/fmsoledad885/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="RADIO 2", EL DIARIO DE PRINGLES
 https://streaming.reltid.com.ar/hls/pringles.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radiojai.com/wp-content/uploads/2019/07/logo-m-2.png" group-title="RADIO 2", RADIO JAI FM 96.3
-https://streamyes.alsolnet.com/radiojaitv/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTawQavXm0sl9VVZanpEdf3JcdaWm62b-7ZLA&usqp=CAU" group-title="RADIO 2", RADIO CAPICUA  99.3 VILLA MARIA CORDOBA
 https://stmvideo2.livecastv.com/capicua/capicua/playlist.m3u8
