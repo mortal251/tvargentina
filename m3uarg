@@ -2548,6 +2548,9 @@ https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
 http://162.212.176.51:1935/live/myStream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online.png?fit=1920%2C1080" group-title="RELIGION", Canal Diocesano
+https://cdn01.yowi.tv/DDDDDDDDDD/live-1000.m3u8
+
 
 
 
