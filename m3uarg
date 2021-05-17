@@ -2069,8 +2069,11 @@ https://streaming10.zglobalhost.com:1936/8018/8018/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NKW3gW7.png" group-title="ESTILO DE VIDA 1", FOREST LIVE
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ijurD8t.pn" group-title="ESTILO DE VIDA 1", LAKES LIVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ijurD8t.png" group-title="ESTILO DE VIDA 1", LAKES LIVE
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XthH1RM.png" group-title="ESTILO DE VIDA 1", MOUNTAINS LIVE
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
 
 
 
