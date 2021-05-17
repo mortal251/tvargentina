@@ -1043,7 +1043,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009c
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00072-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e24734a-39dc-48e4-8068-40d233385993&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c0/colorLogoPNG.png" group-title="CINE Y SERIES 2", CINE DRAMA 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="CINE Y SERIES 2", CINE DRAMA 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a62c1-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99870be5-05f2-48d8-b695-39dfabde3232&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f984c1dc54853000797a5e8/colorLogoPNG.png" group-title="CINE Y SERIES 2", CINE LATINO
@@ -1055,7 +1055,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="CINE Y SERIES 2", CINE ESTELAR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f59f50cc36a94000749fd3f/colorLogoPNG.png" group-title="CINE Y SERIES 2", CINE ESTELAR 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="CINE Y SERIES 2", CINE ESTELAR 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff04-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236222be-74f0-4d28-b58b-70f75ce8319a&userId=&serverSideAds=true
 
 
@@ -1087,7 +1087,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" group-title="CINE Y SERIES 2", SERIES 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a62c0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=59508532-73e8-480a-a7ac-ca658e672783&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5a2b4b1ad8fd000795ac87/colorLogoPNG.png" group-title="CINE Y SERIES 2", SERIES 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" group-title="CINE Y SERIES 2", SERIES 3
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a2b4b1ad8fd000795ac87/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b2616-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0cab4396-5ed7-45d4-8608-8045b2eae51f&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9853138d19af0007104a8d/colorLogoPNG.png" group-title="CINE Y SERIES 2", SERIES COMEDIA
@@ -1108,7 +1108,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d00074
 
 
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5d93b58e7ea6f9918873886f/colorLogoPNG.png" group-title="CINE Y SERIES 3", 007 TV
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5d93b58e7ea6f9918873886f/colorLogoPNG.png" group-title="CINE Y SERIES 3", 007
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b58e7ea6f9918873886f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
 
