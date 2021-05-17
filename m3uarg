@@ -1689,6 +1689,12 @@ http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="MUSICA", AFROBEATS 24/7
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="MUSICA", CADENA ELITE
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" group-title="MUSICA", CMC
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600ae79fa46e17000794e84c/colorLogoPNG.png" group-title="MUSICA 2", MTV LOVE MUSIC
