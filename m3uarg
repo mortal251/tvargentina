@@ -1288,8 +1288,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60218c2a32f9c40007c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="INFANTIL", NICK JR. CLUB
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18712-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6796fdc2-2bb5-4e80-a717-366aa2433636&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/800px-Futurama_1999_logo.svg.png" group-title="INFANTIL", FUTURAMA
-http://69.64.48.144:25461/activa14/NnKKV3J6wVZ/73382
+
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="INFANTIL", TV TEEN
@@ -2846,6 +2845,9 @@ https://www.youtube.com/watch?v=if91GyWP3zQ
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", WORLD LIVE
 https://www.youtube.com/watch?v=Wt5M-1LAKDQ
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vNrFKse.png" group-title="WEB CAM Y CLIMA", AURORA LIVE
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM Y CLIMA", 5900 TV CORDOBA
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
 
@@ -2873,8 +2875,10 @@ https://5f6e1fe8f2d2e.streamlock.net/puan/puan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sierradelaventana.org/images/stories/logos/logo.png" group-title="WEB CAM Y CLIMA", SIERRA DE LA VENTANA
 https://streaming.reltid.com.ar/hls/sierra.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tornquistdistrital.com.ar/wp-content/uploads/2012/07/Logo-Monte.jpg" group-title="WEB CAM Y CLIMA", MONTE HERMOSO
-https://streaming.reltid.com.ar/hls/montedvr5.m3u8
+
+
+
+
 
 
 
