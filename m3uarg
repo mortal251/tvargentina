@@ -2881,7 +2881,7 @@ https://stmvideo2.livecastv.com/centro/centro/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://fm1049.com.ar/wp-content/uploads/2017/10/TOP.png" group-title="RADIO 2", RADIO TOP 104.9 FM
 http://inliveserver.com:1935/14082/14082/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg/v1/fit/w_2500,h_1330,al_c/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg" group-title="RADIO ", FM OK 105.7 FLORENCIO VARELA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg/v1/fit/w_2500,h_1330,al_c/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg" group-title="RADIO 2", FM OK 105.7 FLORENCIO VARELA
 https://panel.dattalive.com/8124/8124/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://nacionalypopular.nvc.org.ar/wp-content/uploads/2017/04/logo.png" group-title="RADIO 2", FM 100.9 PRIMERO LO NUESTRO - MONTE GRANDE
@@ -2944,7 +2944,7 @@ http://streamingvideo.com.ar:1935/argentinaenlinea/live/chunklist_w778403502.m3u
 #EXTINF:-1 tvg-logo="http://www.cadenaam1470.com/wp-content/uploads/2020/05/LOGO1.png" group-title="RADIO 2", CADENA 1410 LANUS
 https://stmv1.srvif.com/am1470/am1470/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiodiversidad.com.ar/img/logo.png" group-title="RADIO 3", RADIO DIVERSIDAD 99.9 FM TUCUMAN
+#EXTINF:-1 tvg-logo="http://www.radiodiversidad.com.ar/img/logo.png" group-title="RADIO 2", RADIO DIVERSIDAD 99.9 FM TUCUMAN
 https://srv2.zcast.com.br/diversidad/diversidad/playlist.m3u8  
 
 
