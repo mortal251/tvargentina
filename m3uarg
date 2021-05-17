@@ -2615,8 +2615,8 @@ https://srv1.zcast.com.br/tvc/tvc/.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/TV-CARIOCA-.NET-ao-vivo-Online.png" group-title="INTERNACIONAL 2", TV CARIOCA BRASIL
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONAL 2", RECORD NEWS BRASIL
-https://www.youtube.com/watch?v=ZZfVgVnnUpo
+#EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL 2", RECORD NEWS BRASIL 
+https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/combrasil.png" group-title="INTERNACIONAL 2", TV COM BRASIL
 https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
