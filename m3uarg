@@ -1179,7 +1179,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091
 
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="INFANTIL", MAGIC KIDS
+https://live.admefy.com/live/clean_peach_ef224.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" group-title="INFANTIL", EL CHAVO
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
@@ -1221,8 +1222,7 @@ https://videostreaming.cloudserverlatam.com/kids/kids/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110978_Dios_Te_Ve_Kids.png" group-title="INFANTIL", DIOS TV KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="INFANTIL", MAGIC KIDS (SOLO SABADOS Y DOMINGO)
-https://live.admefy.com/live/clean_peach_ef224.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/colorLogoPNG.png" group-title="INFANTIL", MTV ANIMACIONES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c3e30-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2122e9a3-0ffd-41e4-bb57-eb51058728f6&userId=&serverSideAds=true
