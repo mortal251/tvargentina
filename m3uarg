@@ -116,7 +116,7 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="INTERNACIONAL", TELESUR - 25.4
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL", RT - 25.5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="INTERNACIONAL", RT - 25.5
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 
 
@@ -2857,8 +2857,7 @@ https://inliveserver.com:1936/14062/14062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lu24.com.ar/wp-content/themes/Lu24_template/img/logo-lu24.svg" group-title="RADIO 1", LU 24 TRES ARROYOS
 http://stream.shockmedia.com.ar:1935/lu24am/lu24am/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radioestacion.com.ar/wp-content/uploads/2020/07/logoestacions.png" group-title="RADIO 1", RADIO LA ESTACION 102.5 SAN FRANCISCO CORDOBA
-https://mediacp.hostradios.com.ar:19360/radioestacion/radioestacion.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/rbdradio.com.ar/wp-content/uploads/2021/01/LOGO-RBD-CURVAS-TRANS-e1611097859586.png?fit=100%2C100&ssl=1" group-title="RADIO 1", RBD RADIO
 http://videostream.shockmedia.com.ar:1935/rbdvideo/rbdvideo/playlist.m3u8
@@ -2869,8 +2868,7 @@ https://vivo.solumedia.com:19360/fmdelpueblo/fmdelpueblo.m3u8
 #EXTINF:-1 tvg-logo="http://bahiahost.com.ar/appstore/wp-content/uploads/2020/11/img-play-logo.png" group-title="RADIO 1", FM 95.1 ADELA LA PAMPA
 https://stmv1.srvif.com/liberred/liberred/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiocity.com.ar/uploads/logo/logo_5b52099c0e558.png" group-title="RADIO 1", RADIO CITY 97.5 FM VILLA DEL ROSARIO CORDOBA
-https://stmv1.srvif.com/radiocity/radiocity/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://surargentinormx.com/wp-content/uploads/elementor/thumbs/logo-orseqvkm3gvq36wnhdc1e31nwkvtfxm51npplxeve0.jpg" group-title="RADIO 1", RMX 105.1 FM USHUAIA
 http://streamyes.alsolnet.com/rmxtv/live/playlist.m3u8
@@ -3013,6 +3011,12 @@ https://inliveserver.com:1936/8436/8436/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://realidad10.com/wp-content/uploads/2020/11/cropped-WhatsApp-Image-2020-11-03-at-09.49.14.jpeg" group-title="RADIO 2", CN 22 CHACO
 https://5f6e1fe8f2d2e.streamlock.net/cn22/cn22/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiocity.com.ar/uploads/logo/logo_5b52099c0e558.png" group-title="RADIO 2", RADIO CITY 97.5 FM VILLA DEL ROSARIO CORDOBA
+https://stmv1.srvif.com/radiocity/radiocity/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radioestacion.com.ar/wp-content/uploads/2020/07/logoestacions.png" group-title="RADIO 2", RADIO LA ESTACION 102.5 SAN FRANCISCO CORDOBA
+https://mediacp.hostradios.com.ar:19360/radioestacion/radioestacion.m3u8
 
 
 
