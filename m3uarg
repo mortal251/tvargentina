@@ -2573,6 +2573,9 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_12
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/245px-Rai_3_-_Logo_2016.svg.png" group-title="INTERNACIONAL 2", RAI 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w994803816.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSc-TKCQe6pb7OpPC4tprynHyWiNuFJh7h7H8DIwDL2B-pfAHPURhXP90v61gQnufz0SKWbgJ6rdxTAxryYfqJl2TJpXOhHM8aWxw&usqp=CAU&ec=45702846" group-title="INTERNACIONAL 2", NTV 24 NEWS JAPON
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL._SR600,315_SCLZZZZZZZ_.png" group-title="INTERNACIONAL 2", NHK JAPON
 https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
@@ -2592,8 +2595,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTP.svg/1200px-RTP.svg.png" group-title="INTERNACIONAL 2", RTP PORTUGAL
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSc-TKCQe6pb7OpPC4tprynHyWiNuFJh7h7H8DIwDL2B-pfAHPURhXP90v61gQnufz0SKWbgJ6rdxTAxryYfqJl2TJpXOhHM8aWxw&usqp=CAU&ec=45702846" group-title="INTERNACIONAL 2", NTV 24 NEWS JAPON
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv1.png" group-title="INTERNACIONAL 2", CCTV
