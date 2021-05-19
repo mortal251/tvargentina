@@ -839,7 +839,23 @@ https://runtimeespana-samsungspain.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN TIME 2
 https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f5132e362fe160040f26c15/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", Runtime (Brazil)
+https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", Runtime (Mexico)
+https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", Runtime (Spain)
+https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", Runtime Español
+https://ammo-espanol-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RunTime Free Movies
+https://ammoruntime-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RunTime Free Movies
+https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
  
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1361963964469493760/KjCFXNWp_400x400.jpg" group-title="CINE Y SERIES", FEEL GOOD VERDI
