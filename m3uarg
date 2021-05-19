@@ -55,7 +55,7 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 
-https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/ac8a5c75-922b-4dfb-8c18-f2b937c72e3f/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIxNDU5Mjg5LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6MTI0ODo4NDE2OmM1MWQ6OTg3ZTpiNDM2Il19LCJzaWduYXR1cmUiOiJkMjkxNjY4YWFiNWZjMmE2ZTUxNTY4NjQyYzZlMGViYmY3MWVjNmViIn0%3D
+https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIxNTIwOTQ0LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiI3MzkxODNlMWQ3Njc3MmEyMWQ4ZWM2ZTNmOTI5M2ZmN2E2MmJmOWJjIn0=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051 
