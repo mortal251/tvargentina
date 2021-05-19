@@ -1706,7 +1706,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/4308.gif" group-title="MUSICA", TV POP
-https://v1.tustreaming.cl:19360/radiopoptv/radiopoptv.m3u8
+https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/101700_Rewind_TV.png" group-title="MUSICA", REWIND
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
