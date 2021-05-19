@@ -1985,7 +1985,7 @@ https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="ESTILO DE VIDA 1", FASHION TV
-https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b600000_t64MjQwcA==.m3u8
 
 #EXTINF:-1 tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg" group-title="ESTILO DE VIDA 1", HOLA TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
