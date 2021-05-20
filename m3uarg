@@ -420,7 +420,7 @@ https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 3", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0241
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0244
 
 
 
@@ -540,7 +540,7 @@ http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
 http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="LOCALES 3", ITEL CHAJARI
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0170
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0172
 
 #EXTINF:-1 tvg-logo="https://diariosanjuan.com.ar/imagenes/banner.png" group-title="LOCALES 3", DIARIO DE SAN JUAN
 https://59537faa0729a.streamlock.net/radiolared/radiolared/playlist.m3u8
@@ -774,7 +774,7 @@ http://video.streamtvradio.com:8081/uv027/uv027/playlist.m3u8
 https://nd106.republicaservers.com/canal2misiones.mp4
 
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES 4", VEO SANTA FE (SOLO IPTV AZUL)
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0267 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0270 
 
 
 
