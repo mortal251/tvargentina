@@ -55,7 +55,7 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 
-https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/6a2fe286-75e7-4284-8528-60bc9ebb30d5/2.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIxNTk1MjE0LCJzZXNzaW9uIjoiMjAwLjMuMTEzLjE1MCIsIndoaXRlbGlzdCI6WyIyMDAuMy4xMTMuMTUwIl19LCJzaWduYXR1cmUiOiI2NWU4YzFlZGNjZTIxOTJkZDg0YmJhMzI2YWFmMjg2YTMxNmZkNjg5In0%3D
+https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/e0a552f8-2607-40e0-92b3-6eb29a2a17a4/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIxNjM1NzQ2LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6MTI0ODphNDM3OjVmZTE6YTAyNDoyNTk4IiwiMTgxLjQ0LjEyOS43MSJdfSwic2lnbmF0dXJlIjoiOTA3ODAzOWQ0OGVmZDdjZDYyZTVkMTVjMTAyNDdjNjZiODU5MDYzOCJ9
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE - 34.1
@@ -108,8 +108,7 @@ https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
 
-#EXTINF:-1 group-title="LOCALES 1", KZO (OPCION 2) YT
-https://www.youtube.com/watch?v=FBAzNfv4V18
+
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="INTERNACIONAL", FRANCE 24 ESPAÑOL - 24.3
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
