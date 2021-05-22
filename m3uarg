@@ -2117,6 +2117,9 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://cultura24.tv/sites/default/files/inline-images/sponsor1.jpg" group-title="ESTILO DE VIDA 1", CULTURA 24 TV
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png" group-title="ESTILO DE VIDA 1", SOLO STAND UP Solo
+https://paneltv.online:1936/8116/8116/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WBW5N7D_iN4/YJGw5HneZKI/AAAAAAABCLQ/nMSAtj8GvQcgtysTJc6VAzFRazYtnCNdQCK8BGAsYHg/s512/2021-05-04.png" group-title="ESTILO DE VIDA 1", HITO CERO TV
 https://streaming10.zglobalhost.com:1936/8018/8018/playlist.m3u8
