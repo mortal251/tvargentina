@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=kt43n3r1jJo
 
 
 #EXTINF:-1 group-title="LOCALES 1", LN+ - 25.3
-https://www.youtube.com/watch?v=ns8-5XKA0Ww       
+https://www.youtube.com/watch?v=ns8-5XKA0Ww          
 
 
 
@@ -55,8 +55,11 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 
-https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/81eb6bf2-ef44-4b0d-ba46-c891cefddec1/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIxNzc1NDI5LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6MTI0ODoxMDYxOmM0MmY6MTgyMzo0ZTc2Il19LCJzaWduYXR1cmUiOiI0MjVlMjYxMTcxMDZlYTYyNGQzMGIwMmQyNjdiMDg1MTRmMmI1MjU3In0%3D
+https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIxODYxMzI5LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiIzZWQ3NDkxOWMwMTdjYjQwNDczNzMzNzhiMmQxZGYyOTdhN2NiMjgxIn0=
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 (OPCION 2)
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18277
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE - 34.1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051 
@@ -162,11 +165,28 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0031
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="LOCALES 1", GOURMET TV
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo-volver-2016.gif" group-title="LOCALES 1", VOLVER
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18370
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/CiudadMagazine_%282017%29.png/250px-CiudadMagazine_%282017%29.png" group-title="LOCALES 1", CIUDAD MAGAZINE
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18255
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT (SOLO SSIPTV)
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18280
+
+#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 2
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18283
+
+#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN 3
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18282
+
+#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE", ESPN+
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18284
 
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="DEPORTES 2",  USA | BEIN SPORTS XTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
@@ -1451,6 +1471,12 @@ https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT (OPCION 2)
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT (OPCION 3)
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18366
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTE", TNT SPORTS
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18360
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
 
@@ -2607,7 +2633,7 @@ https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL", AZTECA UNO
-https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_hq4vlk40/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_jwma99nu/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 
 
 
@@ -3312,6 +3338,27 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
