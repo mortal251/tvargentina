@@ -461,7 +461,7 @@ http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
 https://589ff3c36f7e8.streamlock.net/canal4/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES 3", VIBRA HD MONTE CASEROS
-http://88.99.75.194/hls/vibratelevision.m3u8
+https://live.autistici.org/hls/vibratelevision_mid.m3u8
 
 
 
@@ -3338,6 +3338,28 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
