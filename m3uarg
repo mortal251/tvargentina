@@ -1534,8 +1534,7 @@ http://saypopular.com:25461/oscar/20gar/52853
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="DEPORTE", GOLTV ECUADOR
 http://45.71.202.210:50000/play/a00u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5c/72/a6/5c72a626639831531789ea2d91ed3b86.jpg" group-title="DEPORTE", TIGO SPORTS +
-http://l3dtv.ga:8080/steveneguez1/Kdx4sHGeft/155632
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTE", TENIS CHANNEL
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
@@ -1584,6 +1583,18 @@ https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTE", ESPN U
 https://gma2.blab.email/espnu.m3u8
 
+#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Football_club_barcelona_television.png" group-title="DEPORTE", BARCA TV
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/3865
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg/1200px-Realmadrid_Television_Logo.svg.png" group-title="DEPORTE", REAL MADRID TV
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/3866
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="DEPORTE", EUROSPORT 1
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/3867
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="DEPORTE", EUROSPORT 2
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/3868
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTE", TNT Sports  Brasil
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
@@ -1598,24 +1609,6 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTE", TNT Sports 5 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png" group-title="DEPORTE", SKYNET SPORTS 1
-https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png" group-title="DEPORTE", SKYNET SPORTS 2
-https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png" group-title="DEPORTE", SKYNET SPORTS 3
-https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png" group-title="DEPORTE", SKYNET SPORTS 4
-https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png" group-title="DEPORTE", SKYNET SPORTS 5
-https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png" group-title="DEPORTE", SKYNET SPORTS 6
-https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
 
 
 
