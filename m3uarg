@@ -341,7 +341,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=s
 https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1621805294~exp=1621981694~acl=/I/canal9bahiablanca_1@685725/*~hmac=75394d6701b52563698eb18e1bd8e8487f4b5e30d723797839bf8aba174d2cf7
 
 #EXTINF:-1 group-title="LOCALES 2", NOTICIERO CANAL 7 BAHIA BLANCA
-https://www.youtube.com/watch?v=hpLMUUscpWM
+https://www.youtube.com/watch?v=sVLqIvEliBc
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="LOCALES 2", CANAL 7 CATAMARCA
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
@@ -379,13 +379,16 @@ https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
 https://vcp.myplaytv.com/canal10srt/smil:canal10srt.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=p2Alzq7r7Qk
+https://www.youtube.com/watch?v=dAqx6l_ADSk
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
 https://www.youtube.com/watch?v=3T6yZijfIEM
 
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=SKRdYOD0y00
+https://www.youtube.com/watch?v=sFqnv7MtfqU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Canal-10-tuc.png" group-title="LOCALES 3", CANAL 10 TUCUMAN
+https://cdntvstrm.s.llnwi.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1621892032&h=1f90426b40fa10d898dbdeadc35e22c9
 
 #EXTINF:-1 tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png" group-title="LOCALES 3", CANAL 2 SANAGASTA
 https://stmv1.srvif.com/canal2/canal2/playlist.m3u8
