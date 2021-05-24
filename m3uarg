@@ -807,6 +807,9 @@ http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18255
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_12.png" group-title="LOCALES 4", CANAL 12 TRENQUE LAUQUEN
 https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_12.png" group-title="LOCALES 4", CANAL 8
+https://edge1o.live.opencaster.com/caster/xccxHzeGvHzh.m3u8
+
 
 
 
