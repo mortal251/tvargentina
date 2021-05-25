@@ -408,7 +408,11 @@ https://www.youtube.com/watch?v=AMg1XlgDJ-A
 https://www.youtube.com/watch?v=3T6yZijfIEM
 
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=zmAr-t6nMSs
+https://www.youtube.com/watch?v=3eoNBz5TkHo
+
+
+#EXTINF:-1 group-title="LOCALES 2", CANAL 12 TRENQUE LAUQUEN (OPCION 2) YT
+https://www.youtube.com/watch?v=_L8xIEMrKA0
 
 
 
@@ -417,6 +421,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0245
 
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="LOCALES 3", ITEL CHAJARI
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0173
+
+
+#EXTINF:-1 tvg-logo="http://calchaquitv.com.ar/images/logo.png" group-title="LOCALES 3", CALCHAQUI TV TUCUMAN
+http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
 
 
 
@@ -583,8 +591,7 @@ https://59537faa0729a.streamlock.net/radiolared/radiolared/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Rq2DueK3lUg/YGpFUPnkHlI/AAAAAAABBM8/jOvaiSnJ6cEVltniX8zDuD-Mv9hc-HwzwCK8BGAsYHg/s512/2021-04-04.jpg" group-title="LOCALES 3", TRIBU TV LAS VARILLAS CORDOBA
 https://5975e06a1f292.streamlock.net:4443/tributv/tributv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://calchaquitv.com.ar/images/logo.png" group-title="LOCALES 3", CALCHAQUI TV TUCUMAN
-http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
+
 
 
 
@@ -3365,6 +3372,8 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+
+
 
 
 
