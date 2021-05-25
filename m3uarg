@@ -55,7 +55,8 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 
-https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/7b671535-e790-4b96-b1af-7bbdf83f4f34/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIxODkzNTc4LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6MTI0ODo0YzhhOjhmOTI6Nzg1Yjo2ZmUwIl19LCJzaWduYXR1cmUiOiJlOGEwZGJkMzg4NWFiNzEzZGRiMjhkYjQ5ZWRlZTk1NjYxY2I3OGM0In0%3D
+https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIyMDM5NTk0LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiI5NjI1ZTQ1NDA2Yjk0MGQxMWIwN2YwZjAxNTBkOGViOTk2OGRiNzMwIn0=
+
 
 
 
@@ -341,7 +342,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=s
 https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1621805294~exp=1621981694~acl=/I/canal9bahiablanca_1@685725/*~hmac=75394d6701b52563698eb18e1bd8e8487f4b5e30d723797839bf8aba174d2cf7
 
 #EXTINF:-1 group-title="LOCALES 2", NOTICIERO CANAL 7 BAHIA BLANCA
-https://www.youtube.com/watch?v=sVLqIvEliBc
+https://www.youtube.com/watch?v=oGeo-eDrtTU
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="LOCALES 2", CANAL 7 CATAMARCA
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
@@ -378,17 +379,6 @@ https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", CANAL U CORDOBA
 https://vcp.myplaytv.com/canal10srt/smil:canal10srt.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=dAqx6l_ADSk
-
-#EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=3T6yZijfIEM
-
-#EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=sFqnv7MtfqU
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Canal-10-tuc.png" group-title="LOCALES 3", CANAL 10 TUCUMAN
-https://cdntvstrm.s.llnwi.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1621892032&h=1f90426b40fa10d898dbdeadc35e22c9
 
 #EXTINF:-1 tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png" group-title="LOCALES 3", CANAL 2 SANAGASTA
 https://stmv1.srvif.com/canal2/canal2/playlist.m3u8
@@ -406,6 +396,26 @@ http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/90123896_2835906936535668_5292694186045210624_n.jpg?_nc_cat=104&ccb=3&_nc_sid=8024bb&_nc_ohc=IfTTi0tjpiAAX-I_iTM&_nc_ht=scontent.fepa11-1.fna&oh=ded10c6e372e62a0ee67492af5374c86&oe=6063FC3F" group-title="LOCALES 3", SPEED TV CONCORDIA
 http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
+https://www.youtube.com/watch?v=dAqx6l_ADSk
+
+#EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
+https://www.youtube.com/watch?v=3T6yZijfIEM
+
+#EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
+https://www.youtube.com/watch?v=zmAr-t6nMSs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Canal-10-tuc.png" group-title="LOCALES 4", CANAL 10 TUCUMAN
+https://cdntvstrm.s.llnwi.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1621892032&h=1f90426b40fa10d898dbdeadc35e22c9
+
+#EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 3", CUIDAR TV SAN JUAN
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0245
+
+#EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="LOCALES 3", ITEL CHAJARI
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0173
+
+
 
 
 #EXTINF:-1 tvg-logo="https://noticiaseps.com.ar/wp-content/uploads/2018/06/cropped-noticiastitulo-3.png" group-title="LOCALES 3", NOTICIAS EPS BRAGADO
@@ -441,8 +451,7 @@ https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5d4CZcV4phPi6eGsr1eeaBDFwh4dQ-XmLtQ&usqp=CAU" group-title="LOCALES 3", ACEQUIA TV MENDOZA
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 3", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0244
+
 
 
 
@@ -561,8 +570,7 @@ http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45090_10_TV.png" group-title="LOCALES 3", CANAL 10 ENTRE RIOS
 http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="LOCALES 3", ITEL CHAJARI
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0172
+
 
 #EXTINF:-1 tvg-logo="https://diariosanjuan.com.ar/imagenes/banner.png" group-title="LOCALES 3", DIARIO DE SAN JUAN
 https://59537faa0729a.streamlock.net/radiolared/radiolared/playlist.m3u8
@@ -799,7 +807,7 @@ http://video.streamtvradio.com:8081/uv027/uv027/playlist.m3u8
 https://nd106.republicaservers.com/canal2misiones.mp4
 
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES 4", VEO SANTA FE (SOLO IPTV AZUL)
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0270 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0271 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/CiudadMagazine_%282017%29.png/250px-CiudadMagazine_%282017%29.png" group-title="LOCALES 4", CIUDAD MAGAZINE
 http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18255
