@@ -2761,6 +2761,28 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuusatodaynews/CDN/playlist.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Yahoo_Finance_Logo_2019.svg/394px-Yahoo_Finance_Logo_2019.svg.png" group-title="INTERNACIONAL 2", YAHOO FINANCE
 https://yahoo-roku-us.amagi.tv/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="INTERNACIONAL 2",BBC World News
+http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="INTERNACIONAL 2",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="INTERNACIONAL 2",CNBC Europe
+http://ott-cdn.ucom.am/s65/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="INTERNACIONAL 2",CNN International
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="INTERNACIONAL 2",Euronews
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="INTERNACIONAL 2",France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="INTERNACIONAL 2",RT America
+https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/feea098d37b40f151f8c8d64993edcff.png" group-title="INTERNACIONAL 2", TVC BRASIL
 https://srv1.zcast.com.br/tvc/tvc/.m3u8
 
@@ -2788,6 +2810,9 @@ https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="INTERNACIONAL 2", TV CULTURA BRASIL
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+
+
+
 
 
 
