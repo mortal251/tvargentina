@@ -404,6 +404,9 @@ https://www.youtube.com/watch?v=7eNIbeVVl98
 https://www.youtube.com/watch?v=jRxYk6SnbJc
 
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj3A5dsZMcJlJdjb7NWxnpPuV2HFmJVcJqzyf2Y9g=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 3", CANAL 18 SALTA
+https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 3", CUIDAR TV SAN JUAN
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0245
@@ -693,7 +696,7 @@ https://videohd.live:19360/8020/8020.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-ohrxmwyu219car5qjnmnky0ll0mfu6yuk15jy6idgw.png" group-title="LOCALES 4", MILENIUM TV SALTA
-https://video.turadioonline.com.ar:5443/LiveApp/streams/017475634527020836600699.m3u8
+https://videoairetafi.turadioonline.com.ar:5443/LiveApp/streams/490106569518876444904284.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES 4", CANAL 12 TUCUMAN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
@@ -701,7 +704,7 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES 4", UNIVERSIDAD TV MAR DEL PLATA
-https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL541A6ETeq8-gYbOc1TKcM_IU)/dm/3/x7kvvgi/s/live-1.m3u8
+https://stream-03.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL540brWCc_-wxDga1jl80ir8M)/dm/3/x7kvvgi/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU" group-title="LOCALES 4", PLAY TELEVISION SANTA FE
 http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8
@@ -822,7 +825,7 @@ https://stmv.panel.mivideo.pro/cinetv/cinetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-tv-1-mundo-ecuador-en-vivo.jpg" group-title="CINE Y SERIES", FM SUPER CLASSIC
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2021/05/FMTV-matriz-CLASSIC-blanco-277x156.png" group-title="CINE Y SERIES", FM SUPER CLASSIC
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-movies-tv-en-vivo.jpg" group-title="CINE Y SERIES", FM 2 MOVIES
@@ -963,14 +966,12 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="CINE Y SERIES", READY
 http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/101693_Retro_TV_Palmares.png" group-title="CINE Y SERIES", RETRO TV
-http://tvretropalmares.com:8090/hls/envivo.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png" group-title="CINE Y SERIES", WOW
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WRgrmcHYIf0/XzxpQ2g856I/AAAAAAAA4os/J9nPPyj6GEQoCs9ilc05e_SgKYfLy-bcQCK8BGAsYHg/s0/2020-08-18.png" group-title="CINE Y SERIES", CINE CABLE TV
-https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://tvsurvision.cl/wp-content/uploads/2020/10/LOGO-PNG.png" group-title="CINE Y SERIES", TV SUR VISION
 http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w1568568829.m3u8
@@ -998,8 +999,6 @@ http://209.126.105.158:1935/stv/web/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2015/02/17140854/aster1-300x165.jpg" group-title="CINE Y SERIES", ASTER
 http://96.30.193.226:81/hls/canalaster.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Canela.TV_190x190_circle.jpg?raw=true" group-title="CINE Y SERIES", CANELA TV
@@ -1032,6 +1031,12 @@ https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BfAOGODBZEc/Xjtifr8ZrYI/AAAAAAAAvr0/nK_E67xjC9gwzgwb_zMBrzS-RAGAAy0DQCK8BGAsYHg/s0/2020-02-05.png" group-title="CINE Y SERIES", REC ONLINE
 https://master.tucableip.com/reconline/live/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/101693_Retro_TV_Palmares.png" group-title="CINE Y SERIES", RETRO TV
+http://tvretropalmares.com:8090/hls/envivo.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WRgrmcHYIf0/XzxpQ2g856I/AAAAAAAA4os/J9nPPyj6GEQoCs9ilc05e_SgKYfLy-bcQCK8BGAsYHg/s0/2020-08-18.png" group-title="CINE Y SERIES", CINE CABLE TV
+https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/98871_EvaStream.png" group-title="CINE Y SERIES", EVASTREAM
 https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m3u8
@@ -1597,17 +1602,7 @@ https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTE", ESPN U
 https://gma2.blab.email/espnu.m3u8
 
-#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Football_club_barcelona_television.png" group-title="DEPORTE", BARCA TV
-http://ottiptv.us:2095/iptvtree.com/90X312b737L26/3865
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg/1200px-Realmadrid_Television_Logo.svg.png" group-title="DEPORTE", REAL MADRID TV
-http://ottiptv.us:2095/iptvtree.com/90X312b737L26/3866
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="DEPORTE", EUROSPORT 1
-http://ottiptv.us:2095/iptvtree.com/90X312b737L26/3867
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="DEPORTE", EUROSPORT 2
-http://ottiptv.us:2095/iptvtree.com/90X312b737L26/3868
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTE", TNT Sports  Brasil
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -1733,6 +1728,7 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="DEPORTES 2",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
@@ -1780,7 +1776,7 @@ https://d108h32trr4h8c.cloudfront.net/out/v1/d543fa4ff337450db0e38fcc19705c21/in
 https://d107hql7o7vd84.cloudfront.net/out/v1/ce38156ea93a47709cec829647e9b0ce/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="DEPORTES 2",  EVENTOS TIGO HONDURAS 1
-https://d20tezjrkz1zmc.cloudfront.net/out/v1/70c5e7b2534245f69d923065ffefd6d2/index.m3u8?SBN
+https://d20tezjrkz1zmc.cloudfront.net/out/v1/70c5e7b2534245f69d923065ffefd6d2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="DEPORTES 2",  EVENTOS TIGO GUATEMALA 1
 https://d1t6zcudgmh6wd.cloudfront.net/out/v1/88e67fc9be954233a769f97bada38a56/index.m3u8
@@ -2845,7 +2841,7 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiojai.com/wp-content/uploads/2019/07/logo-m-2.png" group-title="RELIGION", RADIO JAI FM 96.3
-https://streamyes.alsolnet.com/radiojaitv/live/playlist.m3u8
+https://inliveserver.com:1936/14172/14172/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png" group-title="RELIGION", CANAL LUZ
 http://g3.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
@@ -2859,8 +2855,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/640/chunklist.m3
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/615586776267288576/hZWD4Yev.jpg" group-title="RELIGION", RADIO MURIALDO AM 1290 MENDOZA
 https://stmv1.srvif.com/murialdoestudio/murialdoestudio/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.canal13jujuy.com/img/logo-web.png" group-title="RELIGION", CANAL 13 JUJUY
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaK5id3ywW85veHfSdEKh4SM7r6Hk4wkrCNA&usqp=CAU" group-title="RELIGION", CBN ESPAÑOL
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
@@ -2886,8 +2881,6 @@ https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/fmlavozsao.com/wp-content/uploads/2018/08/radio-nuevo.jpg?fit=573%2C524&ssl=1" group-title="RELIGION", FM LA VOZ 91.5 SAN ANTONIO OESTE
 https://stmvideo2.livecastv.com/lavoztv/lavoztv/chunklist_w859988336.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj3A5dsZMcJlJdjb7NWxnpPuV2HFmJVcJqzyf2Y9g=s900-c-k-c0x00ffffff-no-rj" group-title="RELIGION", CANAL 18 SALTA
-https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzVUVoX.jpg" group-title="RELIGION", MONTE MARIA
 http://162.212.176.51:1935/live/myStream/playlist.m3u8
@@ -2896,9 +2889,11 @@ http://162.212.176.51:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online.png?fit=1920%2C1080" group-title="RELIGION", Canal Diocesano
 https://cdn01.yowi.tv/DDDDDDDDDD/live-1000.m3u8
 
-#EXTINF:-1 tvg-logo="https://jtamendoza.com/images/icon_144.png" group-title="RELIGION", JTA TV 21.1 MENDOZA
-https://vps230094.vps.ovh.ca:5443/LiveApp/streams/393652112954910559315368.m3u8
+#EXTINF:-1 tvg-logo="http://www.canal13jujuy.com/img/logo-web.png" group-title="RELIGION", CANAL 13 JUJUY
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
+#EXTINF:-1 tvg-logo="https://jtamendoza.com/images/icon_144.png" group-title="RELIGION", JTA TV 21.1 MENDOZA
+https://streaming.jtamendoza.com:8443/hls/test_mid.m3u8
 
 
 
@@ -3428,8 +3423,6 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
-
-
 
 
 
