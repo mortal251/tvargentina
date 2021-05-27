@@ -1556,16 +1556,16 @@ https://alchimie-mysurf-3-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/117670_Chic_Magazine.png" group-title="DEPORTE", FUEL TV
 https://fueltv-fueltv-7-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 user-agent="ajajajaja" tvg-name="ESPN Sur" tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE",ESPN 
+#EXTINF:-1 user-agent="ajajajaja" tvg-name="ESPN Sur" tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE",ESPN (SOLO SSIPTV)
 http://ipeteve.com/php/SR_REGIO_0966/regioplay.php?c=175
 
-#EXTINF:-1 user-agent="ajajajaja" tvg-name="ESPN 2 Sur" tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE",ESPN 2 
+#EXTINF:-1 user-agent="ajajajaja" tvg-name="ESPN 2 Sur" tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE",ESPN 2 (SOLO SSIPTV) 
 http://ipeteve.com/php/SR_REGIO_0966/regioplay.php?c=176
 
-#EXTINF:-1 user-agent="ajajajaja" tvg-name="ESPN 3 Sur" tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE",ESPN 3 
+#EXTINF:-1 user-agent="ajajajaja" tvg-name="ESPN 3 Sur" tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE",ESPN 3 (SOLO SSIPTV) 
 http://ipeteve.com/php/SR_REGIO_0966/regioplay.php?c=177
 
-#EXTINF:-1 user-agent="ajajajaja" tvg-name="ESPN Extra Sur" tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE",ESPN Extra 
+#EXTINF:-1 user-agent="ajajajaja" tvg-name="ESPN Extra Sur" tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE",ESPN Extra (SOLO SSIPTV) 
 http://ipeteve.com/php/SR_REGIO_0966/regioplay.php?c=178
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT PLAY 1
@@ -3179,16 +3179,16 @@ https://stmv1.srvif.com/radiocity/radiocity/playlist.m3u8
 https://mediacp.hostradios.com.ar:19360/radioestacion/radioestacion.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO LA RED
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO LA RED (SOLO IPTV AZUL)
 https://latamstreaming-live-os.akamaized.net/live_passthrough/amlared/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RADIO 3 (SOLO IPTV AZUL)", ASPEN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aspen102.jpg/225px-Aspen102.jpg" group-title="RADIO 3 (SOLO IPTV AZUL)", ASPEN (SOLO IPTV AZUL)
 https://19173.live.streamtheworld.com/ASPENAAC_SC
 
-#EXTINF:-1 tvg-logo="" group-title="RADIO 3 (SOLO IPTV AZUL)", ROCK AND POP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Radio_rockpop.png" group-title="RADIO 3 (SOLO IPTV AZUL)", ROCK AND POP (SOLO IPTV AZUL)
 https://14623.live.streamtheworld.com/ROCKANDPOPAAC_SC
 
-#EXTINF:-1 tvg-logo="" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO RIVADAVIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Radio_Rivadavia_%282020%29.png" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO RIVADAVIA (SOLO IPTV AZUL)
 https://22823.live.streamtheworld.com/RIVADAVIAAAC_SC
 
 
