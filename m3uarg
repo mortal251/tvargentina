@@ -1731,8 +1731,7 @@ https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/stadium-logo-E51B33CA35-seeklogo.com.png" group-title="DEPORTES 2",  USA | STADIUM
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTES 2",  USA | TENNIS CHANNEL
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="DEPORTES 2",Tennis Channel
