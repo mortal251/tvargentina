@@ -2537,23 +2537,16 @@ https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/cGhvdG9jYWxsLnR2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_TVE-1.svg" group-title="INTERNACIONAL", LA 1 HD
-http://ottiptv.us:2095/iptvtree.com/90X312b737L26/3810
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png" group-title="INTERNACIONAL", LA 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="INTERNACIONAL", ANTENA 3 HD
-http://ottiptv.us:2095/iptvtree.com/90X312b737L26/3812
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/393px-Logotipo_de_Cuatro.svg.png" group-title="INTERNACIONAL", CUATRO HD
-http://ottiptv.us:2095/iptvtree.com/90X312b737L26/3813
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/614px-Telecinco.svg.png" group-title="INTERNACIONAL", TELECINCO HD
-http://ottiptv.us:2095/iptvtree.com/90X312b737L26/3814
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/417px-La_Sexta_%28A3M%29.svg.png" group-title="INTERNACIONAL", LA SEXTA HD
-http://ottiptv.us:2095/iptvtree.com/90X312b737L26/3815
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL", TELEMADRID
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
@@ -3425,9 +3418,7 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wggdgd(2020)
 
-http://arcast.com.ar:1935/radio/estacion.stream/playlist.m3u8
 
 
 
