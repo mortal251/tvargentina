@@ -2669,7 +2669,8 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL", AZTECA UNO
 https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_jwma99nu/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="INTERNACIONAL", AZTECA 7
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
 
 
@@ -2934,8 +2935,17 @@ http://videostream.shockmedia.com.ar:1935/lightfm/lightfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pornuestroshijos.com.ar/images/DiarioLiderLogo.png" group-title="RADIO 1", DIARIO LIDER TRENQUE LAUQUEN 
 http://190.0.236.206:8080/hls/lidermedios.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="RADIO 1", RADIO LA RED
+https://latamstreaming-live-os.akamaized.net/live_passthrough/amlared/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="RADIO 1", ASPEN
+https://19173.live.streamtheworld.com/ASPENAAC_SC
 
+#EXTINF:-1 tvg-logo="" group-title="RADIO 1", ROCK AND POP
+https://14623.live.streamtheworld.com/ROCKANDPOPAAC_SC
+
+#EXTINF:-1 tvg-logo="" group-title="RADIO 1", RADIO RIVADAVIA
+https://22823.live.streamtheworld.com/RIVADAVIAAAC_SC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vorterix.jpg/225px-Vorterix.jpg" group-title="RADIO 1", VORTERIX - 92.1 FM
 https://prepublish.f.qaotic.net/b12/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
