@@ -393,13 +393,13 @@ http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 https://www.youtube.com/watch?v=45n4Ys5XCSk
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=3NifXr9hMUQ
+https://www.youtube.com/watch?v=eWZHXO6aRP4
 
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=pOW7k-9Cx5M
+https://www.youtube.com/watch?v=7eNIbeVVl98
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 12 TRENQUE LAUQUEN (OPCION 2) YT
-https://www.youtube.com/watch?v=_L8xIEMrKA0
+https://www.youtube.com/watch?v=jRxYk6SnbJc
 
 
 
@@ -2930,6 +2930,12 @@ https://fm999.info/test/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="RADIO 1", FM LIGHT 97.3 SAN JUAN
 http://videostream.shockmedia.com.ar:1935/lightfm/lightfm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pornuestroshijos.com.ar/images/DiarioLiderLogo.png" group-title="RADIO 1", DIARIO LIDER TRENQUE LAUQUEN 
+http://190.0.236.206:8080/hls/lidermedios.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vorterix.jpg/225px-Vorterix.jpg" group-title="RADIO 1", VORTERIX - 92.1 FM
 https://prepublish.f.qaotic.net/b12/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
