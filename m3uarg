@@ -1597,17 +1597,7 @@ https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTE", ESPN U
 https://gma2.blab.email/espnu.m3u8
 
-#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Football_club_barcelona_television.png" group-title="DEPORTE", BARCA TV
-http://ottiptv.us:2095/iptvtree.com/90X312b737L26/3865
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg/1200px-Realmadrid_Television_Logo.svg.png" group-title="DEPORTE", REAL MADRID TV
-http://ottiptv.us:2095/iptvtree.com/90X312b737L26/3866
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="DEPORTE", EUROSPORT 1
-http://ottiptv.us:2095/iptvtree.com/90X312b737L26/3867
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="DEPORTE", EUROSPORT 2
-http://ottiptv.us:2095/iptvtree.com/90X312b737L26/3868
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTE", TNT Sports  Brasil
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -1781,7 +1771,7 @@ https://d108h32trr4h8c.cloudfront.net/out/v1/d543fa4ff337450db0e38fcc19705c21/in
 https://d107hql7o7vd84.cloudfront.net/out/v1/ce38156ea93a47709cec829647e9b0ce/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="DEPORTES 2",  EVENTOS TIGO HONDURAS 1
-https://d20tezjrkz1zmc.cloudfront.net/out/v1/70c5e7b2534245f69d923065ffefd6d2/index.m3u8?SBN
+https://d20tezjrkz1zmc.cloudfront.net/out/v1/70c5e7b2534245f69d923065ffefd6d2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="DEPORTES 2",  EVENTOS TIGO GUATEMALA 1
 https://d1t6zcudgmh6wd.cloudfront.net/out/v1/88e67fc9be954233a769f97bada38a56/index.m3u8
