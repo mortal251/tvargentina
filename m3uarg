@@ -177,6 +177,8 @@ https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="DEPORTES 2",  USA | BEIN SPORTS XTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
@@ -1553,6 +1555,18 @@ https://alchimie-mysurf-3-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/117670_Chic_Magazine.png" group-title="DEPORTE", FUEL TV
 https://fueltv-fueltv-7-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 user-agent="ajajajaja" tvg-name="ESPN Sur" tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE",ESPN 
+http://ipeteve.com/php/SR_REGIO_0966/regioplay.php?c=175
+
+#EXTINF:-1 user-agent="ajajajaja" tvg-name="ESPN 2 Sur" tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE",ESPN 2 
+http://ipeteve.com/php/SR_REGIO_0966/regioplay.php?c=176
+
+#EXTINF:-1 user-agent="ajajajaja" tvg-name="ESPN 3 Sur" tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE",ESPN 3 
+http://ipeteve.com/php/SR_REGIO_0966/regioplay.php?c=177
+
+#EXTINF:-1 user-agent="ajajajaja" tvg-name="ESPN Extra Sur" tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE",ESPN Extra 
+http://ipeteve.com/php/SR_REGIO_0966/regioplay.php?c=178
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT PLAY 1
 https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
