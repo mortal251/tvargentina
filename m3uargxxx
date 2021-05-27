@@ -177,6 +177,8 @@ https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="DEPORTES 2",  USA | BEIN SPORTS XTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
@@ -1554,6 +1556,18 @@ https://alchimie-mysurf-3-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/117670_Chic_Magazine.png" group-title="DEPORTE", FUEL TV
 https://fueltv-fueltv-7-es.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 user-agent="ajajajaja" tvg-name="ESPN Sur" tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE",ESPN (SOLO SSIPTV)
+http://ipeteve.com/php/SR_REGIO_0966/regioplay.php?c=175
+
+#EXTINF:-1 user-agent="ajajajaja" tvg-name="ESPN 2 Sur" tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE",ESPN 2 (SOLO SSIPTV) 
+http://ipeteve.com/php/SR_REGIO_0966/regioplay.php?c=176
+
+#EXTINF:-1 user-agent="ajajajaja" tvg-name="ESPN 3 Sur" tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE",ESPN 3 (SOLO SSIPTV) 
+http://ipeteve.com/php/SR_REGIO_0966/regioplay.php?c=177
+
+#EXTINF:-1 user-agent="ajajajaja" tvg-name="ESPN Extra Sur" tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="DEPORTE",ESPN Extra (SOLO SSIPTV) 
+http://ipeteve.com/php/SR_REGIO_0966/regioplay.php?c=178
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT PLAY 1
 https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
 
@@ -2669,7 +2683,8 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL", AZTECA UNO
 https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_jwma99nu/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="INTERNACIONAL", AZTECA 7
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
 
 
@@ -2936,7 +2951,6 @@ http://190.0.236.206:8080/hls/lidermedios.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vorterix.jpg/225px-Vorterix.jpg" group-title="RADIO 1", VORTERIX - 92.1 FM
 https://prepublish.f.qaotic.net/b12/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
 
@@ -3165,6 +3179,19 @@ https://stmv1.srvif.com/radiocity/radiocity/playlist.m3u8
 https://mediacp.hostradios.com.ar:19360/radioestacion/radioestacion.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO LA RED (SOLO IPTV AZUL)
+https://latamstreaming-live-os.akamaized.net/live_passthrough/amlared/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aspen102.jpg/225px-Aspen102.jpg" group-title="RADIO 3 (SOLO IPTV AZUL)", ASPEN (SOLO IPTV AZUL)
+https://19173.live.streamtheworld.com/ASPENAAC_SC
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Radio_rockpop.png" group-title="RADIO 3 (SOLO IPTV AZUL)", ROCK AND POP (SOLO IPTV AZUL)
+https://14623.live.streamtheworld.com/ROCKANDPOPAAC_SC
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Radio_Rivadavia_%282020%29.png" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO RIVADAVIA (SOLO IPTV AZUL)
+https://22823.live.streamtheworld.com/RIVADAVIAAAC_SC
+
+
 
 
 
@@ -3224,7 +3251,7 @@ http://camlapinocha.gesell.com.ar/playlist.m3u8
 https://wowza.telpin.com.ar:1935/camara-botavara/smil:camara-botavara.smil/chunklist_w555467229_b1344100_sleng.m3u8
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CAMARA USHUAIA
-https://www.youtube.com/watch?v=lKC9W-66qhQ
+https://www.youtube.com/watch?v=AXrNF0DDi9A
 
 
 
@@ -3403,6 +3430,10 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+
+
+
+
 
 
 
