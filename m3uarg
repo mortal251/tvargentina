@@ -166,8 +166,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0031
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="LOCALES 1", GOURMET TV
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo-volver-2016.gif" group-title="LOCALES 1", VOLVER
-http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18370
 
 
 
