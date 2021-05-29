@@ -1852,8 +1852,8 @@ https://videostreaming.cloudserverlatam.com/ceactv/ceactv/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA", CLASIC MUSIC PIANO
 https://www.youtube.com/watch?v=OowUi602GdU
 
-#EXTINF:-1 group-title="MUSICA", BAROQUE LIVE MUSIC
-https://www.youtube.com/watch?v=2gO1v2GPMFk
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",3ABN Praise Him Music Channel
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://onradiochile.cl/wp-content/themes/onair2/img/play.png" group-title="MUSICA", ON RADIO KPOP CHILE
 https://tls.cdnz.cl/onradio4/live/playlist.m3u8
