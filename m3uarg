@@ -3245,8 +3245,17 @@ http://server.laradio.online:25223/live.mp3
 http://s6.stweb.tv/radio10/live/playlist.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Los_40.svg" group-title="RADIO 3 (SOLO IPTV AZUL)", LOS 40 (SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Los_40.svg" group-title="RADIO 3 (SOLO IPTV AZUL)", LOS 40 105.5 FM(SOLO IPTV AZUL)
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINAAAC 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/RadioOne.jpg/225px-RadioOne.jpg" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO ONE 103.7 FM(SOLO IPTV AZUL)
+http://s11.stweb.tv/one/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Popradio.gif/225px-Popradio.gif" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO POP 101.5 FM(SOLO IPTV AZUL)
+https://s8.stweb.tv/popradio/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/MEGA983.jpg/225px-MEGA983.jpg" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO MEGA 98.3 FM(SOLO IPTV AZUL)
+https://server1.stweb.tv/mega983/live/chunks.m3u8
 
 
 
