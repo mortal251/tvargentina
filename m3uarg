@@ -2621,6 +2621,9 @@ https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RTVMarbella/picture?width=320&height=320" group-title="INTERNACIONAL",Radio Televisión Marbella
 https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.ivab.es/wp-content/uploads/2020/11/LOGO-7-TELEVALENCIA-300x169.jpg" group-title="INTERNACIONAL",7 TeleValencia
+https://live-edge-rbx-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="INTERNACIONAL", GALICIA TV
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 
