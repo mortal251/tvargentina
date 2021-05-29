@@ -2603,6 +2603,9 @@ https://streaming.elche7tv.es/hls/canal2.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK_400x400.jpg" group-title="INTERNACIONAL", 7 MURCIA
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.7rioja.tv/entorno/Cabeceras/Cabecera7RIOJA.png" group-title="INTERNACIONAL",7 La Rioja
+https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/EsAsturiasTV/picture?width=320&height=320" group-title="INTERNACIONAL",EsAsturiasTV
 https://5df8a678a3840.streamlock.net/8032/8032/playlist.m3u8
 
