@@ -2540,6 +2540,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f28009b150b2500077
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="INTERNACIONAL", EURONEWS
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/4204bc47-49ca-407d-8cab-a8e4f6db713a/3.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",24 Horas
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246468579622400000/2PZnQjrY_400x400.jpg" group-title="INTERNACIONAL", CGTN ESPAÑOL
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
