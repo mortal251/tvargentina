@@ -45,8 +45,9 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LOCALES 1", AMERICA - 36.1 (OPCION 2)
-https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8   
- 
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8 
+
+
 #EXTINF:-1 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg" group-title="LOCALES 1", TV PUBLICA - 23.2 
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
@@ -1304,6 +1305,12 @@ https://dhx-caillou-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKHUnHT.png" group-title="INFANTIL", MONSTRUOS DE VERDAD
 https://videostreaming.cloudserverlatam.com/kids/kids/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png" group-title="INFANTIL", GARFIELD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c3e30-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2122e9a3-0ffd-41e4-bb57-eb51058728f6&userId=&serverSideAds=true
+
+
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110978_Dios_Te_Ve_Kids.png" group-title="INFANTIL", DIOS TV KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
@@ -1312,6 +1319,10 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/colorLogoPNG.png" group-title="INFANTIL", MTV ANIMACIONES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c3e30-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2122e9a3-0ffd-41e4-bb57-eb51058728f6&userId=&serverSideAds=true
 
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="INFANTIL", ANIME CLASICO 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c3e30-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2122e9a3-0ffd-41e4-bb57-eb51058728f6&userId=&serverSideAds=true
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="INFANTIL", BOB ESPONJA 
@@ -1485,7 +1496,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b26947
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg" group-title="DEPORTE", CIUDAD MAGICA 105.1 FM AUSONIA 
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT (OPCION 2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT (OPCION 2) (SOLO SSIPTV)
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
 
 
@@ -1965,6 +1976,14 @@ https://vidaprimo-plex.amagi.tv/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" group-title="MUSICA 2", MTV CLASSIC
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ebaf0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=78e0da1c-3f09-404b-90ab-6e2707b432e5&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="MUSICA 2", VH1 CLASSIC
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ebaf0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=78e0da1c-3f09-404b-90ab-6e2707b432e5&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xQlkS6U.png" group-title="MUSICA 2", Loop Electronica
 https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/master.m3u8
 
@@ -2187,7 +2206,7 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://cultura24.tv/sites/default/files/inline-images/sponsor1.jpg" group-title="ESTILO DE VIDA 1", CULTURA 24 TV
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png" group-title="ESTILO DE VIDA 1", SOLO STAND UP Solo
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png" group-title="ESTILO DE VIDA 1", SOLO STAND UP
 https://paneltv.online:1936/8116/8116/playlist.m3u8
 
 
@@ -2488,7 +2507,15 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df4135593975600092
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png" group-title="ESTILO DE VIDA 3", SIN TETAS NO HAY PARAISO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acb4eebe0f0000767b40f/colorLogoPNG.png" group-title="ESTILO DE VIDA 3", LAS REGLAS DEL JUEGO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acb4eebe0f0000767b40f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aaefb96f755000733c11a/colorLogoPNG.png" group-title="ESTILO DE VIDA 3", TV MADE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aaefb96f755000733c11a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="ESTILO DE VIDA 3", VAYA SEMANITA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f28009b150b2500077766b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 
 
 
@@ -2538,25 +2565,35 @@ http://190.122.96.187:8888/http/010
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg" group-title="INTERNACIONAL", CANAL SUR ANDALUCIA
 https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/cGhvdG9jYWxsLnR2.m3u8
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png" group-title="INTERNACIONAL", LA 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="INTERNACIONAL", IMAS TV ESPAÑA
+https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" group-title="INTERNACIONAL",Canal Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zeC5t44.png" group-title="INTERNACIONAL",Elche 7 TV
+https://streaming.elche7tv.es/hls/canal2.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK_400x400.jpg" group-title="INTERNACIONAL", 7 MURCIA
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/EsAsturiasTV/picture?width=320&height=320" group-title="INTERNACIONAL",EsAsturiasTV
+https://5df8a678a3840.streamlock.net/8032/8032/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL", TELEMADRID
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL", LA OTRA
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://ondaalgecirastv.com/wp-content/uploads/2017/05/logo-oatv-footer-final.png" group-title="INTERNACIONAL", ONDA ALGECIRAS ESPAÑA
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTVMarbella/picture?width=320&height=320" group-title="INTERNACIONAL",Radio Televisión Marbella
+https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="INTERNACIONAL", GALICIA TV
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
@@ -2620,14 +2657,12 @@ https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 https://stmv.panel.mivideo.pro/ekiztv/ekiztv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK_400x400.jpg" group-title="INTERNACIONAL", 7 MURCIA
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/bbcltv-2019/img/share.png" group-title="INTERNACIONAL", BIO BIO TV CHILE
 https://unlimited1-us.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://ondaalgecirastv.com/wp-content/uploads/2017/05/logo-oatv-footer-final.png" group-title="INTERNACIONAL", ONDA ALGECIRAS ESPAÑA
-https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DCAtokY.png" group-title="INTERNACIONAL", ATB
 http://186.121.206.197/live/daniel/index.m3u8
@@ -2653,11 +2688,9 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.uniradiopy.com/gallery_gen/a0b94378c0f3d5f82cf4273bdcca0980_250x123.png" group-title="INTERNACIONAL", UNIRADIO PARAGUAY
 https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="INTERNACIONAL", BHTV PERU
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="INTERNACIONAL", IMAS TV ESPAÑA
-https://secure3.todostreaming.es/live/imastv-livestream.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logonuevo2.png" group-title="INTERNACIONAL", SUCESO TV PARAGUAY
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
