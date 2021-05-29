@@ -2573,6 +2573,9 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="INTERNACIONAL", IMAS TV ESPAÑA
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.wp.com/direfm.teleame.com/wp-content/uploads/2019/07/canal-malaga-en-directo-online.png?fit=696%2C392&ssl=1" group-title="INTERNACIONAL", CANAL MALAGA
+http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" group-title="INTERNACIONAL",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
@@ -2681,8 +2684,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hlrdeds.png" group-title="INTERNACIONAL", CANAL CAPITAL COLOMBIA
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/direfm.teleame.com/wp-content/uploads/2019/07/canal-malaga-en-directo-online.png?fit=696%2C392&ssl=1" group-title="INTERNACIONAL", CANAL MALAGA
-http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telepacifico_co.png" group-title="INTERNACIONAL", TELEPACIFICO COLOMBIA
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
