@@ -3245,18 +3245,26 @@ http://server.laradio.online:25223/live.mp3
 http://s6.stweb.tv/radio10/live/playlist.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Los_40.svg" group-title="RADIO 3 (SOLO IPTV AZUL)", LOS 40 105.5 FM(SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Los_40.svg" group-title="RADIO 3 (SOLO IPTV AZUL)", LOS 40 105.5 FM (SOLO IPTV AZUL)
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINAAAC 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/RadioOne.jpg/225px-RadioOne.jpg" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO ONE 103.7 FM(SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/RadioOne.jpg/225px-RadioOne.jpg" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO ONE 103.7 FM (SOLO IPTV AZUL)
 http://s11.stweb.tv/one/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Popradio.gif/225px-Popradio.gif" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO POP 101.5 FM(SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Popradio.gif/225px-Popradio.gif" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO POP 101.5 FM (SOLO IPTV AZUL)
 https://s8.stweb.tv/popradio/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/MEGA983.jpg/225px-MEGA983.jpg" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO MEGA 98.3 FM(SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/MEGA983.jpg/225px-MEGA983.jpg" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO MEGA 98.3 FM (SOLO IPTV AZUL)
 https://server1.stweb.tv/mega983/live/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/88feb4de6cabd53d7af9879e56131cbd.jpg" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO VALE 97.5 FM (SOLO IPTV AZUL)
+http://vale.stweb.tv:1935/vale/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio-Disney.png/225px-Radio-Disney.png" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO DISNEY 94.3 FM (SOLO IPTV AZUL)
+https://edge-np.cdn.mdstrm.com/5a9ee26311c043ae48e40bcd.mp3 
+
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/cuts_logos/77/8a/778a689c-0b43-4866-9d7c-4dc68e57c362.jpeg" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO CON VOS 89.9 FM (SOLO IPTV AZUL)
+http://server6.stweb.tv:1935/rcvos/live/playlist.m3u8 
 
 
 
