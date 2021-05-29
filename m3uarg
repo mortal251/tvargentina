@@ -3234,6 +3234,15 @@ https://20823.live.streamtheworld.com/CADENA3_SC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Radio_Continental_AM_590_%282015%29.png" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO CONTINENTAL (SOLO IPTV AZUL)
 http://17573.live.streamtheworld.com/CONTINENTALAAC_SC
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Ei-bz3j0cII/XztRcc6-W3I/AAAAAAAALW0/QuQBPP5_0yIBAcF4N-39OiryGNRZSobDACLcBGAsYHQ/s1600/radio-argentina-am-570.png" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO ARGENTINA (SOLO IPTV AZUL)
+http://server.laradio.online:25224/live.mp3 
+
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8d/02/8d02ab7055e82b4a4d6deb9ffff0d6e0.jpg" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO BELGRANO (SOLO IPTV AZUL)
+http://server.laradio.online:25223/live.mp3     
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Radio_10_AM_710_(2020).png" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO 10 (SOLO IPTV AZUL)
+http://s6.stweb.tv/radio10/live/playlist.m3u8  
+
 
 
 
