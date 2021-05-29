@@ -1315,6 +1315,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110978_Dios_Te_Ve_Kids.png" group-title="INFANTIL", DIOS TV KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png" group-title="INFANTIL", BEBESITO BUM Y SUS AMIGOS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/colorLogoPNG.png" group-title="INFANTIL", MTV ANIMACIONES
@@ -1989,6 +1991,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="MUSICA 2", VH1 CLASSIC
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ebaf0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=78e0da1c-3f09-404b-90ab-6e2707b432e5&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600ad4ad6537680007be2ea6/colorLogoPNG.png" group-title="MUSICA 2", CLUBBING TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad4ad6537680007be2ea6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e551-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=70bc0c2a-93a5-4713-b658-cad49ec55f38&userId=&serverSideAds=true
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xQlkS6U.png" group-title="MUSICA 2", Loop Electronica
 https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/master.m3u8
