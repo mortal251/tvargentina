@@ -335,7 +335,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=s
 https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1622162968~exp=1622339368~acl=/I/canal9bahiablanca_1@685725/*~hmac=03dc6e70a4dd8fda34e98d96a18504329f3daccb1025403bb8573f4525fc1203
 
 #EXTINF:-1 group-title="LOCALES 2", NOTICIERO CANAL 7 BAHIA BLANCA
-https://www.youtube.com/watch?v=m0Xf0rALkTA
+https://www.youtube.com/watch?v=E-XPF_Qd5co
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="LOCALES 2", CANAL 7 CATAMARCA
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
@@ -391,7 +391,7 @@ http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=45n4Ys5XCSk
+https://www.youtube.com/watch?v=hTlKhrUrmO4
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
 https://www.youtube.com/watch?v=eWZHXO6aRP4
@@ -408,10 +408,10 @@ https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 3", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0245
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0251
 
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="LOCALES 3", ITEL CHAJARI
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0173
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0176
 
 
 #EXTINF:-1 tvg-logo="http://calchaquitv.com.ar/images/logo.png" group-title="LOCALES 3", CALCHAQUI TV TUCUMAN
@@ -808,7 +808,7 @@ https://mediacp.hostradios.com.ar:19360/teleestrella/teleestrella.m3u8
 https://nd106.republicaservers.com/canal2misiones.mp4
 
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES 4", VEO SANTA FE (SOLO IPTV AZUL)
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0271 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0278 
 
 
 
@@ -2573,6 +2573,9 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="INTERNACIONAL", IMAS TV ESPAÑA
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.wp.com/direfm.teleame.com/wp-content/uploads/2019/07/canal-malaga-en-directo-online.png?fit=696%2C392&ssl=1" group-title="INTERNACIONAL", CANAL MALAGA
+http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" group-title="INTERNACIONAL",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
@@ -2681,8 +2684,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hlrdeds.png" group-title="INTERNACIONAL", CANAL CAPITAL COLOMBIA
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/direfm.teleame.com/wp-content/uploads/2019/07/canal-malaga-en-directo-online.png?fit=696%2C392&ssl=1" group-title="INTERNACIONAL", CANAL MALAGA
-http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telepacifico_co.png" group-title="INTERNACIONAL", TELEPACIFICO COLOMBIA
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
@@ -3217,8 +3219,52 @@ https://14623.live.streamtheworld.com/ROCKANDPOPAAC_SC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Radio_Rivadavia_%282020%29.png" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO RIVADAVIA (SOLO IPTV AZUL)
 https://21933.live.streamtheworld.com/RIVADAVIAAAC_SC
 
+#EXTINF:-1 tvg-logo="https://www.lt8.com.ar/wp-content/uploads/2020/06/xLT8_V_.png.pagespeed.ic.ll0vUh2Nwb.png" group-title="RADIO 3 (SOLO IPTV AZUL)", LA OCHO ROSARIO (SOLO IPTV AZUL)
+https://stream.lt8.com.ar:8443/lt8radio.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Radio_Del_Plata_%28Logo_2020%29.jpg/600px-Radio_Del_Plata_%28Logo_2020%29.jpg" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO DEL PLATA (SOLO IPTV AZUL)
+http://181.119.157.98:8800/amdelplata.mp3
+
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/adab0964eed597fc1d5b61598b2f6056-150.jpg" group-title="RADIO 3 (SOLO IPTV AZUL)", LT3 ROSARIO (SOLO IPTV AZUL)
+http://stream.lt3.com.ar:8000/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_Cadena3.jpg/1200px-Logo_Cadena3.jpg" group-title="RADIO 3 (SOLO IPTV AZUL)", CADENA 3 (SOLO IPTV AZUL)
+https://20823.live.streamtheworld.com/CADENA3_SC
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Radio_Continental_AM_590_%282015%29.png" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO CONTINENTAL (SOLO IPTV AZUL)
+http://17573.live.streamtheworld.com/CONTINENTALAAC_SC
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Ei-bz3j0cII/XztRcc6-W3I/AAAAAAAALW0/QuQBPP5_0yIBAcF4N-39OiryGNRZSobDACLcBGAsYHQ/s1600/radio-argentina-am-570.png" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO ARGENTINA (SOLO IPTV AZUL)
+http://server.laradio.online:25224/live.mp3 
+
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8d/02/8d02ab7055e82b4a4d6deb9ffff0d6e0.jpg" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO BELGRANO (SOLO IPTV AZUL)
+http://server.laradio.online:25223/live.mp3     
+
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Radio_10_AM_710_%282020%29.png/800px-Radio_10_AM_710_%282020%29.png" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO 10 (SOLO IPTV AZUL)
+http://s6.stweb.tv/radio10/live/playlist.m3u8 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Los_40.svg" group-title="RADIO 3 (SOLO IPTV AZUL)", LOS 40 105.5 FM (SOLO IPTV AZUL)
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINAAAC 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/RadioOne.jpg/225px-RadioOne.jpg" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO ONE 103.7 FM (SOLO IPTV AZUL)
+http://s11.stweb.tv/one/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Popradio.gif/225px-Popradio.gif" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO POP 101.5 FM (SOLO IPTV AZUL)
+https://s8.stweb.tv/popradio/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/MEGA983.jpg/225px-MEGA983.jpg" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO MEGA 98.3 FM (SOLO IPTV AZUL)
+https://server1.stweb.tv/mega983/live/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/88feb4de6cabd53d7af9879e56131cbd.jpg" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO VALE 97.5 FM (SOLO IPTV AZUL)
+http://vale.stweb.tv:1935/vale/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio-Disney.png/225px-Radio-Disney.png" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO DISNEY 94.3 FM (SOLO IPTV AZUL)
+https://edge-np.cdn.mdstrm.com/5a9ee26311c043ae48e40bcd.mp3 
+
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/cuts_logos/77/8a/778a689c-0b43-4866-9d7c-4dc68e57c362.jpeg" group-title="RADIO 3 (SOLO IPTV AZUL)", RADIO CON VOS 89.9 FM (SOLO IPTV AZUL)
+http://server6.stweb.tv:1935/rcvos/live/playlist.m3u8 
 
 
 
@@ -3452,16 +3498,6 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
-
-
-
-
-
-
-
-
-
-
 
 
 
