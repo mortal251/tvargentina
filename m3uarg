@@ -3278,8 +3278,29 @@ http://server.ohradio.com.ar:9344/;
 
 
 
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="RADIO", La 2x4  
+http://radios.argentina.fm:9270/stream   
 
 
+
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="RADIO", Late  
+http://streaming.radiolinksmedia.com:8252/;stream   
+
+
+
+
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="RADIO", Nacional Rock  
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39  
+
+ 
+
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="RADIO", Metro 
+http://mp3.metroaudio1.stream.avstreaming.net:7200/metro  
+
+ 
+
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="RADIO", Nacional Clásica
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37  
 
 
 
