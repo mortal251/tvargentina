@@ -3302,6 +3302,18 @@ http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
 #EXTINF:-1   tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/64/a7/64a7bb75-e83e-4c9f-b758-43b90a04a858.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Nacional Clásica (SOLO IPTV AZUL)
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37  
 
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-bfB665TOB9g/YCPr2H1AL-I/AAAAAAAA8I4/gJNFVc6-mJEyRF6jm1ZasCeA-BQZrwWSQCLcBGAsYHQ/s338/radio-folk-2021.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Nacional Folklorica 98.7 (SOLO IPTV AZUL)
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38 
+
+#EXTINF:-1   tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Latina 101.1 (SOLO IPTV AZUL)
+http://streaming.latina101.com.ar:8080/RadioLatina  
+
+#EXTINF:-1   tvg-logo="https://www.radio.es/images/broadcasts/8a/7f/130196/1/c175.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", La patriada 102.1 (SOLO IPTV AZUL)
+http://server4.stweb.tv:1935/lapatriada/live/playlist.m3u8 
+
+
+
+
 
 
 
