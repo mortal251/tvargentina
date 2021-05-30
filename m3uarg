@@ -3278,28 +3278,28 @@ http://server.ohradio.com.ar:9344/;
 
 
 
-#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", La 2x4 (SOLO IPTV AZUL)  
+#EXTINF:-1   tvg-logo="https://www.radio.es/images/broadcasts/57/3c/16198/1/c300.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", La 2x4 (SOLO IPTV AZUL)  
 http://radios.argentina.fm:9270/stream   
 
 
 
-#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Late (SOLO IPTV AZUL)  
+#EXTINF:-1   tvg-logo="https://4.bp.blogspot.com/-nVsNM7EKqcg/W6sHzNONvII/AAAAAAAAGV8/4IqgAOx-nr8B1JDoG4Zvv_vJFHLG94BfQCLcBGAs/s1600/late-93-1.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Late (SOLO IPTV AZUL)  
 http://streaming.radiolinksmedia.com:8252/;stream   
 
 
 
 
-#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Nacional Rock (SOLO IPTV AZUL)  
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4IRO-v94sC9UnN2TqNt9xWR7rzkX81jbTd8DwhpniXc3LU-M_MTaWC7Hi60TBVjkr56k&usqp=CAU" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Nacional Rock (SOLO IPTV AZUL)  
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39  
 
  
 
-#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Metro (SOLO IPTV AZUL) 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Metro951.png/225px-Metro951.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Metro (SOLO IPTV AZUL) 
 http://mp3.metroaudio1.stream.avstreaming.net:7200/metro  
 
  
 
-#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Nacional Clásica (SOLO IPTV AZUL)
+#EXTINF:-1   tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/64/a7/64a7bb75-e83e-4c9f-b758-43b90a04a858.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Nacional Clásica (SOLO IPTV AZUL)
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37  
 
 
