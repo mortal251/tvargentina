@@ -3278,28 +3278,28 @@ http://server.ohradio.com.ar:9344/;
 
 
 
-#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="RADIO", La 2x4  
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", La 2x4 (SOLO IPTV AZUL)  
 http://radios.argentina.fm:9270/stream   
 
 
 
-#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="RADIO", Late  
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Late (SOLO IPTV AZUL)  
 http://streaming.radiolinksmedia.com:8252/;stream   
 
 
 
 
-#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="RADIO", Nacional Rock  
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Nacional Rock (SOLO IPTV AZUL)  
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39  
 
  
 
-#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="RADIO", Metro 
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Metro (SOLO IPTV AZUL) 
 http://mp3.metroaudio1.stream.avstreaming.net:7200/metro  
 
  
 
-#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="RADIO", Nacional Clásica
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Nacional Clásica (SOLO IPTV AZUL)
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37  
 
 
