@@ -3258,7 +3258,23 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINA
 http://vale.stweb.tv:1935/vale/live/playlist.m3u8
 
 
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-VAhlDpNd9mNuPlfZZ0iCAe3xDjf9K7xMf6UE1DESKBeGxnoIFutlfPefX_MbXyuzvk8&usqp=CAU" group-title="RADIO 3 (SOLO AUDIO)", RADIO MADRE
+http://cdn.instream.audio:9288/stream  
 
+#EXTINF:-1   tvg-logo="https://www.radiocolonia.com/images/Logo-color.png" group-title="RADIO 3 (SOLO AUDIO)", RADIO COLONIA
+https://streaming1.hostingmontevideo.com:7019/; 
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="RADIO 3 (SOLO AUDIO)", RADIO MITRE
+https://buecrplb01.cienradios.com.ar/Mitre790.aac 
+
+#EXTINF:-1   tvg-logo="https://radiodelpueblo.com.ar/files/logo3.png" group-title="RADIO 3 (SOLO AUDIO)", RADIO DEL PUEBLO
+http://streaming.radiolinksmedia.com:7830/;       
+ 
+#EXTINF:-1   tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/fab9780655718aef08c728050538aa16.jpg" group-title="RADIO 3 (SOLO AUDIO)", RADIO DE LA CIUDAD 1100 AM
+http://radios.argentina.fm:1110/stream 
+
+#EXTINF:-1   tvg-logo="https://radiolaluna.com.ar/wp-content/uploads/2021/05/LOGO-APP.jpg" group-title="RADIO 3 (SOLO AUDIO)", RADIO LA LUNA 1140AM
+http://server.ohradio.com.ar:9344/;
 
 
 
