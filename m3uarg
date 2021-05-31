@@ -2955,6 +2955,9 @@ https://streaming.jtamendoza.com:8443/hls/test_mid.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiojai.com/wp-content/uploads/2019/07/logo-m-2.png" group-title="RELIGION", RADIO JAI FM 96.3
 https://inliveserver.com:1936/14172/14172/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.enlace.org/wp-content/uploads/2020/10/logoEnlace.png" group-title="RELIGION", ENLACE
+https://1-218-11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
+
 
 
 
