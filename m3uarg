@@ -1044,20 +1044,15 @@ https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" group-title="CINE Y SERIES", CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="CINE Y SERIES", SOL TV
-https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BfAOGODBZEc/Xjtifr8ZrYI/AAAAAAAAvr0/nK_E67xjC9gwzgwb_zMBrzS-RAGAAy0DQCK8BGAsYHg/s0/2020-02-05.png" group-title="CINE Y SERIES", REC ONLINE
 https://master.tucableip.com/reconline/live/video.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/101693_Retro_TV_Palmares.png" group-title="CINE Y SERIES", RETRO TV
-http://tvretropalmares.com:8090/hls/envivo.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="CINE Y SERIES", SOL TV
+https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WRgrmcHYIf0/XzxpQ2g856I/AAAAAAAA4os/J9nPPyj6GEQoCs9ilc05e_SgKYfLy-bcQCK8BGAsYHg/s0/2020-08-18.png" group-title="CINE Y SERIES", CINE CABLE TV
-https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/98871_EvaStream.png" group-title="CINE Y SERIES", EVASTREAM
-https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m3u8
 
 
 
