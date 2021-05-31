@@ -1628,7 +1628,7 @@ https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTE", ESPN U EUA
 https://gma2.blab.email/espnu.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="DEPORTES",  ESPN ACCN EUA
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="DEPORTE",  ESPN ACCN EUA
 https://gma2.blab.email/acc.m3u8
 
 
@@ -1649,13 +1649,13 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SgiGEUK.png" group-title="",ERT SPORTS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SgiGEUK.png" group-title="DEPORTE",ERT SPORTS
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zG9dFQp.jpg" group-title="",ERT SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zG9dFQp.jpg" group-title="DEPORTE",ERT SPORTS 2
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zG9dFQp.jpg" group-title="",ERT SPORTS 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zG9dFQp.jpg" group-title="DEPORTE",ERT SPORTS 3
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
 
 
@@ -3562,6 +3562,9 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+
+
+
 
 
 
