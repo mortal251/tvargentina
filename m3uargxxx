@@ -51,8 +51,7 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTINF:-1 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg" group-title="LOCALES 1", TV PUBLICA - 23.2 
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
-#EXTINF:-1 group-title="LOCALES 1", TV PUBLICA - 23.2 (OPCION 2) YT
-https://www.youtube.com/watch?v=M0L2tHs9TIQ
+
 
 
 
@@ -117,8 +116,7 @@ https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u
 #EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES 1", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
-#EXTINF:-1 group-title="LOCALES 1", KZO (OPCION 2) YT
-https://www.youtube.com/watch?v=FBAzNfv4V18
+
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="INTERNACIONAL", FRANCE 24 ESPAÑOL - 24.3
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
@@ -416,10 +414,10 @@ https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 3", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0252
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0251
 
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="LOCALES 3", ITEL CHAJARI
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0177
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0176
 
 
 #EXTINF:-1 tvg-logo="http://calchaquitv.com.ar/images/logo.png" group-title="LOCALES 3", CALCHAQUI TV TUCUMAN
@@ -443,6 +441,9 @@ https://59537faa0729a.streamlock.net/n24tv/n24tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969209126470455297/vLw5LpAB_400x400.jpg" group-title="LOCALES 3", CIUDAD TV CHACO
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8wBbZDC6NMnd1uS8IGhPC2Lm4pxPt7uQ3TxaICRzD1vvfnXcpjiPtRGPivpDIJbC5SYB" group-title="LOCALES 3", CANAL 5 SALTA
+https://vivo.solumedia.com:19360/canal5/canal5.m3u8
 
 #EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="LOCALES 3", TVEO MENDOZA
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w2036248970.m3u8
@@ -818,7 +819,7 @@ https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
 https://nd106.republicaservers.com/canal2misiones.mp4
 
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/uploads/2018/03/logoveo.png" group-title="LOCALES 4", VEO SANTA FE (SOLO IPTV AZUL)
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0279 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0278 
 
 
 
@@ -3568,6 +3569,12 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+
+
+
+
+
+
 
 
 
