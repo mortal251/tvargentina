@@ -210,7 +210,7 @@ https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1622454954~exp=1622631354~acl=/i/canal8tucuman_1@787002/*~hmac=9242d7c3427c38aa55221352d626e9a2e13a231e2becd1d8a08a3f59967efd3f
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES 2", 6 ENTRE RIOS TV
-https://stmv1.questreaming.com/canal6er/canal6er/playlist.m3u8
+https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", EL DOCE CORDOBA
 https://www.youtube.com/watch?v=gBbMbqILzXU
