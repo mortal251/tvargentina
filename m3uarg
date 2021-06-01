@@ -2947,8 +2947,7 @@ https://clientes.videostreaming.ar:19360/jcbtv/jcbtv.m3u8
 #EXTINF:-1 tvg-logo="https://televisioncelestial.com.ar/uploads/1zje40laqizoswwcso.png" group-title="RELIGION", TELEVISION CELESTIAL ROSARIO
 https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/fmlavozsao.com/wp-content/uploads/2018/08/radio-nuevo.jpg?fit=573%2C524&ssl=1" group-title="RELIGION", FM LA VOZ 91.5 SAN ANTONIO OESTE
-https://stmvideo2.livecastv.com/lavoztv/lavoztv/chunklist_w859988336.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzVUVoX.jpg" group-title="RELIGION", MONTE MARIA
@@ -2961,14 +2960,24 @@ https://cdn01.yowi.tv/DDDDDDDDDD/live-1000.m3u8
 #EXTINF:-1 tvg-logo="http://www.canal13jujuy.com/img/logo-web.png" group-title="RELIGION", CANAL 13 JUJUY
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
-#EXTINF:-1 tvg-logo="https://jtamendoza.com/images/icon_144.png" group-title="RELIGION", JTA TV 21.1 MENDOZA
-https://streaming.jtamendoza.com:8443/hls/test_mid.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.radiojai.com/wp-content/uploads/2019/07/logo-m-2.png" group-title="RELIGION", RADIO JAI FM 96.3
 https://inliveserver.com:1936/14172/14172/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.enlace.org/wp-content/uploads/2020/10/logoEnlace.png" group-title="RELIGION", ENLACE
 https://1-218-11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jtamendoza.com/images/icon_144.png" group-title="RELIGION", JTA TV 21.1 MENDOZA
+https://streaming.jtamendoza.com:8443/hls/test_mid.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/fmlavozsao.com/wp-content/uploads/2018/08/radio-nuevo.jpg?fit=573%2C524&ssl=1" group-title="RELIGION", FM LA VOZ 91.5 SAN ANTONIO OESTE
+https://edge1o.live.opencaster.com/caster/evbAEygatfdE.m3u8
+
+
+
 
 
 
