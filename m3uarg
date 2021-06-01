@@ -489,8 +489,7 @@ https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="LOCALES 3", TELENORD CORRIENTES
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" group-title="LOCALES 3", DEL SUR TV SAN JUAN
-http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8RQ6Xhx3aek/XjtJFnEx_ZI/AAAAAAAAvrA/yM5l4Cz0Q3M6JmvHF4n5rjbEXc7W___XgCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 3", CANAL 4 POSADAS
 https://589ff3c36f7e8.streamlock.net/canal4/canal4/playlist.m3u8
@@ -517,8 +516,6 @@ https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
 #EXTINF:-1 tvg-logo="https://multimedio.com.ar/wp-content/uploads/2019/10/Logo-Canal-11.png" group-title="LOCALES 3", CANAL 11 MAR DE AJO
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108929_Airevision_Digital.jpg" group-title="LOCALES 3", AIREVISION PUNTA ALTA
-http://airevision.ddns.net:1935/live/myStream/playlist.m3u8
 
 
 
@@ -535,7 +532,8 @@ https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="LOCALES 3", C5SF 2 SANTA FE 
 https://5975e06a1f292.streamlock.net:4443/c5sf2/c5sf2/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/celtatv.png" group-title="LOCALES 3", CELTA TV TRES ARROYOS
+https://vivo.solumedia.com:19360/celta/celta.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6yBSbBB-AHE/XjtBSO4ZGtI/AAAAAAAAvoQ/_ZYx1XEmyo0wXnwYQDegDsetCUlb9u0FwCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 3", Canal 41 XFN MAR DEL PLATA
@@ -574,15 +572,15 @@ https://5f93e494d5906.streamlock.net/elecotv/elecotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109636_UTN_TV.png" group-title="LOCALES 3", UTN TV RIO GALLEGOS
 https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgHZgj0j0s3y22Xu7XjBqMSGaRJJHIdGmkrg&usqp=CAU" group-title="LOCALES 3", CANAL 50 MORTEROS
+https://coopmorteros.online/canal50/vivo.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnB0c3RhY3J1emFwcHBybGw0Ni5jYW5hbDVwaWNvdHJ1bmNhZG9hcHBfc2NyZWVuXzJfMTUzMjM1ODEyOV8wNTE/screen-2.jpg?fakeurl=1&type=.jpg" group-title="LOCALES 3", CANAL 5 PICO TRUNCADO SANTA CRUZ
 http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Dwon9sRZsSY/Xjs6WmRFAaI/AAAAAAAAvnM/Zgcsd4pznrUNtvK8TghlckQw1YcLWnkdwCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 3", CL3 SANTA FE
-http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC2PROV.png" group-title="LOCALES 3", PROVINCIAL TV
 http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
@@ -594,8 +592,7 @@ http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://diariosanjuan.com.ar/imagenes/banner.png" group-title="LOCALES 3", DIARIO DE SAN JUAN
-https://59537faa0729a.streamlock.net/radiolared/radiolared/playlist.m3u8
+
 
 
 
@@ -608,6 +605,26 @@ https://5975e06a1f292.streamlock.net:4443/tributv/tributv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/161899213_1065344863990922_8614983359079745509_o.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHa0v4iscvOJHZatl3UmwmyaxiSgPVpyaxrGJKA9WnJrB3i_je2YjuLgJPhNVMJOvI&_nc_ohc=SWV70l-wUXMAX9lhSi7&_nc_ht=scontent.fepa11-1.fna&oh=420534c9ae442d2d6c80a3e38be26db2&oe=607F6348" group-title="LOCALES 3", PALOMAR TV TUCUMAN
 http://video.streamtvradio.com:8081/uv038/uv038/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" group-title="LOCALES 3", DEL SUR TV SAN JUAN
+http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://diariosanjuan.com.ar/imagenes/banner.png" group-title="LOCALES 3", DIARIO DE SAN JUAN
+https://59537faa0729a.streamlock.net/radiolared/radiolared/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Dwon9sRZsSY/Xjs6WmRFAaI/AAAAAAAAvnM/Zgcsd4pznrUNtvK8TghlckQw1YcLWnkdwCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 3", CL3 SANTA FE
+http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108929_Airevision_Digital.jpg" group-title="LOCALES 3", AIREVISION PUNTA ALTA
+http://airevision.ddns.net:1935/live/myStream/playlist.m3u8
+
+
+
+
+
+
 
 
 
@@ -724,8 +741,7 @@ http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" group-title="LOCALES 4", TELECINCO TRELEW
 https://videohd.live:19360/8016/8016.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgHZgj0j0s3y22Xu7XjBqMSGaRJJHIdGmkrg&usqp=CAU" group-title="LOCALES 3", CANAL 50 MORTEROS
-https://coopmorteros.online/canal50/vivo.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="LOCALES 4", CTV CORRIENTES
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
@@ -736,8 +752,7 @@ https://inliveserver.com:1936/9500/9500/chunklist_w1908919579.m3u8
 #EXTINF:-1 tvg-logo="http://www.televideoinforma.com.ar/img/publicidades/Televideo_logo.jpg" group-title="LOCALES 4", TELEVIDEO OCAMPO SANTA FE
 https://inliveserver.com:1936/8050_1/8050_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/celtatv.png" group-title="LOCALES 3", CELTA TV TRES ARROYOS
-https://vivo.solumedia.com:19360/celta/celta.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg" group-title="LOCALES 4", CANAL 10 SENILLOSA NEUQUEN
 https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
