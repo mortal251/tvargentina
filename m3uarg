@@ -338,7 +338,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=s
 https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1622425709~exp=1622602109~acl=/I/canal9bahiablanca_1@685725/*~hmac=2bf29161233c7e5fd8a22c94a0394d118b0cb02653ae99e5879998df8f1dc687
 
 #EXTINF:-1 group-title="LOCALES 2", NOTICIERO CANAL 7 BAHIA BLANCA
-https://www.youtube.com/watch?v=5SBTfsUS9bo
+https://www.youtube.com/watch?v=rIV3c1LFq7A
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="LOCALES 2", CANAL 7 CATAMARCA
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
@@ -394,19 +394,19 @@ http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=hTlKhrUrmO4
+https://www.youtube.com/watch?v=GwzuQdkHPmo
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=edp4mGbDA24
+https://www.youtube.com/watch?v=vHmQxe6GXxw
 
 #EXTINF:-1 group-title="LOCALES 3", VERTE TV
 https://www.youtube.com/watch?v=KEX_wVcUkbM
 
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=5x7YV3N8H4Q
+https://www.youtube.com/watch?v=zJYxwJhSnpA
 
-#EXTINF:-1 group-title="LOCALES 2", CANAL 12 TRENQUE LAUQUEN (OPCION 2) YT
-https://www.youtube.com/watch?v=wqtjpxBJt3c
+#EXTINF:-1 group-title="LOCALES 2", CANAL 12 TRENQUE LAUQUEN 
+https://www.youtube.com/watch?v=GI2PrCaRbOY
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj3A5dsZMcJlJdjb7NWxnpPuV2HFmJVcJqzyf2Y9g=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 3", CANAL 18 SALTA
