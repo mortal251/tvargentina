@@ -1852,11 +1852,14 @@ https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/103795_CEAC_TV.png" group-title="MUSICA", CEACTV
 https://videostreaming.cloudserverlatam.com/ceactv/ceactv/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSICA", CLASIC MUSIC PIANO
-https://www.youtube.com/watch?v=OowUi602GdU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="MUSICA", QUEST TV Classical
+https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",3ABN Praise Him Music Channel
 https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artschannel.png" group-title="MUSICA", CLASSIC ART SHOWCASE
+https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://onradiochile.cl/wp-content/themes/onair2/img/play.png" group-title="MUSICA", ON RADIO KPOP CHILE
 https://tls.cdnz.cl/onradio4/live/playlist.m3u8
@@ -1889,8 +1892,14 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.
 #EXTINF:-1 tvg-logo="http://www.hits360live.com/wp-content/uploads/2018/05/cropped-logo1-hits-360-2-2.png" group-title="MUSICA", HIT 360
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1370476646755631113/x4W9lpwq_400x400.png" group-title="MUSICA", SPEKTRA TV
+https://streamtv.mediasector.es/hls/spektratv/.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt8E32gZmAAoZKpulLeHt4JVK_V2EPldRN-6u1roxa2V01W_ADCMrNrhkDqYLRVwRMLRg&usqp=CAU" group-title="MUSICA", MOLA TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
 
+#EXTINF:-1 tvg-logo="https://xlmusica.com/wp-content/uploads/2020/11/XLTVWEB.png" group-title="MUSICA", XL MUSICA
+https://cloud2.streaminglivehd.com/8098/8098/.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/67657013_2493383847561162_8934152675763683328_n.png?_nc_cat=101&ccb=3&_nc_sid=85a577&_nc_ohc=P8eD8txjk5sAX9p1YsQ&_nc_ht=scontent.fepa11-1.fna&oh=79a9a33cce816d7cd256031d98b667e8&oe=604D0194" group-title="MUSICA", TU MUSICA HD
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
@@ -1913,7 +1922,8 @@ https://flash-plex.amagi.tv/flash/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logog.png" group-title="MUSICA", FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/7e/c1/b8/7ec1b88db8493f5426d662878c90025f.jpg" group-title="MUSICA", ACTIVA TV
+https://streamtv.mediasector.es/hls/activatv/.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126531_Wham_TV.png" group-title="MUSICA", WHAM TV
 https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
@@ -1924,14 +1934,7 @@ https://vdo.mivideo.pro:3725/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="MUSICA", LIVE MUSIC REPLAY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c759330-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98079c5b-45f4-4521-b056-6fd814776109&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="MUSICA", CONCIERTO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cdlivestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="MUSICA", KARAOKE
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artschannel.png" group-title="MUSICA", CLASSIC ART SHOWCASE
-https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="MUSICA", CMT MUSIC
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
@@ -2025,8 +2028,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee16
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="MUSICA 2", MTV BLOCK PARTY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ebaf0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=78e0da1c-3f09-404b-90ab-6e2707b432e5&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="MUSICA 2", QUEST TV Classical
-https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="MUSICA 2", CONCIERTO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cdlivestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="MUSICA 2", KARAOKE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bhSrOea.jpg" group-title="MUSICA 2", QUEST TV Jazz and Beyond
 https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
@@ -3572,8 +3580,6 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
-
-
 
 
 
