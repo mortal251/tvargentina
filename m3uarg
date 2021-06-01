@@ -284,7 +284,7 @@ http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg" group-title="LOCALES 2", FENIX LA RIOJA
-https://stmv1.srvif.com/fenixlarioja/fenixlarioja/playlist.m3u8
+https://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png" group-title="LOCALES 2", CANAL 13 LA RIOJA
 https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/playlist.m3u8
