@@ -1892,8 +1892,14 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.
 #EXTINF:-1 tvg-logo="http://www.hits360live.com/wp-content/uploads/2018/05/cropped-logo1-hits-360-2-2.png" group-title="MUSICA", HIT 360
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1370476646755631113/x4W9lpwq_400x400.png" group-title="MUSICA", SPEKTRA TV
+https://streamtv.mediasector.es/hls/spektratv/.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt8E32gZmAAoZKpulLeHt4JVK_V2EPldRN-6u1roxa2V01W_ADCMrNrhkDqYLRVwRMLRg&usqp=CAU" group-title="MUSICA", MOLA TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
 
+#EXTINF:-1 tvg-logo="https://xlmusica.com/wp-content/uploads/2020/11/XLTVWEB.png" group-title="MUSICA", XL MUSICA
+https://cloud2.streaminglivehd.com/8098/8098/.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/67657013_2493383847561162_8934152675763683328_n.png?_nc_cat=101&ccb=3&_nc_sid=85a577&_nc_ohc=P8eD8txjk5sAX9p1YsQ&_nc_ht=scontent.fepa11-1.fna&oh=79a9a33cce816d7cd256031d98b667e8&oe=604D0194" group-title="MUSICA", TU MUSICA HD
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
@@ -1916,7 +1922,8 @@ https://flash-plex.amagi.tv/flash/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logog.png" group-title="MUSICA", FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/7e/c1/b8/7ec1b88db8493f5426d662878c90025f.jpg" group-title="MUSICA", ACTIVA TV
+https://streamtv.mediasector.es/hls/activatv/.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126531_Wham_TV.png" group-title="MUSICA", WHAM TV
 https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
