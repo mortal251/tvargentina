@@ -405,8 +405,8 @@ https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.
 https://59537faa0729a.streamlock.net/n24tv/n24tv/playlist.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="http://tv.misionesonline.net/wp-content/uploads/2021/02/LogoMoscaGifweb.gif" group-title="LOCALES 3", MISIONES ONLINE
+https://stream-02.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW5NYlx2DU7-fZvFS0Nn_iRU)/dm/3/x7zlqfx/s/live-1.m3u8
 
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
@@ -3195,8 +3195,8 @@ https://stmv4.srvstm.com/litoral2/litoral2/playlist.m3u8
 https://stmvideo2.livecastv.com/launotv/launotv/playlist.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://urban985.com/img/logo.png" group-title="RADIO 2", URBAN 98.5 FM PEHUAJO
+https://urban985.tv/hls/websd.m3u8
 
 #EXTINF:-1 tvg-logo="https://cadenaritmo.com.ar/imagenes/logo.png" group-title="RADIO 2", CADENA RITMO 101.1 FM NEUQUEN
 https://59537faa0729a.streamlock.net/cadenaritmo/cadenaritmo/playlist.m3u8
