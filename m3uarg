@@ -3195,6 +3195,15 @@ https://stmv4.srvstm.com/litoral2/litoral2/playlist.m3u8
 https://stmvideo2.livecastv.com/launotv/launotv/playlist.m3u8
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://partedelaireradio.com.ar/wp-content/uploads/2018/11/logo2.fw_.png" group-title="RADIO 2", PARTE DEL AIRE 94.9 FM SAN ANTONIO OESTE RIO NEGRO
+https://streamcasthd.com:19360/partedelaireradio/partedelaireradio.m3u8
+
 #EXTINF:-1 tvg-logo="https://urban985.com/img/logo.png" group-title="RADIO 2", URBAN 98.5 FM PEHUAJO
 https://urban985.tv/hls/websd.m3u8
 
