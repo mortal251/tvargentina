@@ -1720,6 +1720,9 @@ https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i4.hurimg.com/i/hurriyet/75/1200x675/5e7885270f25441d1c5aabca.jpg" group-title="DEPORTE", BEIN SPORTS PREMIUM 2
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1rtWgqD.jpg" group-title="DEPORTE",3/24
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="DEPORTE", CLARO SPORTS
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
@@ -2236,7 +2239,8 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Latido-Music_367x367.png?raw=true" group-title="MUSICA", LATIDO MUSIC
 https://vidaprimo-plex.amagi.tv/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/playlist.m3u8?us_privacy=1---&did=&dnt=1&X-Plex-Token=vX2gxiT5Q_vtARVYwbZa&channelId=5f598c33465f860041cd2dee
 
-
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80111_Alegria_TV.png" group-title="MUSICA", ALEGRIA TV
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
 
 
 
@@ -2689,8 +2693,7 @@ http://190.122.96.187:8888/http/010
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg" group-title="INTERNACIONAL", CANAL SUR ANDALUCIA
 https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/cGhvdG9jYWxsLnR2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1rtWgqD.jpg" group-title="INTERNACIONAL",3/24
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
+
 
 
 
