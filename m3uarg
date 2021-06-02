@@ -2730,8 +2730,7 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 #EXTINF:-1 tvg-logo="http://ondaalgecirastv.com/wp-content/uploads/2017/05/logo-oatv-footer-final.png" group-title="INTERNACIONAL", ONDA ALGECIRAS ESPAÑA
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTVMarbella/picture?width=320&height=320" group-title="INTERNACIONAL",Radio Televisión Marbella
-https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.ivab.es/wp-content/uploads/2020/11/LOGO-7-TELEVALENCIA-300x169.jpg" group-title="INTERNACIONAL",7 TeleValencia
 https://live-edge-rbx-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
@@ -2847,7 +2846,14 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL", AZTECA UNO
 https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_jwma99nu/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hlrdeds.png" group-title="INTERNACIONAL", Canal Capital COLOMBIA
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" group-title="INTERNACIONAL", Canal Catorce mexico
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NAgRCyY.png" group-title="INTERNACIONAL", Canal Once MEXICO
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
 
 
