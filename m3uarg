@@ -1283,6 +1283,9 @@ http://184.173.181.2:1935/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gtOJEZDXT74/X6ial-IEvuI/AAAAAAAA7HE/DVodKb8gbr4UYli0KdKGZf9Bfz4WrXqwQCK8BGAsYHg/s0/2020-11-08.png" group-title="CINE Y SERIES 3", INFINITA
 https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canal45television/picture?width=320&height=320" group-title="CINE Y SERIES 3",Canal 45 TV
+https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
+
 
 
 
