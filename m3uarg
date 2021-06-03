@@ -855,8 +855,7 @@ https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Cadenasuper-cine-tv-en-vivo.jpg" group-title="CINE Y SERIES", FM 3 SUPER CINE
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png" group-title="CINE Y SERIES", 74 TV
-https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+
 
 
 
@@ -968,8 +967,7 @@ https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-9/60282518_2318162771800734_6668398006527590400_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=973b4a&_nc_ohc=obZxjvchla8AX_YakiY&_nc_ht=scontent.fepa11-1.fna&oh=26c61d227963578d2cc7fdd1441aab15&oe=60B62E4E"  group-title="CINE Y SERIES", CASCARA TV
 https://ss5.domint.net:3036/ctv_str/cascaratv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png" group-title="CINE Y SERIES", CHINOLA TV
-https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="CINE Y SERIES", PH TV
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
@@ -990,8 +988,7 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="CINE Y SERIES", READY
 http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="CINE Y SERIES", AZTECA 7
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
+
 
 
 
@@ -1489,7 +1486,14 @@ https://cloud37.ecuatel.com/educa/educa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onceninasyninos.tv/wp-content/uploads/2019/06/LOGO-ON.png" group-title="INFANTIL", CANAL NIÑOS
 http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch01)/Stream(05)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png" group-title="INFANTIL", 74 TV
+https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png" group-title="INFANTIL", CHINOLA TV
+https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="INFANTIL", AZTECA 7
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_f331914d260442069047f8fd3f5b90e5~mv2.png/v1/fill/w_96,h_72,al_c,q_85,usm_0.66_1.00_0.01/Mosca-1280x720_color_edited%20editado_edit.webp" group-title="INFANTIL", PEQUERADIO
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
@@ -2678,8 +2682,7 @@ https://www.youtube.com/watch?v=f2t3330_mBk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png" group-title="INTERNACIONAL", ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112080_TVGE_Internacional.png" group-title="INTERNACIONAL", TVGE INTERNACIONAL
-https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w2010324553_b800000.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png" group-title="INTERNACIONAL", VOA ESTADOS UNIDOS
 https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
@@ -2796,7 +2799,8 @@ https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC8Gc5fFs_4av_3It4hoaSP_CzT5gLkMRsm_xS6dN0DaGoxEsDeDNRagNODmODz3E7qRQ&usqp=CAU" group-title="INTERNACIONAL", EKIZ TV CHILE
 https://stmv.panel.mivideo.pro/ekiztv/ekiztv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/112080_TVGE_Internacional.png" group-title="INTERNACIONAL", TVGE INTERNACIONAL
+https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w2010324553_b800000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.biobiochile.cl/assets/bbcltv-2019/img/share.png" group-title="INTERNACIONAL", BIO BIO TV CHILE
