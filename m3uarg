@@ -3236,8 +3236,8 @@ https://stmvideo2.livecastv.com/launotv/launotv/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://www.lavozdeldesierto.com.ar/images/design/isologo.png" group-title="RADIO 2", FM LA VOZ DEL DESIERTO NEUQUEN
+https://stmv1.srvstm.com/vozdesierto/vozdesierto/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://partedelaireradio.com.ar/wp-content/uploads/2018/11/logo2.fw_.png" group-title="RADIO 2", PARTE DEL AIRE 94.9 FM SAN ANTONIO OESTE RIO NEGRO
 https://streamcasthd.com:19360/partedelaireradio/partedelaireradio.m3u8
