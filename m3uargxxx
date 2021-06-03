@@ -56,8 +56,7 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9 - 35.1 
-https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/5caa8b2f-aa4a-45eb-aaff-2b92839a49d1/2.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIyODE3Njg2LCJzZXNzaW9uIjoiMjAwLjMuMTEzLjE1MCIsIndoaXRlbGlzdCI6WyIyMDAuMy4xMTMuMTUwIl19LCJzaWduYXR1cmUiOiJlMDFlOTJjNWE1NTVmMjFlOGJjZWQxNWZhOGE4NTRjM2FkYzIzYmM1In0%3D
-
+https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIyODQzNDk2LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiIxZjk3MWE0MThmYmE1OTQ0ZDU2MTY1NTA4NGY5OTYyYTc3ZGRjMTI2In0=
 
 
 
@@ -176,7 +175,7 @@ https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT (SOLO SSIPTV)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
 
@@ -901,8 +900,7 @@ https://ammo-espanol-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN:TIME 3
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2021/03/image-274.png" group-title="CINE Y SERIES", LA CORRIENTE
-https://stream-us-east-1.getpublica.com/cl/c71f1300-aba6-4b63-af75-7cfa6faa0404/1280x720_2300000_4_false.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://madrid.cines-verdi.com/storage/app/media/cinesverditv.jpg" group-title="CINE Y SERIES", Canal Cinesverdi 
 https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -1707,7 +1705,7 @@ https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg" group-title="DEPORTE", CIUDAD MAGICA 105.1 FM AUSONIA 
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT (OPCION 2) (SOLO SSIPTV)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT (OPCION 2) 
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
 
 
@@ -1727,8 +1725,7 @@ https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i4.hurimg.com/i/hurriyet/75/1200x675/5e7885270f25441d1c5aabca.jpg" group-title="DEPORTE", BEIN SPORTS PREMIUM 2
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1rtWgqD.jpg" group-title="DEPORTE",3/24
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="DEPORTE", CLARO SPORTS
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
@@ -2661,6 +2658,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL",24 Horas
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1rtWgqD.jpg" group-title="INTERNACIONAL",3/24
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246468579622400000/2PZnQjrY_400x400.jpg" group-title="INTERNACIONAL", CGTN ESPAÑOL
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
@@ -3236,8 +3236,8 @@ https://stmvideo2.livecastv.com/launotv/launotv/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://www.lavozdeldesierto.com.ar/images/design/isologo.png" group-title="RADIO 2", FM LA VOZ DEL DESIERTO NEUQUEN
+https://stmv1.srvstm.com/vozdesierto/vozdesierto/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://partedelaireradio.com.ar/wp-content/uploads/2018/11/logo2.fw_.png" group-title="RADIO 2", PARTE DEL AIRE 94.9 FM SAN ANTONIO OESTE RIO NEGRO
 https://streamcasthd.com:19360/partedelaireradio/partedelaireradio.m3u8
@@ -3726,9 +3726,6 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
-
-
-
 
 
 
