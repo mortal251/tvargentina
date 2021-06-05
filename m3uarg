@@ -230,8 +230,7 @@ https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOCALES 2", CANAL 7 MENDOZA
 https://www.youtube.com/watch?v=9k8s9Fi_uBg
 
-#EXTINF:-1 group-title="LOCALES 2", CANAL 9 MENDOZA
-https://www.youtube.com/watch?v=eybiz_zyJC8
+
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 8 SAN JUAN
 https://www.youtube.com/watch?v=74TyBo37iV8
@@ -427,8 +426,12 @@ https://www.youtube.com/watch?v=0JVSvccS8Ck
 #EXTINF:-1 group-title="LOCALES 3", VERTE TV
 https://www.youtube.com/watch?v=KEX_wVcUkbM
 
+#EXTINF:-1 group-title="LOCALES 3", TRS24I SANTA FE
+https://www.youtube.com/watch?v=cjsMmRM2OD0
+
+
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=F1mgAfYrvlY
+https://www.youtube.com/watch?v=DykfjuMegEw
 
 
 
