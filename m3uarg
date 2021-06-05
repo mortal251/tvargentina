@@ -56,7 +56,8 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9  35.1 
-https://ar-elnueve-elnueve-dev-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/ar-elnueve-elnueve/8516bfa3-7dc2-4d02-b49d-e7a12452fc5b/1.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIyOTMxMDgyLCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6MTAyMzo1OGU2OmZjMWY6ZDMyZjphMWY0Il19LCJzaWduYXR1cmUiOiJhODcwNjU3NThkYjljOWRhY2E3MTUxOTM1N2MxNjlkZWU3NDExNGMwIn0%3D
+https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIyOTk3MDM5LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiI3Y2IyYzEwNDc3MDY4YWUyZjA0NjdlNzNlM2M0MTJhYjViMWY4ZjJhIn0=
+
 
 
 
@@ -2067,6 +2068,37 @@ http://31.220.41.88:8081/live/nl-foxsports5.stream/chunks.m3u8
 http://31.220.41.88:8081/live/nl-foxsports6.stream/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", DIRECTV
+http://ultraplay.org:80/DANIEL13W/2019XTR/66500
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", LA LIGA
+http://ultraplay.org:80/DANIEL13W/2019XTR/95863
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title=DEPORTES 2", CLARO SPORTS
+http://ultraplay.org:80/DANIEL13W/2019XTR/170
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", TUDN
+http://ultraplay.org:80/DANIEL13W/2019XTR/95821
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", SKY SPORTS
+http://ultraplay.org:80/DANIEL13W/2019XTR/95865
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", TELECINCO
+http://ultraplay.org:80/DANIEL13W/2019XTR/53773
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2, AFIZZIONADOS
+http://ultraplay.org:80/DANIEL13W/2019XTR/95839
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", MovistarF1
+http://ytv.plus:25461/lupita/1234/1640
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", TYC SPORTS (IPTV AZUL)
+http://ytv.plus:25461/lupita/1234/2938
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", UFC FIGHT PASS
+http://ytv.plus:25461/lupita/1234/1915
+
+
 
 
 
@@ -2858,6 +2890,9 @@ https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NAgRCyY.png" group-title="INTERNACIONAL", Canal Once MEXICO
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="INTERNACIONAL", TEN Honduras
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+
 
 
 
@@ -3569,10 +3604,13 @@ https://www.youtube.com/watch?v=AXrNF0DDi9A
 
 
 
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", PIXEL (3)
+https://unadmexicomx-my.sharepoint.com/personal/al13500861_unadmexico_mx/_layouts/15/download.aspx?guestaccesstoken=LcMieXFnnYNH1HBvA6MsOwyRJ7%2BB6Yk9EXt8EcO%2BiPI%3D&docid=1050c4ba6508b4e46929f617180c33200
 
 
 
-
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", TUS MASCOTAS (3)
+https://ia803400.us.archive.org/22/items/la-vida-secreta-de-las-mascotas-2/la%20vida%20secreta%20de%20las%20mascotas%202.MP4
 
 
 
