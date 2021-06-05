@@ -230,8 +230,7 @@ https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOCALES 2", CANAL 7 MENDOZA
 https://www.youtube.com/watch?v=9k8s9Fi_uBg
 
-#EXTINF:-1 group-title="LOCALES 2", CANAL 9 MENDOZA
-https://www.youtube.com/watch?v=eybiz_zyJC8
+
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 8 SAN JUAN
 https://www.youtube.com/watch?v=74TyBo37iV8
@@ -397,7 +396,8 @@ https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8wBbZDC6NMnd1uS8IGhPC2Lm4pxPt7uQ3TxaICRzD1vvfnXcpjiPtRGPivpDIJbC5SYB" group-title="LOCALES 3", CANAL 5 SALTA
 https://vivo.solumedia.com:19360/canal5/canal5.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Wpq8af4GxNg/YLlykYLuXhI/AAAAAAABCps/Xxgv3b7r5voeijxjk4qxMt7tome4k85OQCJEEGAsYHg/s512/2021-06-03.jpg" group-title="LOCALES 3", TVES SAN JOSE DE LA ESQUINA SANTA FE
+https://mediacp.hostradios.com.ar:19360/envivotv/envivotv.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80665_Canal_3_Pinamar.png" group-title="LOCALES 3", CANAL 3 PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
@@ -426,8 +426,12 @@ https://www.youtube.com/watch?v=0JVSvccS8Ck
 #EXTINF:-1 group-title="LOCALES 3", VERTE TV
 https://www.youtube.com/watch?v=KEX_wVcUkbM
 
+#EXTINF:-1 group-title="LOCALES 3", TRS24I SANTA FE
+https://www.youtube.com/watch?v=cjsMmRM2OD0
+
+
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=F1mgAfYrvlY
+https://www.youtube.com/watch?v=DykfjuMegEw
 
 
 
@@ -2915,10 +2919,13 @@ https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.
 #EXTINF:-1 group-title="INTERNACIONAL 2", ANN JAPAN
 https://www.youtube.com/watch?v=coYw-eVU0Ks
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="INTERNACIONAL 2", KBS WORLD
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="INTERNACIONAL 2", KBS WORLD COREA DEL SUR
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="INTERNACIONAL 2", SBS INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ebs-1.jpg" group-title="INTERNACIONAL 2", EBS 1 COREA DEL SUR
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="INTERNACIONAL 2", SBS INTERNACIONAL COREA DEL SUR
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83643_Arirang.png" group-title="INTERNACIONAL 2", ARIRANG KOREA
@@ -3763,6 +3770,9 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+
+
+
 
 
 
