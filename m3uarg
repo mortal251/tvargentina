@@ -2916,10 +2916,13 @@ https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.
 #EXTINF:-1 group-title="INTERNACIONAL 2", ANN JAPAN
 https://www.youtube.com/watch?v=coYw-eVU0Ks
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="INTERNACIONAL 2", KBS WORLD
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="INTERNACIONAL 2", KBS WORLD COREA DEL SUR
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="INTERNACIONAL 2", SBS INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ebs-1.jpg" group-title="INTERNACIONAL 2", EBS 1 COREA DEL SUR
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="INTERNACIONAL 2", SBS INTERNACIONAL COREA DEL SUR
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83643_Arirang.png" group-title="INTERNACIONAL 2", ARIRANG KOREA
