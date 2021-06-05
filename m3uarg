@@ -2074,7 +2074,7 @@ http://ultraplay.org:80/DANIEL13W/2019XTR/66500
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", LA LIGA
 http://ultraplay.org:80/DANIEL13W/2019XTR/95863
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title=DEPORTES 2", CLARO SPORTS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", CLARO SPORTS
 http://ultraplay.org:80/DANIEL13W/2019XTR/170
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", TUDN
@@ -2083,8 +2083,7 @@ http://ultraplay.org:80/DANIEL13W/2019XTR/95821
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", SKY SPORTS
 http://ultraplay.org:80/DANIEL13W/2019XTR/95865
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", TELECINCO
-http://ultraplay.org:80/DANIEL13W/2019XTR/53773
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2, AFIZZIONADOS
 http://ultraplay.org:80/DANIEL13W/2019XTR/95839
@@ -2733,7 +2732,8 @@ http://190.122.96.187:8888/http/010
 https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/cGhvdG9jYWxsLnR2.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="INTERNACIONAL", TELECINCO
+http://ultraplay.org:80/DANIEL13W/2019XTR/53773
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="INTERNACIONAL", IMAS TV ESPAÑA
