@@ -3471,10 +3471,9 @@ http://stream.lt3.com.ar:8000/;stream.mp3
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", RADIO LA RED (SOLO IPTV AZUL)
-https://latamstreaming-live-os.akamaized.net/live_passthrough/amlared/chunks.m3u8
+https://24483.live.streamtheworld.com/LA_RED_AM910AAC.aac
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aspen102.jpg/225px-Aspen102.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", ASPEN (SOLO IPTV AZUL)
-https://19173.live.streamtheworld.com/ASPENAAC_SC
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Radio_rockpop.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", ROCK AND POP (SOLO IPTV AZUL)
 https://14623.live.streamtheworld.com/ROCKANDPOPAAC_SC
@@ -3556,6 +3555,9 @@ http://streaming.latina101.com.ar:8080/RadioLatina
 
 #EXTINF:-1   tvg-logo="https://www.radio.es/images/broadcasts/8a/7f/130196/1/c175.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", La patriada 102.1 (SOLO IPTV AZUL)
 http://server4.stweb.tv:1935/lapatriada/live/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aspen102.jpg/225px-Aspen102.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", ASPEN (SOLO IPTV AZUL)
+https://19173.live.streamtheworld.com/ASPENAAC_SC
 
 
 
