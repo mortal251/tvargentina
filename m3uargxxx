@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=wHn1_QVoXGM
 
 
 #EXTINF:-1 group-title="LOCALES 1", C5N  25.2
-https://www.youtube.com/watch?v=kt43n3r1jJo
+https://www.youtube.com/watch?v=ZW7kVMYgGxo
 
 
 #EXTINF:-1 group-title="LOCALES 1", LN+  25.3
@@ -84,7 +84,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1200px-Logo_The_Simpsons.svg.png" group-title="INFANTIL", LOS SIMPSONS 
-https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
 
 
 
@@ -228,9 +228,10 @@ https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 7 MENDOZA
-https://www.youtube.com/watch?v=9k8s9Fi_uBg
+https://www.youtube.com/watch?v=fqSomXojv4c
 
-
+#EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="LOCALES 2", TVEO MENDOZA
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w2036248970.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 8 SAN JUAN
 https://www.youtube.com/watch?v=74TyBo37iV8
@@ -265,6 +266,9 @@ https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", MULTIVISION SALTA
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969209126470455297/vLw5LpAB_400x400.jpg" group-title="LOCALES 2", CIUDAD TV CHACO
+http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Gceq5SpfHb8/XrYRAGJeBUI/AAAAAAAA0i4/OHxya9wtX5kJC06MlqyfpUCl9M2azquDQCK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES 2", TELEDIARIO RIO CUARTO
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
@@ -377,8 +381,10 @@ https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", CANAL U CORDOBA
 https://vcp.myplaytv.com/canal10srt/smil:canal10srt.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Nueve_Litoral_%28Logo_2010%29.png/133px-Nueve_Litoral_%28Logo_2010%29.png" group-title="LOCALES 2", CANAL 9 PARANA
-https://5975e06a1f292.streamlock.net:4443/ahora/ahora/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109636_UTN_TV.png" group-title="LOCALES 2", UTN TV RIO GALLEGOS
+https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png" group-title="LOCALES 3", CANAL 2 SANAGASTA
@@ -387,7 +393,7 @@ https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://multimedioteveochodigital.com/uploads/logo/logo_5cccaad4c70e1.png" group-title="LOCALES 3", TEVE OCHO CHEPES LA RIOJA
 https://stmvideo1.livecastv.com/teveocho/teveocho/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-9/124367549_3646035182106189_5645279139450405719_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeGHdzhR-z3YTX0XPd_kSe_aK_iD6SBerFcr-IPpIF6sV5n499Qvrr7Yxnx029clIvI&_nc_ohc=_57fAFRYMCYAX-crqRe&_nc_ht=scontent.fepa11-1.fna&oh=a68899c71bf877c16b410dae7e04f1f6&oe=60993369" group-title="LOCALES 3", CANAL 11 MACHAGAI CHACO
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-NGDAifGyP1E/UpI-Xc5EYqI/AAAAAAAAAFM/jdgvD3akd_I/s320/canal11.jpg" group-title="LOCALES 3", CANAL 11 MACHAGAI CHACO
 http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lavozdesanpedro.com.ar/wp-content/uploads/2020/04/LOGO-NUEVO-2020_3.png" group-title="LOCALES 3", CANAL 32 SPTV SAN PEDRO
@@ -410,8 +416,7 @@ https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.
 https://59537faa0729a.streamlock.net/n24tv/n24tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://tv.misionesonline.net/wp-content/uploads/2021/02/LogoMoscaGifweb.gif" group-title="LOCALES 3", MISIONES ONLINE
-https://stream-02.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW5NYlx2DU7-fZvFS0Nn_iRU)/dm/3/x7zlqfx/s/live-1.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC2PROV.png" group-title="LOCALES 3", PROVINCIAL TV
 http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
@@ -442,6 +447,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0252
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="LOCALES 3", ITEL CHAJARI
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0177
 
+#EXTINF:-1 tvg-logo="http://tv.misionesonline.net/wp-content/uploads/2021/02/LogoMoscaGifweb.gif" group-title="LOCALES 3", MISIONES ONLINE
+https://stream-02.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW596Hn6XPP-3Ja30Bvwz_1c)/dm/3/x7zlqfx/s/live-1.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://calchaquitv.com.ar/images/logo.png" group-title="LOCALES 3", CALCHAQUI TV TUCUMAN
 http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
@@ -459,15 +467,15 @@ https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES 3", VIBRA HD MONTE CASEROS
-https://live.autistici.org/hls/vibratelevision_mid.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969209126470455297/vLw5LpAB_400x400.jpg" group-title="LOCALES 3", CIUDAD TV CHACO
-http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
+https://live.admefy.com/live/default/shiny_silver_49d7a.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="LOCALES 3", TVEO MENDOZA
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w2036248970.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.15752-9/173879036_800583104228116_8181791566486616057_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeEGaHxscLw4PuO08tsKy-VECJzXepHSEQIInNd6kdIRAmU-pzrJ6A97yIsVI265qXU&_nc_ohc=pcQx0ts_eD8AX_9PjIB&_nc_ht=scontent.fepa11-1.fna&oh=312923b6f968592b3d5be0dacfcbbd3e&oe=609F9054" group-title="LOCALES 3", CANAL 5 ALCORTA SANTA FE
 https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
@@ -477,8 +485,7 @@ https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="LOCALES 3", CANAL 3 PLUS TV  MACHAGAI CHACO
-https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5d4CZcV4phPi6eGsr1eeaBDFwh4dQ-XmLtQ&usqp=CAU" group-title="LOCALES 3", ACEQUIA TV MENDOZA
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
@@ -512,8 +519,7 @@ https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 3", TDC TV SANTA FE
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/90123896_2835906936535668_5292694186045210624_n.jpg?_nc_cat=104&ccb=3&_nc_sid=8024bb&_nc_ohc=IfTTi0tjpiAAX-I_iTM&_nc_ht=scontent.fepa11-1.fna&oh=ded10c6e372e62a0ee67492af5374c86&oe=6063FC3F" group-title="LOCALES 3", SPEED TV CONCORDIA
-http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZCgF1BmCKIw/Xv0NsKVkVlI/https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpgAAAAAAAA2ZY/A_W0oDbGNlgQn30-qgJYIBFpz9nCjpGGACK8BGAsYHg/s0/2020-07-01.jpg" group-title="LOCALES 3", SICARDI TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
@@ -540,8 +546,8 @@ https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 #EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="LOCALES 3", C5SF SANTA FE
 https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="LOCALES 3", C5SF 2 SANTA FE 
-https://5975e06a1f292.streamlock.net:4443/c5sf2/c5sf2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_QTSBRhcjGU/XATV6kEZxBI/AAAAAAAAA64/EfPiSHBQFZMfzxSac9m9gDWR1VFtBGUWQCLcBGAs/s400/Canal_XAMA_TV_San_Juan.png" group-title="LOCALES 3", XAMA TV SAN JUAN
+https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/celtatv.png" group-title="LOCALES 3", CELTA TV TRES ARROYOS
 https://vivo.solumedia.com:19360/celta/celta.m3u8
@@ -580,8 +586,7 @@ https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm4lKe3uMzJnjq38A3QLkgbFduVklg1mHu2g&usqp=CAU" group-title="LOCALES 3", EL ECO TV TANDIL
 https://5f93e494d5906.streamlock.net/elecotv/elecotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109636_UTN_TV.png" group-title="LOCALES 3", UTN TV RIO GALLEGOS
-https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgHZgj0j0s3y22Xu7XjBqMSGaRJJHIdGmkrg&usqp=CAU" group-title="LOCALES 3", CANAL 50 MORTEROS
 https://coopmorteros.online/canal50/vivo.m3u8
@@ -605,19 +610,15 @@ http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Rq2DueK3lUg/YGpFUPnkHlI/AAAAAAABBM8/jOvaiSnJ6cEVltniX8zDuD-Mv9hc-HwzwCK8BGAsYHg/s512/2021-04-04.jpg" group-title="LOCALES 3", TRIBU TV LAS VARILLAS CORDOBA
-https://5975e06a1f292.streamlock.net:4443/tributv/tributv/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/161899213_1065344863990922_8614983359079745509_o.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHa0v4iscvOJHZatl3UmwmyaxiSgPVpyaxrGJKA9WnJrB3i_je2YjuLgJPhNVMJOvI&_nc_ohc=SWV70l-wUXMAX9lhSi7&_nc_ht=scontent.fepa11-1.fna&oh=420534c9ae442d2d6c80a3e38be26db2&oe=607F6348" group-title="LOCALES 3", PALOMAR TV TUCUMAN
-http://video.streamtvradio.com:8081/uv038/uv038/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" group-title="LOCALES 3", DEL SUR TV SAN JUAN
-http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://diariosanjuan.com.ar/imagenes/banner.png" group-title="LOCALES 3", DIARIO DE SAN JUAN
 https://59537faa0729a.streamlock.net/radiolared/radiolared/playlist.m3u8
@@ -629,7 +630,11 @@ http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108929_Airevision_Digital.jpg" group-title="LOCALES 3", AIREVISION PUNTA ALTA
 http://airevision.ddns.net:1935/live/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="LOCALES 3", CANAL 3 PLUS TV  MACHAGAI CHACO
+https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/90123896_2835906936535668_5292694186045210624_n.jpg?_nc_cat=104&ccb=3&_nc_sid=8024bb&_nc_ohc=IfTTi0tjpiAAX-I_iTM&_nc_ht=scontent.fepa11-1.fna&oh=ded10c6e372e62a0ee67492af5374c86&oe=6063FC3F" group-title="LOCALES 3", SPEED TV CONCORDIA
+http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 
 
 
@@ -648,6 +653,9 @@ https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/playlist
 
 #EXTINF:-1 tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2020/12/logo-web-retina-ok-si-300x99.png" group-title="LOCALES 4", CANAL 4 ESQUEL
 https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES 4", 7 NORTE TUCUMAN
+http://video.streamtvradio.com:8081/uv027/uv027/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-j9I0buhulss/VxrWQ9llwXI/AAAAAAAACtQ/L2fSLfI0ujcLQbrzCfw8rX0dx4X1P2jvACLcB/s1600/canal-20-villa-maria-en-vivo.jpg" group-title="LOCALES 4", CANAL 20 VILLA MARIA CORDOBA
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
@@ -682,6 +690,13 @@ http://arcast.com.ar:1935/znoticias/znoticias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.infomedia24.com.ar/v2/wp-content/uploads/2017/04/logo-infomediax2.png" group-title="LOCALES 4", LM 24 RIO GALLEGOS
 https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png" group-title="LOCALES 4", CANAL 34 SAN JUAN
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Rq2DueK3lUg/YGpFUPnkHlI/AAAAAAABBM8/jOvaiSnJ6cEVltniX8zDuD-Mv9hc-HwzwCK8BGAsYHg/s512/2021-04-04.jpg" group-title="LOCALES 4", TRIBU TV LAS VARILLAS CORDOBA
+https://5975e06a1f292.streamlock.net:4443/tributv/tributv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2019/12/atv-x1.png" group-title="LOCALES 4", ATV ARGENTINA
 http://arcast.com.ar:1935/atbargentina/atbargentina/playlist.m3u8
 
@@ -693,8 +708,7 @@ https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.valletv.com/Graficos/logo.jpg" group-title="LOCALES 4", VALLE TV NEUQUEN
 https://stmv1.srvstm.com/valletv/valletv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_QTSBRhcjGU/XATV6kEZxBI/AAAAAAAAA64/EfPiSHBQFZMfzxSac9m9gDWR1VFtBGUWQCLcBGAs/s400/Canal_XAMA_TV_San_Juan.png" group-title="LOCALES 4", XAMA TV SAN JUAN
-https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://uniteve.com.ar/wp-content/themes/uniteve-2017/img/header-logo.png" group-title="LOCALES 4", UNITEVE VILLA MARIA CORDOBA
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
@@ -713,8 +727,7 @@ https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="LOCALES 4", TELEJUNIN
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png" group-title="LOCALES 4", CANAL 34 SAN JUAN
-http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="LOCALES 4", TSN NECOCHEA
 https://panel.dattalive.com/tsnnecochea/tsnnecochea/playlist.m3u8
@@ -726,15 +739,15 @@ http://190.103.192.6:8080/hls/mystreamkey.m3u8
 https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
 
 #EXTINF:-1 tvg-logo="https://madmultimedios.com.ar/download/publicidades.imagen.85ca37af4521c2f4.696d6167656e2e706e67.png" group-title="LOCALES 4", CANAL 5 TANDIL
-https://stmv1.srvif.com/madmultimedios/madmultimedios/playlist.m3u8
+https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU" group-title="LOCALES 4", TELEDIEZ PASO DE LOS LIBRES
 https://videohd.live:19360/8020/8020.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/logo-canal-2-perico.jpg" group-title="LOCALES 4", CANAL 2 PERICO
+https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-ohrxmwyu219car5qjnmnky0ll0mfu6yuk15jy6idgw.png" group-title="LOCALES 4", MILENIUM TV SALTA
-https://videoairetafi.turadioonline.com.ar:5443/LiveApp/streams/490106569518876444904284.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES 4", CANAL 12 TUCUMAN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
@@ -742,7 +755,7 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES 4", UNIVERSIDAD TV MAR DEL PLATA
-https://stream-03.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL540brWCc_-wxDga1jl80ir8M)/dm/3/x7kvvgi/s/live-1.m3u8
+https://stream-01.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL540QDU4tdesOlPCLFPVCirZM)/dm/3/x7kvvgi/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU" group-title="LOCALES 4", PLAY TELEVISION SANTA FE
 http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8
@@ -750,10 +763,10 @@ http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" group-title="LOCALES 4", TELECINCO TRELEW
 https://videohd.live:19360/8016/8016.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108679_UNIRIO.png" group-title="LOCALES 4", UNIRIO TV
+https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="LOCALES 4", CTV CORRIENTES
-https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 #EXTINF:-1 tvg-logo="https://bragadotv.com.ar/wp-content/uploads/2020/08/logoicono.png" group-title="LOCALES 4", BRAGADO TV
 https://inliveserver.com:1936/9500/9500/chunklist_w1908919579.m3u8
@@ -765,6 +778,9 @@ https://inliveserver.com:1936/8050_1/8050_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg" group-title="LOCALES 4", CANAL 10 SENILLOSA NEUQUEN
 https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://linktvcanal.com/portal/wp-content/uploads/2017/07/logo.png" group-title="LOCALES 4", LINK TV SANTA FE
+https://panel.dattalive.com/8128/8128/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.crossingcontenidos.com.ar/wp-content/uploads/2020/10/LOGO-CROSSING-IPTV-300x282.png" group-title="LOCALES 4", CROSSING TV RIO GALLEGOS
@@ -811,24 +827,34 @@ https://stmvideo2.livecastv.com/merlotv/merlotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cable10.com/imagenes/logo.png" group-title="LOCALES 4", CABLE 10 HD RIO GALLEGOS
 http://inliveserver.com:1935/8292/8292/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES 4", 7 NORTE TUCUMAN
-http://video.streamtvradio.com:8081/uv027/uv027/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://linktvcanal.com/portal/wp-content/uploads/2017/07/logo.png" group-title="LOCALES 4", LINK TV SANTA FE
-https://panel.dattalive.com/8128/8128/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 4", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
 https://inliveserver.com:1936/14064/14064/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108679_UNIRIO.png" group-title="LOCALES 4", UNIRIO TV
-https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/logo-canal-2-perico.jpg" group-title="LOCALES 4", CANAL 2 PERICO
-https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/161899213_1065344863990922_8614983359079745509_o.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHa0v4iscvOJHZatl3UmwmyaxiSgPVpyaxrGJKA9WnJrB3i_je2YjuLgJPhNVMJOvI&_nc_ohc=SWV70l-wUXMAX9lhSi7&_nc_ht=scontent.fepa11-1.fna&oh=420534c9ae442d2d6c80a3e38be26db2&oe=607F6348" group-title="LOCALES 4", PALOMAR TV TUCUMAN
+http://video.streamtvradio.com:8081/uv038/uv038/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" group-title="LOCALES 4", DEL SUR TV SAN JUAN
+http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-ohrxmwyu219car5qjnmnky0ll0mfu6yuk15jy6idgw.png" group-title="LOCALES 4", MILENIUM TV SALTA
+https://videoairetafi.turadioonline.com.ar:5443/LiveApp/streams/490106569518876444904284.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="LOCALES 4", CTV CORRIENTES
+https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 #EXTINF:-1 tvg-logo="http://television-internet.com.ar/canal-2-misiones-en-vivo.jpg?210107074240" group-title="LOCALES 4", CANAL 2 MISIONES (SOLO IPTV AZUL)
 https://nd106.republicaservers.com/canal2misiones.mp4
@@ -844,8 +870,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0279
 
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
-https://stmv.panel.mivideo.pro/cinetv/cinetv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
@@ -1025,8 +1049,7 @@ https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/06blQk_MW8hp4sQEfxlkxrm3Vlnyj0Wg6Diu_CdLui3wW8Pk9SXFaScG-ErDuKzYQes" group-title="CINE Y SERIES", SARAPIQUÍ TV
 http://209.126.105.158:1935/stv/web/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2015/02/17140854/aster1-300x165.jpg" group-title="CINE Y SERIES", ASTER
-http://96.30.193.226:81/hls/canalaster.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Canela.TV_190x190_circle.jpg?raw=true" group-title="CINE Y SERIES", CANELA TV
@@ -1041,8 +1064,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_b
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gJfa300HIW8/YH9i0sA4HoI/AAAAAAABB0c/wG725xrO-_cjTrAz0XP4F_TMjoZxawdCQCK8BGAsYHg/s512/2021-04-20.png" group-title="CINE Y SERIES", CABLEMAS
-https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4nXoFlDVb7s/YI8_ap7Pw-I/AAAAAAABCJs/Ddgvvadk8pcJOwjJQwsUK1rAEsu-EWVPgCK8BGAsYHg/s512/2021-05-02.png" group-title="CINE Y SERIES", TV QUINTA REGION
 https://srv1.zcast.com.br/daniel2525/daniel2525/playlist.m3u8
@@ -1062,6 +1084,14 @@ https://master.tucableip.com/reconline/live/video.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="CINE Y SERIES", SOL TV
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
+https://stmv.panel.mivideo.pro/cinetv/cinetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2015/02/17140854/aster1-300x165.jpg" group-title="CINE Y SERIES", ASTER
+http://96.30.193.226:81/hls/canalaster.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gJfa300HIW8/YH9i0sA4HoI/AAAAAAABB0c/wG725xrO-_cjTrAz0XP4F_TMjoZxawdCQCK8BGAsYHg/s512/2021-04-20.png" group-title="CINE Y SERIES", CABLEMAS
+https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 
 
 
@@ -1207,8 +1237,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d00074
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo.svg.pngg" group-title="CINE Y SERIES 3", COSMO
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="CINE Y SERIES 3", DMAX
-http://91.126.141.12:1935/live/discoverymax/playslist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/250px-DKISS_2019_logo.svg.png" group-title="CINE Y SERIES 3", DKISS
 http://91.126.141.201:1935/live/kiss/playlist.m3u8
@@ -1217,8 +1246,6 @@ http://91.126.141.201:1935/live/kiss/playlist.m3u8
 http://91.126.141.201:1935/live/ten/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5d93b58e7ea6f9918873886f/colorLogoPNG.png" group-title="CINE Y SERIES 3", 007
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b58e7ea6f9918873886f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG.png" group-title="CINE Y SERIES 3", CINE JAJA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
@@ -1286,6 +1313,13 @@ https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canal45television/picture?width=320&height=320" group-title="CINE Y SERIES 3",Canal 45 TV
 https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="CINE Y SERIES 3", DMAX
+http://91.126.141.12:1935/live/discoverymax/playslist.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5d93b58e7ea6f9918873886f/colorLogoPNG.png" group-title="CINE Y SERIES 3", 007
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b58e7ea6f9918873886f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
+
 
 
 
@@ -1468,7 +1502,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5
 https://live.admefy.com/live/clean_peach_ef224.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" group-title="INFANTIL", EL CHAVO
-https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w1525710315.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png" group-title="INFANTIL", GARFIELD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -1515,7 +1550,7 @@ https://alchimie-elpatio-1-es.samsung.wurl.com/manifest/playlist.m3u8
 https://dhx-caillou-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKHUnHT.png" group-title="INFANTIL", MONSTRUOS DE VERDAD
-https://videostreaming.cloudserverlatam.com/kids/kids/playlist.m3u8
+https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w1255271059.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GVKVCBZ1ryg/YBsb5fRaNOI/AAAAAAAA_qk/6puCkYZaRUkrhUHzzMnHGL2CUMO94ij2ACK8BGAsYHg/s0/2021-02-03.png" group-title="INFANTIL", BOOMERANG
@@ -1555,13 +1590,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", LOCOMOTION (OPCION 2)
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUfXn6czYrT7z_8DubKtd29uPxZi3ZtUDoIQ&usqp=CAU" group-title="INFANTIL", ANIME ZONE TV
-http://animeloving.net/hls/stream.m3u8
+http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="INFANTIL", TV ANIME
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
@@ -1734,7 +1764,7 @@ https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="DEPORTE", CLARO SPORTS
-https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+http://ultraplay.org:80/DANIEL13W/2019XTR/170
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Best-Cable-Sports-en-vivo.jpg" group-title="DEPORTE", BEST CABLE SPORT
 https://live.siete.us/bestcablesports/bestcablesports/index.m3u8
@@ -2072,26 +2102,6 @@ http://31.220.41.88:8081/live/nl-foxsports5.stream/chunks.m3u8
 http://31.220.41.88:8081/live/nl-foxsports6.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", DIRECTV
-http://ultraplay.org:80/DANIEL13W/2019XTR/66500
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", LA LIGA
-http://ultraplay.org:80/DANIEL13W/2019XTR/95863
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", CLARO SPORTS
-http://ultraplay.org:80/DANIEL13W/2019XTR/170
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", TUDN
-http://ultraplay.org:80/DANIEL13W/2019XTR/95821
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", SKY SPORTS
-http://ultraplay.org:80/DANIEL13W/2019XTR/95865
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2, AFIZZIONADOS
-http://ultraplay.org:80/DANIEL13W/2019XTR/95839
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", MovistarF1
 http://ytv.plus:25461/lupita/1234/1640
 
@@ -2134,17 +2144,11 @@ https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/101700_Rewind_TV.png" group-title="MUSICA", REWIND
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Top_Latino.png" group-title="MUSICA", TOP LATINO
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45116_Portal_FoxMix.png" group-title="MUSICA", PORTALFOXMIX
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/103795_CEAC_TV.png" group-title="MUSICA", CEACTV
-https://videostreaming.cloudserverlatam.com/ceactv/ceactv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="MUSICA", QUEST TV Classical
-https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA", CLASIC MUSIC PIANO
+https://www.youtube.com/watch?v=OowUi602GdU
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",3ABN Praise Him Music Channel
 https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
@@ -2200,9 +2204,6 @@ https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108423_Tele_Mas.png" group-title="MUSICA", TELE MAS
 https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110975_Awka.png" group-title="MUSICA", AKWA
-https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png" group-title="MUSICA", ON RADIO CHILE
 https://tls.cdnz.cl/onradio3/live/playlist.m3u8
@@ -2325,16 +2326,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="MUSICA 2", KARAOKE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bhSrOea.jpg" group-title="MUSICA 2", QUEST TV Jazz and Beyond
-https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="MUSICA 2", QUEST TV MIX
-https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24/7 TOP 100
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
@@ -3451,10 +3442,9 @@ http://stream.lt3.com.ar:8000/;stream.mp3
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", RADIO LA RED (SOLO IPTV AZUL)
-https://latamstreaming-live-os.akamaized.net/live_passthrough/amlared/chunks.m3u8
+https://24483.live.streamtheworld.com/LA_RED_AM910AAC.aac
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aspen102.jpg/225px-Aspen102.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", ASPEN (SOLO IPTV AZUL)
-https://19173.live.streamtheworld.com/ASPENAAC_SC
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Radio_rockpop.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", ROCK AND POP (SOLO IPTV AZUL)
 https://14623.live.streamtheworld.com/ROCKANDPOPAAC_SC
@@ -3536,6 +3526,9 @@ http://streaming.latina101.com.ar:8080/RadioLatina
 
 #EXTINF:-1   tvg-logo="https://www.radio.es/images/broadcasts/8a/7f/130196/1/c175.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", La patriada 102.1 (SOLO IPTV AZUL)
 http://server4.stweb.tv:1935/lapatriada/live/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aspen102.jpg/225px-Aspen102.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", ASPEN (SOLO IPTV AZUL)
+https://19173.live.streamtheworld.com/ASPENAAC_SC
 
 
 
@@ -3770,9 +3763,6 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
-
-
-
 
 
 
