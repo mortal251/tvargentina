@@ -869,8 +869,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0279
 
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
-https://stmv.panel.mivideo.pro/cinetv/cinetv/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
@@ -1050,8 +1049,7 @@ https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/06blQk_MW8hp4sQEfxlkxrm3Vlnyj0Wg6Diu_CdLui3wW8Pk9SXFaScG-ErDuKzYQes" group-title="CINE Y SERIES", SARAPIQUÍ TV
 http://209.126.105.158:1935/stv/web/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2015/02/17140854/aster1-300x165.jpg" group-title="CINE Y SERIES", ASTER
-http://96.30.193.226:81/hls/canalaster.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Canela.TV_190x190_circle.jpg?raw=true" group-title="CINE Y SERIES", CANELA TV
@@ -1066,8 +1064,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_b
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gJfa300HIW8/YH9i0sA4HoI/AAAAAAABB0c/wG725xrO-_cjTrAz0XP4F_TMjoZxawdCQCK8BGAsYHg/s512/2021-04-20.png" group-title="CINE Y SERIES", CABLEMAS
-https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4nXoFlDVb7s/YI8_ap7Pw-I/AAAAAAABCJs/Ddgvvadk8pcJOwjJQwsUK1rAEsu-EWVPgCK8BGAsYHg/s512/2021-05-02.png" group-title="CINE Y SERIES", TV QUINTA REGION
 https://srv1.zcast.com.br/daniel2525/daniel2525/playlist.m3u8
@@ -1087,6 +1084,14 @@ https://master.tucableip.com/reconline/live/video.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="CINE Y SERIES", SOL TV
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
+https://stmv.panel.mivideo.pro/cinetv/cinetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2015/02/17140854/aster1-300x165.jpg" group-title="CINE Y SERIES", ASTER
+http://96.30.193.226:81/hls/canalaster.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gJfa300HIW8/YH9i0sA4HoI/AAAAAAABB0c/wG725xrO-_cjTrAz0XP4F_TMjoZxawdCQCK8BGAsYHg/s512/2021-04-20.png" group-title="CINE Y SERIES", CABLEMAS
+https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 
 
 
