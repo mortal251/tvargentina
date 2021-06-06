@@ -2144,17 +2144,11 @@ https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/101700_Rewind_TV.png" group-title="MUSICA", REWIND
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Top_Latino.png" group-title="MUSICA", TOP LATINO
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45116_Portal_FoxMix.png" group-title="MUSICA", PORTALFOXMIX
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/103795_CEAC_TV.png" group-title="MUSICA", CEACTV
-https://videostreaming.cloudserverlatam.com/ceactv/ceactv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="MUSICA", QUEST TV Classical
-https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA", CLASIC MUSIC PIANO
+https://www.youtube.com/watch?v=OowUi602GdU
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",3ABN Praise Him Music Channel
 https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
@@ -2210,9 +2204,6 @@ https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108423_Tele_Mas.png" group-title="MUSICA", TELE MAS
 https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110975_Awka.png" group-title="MUSICA", AKWA
-https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png" group-title="MUSICA", ON RADIO CHILE
 https://tls.cdnz.cl/onradio3/live/playlist.m3u8
