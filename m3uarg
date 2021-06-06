@@ -3530,6 +3530,9 @@ http://server4.stweb.tv:1935/lapatriada/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aspen102.jpg/225px-Aspen102.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", ASPEN (SOLO IPTV AZUL)
 https://19173.live.streamtheworld.com/ASPENAAC_SC
 
+#EXTINF:-1   tvg-logo="https://static.wixstatic.com/media/24ff7d_82e1c78346c149c4b872a8a1e09c9f70~mv2.png/v1/fill/w_600,h_495,al_c,q_85,usm_0.66_1.00_0.01/136396258_832348130946312_42476827791157.webp" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", FM PREMIUN CLASSIC 98.7 FM VILLA MARIA CORDOBA (SOLO IPTV AZUL)
+https://stream.zeno.fm/cvvvykmtpg8uv
+
 
 
 
