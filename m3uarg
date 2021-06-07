@@ -564,8 +564,7 @@ https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiocanal.com.ar/imagenes/estructura/canal4.png" group-title="LOCALES 3", CANAL 4 SAN FRANCISCO CORDOBA
-https://coopmorteros.online/radiocanal/canal01.m3u8
-
+http://204.199.3.2/.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pSW2boY6Hdg/XvKY9iZvQuI/AAAAAAAA2MI/VIJZpl99EmwV71NgaYFHvYEPEsl3jzD3ACK8BGAsYHg/s0/2020-06-23.jpg" group-title="LOCALES 3", CANAL COOP JESUS MARIA CORDOBA
 https://panel.dattalive.com/8138/8138/playlist.m3u8
@@ -717,8 +716,7 @@ https://stmv1.srvstm.com/valletv/valletv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://uniteve.com.ar/wp-content/themes/uniteve-2017/img/header-logo.png" group-title="LOCALES 4", UNITEVE VILLA MARIA CORDOBA
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhUQ5Os9Dt_YYuUoJ2UonRBs23Q-HMnpEe3Q0hd2g=s88-c-k-c0x00ffffff-no-rj" group-title="LOCALES 4", MERCEDES TV
-https://stmv1.srvif.com/mercedestv/mercedestv/playlist.m3u8
+
 
 
 
@@ -742,8 +740,8 @@ http://190.103.192.6:8080/hls/mystreamkey.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="LOCALES 4", CANAL 10 SAN RAFAEL
 https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
 
-#EXTINF:-1 tvg-logo="https://madmultimedios.com.ar/download/publicidades.imagen.85ca37af4521c2f4.696d6167656e2e706e67.png" group-title="LOCALES 4", CANAL 5 TANDIL
-https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cable10.com/imagenes/logo.png" group-title="LOCALES 4", CABLE 10 HD RIO GALLEGOS
+http://inliveserver.com:1935/8292/8292/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU" group-title="LOCALES 4", TELEDIEZ PASO DE LOS LIBRES
 https://videohd.live:19360/8020/8020.m3u8
@@ -790,8 +788,7 @@ https://panel.dattalive.com/8128/8128/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.crossingcontenidos.com.ar/wp-content/uploads/2020/10/LOGO-CROSSING-IPTV-300x282.png" group-title="LOCALES 4", CROSSING TV RIO GALLEGOS
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8
 
-#EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title="LOCALES 4", ALBARDON TV SAN JUAN
-https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.canal4teleba.com.ar/img/banner.png" group-title="LOCALES 4", TELEBA BALCARCE
 http://inliveserver.com:1935/8550/8550/playlist.m3u8
@@ -828,8 +825,7 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
 https://stmvideo2.livecastv.com/merlotv/merlotv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cable10.com/imagenes/logo.png" group-title="LOCALES 4", CABLE 10 HD RIO GALLEGOS
-http://inliveserver.com:1935/8292/8292/playlist.m3u8
+
 
 
 
@@ -859,6 +855,15 @@ https://videoairetafi.turadioonline.com.ar:5443/LiveApp/streams/4901065695188764
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="LOCALES 4", CTV CORRIENTES
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhUQ5Os9Dt_YYuUoJ2UonRBs23Q-HMnpEe3Q0hd2g=s88-c-k-c0x00ffffff-no-rj" group-title="LOCALES 4", MERCEDES TV
+https://stmv1.srvif.com/mercedestv/mercedestv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://madmultimedios.com.ar/download/publicidades.imagen.85ca37af4521c2f4.696d6167656e2e706e67.png" group-title="LOCALES 4", CANAL 5 TANDIL
+https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title="LOCALES 4", ALBARDON TV SAN JUAN
+https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://television-internet.com.ar/canal-2-misiones-en-vivo.jpg?210107074240" group-title="LOCALES 4", CANAL 2 MISIONES (SOLO IPTV AZUL)
 https://nd106.republicaservers.com/canal2misiones.mp4
