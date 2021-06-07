@@ -56,7 +56,8 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9  35.1 
-https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIyOTk3MDM5LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiI3Y2IyYzEwNDc3MDY4YWUyZjA0NjdlNzNlM2M0MTJhYjViMWY4ZjJhIn0=
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzMTU0MTQ3LCJzZXNzaW9uIjoiMjAwLjMuMTEzLjE1MCIsIndoaXRlbGlzdCI6WyIyMDAuMy4xMTMuMTUwIl19LCJzaWduYXR1cmUiOiJjNzYzMGE0MmU3MzBkNDgzYzAzMmM4N2U0ODU0MTE0MjZiMWIwYTFiIn0%3D
+
 
 
 
@@ -343,8 +344,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=s
 https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1622841561~exp=1623017961~acl=/I/canal9bahiablanca_1@685725/*~hmac=156a80b29be652eb177c52d35ca5ebc42a81cca746843d52dc7daf4bd0f75fc1
 
 #EXTINF:-1 group-title="LOCALES 2", NOTICIERO CANAL 7 BAHIA BLANCA
-https://www.youtube.com/watch?v=OgNa-zqt1h8
-
+https://www.youtube.com/watch?v=8FvEoKTiRWo
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="LOCALES 2", CANAL 7 CATAMARCA
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
@@ -426,18 +426,16 @@ http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
 https://www.youtube.com/watch?v=JOEO4OMiPx0
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=0JVSvccS8Ck
+https://www.youtube.com/watch?v=eaa5Zi8ippQ
 
 #EXTINF:-1 group-title="LOCALES 3", VERTE TV
 https://www.youtube.com/watch?v=KEX_wVcUkbM
 
-#EXTINF:-1 group-title="LOCALES 3", TRS24I SANTA FE
-https://www.youtube.com/watch?v=cjsMmRM2OD0
+
 
 
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=DykfjuMegEw
-
+https://www.youtube.com/watch?v=LR4-qQJk3AM
 
 
 
@@ -1085,7 +1083,7 @@ https://master.tucableip.com/reconline/live/video.m3u8
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
-https://stmv.panel.mivideo.pro/cinetv/cinetv/playlist.m3u8
+https://stmv.panel.mivideo.pro/cineperu/cineperu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2015/02/17140854/aster1-300x165.jpg" group-title="CINE Y SERIES", ASTER
 http://96.30.193.226:81/hls/canalaster.m3u8
@@ -3530,6 +3528,9 @@ http://server4.stweb.tv:1935/lapatriada/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aspen102.jpg/225px-Aspen102.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", ASPEN (SOLO IPTV AZUL)
 https://19173.live.streamtheworld.com/ASPENAAC_SC
 
+#EXTINF:-1   tvg-logo="https://static.wixstatic.com/media/24ff7d_82e1c78346c149c4b872a8a1e09c9f70~mv2.png/v1/fill/w_600,h_495,al_c,q_85,usm_0.66_1.00_0.01/136396258_832348130946312_42476827791157.webp" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", FM PREMIUN CLASSIC 98.7 FM VILLA MARIA CORDOBA (SOLO IPTV AZUL)
+https://stream.zeno.fm/cvvvykmtpg8uv
+
 
 
 
@@ -3763,6 +3764,9 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+
+
+
 
 
 
