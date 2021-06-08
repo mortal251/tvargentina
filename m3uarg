@@ -56,7 +56,7 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="LOCALES 1", CANAL 9  35.1 
-https://ar-elnueve-elnueve-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzMTkwMDUwLCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIyODAwOjgxMDo0NzM6MTAyMzpiZGQ2OmIyNWM6ZWI0NDo5OWE0Il19LCJzaWduYXR1cmUiOiIwMWU2MTFiNmM0ZWY3NDI3ZjBiMjU4NTA0MjcxNTY3ZjQyOTk3OWEzIn0%3D
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzMjM3NTkyLCJzZXNzaW9uIjoiMjAwLjMuMTEzLjE1MCIsIndoaXRlbGlzdCI6WyIyMDAuMy4xMTMuMTUwIl19LCJzaWduYXR1cmUiOiI1YzBkY2Q4MjJiYjQ0MWI2OGJiNDBiZDdlZjUzYTVjOWQ5MGUxMTM4In0%3D
 
 
 
@@ -231,7 +231,7 @@ https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
 https://www.youtube.com/watch?v=fqSomXojv4c
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 9 MENDOZA
-https://www.youtube.com/watch?v=TsZL0-BqWWY
+https://www.youtube.com/watch?v=-gSU2rNlw1Q
 
 #EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="LOCALES 2", TVEO MENDOZA
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w2036248970.m3u8
@@ -434,12 +434,10 @@ https://www.youtube.com/watch?v=q0kqss4cfw0
 https://www.youtube.com/watch?v=KEX_wVcUkbM
 
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=62llOPJng3g
-
+https://www.youtube.com/watch?v=Q5A6IeYWtwY
 
 #EXTINF:-1 group-title="LOCALES 3", TRS24I SANTA FE
 https://www.youtube.com/watch?v=RXc9Fl7b8VY
-
 
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 3", CUIDAR TV SAN JUAN
