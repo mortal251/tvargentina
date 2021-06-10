@@ -1284,8 +1284,11 @@ http://184.173.181.2:1935/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gtOJEZDXT74/X6ial-IEvuI/AAAAAAAA7HE/DVodKb8gbr4UYli0KdKGZf9Bfz4WrXqwQCK8BGAsYHg/s0/2020-11-08.png" group-title="CINE Y SERIES 3", INFINITA
 https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canal45television/picture?width=320&height=320" group-title="CINE Y SERIES 3",Canal 45 TV
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canal45television/picture?width=320&height=320" group-title="CINE Y SERIES 3", Canal 45 TV
 https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioprimaveramoquegua/picture?width=320&height=320" group-title="CINE Y SERIES 3", Primavera 15 
+https://rtmp02.portalexpress.es/primaveratv/primaveratv/playlist.m3u8
 
 
 
@@ -1496,6 +1499,12 @@ https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="INFANTIL", AZTECA 7
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="INFANTIL", RAKUTEN FAMILIA
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/1_%C2%B72_%C2%B73_TV_logo.svg/245px-1_%C2%B72_%C2%B73_TV_logo.svg.png" group-title="INFANTIL", 123 TV
+http://177.52.221.214:8000/play/a0ew/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_f331914d260442069047f8fd3f5b90e5~mv2.png/v1/fill/w_96,h_72,al_c,q_85,usm_0.66_1.00_0.01/Mosca-1280x720_color_edited%20editado_edit.webp" group-title="INFANTIL", PEQUERADIO
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
@@ -1582,6 +1591,9 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ksEr4f.png" group-title="INFANTIL", LEGO TOONS
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png" group-title="INFANTIL", 74 TV
+https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png" group-title="INFANTIL", NICK JR. LATINO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff372-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=508efa49-44d3-42fd-8d4d-75f10b4e7cc7&userId=&serverSideAds=true
@@ -1679,6 +1691,10 @@ https://www.youtube.com/watch?v=SbugOb2aYFg
 
 #EXTINF:-1 group-title="INFANTIL", PAW Patrol
 https://www.youtube.com/watch?v=kg1I6vR1t0g
+
+
+
+
 
 
 
@@ -2218,6 +2234,12 @@ https://vidaprimo-plex.amagi.tv/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80111_Alegria_TV.png" group-title="MUSICA", ALEGRIA TV
 https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", 1 Music Channel
+https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/BestCableTvCanal3/picture?width=320&height=320" group-title="MUSICA", Best Cable Perú
+https://live.siete.us/bestcable/bestcable/index.m3u8
 
 
 
@@ -2539,7 +2561,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NKW3gW7.png" group-title="ESTILO DE VIDA 1", FOREST LIVE
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NKW3gW7.png" group-title="ESTILO DE VIDA 1", FOREST LIVE
+https://livelist01.yowi.tv/lista/f76628c633e492853b8e4d98f8eb1d129d2e6771/index-f4-v1-a1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Got_Talent_logo.PNG/800px-Got_Talent_logo.PNG" group-title="ESTILO DE VIDA 1", Global Got Talent
@@ -2610,7 +2633,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007f
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png" group-title="ESTILO DE VIDA 2", BADASS NOVELAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c83c401-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ffbb9a2c-01a5-4d7e-9f19-6c9247bdee77&userId=&serverSideAds=true
 
-
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="ESTILO DE VIDA 2", Vaya semanita
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
 
 
@@ -2657,6 +2681,9 @@ http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL", FORO TV MEXICO
 https://www.youtube.com/watch?v=9RzOKoaDnC8
+
+#EXTINF:-1 group-title="INTERNACIONAL", MALAGA 24 
+https://www.youtube.com/watch?v=oE1qOBSlsGY
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CUBAVISION_2017.png" group-title="INTERNACIONAL", CUBAVISION
 http://190.122.96.187:8888/http/010
@@ -2971,6 +2998,9 @@ https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="INTERNACIONAL 2", TV CULTURA BRASIL
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONAL 2", WINE TV ITALIA
+https://www.youtube.com/watch?v=Sc4kXPfqUZg
 
 
 
@@ -3357,14 +3387,12 @@ https://videohd.live:19360/8042/8042.m3u8
 #EXTINF:-1 tvg-logo="https://radioarg.net/assets/image/radio/180/argentina-893-fm-online.jpg" group-title="RADIO 2", RADIO ARGENTINA 89.3 FM RESISTENCIA CHACO
 http://streamingvideo.com.ar:1935/argentinaenlinea/live/chunklist_w778403502.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cadenaam1470.com/wp-content/uploads/2020/05/LOGO1.png" group-title="RADIO 2", CADENA 1410 LANUS
-https://stmv1.srvif.com/am1470/am1470/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cadenaam1470.com/wp-content/uploads/2020/05/LOGO1.png" group-title="RADIO 2", CADENA 1470 AM LANUS
+https://stmvideo1.livecastv.com/am1470/am1470/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="RADIO 2", CATRIEL WEB
-https://589ff3c36f7e8.streamlock.net/alastv/alastv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiotupac.com.ar/wp-content/uploads/2020/04/LOGO-TUPAC-WEBCAST-05.jpg" group-title="RADIO 2", RADIO TUPAC WEBCAST
-https://video.turadioonline.com.ar:5443/LiveApp/streams/235402511797957164799618.m3u8
+
+
 
 
 
@@ -3534,6 +3562,9 @@ https://wowza.telpin.com.ar:1935/camara-botavara/smil:camara-botavara.smil/chunk
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CAMARA USHUAIA
 https://www.youtube.com/watch?v=AXrNF0DDi9A
+
+#EXTINF:-1 tvg-logo="https://lasfloresdigital.com.ar/wp-content/uploads/2020/10/toplogo.png" group-title="WEB CAM Y CLIMA", LAS FLORES PCIA. BUENOS AIRES
+http://inliveserver.com:1935/8436/8436/playlist.m3u8
 
 
 
@@ -3775,6 +3806,9 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+
+
+
 
 
 
