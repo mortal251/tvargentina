@@ -3535,6 +3535,9 @@ https://wowza.telpin.com.ar:1935/camara-botavara/smil:camara-botavara.smil/chunk
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", CAMARA USHUAIA
 https://www.youtube.com/watch?v=AXrNF0DDi9A
 
+#EXTINF:-1 tvg-logo="https://lasfloresdigital.com.ar/wp-content/uploads/2020/10/toplogo.png" group-title="WEB CAM Y CLIMA", LAS FLORES PCIA. BUENOS AIRES
+http://inliveserver.com:1935/8436/8436/playlist.m3u8
+
 
 
 
