@@ -1496,6 +1496,10 @@ https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="INFANTIL", AZTECA 7
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/1_%C2%B72_%C2%B73_TV_logo.svg/245px-1_%C2%B72_%C2%B73_TV_logo.svg.png" group-title="INFANTIL", 123 TV
+http://177.52.221.214:8000/play/a0ew/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_f331914d260442069047f8fd3f5b90e5~mv2.png/v1/fill/w_96,h_72,al_c,q_85,usm_0.66_1.00_0.01/Mosca-1280x720_color_edited%20editado_edit.webp" group-title="INFANTIL", PEQUERADIO
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
@@ -2218,6 +2222,12 @@ https://vidaprimo-plex.amagi.tv/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80111_Alegria_TV.png" group-title="MUSICA", ALEGRIA TV
 https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", 1 Music Channel
+https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/BestCableTvCanal3/picture?width=320&height=320" group-title="MUSICA", Best Cable Perú
+https://live.siete.us/bestcable/bestcable/index.m3u8
 
 
 
@@ -2539,7 +2549,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NKW3gW7.png" group-title="ESTILO DE VIDA 1", FOREST LIVE
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NKW3gW7.png" group-title="ESTILO DE VIDA 1", FOREST LIVE
+https://livelist01.yowi.tv/lista/f76628c633e492853b8e4d98f8eb1d129d2e6771/index-f4-v1-a1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Got_Talent_logo.PNG/800px-Got_Talent_logo.PNG" group-title="ESTILO DE VIDA 1", Global Got Talent
@@ -2975,6 +2986,9 @@ https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="INTERNACIONAL 2", TV CULTURA BRASIL
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 
+#EXTINF:-1 group-title="INTERNACIONAL 2", WINE TV ITALIA
+https://www.youtube.com/watch?v=Sc4kXPfqUZg
+
 
 
 
@@ -3360,14 +3374,12 @@ https://videohd.live:19360/8042/8042.m3u8
 #EXTINF:-1 tvg-logo="https://radioarg.net/assets/image/radio/180/argentina-893-fm-online.jpg" group-title="RADIO 2", RADIO ARGENTINA 89.3 FM RESISTENCIA CHACO
 http://streamingvideo.com.ar:1935/argentinaenlinea/live/chunklist_w778403502.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cadenaam1470.com/wp-content/uploads/2020/05/LOGO1.png" group-title="RADIO 2", CADENA 1410 LANUS
-https://stmv1.srvif.com/am1470/am1470/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cadenaam1470.com/wp-content/uploads/2020/05/LOGO1.png" group-title="RADIO 2", CADENA 1470 AM LANUS
+https://stmvideo1.livecastv.com/am1470/am1470/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="RADIO 2", CATRIEL WEB
-https://589ff3c36f7e8.streamlock.net/alastv/alastv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiotupac.com.ar/wp-content/uploads/2020/04/LOGO-TUPAC-WEBCAST-05.jpg" group-title="RADIO 2", RADIO TUPAC WEBCAST
-https://video.turadioonline.com.ar:5443/LiveApp/streams/235402511797957164799618.m3u8
+
+
 
 
 
