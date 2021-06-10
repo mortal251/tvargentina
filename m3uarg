@@ -1287,11 +1287,6 @@ https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canal45television/picture?width=320&height=320" group-title="CINE Y SERIES 3",Canal 45 TV
 https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="CINE Y SERIES 3", DMAX
-http://91.126.141.12:1935/live/discoverymax/playslist.m3u8
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5d93b58e7ea6f9918873886f/colorLogoPNG.png" group-title="CINE Y SERIES 3", 007
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b58e7ea6f9918873886f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
 
 
@@ -1685,8 +1680,7 @@ https://www.youtube.com/watch?v=SbugOb2aYFg
 #EXTINF:-1 group-title="INFANTIL", PAW Patrol
 https://www.youtube.com/watch?v=kg1I6vR1t0g
 
-#EXTINF:-1 group-title="INFANTIL", Blippi
-https://www.youtube.com/watch?v=xytsE16CgUk
+
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-title="INFANTIL", ESR 24X7 NETWORK
