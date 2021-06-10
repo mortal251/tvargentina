@@ -1687,6 +1687,12 @@ https://www.youtube.com/watch?v=SbugOb2aYFg
 #EXTINF:-1 group-title="INFANTIL", PAW Patrol
 https://www.youtube.com/watch?v=kg1I6vR1t0g
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="INFANTIL", RAKUTEN FAMILIA 2
+https://rakuten-family-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="INFANTIL", RAKUTEN FAMILIA
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
 
 
 
