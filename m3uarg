@@ -2658,6 +2658,9 @@ http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL", FORO TV MEXICO
 https://www.youtube.com/watch?v=9RzOKoaDnC8
 
+#EXTINF:-1 group-title="INTERNACIONAL", MALAGA 24 
+https://www.youtube.com/watch?v=oE1qOBSlsGY
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CUBAVISION_2017.png" group-title="INTERNACIONAL", CUBAVISION
 http://190.122.96.187:8888/http/010
 
