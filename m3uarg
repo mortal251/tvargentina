@@ -203,7 +203,7 @@ http://45.6.4.154/americatuc/vivo.m3u8
 https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/133px-Telefe_Tucum%C3%A1n_%282018%29.png" group-title="LOCALES 2", TELEFE TUCUMAN
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1623365939~acl=%2fi%2fcanal8tucuman_1%40787002%2f*~data=hdntl~hmac=93d44384e4a209a408ec59e6c4eaf7f96ae599d2cd118697d7f6417bd7ba7623
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1623317693~exp=1623494093~acl=/i/canal8tucuman_1@787002/*~hmac=3f759ad30df4672be73597e90efb15ad2bc4a3d94a9efab3067669cc31c6e5de
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES 2", 6 ENTRE RIOS TV
 https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
@@ -220,8 +220,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 7 MENDOZA
-https://www.youtube.com/watch?v=fqSomXojv4c
-
+https://www.youtube.com/watch?v=MXSS64cx_P4
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="LOCALES 2", CANAL 9 MENDOZA
@@ -257,8 +256,7 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OmdVIgiYcpQ/XrYImNhAa7I/AAAAAAAA0hA/HKMr0zop2CsNpUAuev_aVuelSQkqOLzTQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="LOCALES 2", CANAL 10 MAR DEL PLATA
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Nueve_Litoral_%28Logo_2010%29.png" group-title="LOCALES 2", CANAL 9 PARANA
-https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gU0LdOci1cE/XrYL7uefhAI/AAAAAAAA0h0/N9ww7QKwrrY9kCL4fMrD3mroXZHoYMudACK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES 2", CANAL 7 JUJUY
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
@@ -344,8 +342,6 @@ https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Telefe_Bah%C3%ADa_Blanca_%282018%29.png/133px-Telefe_Bah%C3%ADa_Blanca_%282018%29.png" group-title="LOCALES 2", TELEFE BAHIA BLANCA
 https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1623276086~exp=1623452486~acl=/I/canal9bahiablanca_1@685725/*~hmac=4fdba5036192494eace8db2efb59e66b04534b4685d30b5e8baae4946d754ed1
 
-#EXTINF:-1 group-title="LOCALES 2", NOTICIERO CANAL 7 BAHIA BLANCA
-https://www.youtube.com/watch?v=8FvEoKTiRWo
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="LOCALES 2", CANAL 7 CATAMARCA
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
@@ -384,6 +380,9 @@ https://vcp.myplaytv.com/canal10srt/smil:canal10srt.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109636_UTN_TV.png" group-title="LOCALES 2", UTN TV RIO GALLEGOS
 https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Nueve_Litoral_%28Logo_2010%29.png" group-title="LOCALES 2", CANAL 9 PARANA
+https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/playlist.m3u8
 
 
 
@@ -438,16 +437,15 @@ http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
 https://www.youtube.com/watch?v=Ucg5BClocS8
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=HO4sWuoZA3c
+https://www.youtube.com/watch?v=SFbR9zL2a2g
 
 #EXTINF:-1 group-title="LOCALES 3", VERTE TV
 https://www.youtube.com/watch?v=KEX_wVcUkbM
 
 #EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
-https://www.youtube.com/watch?v=B2_XTGs-i0s
+https://www.youtube.com/watch?v=cNS8AG5XYnY
 
-#EXTINF:-1 group-title="LOCALES 3", TRS24I SANTA FE
-https://www.youtube.com/watch?v=RXc9Fl7b8VY
+
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 3", CUIDAR TV SAN JUAN
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0252
