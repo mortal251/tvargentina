@@ -2044,14 +2044,7 @@ http://31.220.41.88:8081/live/nl-foxsports5.stream/chunks.m3u8
 http://31.220.41.88:8081/live/nl-foxsports6.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", MovistarF1
-http://ytv.plus:25461/lupita/1234/1640
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", TYC SPORTS (IPTV AZUL)
-http://ytv.plus:25461/lupita/1234/2938
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", UFC FIGHT PASS
-http://ytv.plus:25461/lupita/1234/1915
 
 
 
