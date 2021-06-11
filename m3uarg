@@ -2254,6 +2254,11 @@ https://live.siete.us/bestcable/bestcable/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2xVIwFKJWas/YGTgbSHRvfI/AAAAAAABBE0/3_gHuiZ6PgUThrN20ycfdRDpDVR3KwBLACK8BGAsYHg/s512/2021-03-31.jpg" group-title="MUSICA", HD LATAM +
+https://www.streamingmediatv.live:19360/hdlatam/hdlatam.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" group-title="MUSICA 2", MTV CLASSIC
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ebaf0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=78e0da1c-3f09-404b-90ab-6e2707b432e5&userId=&serverSideAds=true
 
