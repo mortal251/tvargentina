@@ -3255,7 +3255,8 @@ https://stmvideo2.livecastv.com/launotv/launotv/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a74898_8daa917642a242dda1cc6d42791d390f~mv2.png/v1/fill/w_149,h_149,al_c,q_85,usm_0.66_1.00_0.01/Complejo%2520dance%2520OIine1_edited.webp" group-title="RADIO 2", COMPLEJO DANCE FM 92.3 MERCEDES
+https://mediacp.hostradios.com.ar:19360/complejodance/complejodance.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lavozdeldesierto.com.ar/images/design/isologo.png" group-title="RADIO 2", FM LA VOZ DEL DESIERTO NEUQUEN
 https://stmv1.srvstm.com/vozdesierto/vozdesierto/playlist.m3u8
