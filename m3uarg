@@ -3096,8 +3096,6 @@ https://inliveserver.com:1936/14172/14172/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jtamendoza.com/images/icon_144.png" group-title="RELIGION", JTA TV 21.1 MENDOZA
 https://streaming.jtamendoza.com:8443/hls/test_mid.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.sanpedrotv.com.ar/img/logo4.png" group-title="RELIGION", SAN PEDRO TV
-https://iptv.ixfo.com.ar:30443/live/sanpedrotv/chunks.m3u8?nimblesessionid=5017185
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85d0fd3f9dab2acb467c4aca607c9764.webp" group-title="RELIGION",EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w144719746.m3u8
