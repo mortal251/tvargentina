@@ -1925,6 +1925,30 @@ https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsportshd.png" group-title="DEPORTE",Sky Net Sports HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="DEPORTE",Setanta Sports Eurasia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s81/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="DEPORTE",Setanta Sports 2 Eurasia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s82/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="DEPORTE",Sportitalia 
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="DEPORTE",Sportitalia Live 24 
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="DEPORTE",Sportitalia Motori HD 
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="DEPORTE",Sportitalia Solocalcio HD 
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
 
 
 
