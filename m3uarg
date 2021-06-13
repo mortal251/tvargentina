@@ -572,7 +572,7 @@ https://panel.dattalive.com/8138/8138/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://noticiasgualeguay.com/wp-content/uploads/2019/09/logocanal2-x2.png" group-title="LOCALES 3", CANAL 2 GUALEGUAY ENTRE RIOS
-https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/chunklist_w1362649379.m3u8
+https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCInK8RGqWtu191slIer7HKe6io1ngczZbkQ&usqp=CAU" group-title="LOCALES 3", CANAL 5 TV ENTRE RIOS
 https://srv3.zcast.com.ar/carlosr/carlosr/playlist.m3u8
