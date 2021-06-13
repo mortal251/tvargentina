@@ -1870,8 +1870,8 @@ https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DEPORTE", GOLTV
 http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=goltv&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/175px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="DEPORTE", DIRECTV SPORTS
-http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=directv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" group-title="DEPORTE", CANAL CLARO
+http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=claro&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="DEPORTE",  ESPN ACCN EUA
 https://gma2.blab.email/acc.m3u8
