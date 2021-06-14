@@ -60,7 +60,7 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzNjk1OTAzLCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiIwZTNhMTIyZGZiNDIwM2M4YTgyMTU3MDIxZjM2ZjI0OGI0NmY3YzU0In0=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE  34.1
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0052 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0060 
 
 
 
@@ -166,7 +166,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 #EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="LOCALES 1", VIAJAR TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0032
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0033
 
 
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="LOCALES 1", GOURMET TV
@@ -457,10 +457,10 @@ https://www.youtube.com/watch?v=TcwgZwrcnsQ
 
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 3", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0254
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0272
 
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="LOCALES 3", ITEL CHAJARI
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0179
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0196
 
 #EXTINF:-1 tvg-logo="http://tv.misionesonline.net/wp-content/uploads/2021/02/LogoMoscaGifweb.gif" group-title="LOCALES 3", MISIONES ONLINE
 https://stream-02.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKWzXkCgPZo8lDuE_mvpRaWXw)/dm/3/x7zlqfx/s/live-1.m3u8
@@ -3618,6 +3618,10 @@ https://stream.zeno.fm/cvvvykmtpg8uv
 http://node-18.zeno.fm/yzb4tysszk0uv?rj-ttl=5&rj-tok=AAABegIQu38AvyiMzDm__8L15w
 
 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/gg0sdPS/LOGO-PNG.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", NEO NET MUSIC (SOLO IPTV AZUL)
+https://proxy01.servidorenlinea.net/streaming1/8106/;
+
+
 
 
 
@@ -3917,6 +3921,8 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+
+
 
 
 
