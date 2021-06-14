@@ -1732,6 +1732,13 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZwUbuU9xGah-itBu9_XYisqw_3vlDymkv77wQ0bbZ6gmCPGY7MXBnyAvRx5V8pONTSPo&usqp=CAU" group-title="DEPORTE",Rugby Men's Sevens
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaZSFuXNwPLrS8kogPQS_-ynAGvZ1xesm4M_K8JxhcSEWmYv_0oYdwPfM-0KmwnBBqQjc&usqp=CAU" group-title="DEPORTE",Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTE", TENIS CHANNEL
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
