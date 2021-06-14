@@ -59,7 +59,7 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzNzU1ODU1LCJzZXNzaW9uIjoiMTgxLjQ0LjEyOS43MSIsIndoaXRlbGlzdCI6WyIxODEuNDQuMTI5LjcxIl19LCJzaWduYXR1cmUiOiJiNzM1YTQzMmQ1NjM0MTM0ZGUwOTgxNTRiMDY3OTc2ZjI5ZTkwNzhlIn0=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="LOCALES 1", TELEFE  34.1
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0060
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0064
 
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="LOCALES 1", TELEFÉ NOTICIAS
@@ -171,7 +171,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 #EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="LOCALES 1", VIAJAR TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0033
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0035
 
 
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="LOCALES 1", GOURMET TV
@@ -459,10 +459,10 @@ https://www.youtube.com/watch?v=SFbR9zL2a2g
 https://www.youtube.com/watch?v=TcwgZwrcnsQ
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 3", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0272
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0278
 
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="LOCALES 3", ITEL CHAJARI
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0196
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0202
 
 
 
