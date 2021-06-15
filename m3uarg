@@ -349,7 +349,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0278
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969209126470455297/vLw5LpAB_400x400.jpg" group-title="LOCALES 2", CIUDAD TV CHACO
+#EXTINF:-1 tvg-logo="http://ciudadtv.com.ar/imgs/logo.png" group-title="LOCALES 2", CIUDAD TV CHACO
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w594189072.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="LOCALES 2", 9LINK CHACO
