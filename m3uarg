@@ -562,8 +562,7 @@ https://www.youtube.com/watch?v=iHIC-SMAYpM
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
 https://www.youtube.com/watch?v=YTrOBckCfH4
 
-#EXTINF:-1 group-title="LOCALES 3", CANAL 4 CAVICU
-https://www.youtube.com/watch?v=TcwgZwrcnsQ
+
 
 
 
@@ -607,7 +606,7 @@ https://589ff3c36f7e8.streamlock.net/canal4/canal4/playlist.m3u8
 https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 3", TDC TV SANTA FE
-https://5e7cdf2370883.streamlock.net/tdconline/tdconline/chunklist_w458109831.m3u8
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
 
 
@@ -650,7 +649,8 @@ https://srv3.zcast.com.ar/carlosr/carlosr/playlist.m3u8
 https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm4lKe3uMzJnjq38A3QLkgbFduVklg1mHu2g&usqp=CAU" group-title="LOCALES 3", EL ECO TV TANDIL
-https://5f93e494d5906.streamlock.net/elecotv/elecotv/chunklist_w1856780986.m3u8
+https://5f93e494d5906.streamlock.net/elecotv/elecotv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgHZgj0j0s3y22Xu7XjBqMSGaRJJHIdGmkrg&usqp=CAU" group-title="LOCALES 3", CANAL 50 MORTEROS
 https://coopmorteros.online/canal50/vivo.m3u8
