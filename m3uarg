@@ -3396,8 +3396,7 @@ https://stmv1.srvif.com/liberred/liberred/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://surargentinormx.com/wp-content/uploads/elementor/thumbs/logo-orseqvkm3gvq36wnhdc1e31nwkvtfxm51npplxeve0.jpg" group-title="RADIO 1", RMX 105.1 FM USHUAIA
 http://streamyes.alsolnet.com/rmxtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pornuestroshijos.com.ar/images/DiarioLiderLogo.png" group-title="RADIO 1", DIARIO LIDER TRENQUE LAUQUEN 
-http://190.0.236.206:8080/hls/lidermedios.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://fmbrasilera.com/wp-content/uploads/2020/06/brasil512omb8eRVSHJX.jpg" group-title="RADIO 1", LA NUEVA FM BRASILERA 106.7 ENTRE RIOS
@@ -3476,10 +3475,10 @@ https://streamcasthd.com:1936/nacionalypopular/nacionalypopular/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.fm891.com.ar/wp-content/uploads/2020/07/logo_horizontal_20.png" group-title="RADIO 2", FM 89.1 RADIO UNIVERSIDAD SAN JUSTO
 http://s8.stweb.tv/unlam/video2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kDPCvojQb2E/X_Q5MnzksRI/AAAAAAAAJGk/SGon23v2K3UO2gI7MIFoSiNkSxYULDN4ACK4BGAYYCw/s1600/345.png" group-title="RADIO 2", RADIO ROCHA AM 1500 LA PLATA
-https://stmv1.srvif.com/radiorocha/radiorocha/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kDPCvojQb2E/X_Q5MnzksRI/AAAAAAAAJGk/SGon23v2K3UO2gI7MIFoSiNkSxYULDN4ACK4BGAYYCw/s1600/345.png" group-title="RADIO 2", RADIO ROCHA AM 1570 LA PLATA
+https://stmvideo1.livecastv.com/radiorocha/radiorocha/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiotv.ar/img/logo/fmzetaradio.jpg" group-title="RADIO 2", FM 100.1 ZETA MORON
+#EXTINF:-1 tvg-logo="https://radiotv.ar/img/logo/fmzetaradio.jpg" group-title="RADIO 2", FM 100.9 ZETA MORON
 https://clientes.videostreaming.ar:19360/fmzetaradio/fmzetaradio.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fantastica1017.com.ar/images/logoOK.jpg" group-title="RADIO 2", FM FANTASTICA CHILECITO 101.7 FM
