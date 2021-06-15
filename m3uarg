@@ -272,7 +272,7 @@ https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969209126470455297/vLw5LpAB_400x400.jpg" group-title="LOCALES 2", CIUDAD TV CHACO
-http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w594189072.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Gceq5SpfHb8/XrYRAGJeBUI/AAAAAAAA0i4/OHxya9wtX5kJC06MlqyfpUCl9M2azquDQCK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES 2", TELEDIARIO RIO CUARTO
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
