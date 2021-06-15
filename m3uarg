@@ -230,6 +230,9 @@ http://video.streamtvradio.com:8081/uv027/uv027/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES 2", CANAL 12 TUCUMAN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
+#EXTINF:-1 tvg-logo="http://calchaquitv.com.ar/images/logo.png" group-title="LOCALES 2", CALCHAQUI TV TUCUMAN
+http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES 2", 6 ENTRE RIOS TV
 https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
 
@@ -330,6 +333,9 @@ http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png" group-title="LOCALES 2", CANAL 34 SAN JUAN
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 3", CUIDAR TV SAN JUAN
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0278
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mgmL8cb_jtc/XjtDrQ3HzaI/AAAAAAAAvpI/tgRhGRWSXnsz9hvxd4oPgM16JpByuhRzwCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", CHACO TV
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
@@ -508,10 +514,10 @@ http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
 
 
 
-#EXTINF:-1 group-title="LOCALES 2", ONCE PARANA
+#EXTINF:-1 group-title="LOCALES 3", ONCE PARANA
 https://www.youtube.com/watch?v=8qINe2rA0KM
 
-#EXTINF:-1 group-title="LOCALES 2", CANAL 12 TRENQUE LAUQUEN
+#EXTINF:-1 group-title="LOCALES 3", CANAL 12 TRENQUE LAUQUEN
 https://www.youtube.com/watch?v=iHIC-SMAYpM
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
@@ -520,8 +526,7 @@ https://www.youtube.com/watch?v=YTrOBckCfH4
 #EXTINF:-1 group-title="LOCALES 3", CANAL 4 CAVICU
 https://www.youtube.com/watch?v=TcwgZwrcnsQ
 
-#EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 3", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0278
+
 
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="LOCALES 3", ITEL CHAJARI
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0202
@@ -533,8 +538,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0202
 #EXTINF:-1 tvg-logo="http://tv.misionesonline.net/wp-content/uploads/2021/02/LogoMoscaGifweb.gif" group-title="LOCALES 3", MISIONES ONLINE
 https://stream-02.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKWzXkCgPZo8lDuE_mvpRaWXw)/dm/3/x7zlqfx/s/live-1.m3u8
 
-#EXTINF:-1 tvg-logo="http://calchaquitv.com.ar/images/logo.png" group-title="LOCALES 3", CALCHAQUI TV TUCUMAN
-http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://noticiaseps.com.ar/wp-content/uploads/2018/06/cropped-noticiastitulo-3.png" group-title="LOCALES 3", NOTICIAS EPS BRAGADO
 https://inliveserver.com:1936/9504/9504/playlist.m3u8
