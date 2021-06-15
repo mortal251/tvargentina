@@ -115,6 +115,9 @@ https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-SlqJrd0GiYk/XjtCBz2FbhI/AAAAAAAAvog/HkkKzNWrEOYiE08Rdlw-mxsDtzpJ_zD8wCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 1", CANAL 6 MORENO
 https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC2PROV.png" group-title="LOCALES 1", PROVINCIAL TV
+http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES 1", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
@@ -288,6 +291,10 @@ https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=s
 #EXTINF:-1 tvg-logo="https://canal2mdp.com.ar/wp-content/uploads/2016/04/13427954_1104019889671271_5647949923378659701_n-1.jpg" group-title="LOCALES 2", CANAL 2 MAR DEL PLATA
 https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES 2", UNIVERSIDAD TV MAR DEL PLATA
+https://stream-01.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL540QDU4tdesOlPCLFPVCirZM)/dm/3/x7kvvgi/s/live-1.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-9/181018250_1613796408815889_7185039042968837626_n.png?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeFw4QmGx1wEzSanBrK9a-9JqRnj-TsgS9KpGeP5OyBL0m9noVGAceDi-TJxNZgSA0Q&_nc_ohc=XZ3cHH2NcxwAX9Ynhg7&_nc_ht=scontent.fepa11-1.fna&oh=49a709c212ebbe8bcef6cd72046b87e6&oe=60B3BF48" group-title="LOCALES 2", SANTA FE CANAL
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
@@ -314,10 +321,10 @@ http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 3", CNR JUJUY
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 2", CNR JUJUY
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="LOCALES 4", RTV CABLE JUJUY
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="LOCALES 2", RTV CABLE JUJUY
 https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 
 
@@ -347,6 +354,10 @@ http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 2", CUIDAR TV SAN JUAN
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0278
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_QTSBRhcjGU/XATV6kEZxBI/AAAAAAAAA64/EfPiSHBQFZMfzxSac9m9gDWR1VFtBGUWQCLcBGAs/s400/Canal_XAMA_TV_San_Juan.png" group-title="LOCALES 2", XAMA TV SAN JUAN
+https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mgmL8cb_jtc/XjtDrQ3HzaI/AAAAAAAAvpI/tgRhGRWSXnsz9hvxd4oPgM16JpByuhRzwCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", CHACO TV
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
@@ -515,11 +526,9 @@ http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png" group-title="LOCALES 3", CANAL 2 SANAGASTA
 https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_QTSBRhcjGU/XATV6kEZxBI/AAAAAAAAA64/EfPiSHBQFZMfzxSac9m9gDWR1VFtBGUWQCLcBGAs/s400/Canal_XAMA_TV_San_Juan.png" group-title="LOCALES 3", XAMA TV SAN JUAN
-https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC2PROV.png" group-title="LOCALES 3", PROVINCIAL TV
-http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
+
+
 
 
 
@@ -563,8 +572,7 @@ https://live.admefy.com/live/default/shiny_silver_49d7a.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.15752-9/173879036_800583104228116_8181791566486616057_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeEGaHxscLw4PuO08tsKy-VECJzXepHSEQIInNd6kdIRAmU-pzrJ6A97yIsVI265qXU&_nc_ohc=pcQx0ts_eD8AX_9PjIB&_nc_ht=scontent.fepa11-1.fna&oh=312923b6f968592b3d5be0dacfcbbd3e&oe=609F9054" group-title="LOCALES 3", CANAL 5 ALCORTA SANTA FE
 https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://diariosanjuan.com.ar/imagenes/banner.png" group-title="LOCALES 3", DIARIO DE SAN JUAN
-https://59537faa0729a.streamlock.net/radiolared/radiolared/playlist.m3u8
+
 
 
 
@@ -750,8 +758,6 @@ https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES 4", UNIVERSIDAD TV MAR DEL PLATA
-https://stream-01.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL540QDU4tdesOlPCLFPVCirZM)/dm/3/x7kvvgi/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU" group-title="LOCALES 4", PLAY TELEVISION SANTA FE
 http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8
@@ -3283,7 +3289,8 @@ https://fm999.info/test/index.m3u8
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="RADIO 1", FM LIGHT 97.3 SAN JUAN
 http://videostream.shockmedia.com.ar:1935/lightfm/lightfm/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://diariosanjuan.com.ar/imagenes/banner.png" group-title="RADIO 1", DIARIO DE SAN JUAN
+https://59537faa0729a.streamlock.net/radiolared/radiolared/playlist.m3u8
 
 
 
