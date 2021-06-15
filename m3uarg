@@ -173,6 +173,9 @@ https://cda2.streaming.ws/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png" group-title="LOCALES 1", CHACRA TV
 https://s8.stweb.tv/chacra/live/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.viturtv.com/_files/200000001-a051aa051c/450/logo2.png" group-title="LOCALES 1", VITUR TV
+https://59537faa0729a.streamlock.net/vitur/vitur/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="DEPORTE", DEPORTV - 24.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
