@@ -11,7 +11,7 @@ https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 1", CANAL 26  26.1
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 1", CANAL 26  24.2
 https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="LOCALES 1", A24  36.3
@@ -37,7 +37,7 @@ https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gc
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES 1", CANAL ENCUENTRO  22.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png" group-title="LOCALES 1", CANAL ENCUENTRO 22.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8       
 
 
