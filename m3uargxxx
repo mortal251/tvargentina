@@ -173,6 +173,9 @@ https://cda2.streaming.ws/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png" group-title="LOCALES 1", CHACRA TV
 https://s8.stweb.tv/chacra/live/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.viturtv.com/_files/200000001-a051aa051c/450/logo2.png" group-title="LOCALES 1", VITUR TV
+https://59537faa0729a.streamlock.net/vitur/vitur/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="DEPORTE", DEPORTV - 24.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
@@ -511,10 +514,10 @@ https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
 
 
 #EXTINF:-1 group-title="LOCALES 3", ONCE PARANA
-https://www.youtube.com/watch?v=_H1qYgKDpfg
+https://www.youtube.com/watch?v=4-HMgF0tYrE
 
 #EXTINF:-1 group-title="LOCALES 3", CANAL 12 TRENQUE LAUQUEN
-https://www.youtube.com/watch?v=iHIC-SMAYpM
+https://www.youtube.com/watch?v=J5QAYApCAk0
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
 https://www.youtube.com/watch?v=YTrOBckCfH4
@@ -3978,6 +3981,9 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+
+
+
 
 
 
