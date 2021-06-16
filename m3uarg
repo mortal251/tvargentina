@@ -701,6 +701,9 @@ https://stmvideo1.livecastv.com/mercedestv/mercedestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cablearmstrong.com.ar/wp-content/uploads/2018/11/cia-logox1.png" group-title="LOCALES 4", CABLE IMAGEN ARMSTRONG SANTA FE
 https://5975e06a1f292.streamlock.net:4443/casse/casse/chunklist_w1169271894.m3u8
 
+#EXTINF:-1 tvg-logo="https://cablearmstrong.com.ar/wp-content/uploads/2018/11/cia-logox1.png" group-title="LOCALES 4", TiketekArg RIO GALLEGOS
+https://59d52c5a5ce5e.streamlock.net:4443/tiketekarg/tiketekarg/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="LOCALES 4", TELEJUNIN
@@ -729,6 +732,7 @@ https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU" group-title="LOCALES 4", PLAY TELEVISION SANTA FE
 http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" group-title="LOCALES 4", TELECINCO TRELEW
 https://videohd.live:19360/8016/8016.m3u8
@@ -785,6 +789,9 @@ https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png" group-title="LOCALES 4", CANAL 21 POSADAS
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png" group-title="LOCALES 4", SANTA EUFEMIA WEB
+https://inliveserver.com:1936/14094/14094/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.merlotv.com/templates/default/images/logo.png" group-title="LOCALES 4", MERLO TV
