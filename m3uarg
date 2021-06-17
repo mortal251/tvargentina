@@ -173,6 +173,10 @@ https://cda2.streaming.ws/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png" group-title="LOCALES 1", CHACRA TV
 https://s8.stweb.tv/chacra/live/chunks.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_senal-argentinisima-satelital-1_p_m.jpg" group-title="LOCALES 1", ARGENTINISIMA SATELITAL
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w859718981_b1912000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.viturtv.com/_files/200000001-a051aa051c/450/logo2.png" group-title="LOCALES 1", VITUR TV
 https://59537faa0729a.streamlock.net/vitur/vitur/playlist.m3u8
 
@@ -811,8 +815,6 @@ https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
 https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_senal-argentinisima-satelital-1_p_m.jpg" group-title="LOCALES 4", ARGENTINISIMA SATELITAL
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w859718981_b1912000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://television-internet.com.ar/canal-2-misiones-en-vivo.jpg?210107074240" group-title="LOCALES 4", CANAL 2 MISIONES (SOLO IPTV AZUL)
 https://nd106.republicaservers.com/canal2misiones.mp4
