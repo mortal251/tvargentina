@@ -849,6 +849,9 @@ https://stmv.panel.mivideo.pro/cineperu/cineperu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.15752-9/198129374_454189365690504_7088670961273644075_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeFWVbvn6ms1SiCNhefhmwutfDpHv9wX6CR8Oke_3BfoJI72ZGn-hZgcJz_73M_8vhI&_nc_ohc=xxrvl2w2mcMAX_TV5tK&_nc_ht=scontent.fepa11-1.fna&oh=c7dc0c68ece85c39cbd6713935d0d530&oe=60CA665F" group-title="CINE Y SERIES", GO MAX PREMIERE
 https://stmvideo1.livecastv.com/iptvgo/iptvgo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm-Y-cQ-iP2E8T-zh_BrYQxy0QsuLAajXi8w&usqp=CAU" group-title="CINE Y SERIES", RETRO PLAY
+https://paneltv.online:1936/8138/8138/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="CINE Y SERIES", CINE CLASICO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
