@@ -794,7 +794,7 @@ https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png" group-title="LOCALES 4", CANAL 21 POSADAS
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png" group-title="LOCALES 4", SANTA EUFEMIA WEB
+#EXTINF:-1 tvg-logo="http://www.santaeufemiaweb.com/img/portadaNueva.png" group-title="LOCALES 4", SANTA EUFEMIA WEB
 https://inliveserver.com:1936/14094/14094/playlist.m3u8
 
 
