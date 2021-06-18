@@ -244,6 +244,9 @@ https://vcp.myplaytv.com/canal10srt/smil:canal10srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Gceq5SpfHb8/XrYRAGJeBUI/AAAAAAAA0i4/OHxya9wtX5kJC06MlqyfpUCl9M2azquDQCK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES 2", TELEDIARIO RIO CUARTO
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Nueve_Litoral_%28Logo_2010%29.png" group-title="LOCALES 2", CANAL 9 PARANA
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
 #EXTINF:-1 group-title="LOCALES 2", CANAL 7 MENDOZA
 https://www.youtube.com/watch?v=MXSS64cx_P4
 
@@ -465,8 +468,7 @@ https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dcR6LiSEM3o/XjtCwLNAomI/AAAAAAAAvow/p-uUGIkr-7ANc2E8PvDvRJE2lU4OZ3ExgCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", CANAL 7 CHUBUT
 http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Nueve_Litoral_%28Logo_2010%29.png" group-title="LOCALES 2", CANAL 9 PARANA
-https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES 2", 6 ENTRE RIOS TV
