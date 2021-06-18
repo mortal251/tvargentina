@@ -661,6 +661,9 @@ https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bernaltv.com.ar/wp-content/uploads/2021/04/logo.png" group-title="LOCALES 4", BERNAL TV
 https://5f6e1fe8f2d2e.streamlock.net/bernaltv/smil:bernaltv.smil/chunklist_w986599499_b350000_slen.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.isparm.edu.ar/redm/images/logo.jpg" group-title="LOCALES 4", RED M MISIONES
+https://inliveserver.com:1936/14032/14032/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-j9I0buhulss/VxrWQ9llwXI/AAAAAAAACtQ/L2fSLfI0ujcLQbrzCfw8rX0dx4X1P2jvACLcB/s1600/canal-20-villa-maria-en-vivo.jpg" group-title="LOCALES 4", CANAL 20 VILLA MARIA CORDOBA
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
