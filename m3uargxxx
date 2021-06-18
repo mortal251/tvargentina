@@ -267,7 +267,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/canal5rosario_1@685724/master.m3u8?hdnea
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Telefe_Mar_del_Plata_%282018%29.png/133px-Telefe_Mar_del_Plata_%282018%29.png" group-title="LOCALES 2", TELEFE MAR DEL PLATA
-https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1623791916~exp=1623968316~acl=/i/mdqdistri02_1@829747/*~hmac=18faa692290199cd52ac2c6222628ed4db240e87518f8fc6fbe3dc2439ac6485
+https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1624017598~exp=1624193998~acl=/i/mdqdistri02_1@829747/*~hmac=3158070b248887962bf947ff08440fb22b0c238b9b63c14379f744073637e506
 
 #EXTINF:-1 tvg-logo="https://canal2mdp.com.ar/wp-content/uploads/2016/04/13427954_1104019889671271_5647949923378659701_n-1.jpg" group-title="LOCALES 2", CANAL 2 MAR DEL PLATA
 https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
@@ -408,10 +408,10 @@ https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/800px-Telefe_Salta_%282018%29.png" group-title="LOCALES 2", TELEFE SALTA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1623791764~exp=1623968164~acl=/i/canal11salta_1@722934/*~hmac=627376ca39013ef4c01dfdccd99d472342806a10e557cc94d5c810e8d5ead533
+https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1624017931~exp=1624194331~acl=/i/canal11salta_1@722934/*~hmac=e4a4afef04339a3614b37e82c1c86658c56389fcc1440f670e61a9ec2b450644
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png/133px-Telefe_Neuqu%C3%A9n_%282018%29.png" group-title="LOCALES 2", TELEFE NEUQUEN
-https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1623791922~exp=1623968322~acl=/i/canal7neuquen_1@751158/*~hmac=c28ee70dc0cd11d2a40dd656906a273197daa6e2ae580b580c345953cc53883a
+https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1624017605~exp=1624194005~acl=/i/canal7neuquen_1@751158/*~hmac=9519de74e3c57fc99a89f281b26330b6fe00ae147ef88671997262bbf97862fe
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E9zOAkKHOaw/XjtG9WkFKEI/AAAAAAAAvqQ/j2nVTLIMsZUsZfVliojEB5JU601yHtKQACK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", RTN NEUQUEN
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
@@ -419,7 +419,7 @@ http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Telefe_Bah%C3%ADa_Blanca_%282018%29.png/133px-Telefe_Bah%C3%ADa_Blanca_%282018%29.png" group-title="LOCALES 2", TELEFE BAHIA BLANCA
-https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1623791831~exp=1623968231~acl=/I/canal9bahiablanca_1@685725/*~hmac=59a5227030ad2498bb2880399323d7b51ffbe43a30697682921b01834963f0b2
+https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1624017758~exp=1624194158~acl=/I/canal9bahiablanca_1@685725/*~hmac=51970322dd278fbc176a87a75b4e3fb07ad138dae20e4a0f583c5c9499db0881
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 7 BAHIA BLANCA (NOTICIERO)
 https://www.youtube.com/watch?v=kRBnKuIIKfI
@@ -3932,6 +3932,9 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
+
+
+
 
 
 
