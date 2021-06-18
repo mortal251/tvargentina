@@ -213,7 +213,7 @@ http://45.6.4.154/americatuc/vivo.m3u8
 https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/133px-Telefe_Tucum%C3%A1n_%282018%29.png" group-title="LOCALES 2", TELEFE TUCUMAN
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1623791701~exp=1623968101~acl=/i/canal8tucuman_1@787002/*~hmac=df97ccd414b595986ffed5a91acd32ef0da9929e743978fb965813c66c66f0a8
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1624002964~exp=1624179364~acl=/i/canal8tucuman_1@787002/*~hmac=1dbeda7ce0e4f55d198190be189fcaaa44453b1c0807d05fec851f37ee383b59
 
 #EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES 2", 7 NORTE TUCUMAN
 http://video.streamtvradio.com:8081/uv027/uv027/playlist.m3u8
@@ -233,7 +233,7 @@ http://video.streamtvradio.com:8081/uv038/uv038/playlist.m3u8
 https://www.youtube.com/watch?v=gBbMbqILzXU
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/133px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="LOCALES 2", TELEFE CORDOBA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1623791995~exp=1623968395~acl=/i/canal8cordoba_1@685726/*~hmac=b02f76c98b2665e7a3b4d5d24d7ce81b2b262667c2c8a9d659668a1bbbded1ca
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1624004014~exp=1624180414~acl=/i/canal8cordoba_1@685726/*~hmac=0cb7e55fa3ca05384cd0dd829da06ec98c9ab36136679f8f68e8513c9b365a9b
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", CANAL 10 CORDOBA
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
