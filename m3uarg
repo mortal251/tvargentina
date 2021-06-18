@@ -658,8 +658,8 @@ https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u
 #EXTINF:-1 tvg-logo="https://www.infomedia24.com.ar/v2/wp-content/uploads/2017/04/logo-infomediax2.png" group-title="LOCALES 4", LM 24 RIO GALLEGOS
 https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://bernaltv.com.ar/wp-content/uploads/2021/04/logo.png" group-title="LOCALES 4", BERNAL TV
+https://5f6e1fe8f2d2e.streamlock.net/bernaltv/smil:bernaltv.smil/chunklist_w986599499_b350000_slen.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-j9I0buhulss/VxrWQ9llwXI/AAAAAAAACtQ/L2fSLfI0ujcLQbrzCfw8rX0dx4X1P2jvACLcB/s1600/canal-20-villa-maria-en-vivo.jpg" group-title="LOCALES 4", CANAL 20 VILLA MARIA CORDOBA
@@ -1610,7 +1610,7 @@ https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png" group-title="DEPORTE", CLARO SPORTS
-https://d21r053hxdt5v1.cloudfrint.net/live/cs01/live.isml/cs01.m3u8
+https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/cs01.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", Garage TV
