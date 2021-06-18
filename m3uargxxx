@@ -285,7 +285,7 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Telefe_Santa_Fe.png/133px-Telefe_Santa_Fe.png" group-title="LOCALES 2", TELEFE SANTA FE
-https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1623791992~exp=1623968392~acl=/i/canal13santafe_1@751190/*~hmac=1b3c3229315f82b9bfe44cb45783117927fa5b5aba5765702551363d76bc454f
+https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1624018075~exp=1624194475~acl=/i/canal13santafe_1@751190/*~hmac=e56fe1deffab0ca6c59f6cd288ac2647debb76b617f6311ef6dae1ab71cac83e
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-9/113378155_2576906372625267_4118561220157165688_n.png?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeFSLS0CbFHXZHsLsJal3g3-n4MSb_MrDv2fgxJv8ysO_TfN4c4puhJB7LHCLXZQRUU&_nc_ohc=8Kp918HzP50AX9_xQYR&_nc_ht=scontent.fepa11-1.fna&oh=87a00f2fd35d3528ce98710169e43cd7&oe=60CD76C7" group-title="LOCALES 2", ACTIVA TV SANTA FE
 https://59537faa0729a.streamlock.net/tvactiva/tvactiva/playlist.m3u8
