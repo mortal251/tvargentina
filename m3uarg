@@ -384,7 +384,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/playlist.m3u8
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://t5satelital.com/theme/img/T5logo.png" group-title="LOCALES 2", T5 CORRIENTES
-http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
+http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8    
 
 
 
