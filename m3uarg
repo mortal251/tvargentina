@@ -3303,7 +3303,7 @@ https://panel.dattalive.com/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialradio.tv/wp-content/uploads/2018/05/DIAL-RADIO-LOGO-WEB.png" group-title="RADIO 1", RADIO DIAL SAN RAFAEL
 https://cda1.alsolnet.com/dialradiotv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" group-title="RADIO 1", LA VOZ TV 89.1 FM TUCUMAN
+#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png" group-title="RADIO 1", LA VOZ TV 89.1 FM TUCUMAN
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/107187_Canal_907_FM_Comunicar.png" group-title="RADIO 1", FM COMUNICAR 90.7 FM - COLONIA CAROYA
