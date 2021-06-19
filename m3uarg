@@ -2408,8 +2408,6 @@ https://www.streamingmediatv.live:19360/hdlatam/hdlatam.m3u8
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1202579558697967616/pHnuKCH7_400x400.jpg" group-title="MUSICA", Canal Dos 
-http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
 
 
 
@@ -3101,6 +3099,10 @@ http://177.52.221.214:8000/play/a0dx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_N.png" group-title="INTERNACIONAL",Canal N
 http://186.101.216.211:8000/play/a05i
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1202579558697967616/pHnuKCH7_400x400.jpg" group-title="INTERNACIONAL", Canal Dos 
+http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
+
 
 
 
