@@ -2882,8 +2882,6 @@ http://cdn.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTIC
 #EXTINF:-1 tvg-logo="https://seeyouiniran.org/wp-content/uploads/hispan-tv.jpg" group-title="INTERNACIONAL", HISPAN TV
 https://live1.presstv.com/live/hispan_360p/index.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONAL", T13 CHILE
-https://www.youtube.com/watch?v=f2t3330_mBk
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png" group-title="INTERNACIONAL", ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
