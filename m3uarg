@@ -2,32 +2,32 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="LOCALES 1", IP  24.5         
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="NOTICIAS", IP  24.5         
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="LOCALES 1", CRONICA HD  24.4
+#EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="NOTICIAS", CRONICA HD  24.4
 https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 1", CANAL 26  24.2
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="NOTICIAS", CANAL 26  24.2
 https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="LOCALES 1", A24  36.3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="NOTICIAS", A24  36.3
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
-#EXTINF:-1 group-title="LOCALES 1", TODO NOTICIAS   
+#EXTINF:-1 group-title="NOTICIAS", TODO NOTICIAS   
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 
 
 
-#EXTINF:-1 group-title="LOCALES 1", C5N  25.2
+#EXTINF:-1 group-title="NOTICIAS", C5N  25.2
 https://www.youtube.com/watch?v=wlNWw5k14y8
 
 
-#EXTINF:-1 group-title="LOCALES 1", LN+  25.3
+#EXTINF:-1 group-title="NOTICIAS", LN+  25.3
 https://www.youtube.com/watch?v=ns8-5XKA0Ww                 
 
 
@@ -62,7 +62,7 @@ http://54.39.51.30:25461/5492616835156/anL45iGR5d/12622
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0064
 
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="LOCALES 1", TELEFÉ NOTICIAS
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="NOTICIAS", TELEFÉ NOTICIAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="LOCALES 1", TELEFÉ CLÁSICO
@@ -120,13 +120,13 @@ http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
 #EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES 1", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="LOCALES 1", FRANCE 24 ESPAÑOL - 24.3
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="NOTICIAS", FRANCE 24 ESPAÑOL - 24.3
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="LOCALES 1", TELESUR  25.4
+#EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="NOTICIAS", TELESUR  25.4
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="LOCALES 1", RT  25.5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="NOTICIAS", RT  25.5
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg" group-title="LOCALES 1", MIRADOR  22.3
@@ -156,14 +156,14 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0035
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="LOCALES 1", GOURMET TV
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/canal-rural-tv.png" group-title="LOCALES 1", RURAL TV
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/canal-rural-tv.png" group-title="NOTICIAS", RURAL TV
 https://cda2.streaming.ws/elrural/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png" group-title="LOCALES 1", CHACRA TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png" group-title="NOTICIAS", CHACRA TV
 https://s8.stweb.tv/chacra/live/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_senal-argentinisima-satelital-1_p_m.jpg" group-title="LOCALES 1", ARGENTINISIMA SATELITAL
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_senal-argentinisima-satelital-1_p_m.jpg" group-title="NOTICIAS", ARGENTINISIMA SATELITAL
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w859718981_b1912000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/960549144657002496/9Rdtd6Ke_400x400.jpg" group-title="LOCALES 1", TVU LA PLATA
