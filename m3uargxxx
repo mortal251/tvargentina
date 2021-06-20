@@ -2,32 +2,32 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="LOCALES 1", IP  24.5         
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="NOTICIAS", IP  24.5         
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="LOCALES 1", CRONICA HD  24.4
+#EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="NOTICIAS", CRONICA HD  24.4
 https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 1", CANAL 26  24.2
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="NOTICIAS", CANAL 26  24.2
 https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="LOCALES 1", A24  36.3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="NOTICIAS", A24  36.3
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
-#EXTINF:-1 group-title="LOCALES 1", TODO NOTICIAS   
+#EXTINF:-1 group-title="NOTICIAS", TODO NOTICIAS   
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 
 
 
-#EXTINF:-1 group-title="LOCALES 1", C5N  25.2
+#EXTINF:-1 group-title="NOTICIAS", C5N  25.2
 https://www.youtube.com/watch?v=wlNWw5k14y8
 
 
-#EXTINF:-1 group-title="LOCALES 1", LN+  25.3
+#EXTINF:-1 group-title="NOTICIAS", LN+  25.3
 https://www.youtube.com/watch?v=ns8-5XKA0Ww                 
 
 
@@ -62,7 +62,7 @@ http://54.39.51.30:25461/5492616835156/anL45iGR5d/12622
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0064
 
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="LOCALES 1", TELEFÉ NOTICIAS
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="NOTICIAS", TELEFÉ NOTICIAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="LOCALES 1", TELEFÉ CLÁSICO
@@ -120,13 +120,13 @@ http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
 #EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="LOCALES 1", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="LOCALES 1", FRANCE 24 ESPAÑOL - 24.3
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="NOTICIAS", FRANCE 24 ESPAÑOL - 24.3
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="LOCALES 1", TELESUR  25.4
+#EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="NOTICIAS", TELESUR  25.4
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="LOCALES 1", RT  25.5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="NOTICIAS", RT  25.5
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg" group-title="LOCALES 1", MIRADOR  22.3
@@ -156,14 +156,14 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0035
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="LOCALES 1", GOURMET TV
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/canal-rural-tv.png" group-title="LOCALES 1", RURAL TV
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/canal-rural-tv.png" group-title="NOTICIAS", RURAL TV
 https://cda2.streaming.ws/elrural/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png" group-title="LOCALES 1", CHACRA TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png" group-title="NOTICIAS", CHACRA TV
 https://s8.stweb.tv/chacra/live/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_senal-argentinisima-satelital-1_p_m.jpg" group-title="LOCALES 1", ARGENTINISIMA SATELITAL
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_senal-argentinisima-satelital-1_p_m.jpg" group-title="NOTICIAS", ARGENTINISIMA SATELITAL
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w859718981_b1912000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/960549144657002496/9Rdtd6Ke_400x400.jpg" group-title="LOCALES 1", TVU LA PLATA
@@ -180,8 +180,7 @@ https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.viturtv.com/_files/200000001-a051aa051c/450/logo2.png" group-title="LOCALES 1", VITUR TV
-https://59537faa0729a.streamlock.net/vitur/vitur/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="DEPORTE", DEPORTV - 24.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
@@ -271,7 +270,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png" group-title="LOCALES 2", TELEFE ROSARIO
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0315
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0307
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png" group-title="LOCALES 2", TELEFE ROSARIO (op 2)
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-b.m3u8?sd=10&rebase=on
@@ -332,7 +331,7 @@ http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 https://www.youtube.com/watch?v=BZGbwWeDeIQ
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=4n3e7nFmN6g
+https://www.youtube.com/watch?v=bTOj1mtllwM
 
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="LOCALES 2", TELESOL SAN JUAN
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
@@ -350,7 +349,7 @@ http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" group-title="LOCALES 2", CUIDAR TV SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0289
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0282
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_QTSBRhcjGU/XATV6kEZxBI/AAAAAAAAA64/EfPiSHBQFZMfzxSac9m9gDWR1VFtBGUWQCLcBGAs/s400/Canal_XAMA_TV_San_Juan.png" group-title="LOCALES 2", XAMA TV SAN JUAN
@@ -435,7 +434,7 @@ http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1624065813~exp=1624242213~acl=/I/canal9bahiablanca_1@685725/*~hmac=bb8119c20f435bddb0ad2868df88b0caf19e9ef48e7916ecf81da4e5dfe13ee5
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 7 BAHIA BLANCA (NOTICIERO)
-https://www.youtube.com/watch?v=VrXYY9F80V4
+https://www.youtube.com/watch?v=UK4hsj9wnWM
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="LOCALES 2", CANAL 7 CATAMARCA
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
@@ -541,7 +540,7 @@ https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
 https://www.youtube.com/watch?v=bNU6QvmZYcM
 
 #EXTINF:-1 group-title="LOCALES 3", CANAL 12 TRENQUE LAUQUEN
-https://www.youtube.com/watch?v=J2iWHyqjJGI
+https://www.youtube.com/watch?v=RX9txEs8P1s
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
 https://www.youtube.com/watch?v=IpZZQoEEz3w
@@ -550,7 +549,7 @@ https://www.youtube.com/watch?v=IpZZQoEEz3w
 https://www.youtube.com/watch?v=FxYA-W6Zbjk
 
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="LOCALES 3", ITEL CHAJARI
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0206
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0201
 
 
 #EXTINF:-1 tvg-logo="http://tv.misionesonline.net/wp-content/uploads/2021/02/LogoMoscaGifweb.gif" group-title="LOCALES 3", MISIONES ONLINE
@@ -4007,9 +4006,6 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Wonder Woman 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
-
-
-
 
 
 
