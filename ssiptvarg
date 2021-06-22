@@ -889,7 +889,7 @@ https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/125px-Atreseries_2020_logo.svg.png" group-title="CINE Y SERIES", A3S
-
+http://186.101.216.211:8000/play/a0dv
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png" group-title="CINE Y SERIES", 74 TV
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
