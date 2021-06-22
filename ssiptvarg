@@ -284,7 +284,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=s
 https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES 2", UNIVERSIDAD TV MAR DEL PLATA
-https://stream-03.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54294DopG_IKcmsZur7rpqE8)/dm/3/x7kvvgi/s/live-1.m3u8
+https://stream-02.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL544mcHVkiqVGvcSIuE0OAAYg)/dm/3/x7kvvgi/s/live-0.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6yBSbBB-AHE/XjtBSO4ZGtI/AAAAAAAAvoQ/_ZYx1XEmyo0wXnwYQDegDsetCUlb9u0FwCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", Canal 41 XFN MAR DEL PLATA
 https://5f6e1fe8f2d2e.streamlock.net/canalxfn/canalxfn/playlist.m3u8
@@ -330,7 +330,7 @@ http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 https://www.youtube.com/watch?v=BZGbwWeDeIQ
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=fAbiNbDsJ04
+https://www.youtube.com/watch?v=De73mBKV54c
 
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="LOCALES 2", TELESOL SAN JUAN
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
@@ -433,7 +433,7 @@ http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1624277559~exp=1624453959~acl=/I/canal9bahiablanca_1@685725/*~hmac=cf04cde5643832c7ff1a9220b6fbb6d4bb728b9b5bd610a13df0e3dd43433c76
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 7 BAHIA BLANCA (NOTICIERO)
-https://www.youtube.com/watch?v=jbFizfDCCy4
+https://www.youtube.com/watch?v=GAGBZ9eeWus
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="LOCALES 2", CANAL 7 CATAMARCA
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
@@ -536,13 +536,13 @@ https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
 
 
 #EXTINF:-1 group-title="LOCALES 3", ONCE PARANA
-https://www.youtube.com/watch?v=-2u6rXgR9_k
+https://www.youtube.com/watch?v=ixPwwOrDZHQ
 
 #EXTINF:-1 group-title="LOCALES 3", CANAL 12 TRENQUE LAUQUEN
 https://www.youtube.com/watch?v=0cn9qNY9yKs
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=IpZZQoEEz3w
+https://www.youtube.com/watch?v=WD_HMJZ49Rs
 
 #EXTINF:-1 group-title="LOCALES 3", VERTE TV
 https://www.youtube.com/watch?v=FxYA-W6Zbjk
