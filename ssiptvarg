@@ -2469,28 +2469,30 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24/7 TOP 100
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
+http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/2.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8
+http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 BALADAS
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8
+http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/6.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 RETRO
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8
+http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/4.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 CONCIERTOS
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8
+http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/7.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 TROPICAL
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8
+http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/3.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 PURO ROCK
-http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8
+http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/25.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 POP
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
+http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/5.m3u8
 
 
 
