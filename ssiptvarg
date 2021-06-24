@@ -509,15 +509,15 @@ https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 3", CHILECITO TV LA RIOJA
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", MULTIVISION SALTA
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 3", MULTIVISION SALTA
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJyk1LbcH1cFHiW94bqNSt5gdWC1pa-exZg&usqp=CAU" group-title="LOCALES 2", CANAL 10 SALTA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJyk1LbcH1cFHiW94bqNSt5gdWC1pa-exZg&usqp=CAU" group-title="LOCALES 3", CANAL 10 SALTA
 https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/800px-Telefe_Salta_%282018%29.png" group-title="LOCALES 2", TELEFE SALTA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/800px-Telefe_Salta_%282018%29.png" group-title="LOCALES 3", TELEFE SALTA
 https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1624528639~exp=1624705039~acl=/i/canal11salta_1@722934/*~hmac=cbeac714dde0458c0463a5cc4bcdf0837df9c9c295010cd067a084949d230c0a
 
 
@@ -822,8 +822,7 @@ https://inliveserver.com:1936/14094/14094/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 4", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
 https://inliveserver.com:1936/14064/14064/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://milemisoras.com/img/channel/87551203ff1e7fe23845c1c0bf1810db.jpeg" group-title="LOCALES 4", FM 99.9 - CANAL 11 SUNCHALES
-https://589ff3c36f7e8.streamlock.net/ingenio_1/ingenio_1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.15752-9/cp0/162033080_353666665889579_906973957199880096_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeEeESpEey4vNdlLU06PlbNcsLl-CNF8KWSwuX4I0XwpZAI2-dbOrfrB6dCr2AGENqc&_nc_ohc=Fn0xGjyP8mkAX89ogA1&tn=aMVpWWJL-ZWdnhwm&_nc_ht=scontent.fepa11-1.fna&tp=29&oh=6982a4d8dbae3a21c60fa7d9e714e70b&oe=60CA5CD7" group-title="LOCALES 4", LTO CATAMARCA
 https://cdnhd.iblups.com/hls/ycxwLxWuQv.m3u8
@@ -3391,6 +3390,9 @@ http://inliveserver.com:1935/14164/14164/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vorterix.jpg/225px-Vorterix.jpg" group-title="RADIO 1", VORTERIX - 92.1 FM
 https://prepublish.f.qaotic.net/b12/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://milemisoras.com/img/channel/87551203ff1e7fe23845c1c0bf1810db.jpeg" group-title="RADIO 1", FM 99.9 - SUNCHALES
+https://589ff3c36f7e8.streamlock.net/ingenio_1/ingenio_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/2/2852.v5.png" group-title="RADIO 1", FM RITUAL 106.1 FM RIO GRANDE TIERRA DEL FUEGO
 http://streamyes.alsolnet.com/fmritualvideo/live/playlist.m3u8
