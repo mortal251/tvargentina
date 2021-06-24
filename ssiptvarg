@@ -3770,6 +3770,16 @@ http://streaming03.arcast.com.ar:1935/radio/radiosur.stream/chunklist_w679830486
 #EXTINF:-1   tvg-logo="http://masradio.ar/wp-content/uploads/2019/03/radio-color@2x.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", MAS RADIO (SOLO IPTV AZUL)
 http://centova.questreaming.com:4250/stream
 
+#EXTINF:-1   tvg-logo="https://thumbs.dreamstime.com/z/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", URBANA BA (SOLO IPTV AZUL)
+https://server.ohradio.com.ar:7131/;
+
+#EXTINF:-1   tvg-logo="https://thumbs.dreamstime.com/z/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", WAN RADIO (SOLO IPTV AZUL)
+http://69.64.46.123:8009/stream
+
+
+#EXTINF:-1   tvg-logo="http://www.wtango.com.ar/wtango00.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", W TANGO (SOLO IPTV AZUL)
+http://streaming.localhost.net.ar:8020/;stream.mp3
+
 
 
 
