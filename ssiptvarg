@@ -1380,8 +1380,6 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="INFANTIL", RAKUTEN FAMILIA
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/1_%C2%B72_%C2%B73_TV_logo.svg/245px-1_%C2%B72_%C2%B73_TV_logo.svg.png" group-title="INFANTIL", 123 TV
-http://177.52.221.214:8000/play/a0ew/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_f331914d260442069047f8fd3f5b90e5~mv2.png/v1/fill/w_96,h_72,al_c,q_85,usm_0.66_1.00_0.01/Mosca-1280x720_color_edited%20editado_edit.webp" group-title="INFANTIL", PEQUERADIO
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
