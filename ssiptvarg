@@ -2263,7 +2263,7 @@ https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044
 https://panel.streamingtv-mediacp.online:1936/8066/8066/chunklist_w1405405382.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radioan24.com.ar/wp-content/uploads/2020/11/logo-radiotvan24-272X136-definitivo.png" group-title="MUSICA", AN24
-https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
+https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/chunklist_w1915775020.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/watermarks/QQnSLaBB.png" group-title="MUSICA", COOPE TV
 https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
