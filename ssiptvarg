@@ -1105,7 +1105,7 @@ https://livefocamundo.com:8081/quintatv/tracks-v1a1/mono.m3u8
 https://cp.sradiotv.com:1936/8064/8064/chunklist_w642039581.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TU MEJOR TELEVISION
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/08/media-tv3.png" group-title="CINE Y SERIES", MEDIA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36
 http://media.profesionalhosting.com:1935/8175/8175/chunklist_w1849997651.m3u8
 
