@@ -1100,7 +1100,13 @@ https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8
 https://livefocamundo.com:8081/quintatv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/5a9447_e711383b6bf14d4584413b45e55a0a0d~mv2.png/v1/fill/w_130,h_130,al_c,q_85,usm_0.66_1.00_0.01/LOGO%20PLANO.webp" group-title="CINE Y SERIES",SAN RAFAEL TV
+https://cp.sradiotv.com:1936/8064/8064/chunklist_w642039581.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TU MEJOR TELEVISION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36
+http://media.profesionalhosting.com:1935/8175/8175/chunklist_w1849997651.m3u8
 
 
 
