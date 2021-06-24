@@ -3764,6 +3764,9 @@ https://proxy01.servidorenlinea.net/streaming1/8106/;
 #EXTINF:-1   tvg-logo="https://play-lh.googleusercontent.com/t7QZXZCd_qzimqeK1eBjJmtwuw9_FnWi8t_2GaS_wN0awcwIy11jq9Tylw4m2b1d8PY=s180-rw" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", SUR 101.5 FM BARADERO (SOLO IPTV AZUL)
 http://streaming03.arcast.com.ar:1935/radio/radiosur.stream/chunklist_w679830486.m3u8
 
+#EXTINF:-1   tvg-logo="http://masradio.ar/wp-content/uploads/2019/03/radio-color@2x.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", MAS RADIO (SOLO IPTV AZUL)
+http://centova.questreaming.com:4250/stream
+
 
 
 
