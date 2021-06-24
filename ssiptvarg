@@ -1585,7 +1585,7 @@ https://www.youtube.com/watch?v=hl_nACnH42w
 #EXTINF:-1 group-title="INFANTIL 2", POCOYO
 https://www.youtube.com/watch?v=lJpYpsRBAyE
 
-#EXTINF:-1 group-title="INFANTIL 2 ", Dave and Ava
+#EXTINF:-1 group-title="INFANTIL 2", Dave and Ava
 https://www.youtube.com/watch?v=QojxoIFWKOM
 
 
@@ -2661,8 +2661,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d00098
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/60511efd71ec430007f50d97/colorLogoPNG.png" group-title="CULTURA", MUNDO VIAJERO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://www.viturtv.com/_files/200000001-a051aa051c/450/logo2.png" group-title="CULTURA", VITUR TV
-https://59537faa0729a.streamlock.net/vitur/vitur/playlist.m3u8
 
 #EXTINF:-1 group-title="CULTURA", KOSMOS TV
 https://www.youtube.com/watch?v=TijWvBZD45c
