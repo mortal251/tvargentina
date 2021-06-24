@@ -137,7 +137,7 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="LOCALES 1", CINEAR  22.4
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.arzbaires.org.ar/inicio/images/canalorbe21.jpg" group-title="LOCALES 1", ORBE 21  21.2
+#EXTINF:-1 tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png" group-title="LOCALES 1", ORBE 21  21.2
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png" group-title="LOCALES 1", UNIFE TV  25.1
@@ -146,7 +146,7 @@ https://latamstreaming-live-os.akamaized.net/live_passthrough/unifearg1_ar_only_
 #EXTINF:-1 group-title="LOCALES 1", DTV DIPUTADOS TELEVISION
 https://www.youtube.com/watch?v=NinBU5RPJZA
 
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/tectv.png" group-title="LOCALES 1", TEC TV  22.5
+#EXTINF:-1 tvg-logo="http://www.tectv.gob.ar/resources/img/logo.png" group-title="LOCALES 1", TEC TV  22.5
 https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="LOCALES 1", VIAJAR TV
