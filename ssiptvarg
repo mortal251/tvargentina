@@ -1546,35 +1546,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa82c150b2500077
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aa89d42a0500007363ea3/colorLogoPNG.png" group-title="INFANTIL", GO DIEGO GO 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa89d42a0500007363ea3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a6970-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=792b48f4-9e17-4498-a864-053b445aef6a&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="INFANTIL", BabyBus
-https://www.youtube.com/watch?v=9FOhlvqOW9g
-
-#EXTINF:-1 group-title="INFANTIL", La Granja de Zenón
-https://www.youtube.com/watch?v=aWvEBIBX7e0
-
-#EXTINF:-1 group-title="INFANTIL", Las Ruedas del Autobús
-https://www.youtube.com/watch?v=jmxcCw1UrwA
-
-#EXTINF:-1 group-title="INFANTIL", PEPPA PIG
-https://www.youtube.com/watch?v=hl_nACnH42w
-
-#EXTINF:-1 group-title="INFANTIL", Dave and Ava
-https://www.youtube.com/watch?v=QojxoIFWKOM
-
-
-#EXTINF:-1 group-title="INFANTIL", HEROES EN PIJAMAS
-https://www.youtube.com/watch?v=SbugOb2aYFg
-
-#EXTINF:-1 group-title="INFANTIL", PAW Patrol
-https://www.youtube.com/watch?v=kg1I6vR1t0g
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-title="INFANTIL", ESR 24X7 NETWORK
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c11-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c67fb7c-fcd9-41e1-baba-8fefef855e17&userId=&serverSideAds=true
 
@@ -1584,8 +1555,65 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b26947
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1DYPzkDGsnWqzAQ2SiZOKA7Hi9CrNj1h6SpIup_yMJtTEHN9EKMPvD0nz8thRaCB1Lo&usqp=CAU" group-title="INFANTIL", LEVEL UP TV
 https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GVKVCBZ1ryg/YBsb5fRaNOI/AAAAAAAA_qk/6puCkYZaRUkrhUHzzMnHGL2CUMO94ij2ACK8BGAsYHg/s0/2021-02-03.png" group-title="INFANTIL", BOOMERANG
-http://96.30.193.226:81/hls/boomerang.m3u8
+
+
+
+#EXTINF:-1 group-title="INFANTIL 2", LOS SIMPSONS
+https://www.youtube.com/watch?v=QhpzqTxp4S0
+
+#EXTINF:-1 group-title="INFANTIL 2", DRAGON BALL
+https://www.youtube.com/watch?v=jmpSbyQCabU
+
+#EXTINF:-1 group-title="INFANTIL 2", Cartoon Network LA
+https://www.youtube.com/watch?v=2qB6M0FvaY4
+
+#EXTINF:-1 group-title="INFANTIL 2", hey kids
+https://www.youtube.com/watch?v=Fj_KXdV2rzc
+
+#EXTINF:-1 group-title="INFANTIL 2", BabyBus
+https://www.youtube.com/watch?v=9FOhlvqOW9g
+
+#EXTINF:-1 group-title="INFANTIL 2", La Granja de Zenón
+https://www.youtube.com/watch?v=0xsQ5ew3yE4
+
+#EXTINF:-1 group-title="INFANTIL 2", Las Ruedas del Autobús
+https://www.youtube.com/watch?v=jmxcCw1UrwA
+
+#EXTINF:-1 group-title="INFANTIL 2", PEPPA PIG
+https://www.youtube.com/watch?v=hl_nACnH42w
+
+#EXTINF:-1 group-title="INFANTIL 2", POCOYO
+https://www.youtube.com/watch?v=lJpYpsRBAyE
+
+#EXTINF:-1 group-title="INFANTIL 2 ", Dave and Ava
+https://www.youtube.com/watch?v=QojxoIFWKOM
+
+
+#EXTINF:-1 group-title="INFANTIL 2", HEROES EN PIJAMAS
+https://www.youtube.com/watch?v=SbugOb2aYFg
+
+#EXTINF:-1 group-title="INFANTIL 2", PAW Patrol
+https://www.youtube.com/watch?v=kg1I6vR1t0g
+
+#EXTINF:-1 group-title="INFANTIL 2", TV PARA NIÑOS
+https://www.youtube.com/watch?v=fyuT-mzTuWM
+
+#EXTINF:-1 group-title="INFANTIL 2", Katya y Dima
+https://www.youtube.com/watch?v=Lv7oSUvyYgU
+
+#EXTINF:-1 group-title="INFANTIL 2", super jojo
+tps://www.youtube.com/watch?v=kOxYmGxruro
+
+
+#EXTINF:-1 group-title="INFANTIL 2", BLIPPI
+https://www.youtube.com/watch?v=o4_K6UJ46NE
+
+
+
+
+
+
+
 
 
 
@@ -1605,14 +1633,10 @@ https://stmvideo1.livecastv.com/ucuweb/ucuweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="DEPORTE", BEIN SPORTS XTRA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="DEPORTE", BEIN SPORTS XTRA Ñ
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="DEPORTE", BEIN SPORTS XTRA Ñ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i4.hurimg.com/i/hurriyet/75/1200x675/5e7885270f25441d1c5aabca.jpg" group-title="DEPORTE", BEIN SPORTS PREMIUM 1
-https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i4.hurimg.com/i/hurriyet/75/1200x675/5e7885270f25441d1c5aabca.jpg" group-title="DEPORTE", BEIN SPORTS PREMIUM 2
-https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png" group-title="DEPORTE", CLARO SPORTS
 https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/cs01.m3u8
@@ -1657,6 +1681,12 @@ http://186.101.216.211:8000/play/a0cq
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTE",Win Sports +
 http://186.101.216.211:8000/play/g07j
+
+#EXTINF:-1 tvg-logo="https://i4.hurimg.com/i/hurriyet/75/1200x675/5e7885270f25441d1c5aabca.jpg" group-title="DEPORTE", BEIN SPORTS PREMIUM 1
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i4.hurimg.com/i/hurriyet/75/1200x675/5e7885270f25441d1c5aabca.jpg" group-title="DEPORTE", BEIN SPORTS PREMIUM 2
+https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
 
 
@@ -2634,6 +2664,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60511efd71ec430007f
 #EXTINF:-1 tvg-logo="https://www.viturtv.com/_files/200000001-a051aa051c/450/logo2.png" group-title="CULTURA", VITUR TV
 https://59537faa0729a.streamlock.net/vitur/vitur/playlist.m3u8
 
+#EXTINF:-1 group-title="CULTURA", KOSMOS TV
+https://www.youtube.com/watch?v=TijWvBZD45c
+
+#EXTINF:-1 group-title="CULTURA", NASA TV
+https://www.youtube.com/watch?v=nA9UZF-SZoQ
 
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="ESTILO DE VIDA 1", FASHION TV
