@@ -1619,7 +1619,7 @@ https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/cs01.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", Garage TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w476374322_b446000_sleng.m3u8
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2049053275_b1296000_sleng.m3u8
 
 
 
@@ -1632,7 +1632,7 @@ https://www.youtube.com/watch?v=1SmKEIpmcLU
 #EXTINF:-1 group-title="DEPORTE", HIPODROMO DE PALERMO   
 https://www.youtube.com/watch?v=OnW5qGG8fAA
 
-#EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="DEPORTE", TIGO SPORTS +
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTE", TIGO SPORTS +
 http://l3dtv.ga:8080/steveneguez1/Kdx4sHGeft/155632
 
 
@@ -1942,23 +1942,23 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="DEPORTES 2",  EVENTOS TIGO BOLIVIA 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES 2",  EVENTOS TIGO BOLIVIA 1
 https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="DEPORTES 2",  EVENTOS TIGO BOLIVIA 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES 2",  EVENTOS TIGO BOLIVIA 2
 https://d108h32trr4h8c.cloudfront.net/out/v1/d543fa4ff337450db0e38fcc19705c21/index_6.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="DEPORTES 2",  EVENTOS TIGO BOLIVIA 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES 2",  EVENTOS TIGO BOLIVIA 3
 https://d1pox267xtn5kq.cloudfront.net/out/v1/4270f13bab1547b39f44e52e867abcfa/index_6.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="DEPORTES 2",  EVENTOS TIGO SALVADOR 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES 2",  EVENTOS TIGO SALVADOR 1
 https://d107hql7o7vd84.cloudfront.net/out/v1/ce38156ea93a47709cec829647e9b0ce/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="DEPORTES 2",  EVENTOS TIGO HONDURAS 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES 2",  EVENTOS TIGO HONDURAS 1
 https://d20tezjrkz1zmc.cloudfront.net/out/v1/70c5e7b2534245f69d923065ffefd6d2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="DEPORTES 2",  EVENTOS TIGO GUATEMALA 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES 2",  EVENTOS TIGO GUATEMALA 1
 https://d1t6zcudgmh6wd.cloudfront.net/out/v1/88e67fc9be954233a769f97bada38a56/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" group-title="DEPORTES 2", CANAL 11 
