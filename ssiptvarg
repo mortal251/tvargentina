@@ -2063,7 +2063,38 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendti
 #EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTES 2", LOOK SPORTS 3
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1616918666&wowzatokenhash=sH1EDcTqSUok6EuiGcTMOpiFtl-7ujyDZXnBqpqqohE=&wowzatokenstarttime=1616879066
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cVCb02R.jpg" group-title="DEPORTES 2", MotorSport.TV
+https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6L6hQnn.png" group-title="DEPORTES 2", Sport en France
+https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES 2",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="DEPORTES 2", World of Freesports
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lJpOlLv.png" group-title="DEPORTES 2", San Marino RTV 
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES 2",Sportoutdoor.tv
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES 2",SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES 2",KBP SPORTS
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="DEPORTES 2",Lax Sports Network TV
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5ff5007140095248f263f987" group-title="DEPORTES 2",LN Sports
+https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
 
 
 
