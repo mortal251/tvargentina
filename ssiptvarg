@@ -292,7 +292,7 @@ https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=s
 https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="LOCALES 2", UNIVERSIDAD TV MAR DEL PLATA
-https://stream-02.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL544mcHVkiqVGvcSIuE0OAAYg)/dm/3/x7kvvgi/s/live-0.m3u8
+https://stream-03.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54_JLheUKXbVFjYCpOFEEy7M)/dm/3/x7kvvgi/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6yBSbBB-AHE/XjtBSO4ZGtI/AAAAAAAAvoQ/_ZYx1XEmyo0wXnwYQDegDsetCUlb9u0FwCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", Canal 41 XFN MAR DEL PLATA
 https://5f6e1fe8f2d2e.streamlock.net/canalxfn/canalxfn/playlist.m3u8
@@ -307,7 +307,7 @@ https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
 https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1624528565~exp=1624704965~acl=/i/canal13santafe_1@751190/*~hmac=660a5162b64b21cf9274195c7ff0a8fa45f35cf6a0ba4d6f429e1e8927cee052
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="RADIO 1", AIRE DE SANTA FE
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES 2", AIRE DE SANTA FE
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KpgEAsGdpDE/XUtjFb_0mpI/AAAAAAAAHDo/2tDNzjjnej8AEwBjlNPoPIPBOP6hs20hACLcBGAs/s1600/fm-activa-93-1.png" group-title="LOCALES 2", ACTIVA TV SANTA FE
