@@ -217,23 +217,24 @@ https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png" group-title="LOCALES 2", AMERICA TUCUMAN 
 http://45.6.4.154/americatuc/vivo.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-1/p200x200/69538283_2477118882346063_3348490571365744640_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=gEcM_P9JYtwAX-IjsEw&_nc_ht=scontent.fepa11-1.fna&tp=6&oh=27cf3f590f7d050e6a6e0576e2f5aac1&oe=60D11B8D" group-title="LOCALES 2", X24 TUCUMAN 
-https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/133px-Telefe_Tucum%C3%A1n_%282018%29.png" group-title="LOCALES 2", TELEFE TUCUMAN
 https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1624528225~exp=1624704625~acl=/i/canal8tucuman_1@787002/*~hmac=02937d718ac9b87b36c545eb1acb94912a1ac6fd23aec6ab8056d4431fab8ccf
 
-#EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES 2", 7 NORTE TUCUMAN
-http://video.streamtvradio.com:8081/uv027/uv027/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES 2", CANAL 12 TUCUMAN
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
 #EXTINF:-1 tvg-logo="http://calchaquitv.com.ar/images/logo.png" group-title="LOCALES 2", CALCHAQUI TV TUCUMAN
 http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="LOCALES 2", 7 NORTE TUCUMAN
+http://video.streamtvradio.com:8081/uv027/uv027/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa8N1f8j5_KNu-GyEt8MmVUXZmOc82wtIPAiG6_trSrkRup7IcU2CBjLqsp_S5WvsFBuU&usqp=CAU" group-title="LOCALES 2", PALOMAR TV TUCUMAN
 http://video.streamtvradio.com:8081/uv038/uv038/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES 2", CANAL 12 TUCUMAN
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-9/69538283_2477118882346063_3348490571365744640_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=973b4a&_nc_ohc=FarCgd21lscAX9cOVuh&_nc_ht=scontent.fepa11-1.fna&oh=7037c9f82a841cc48bd44f6e67f90054&oe=60DA9F3B" group-title="LOCALES 2", X24 TUCUMAN 
+https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="LOCALES 2", 6 ENTRE RIOS TV
 https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
@@ -337,7 +338,7 @@ http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 https://www.youtube.com/watch?v=BZGbwWeDeIQ
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=De73mBKV54c
+https://www.youtube.com/watch?v=q28hht7-sms
 
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="LOCALES 2", TELESOL SAN JUAN
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
@@ -417,7 +418,7 @@ http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1624501113~exp=1624677513~acl=/I/canal9bahiablanca_1@685725/*~hmac=3bd97ecec430eb39abae385f6df60e3c85bcbc4c2745632307570871e92207ca
 
 #EXTINF:-1 group-title="LOCALES 2", CANAL 7 BAHIA BLANCA (NOTICIERO)
-https://www.youtube.com/watch?v=Nl3shOyAKqw
+https://www.youtube.com/watch?v=K4HTS6vpOb0
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="LOCALES 2", CANAL 7 CATAMARCA
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
@@ -559,13 +560,13 @@ https://mediacp.hostradios.com.ar:19360/envivotv/envivotv.m3u8
 
 
 #EXTINF:-1 group-title="LOCALES 3", ONCE PARANA
-https://www.youtube.com/watch?v=c69G4rsoQj0
+https://www.youtube.com/watch?v=gAO5zqYol0A
 
 #EXTINF:-1 group-title="LOCALES 3", CANAL 12 TRENQUE LAUQUEN
-https://www.youtube.com/watch?v=ZoaceoHnnRI
+https://www.youtube.com/watch?v=eO0hLFml_3c
 
 #EXTINF:-1 group-title="LOCALES 3", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=vzUlHaagiew
+https://www.youtube.com/watch?v=6giZASf8--M
 
 #EXTINF:-1 group-title="LOCALES 3", VERTE TV
 https://www.youtube.com/watch?v=FxYA-W6Zbjk
