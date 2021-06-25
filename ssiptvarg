@@ -403,6 +403,9 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/canalnueve.tv/wp-content/uploads/2019/06/c9_1.png" group-title="LOCALES 2", CANAL 9 COMODORO RIVADAVIA
 https://live.canalnueve.tv/canal.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8RQ6Xhx3aek/XjtJFnEx_ZI/AAAAAAAAvrA/yM5l4Cz0Q3M6JmvHF4n5rjbEXc7W___XgCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", CANAL 4 POSADAS
+https://589ff3c36f7e8.streamlock.net/canal4/canal4/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uYJjXBSPKcQ/XrYLr-JJG2I/AAAAAAAA0hs/wSH1Dy7JWGkic3m4szzF2dIrjTyHOYHuwCK8BGAsYHg/s0/2020-05-08.png" group-title="LOCALES 2", CANAL 6 POSADAS MISIONES
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
@@ -581,11 +584,6 @@ https://www.youtube.com/watch?v=FxYA-W6Zbjk
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0201
 
 
-#EXTINF:-1 tvg-logo="http://tv.misionesonline.net/wp-content/uploads/2021/02/LogoMoscaGifweb.gif" group-title="LOCALES 3", MISIONES ONLINE
-https://stream-02.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW4o_c4JmDhpuSnAhRAwBmVU)/dm/3/x7zlqfx/s/live-1.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="LOCALES 3", VIBRA HD MONTE CASEROS
@@ -599,8 +597,7 @@ https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="LOCALES 3", TELENORD CORRIENTES
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8RQ6Xhx3aek/XjtJFnEx_ZI/AAAAAAAAvrA/yM5l4Cz0Q3M6JmvHF4n5rjbEXc7W___XgCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 3", CANAL 4 POSADAS
-https://589ff3c36f7e8.streamlock.net/canal4/canal4/playlist.m3u8
+
 
 
 
