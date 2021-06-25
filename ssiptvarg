@@ -701,8 +701,7 @@ https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm4lKe3uMzJnjq38A3QLkgbFduVklg1mHu2g&usqp=CAU" group-title="PAMPEANA", EL ECO TV TANDIL
 https://5f93e494d5906.streamlock.net/elecotv/elecotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bernaltv.com.ar/wp-content/uploads/2021/04/logo.png" group-title="PAMPEANA", BERNAL TV
-https://5f6e1fe8f2d2e.streamlock.net/bernaltv/smil:bernaltv.smil/chunklist_w986599499_b350000_slen.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://www.canal4teleba.com.ar/img/banner.png" group-title="PAMPEANA", TELEBA BALCARCE
@@ -829,17 +828,12 @@ https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png" group-title="NORTE", CANAL 21 POSADAS
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.santaeufemiaweb.com/img/portadaNueva.png" group-title="CENTRO", SANTA EUFEMIA WEB
-https://inliveserver.com:1936/14094/14094/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="CENTRO", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
 https://videohd.live:19360/8078/8078.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.15752-9/cp0/162033080_353666665889579_906973957199880096_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeEeESpEey4vNdlLU06PlbNcsLl-CNF8KWSwuX4I0XwpZAI2-dbOrfrB6dCr2AGENqc&_nc_ohc=Fn0xGjyP8mkAX89ogA1&tn=aMVpWWJL-ZWdnhwm&_nc_ht=scontent.fepa11-1.fna&tp=29&oh=6982a4d8dbae3a21c60fa7d9e714e70b&oe=60CA5CD7" group-title="NORTE", LTO CATAMARCA
-https://cdnhd.iblups.com/hls/ycxwLxWuQv.m3u8
 
 #EXTINF:-1 tvg-logo="http://television-internet.com.ar/canal-2-misiones-en-vivo.jpg?210107074240" group-title="NORTE", CANAL 2 MISIONES (SOLO IPTV AZUL)
 https://nd106.republicaservers.com/canal2misiones.mp4
