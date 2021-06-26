@@ -431,6 +431,8 @@ http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" group-title="PATAGONIA", CN 24/7 NEUQUEN 
 https://panel.dattalive.com/6605140/6605140/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.valletv.com/Graficos/logo.jpg" group-title="PATAGONIA", VALLE TV NEUQUEN
+https://stmv1.srvstm.com/valletv/valletv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Telefe_Bah%C3%ADa_Blanca_%282018%29.png/133px-Telefe_Bah%C3%ADa_Blanca_%282018%29.png" group-title="PAMPEANA", TELEFE BAHIA BLANCA
@@ -780,8 +782,7 @@ https://5975e06a1f292.streamlock.net:4443/tributv/tributv/playlist.m3u8
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.valletv.com/Graficos/logo.jpg" group-title="PATAGONIA", VALLE TV NEUQUEN
-https://stmv1.srvstm.com/valletv/valletv/playlist.m3u8
+
 
 
 
