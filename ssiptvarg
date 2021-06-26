@@ -422,7 +422,7 @@ https://g2.vxral-hor.transport.edge-access.net/a12/ngrp:c12_live01-100129_all/c1
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png/133px-Telefe_Neuqu%C3%A9n_%282018%29.png" group-title="PATAGONIA", TELEFE NEUQUEN
-https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1624528804~exp=1624705204~acl=/i/canal7neuquen_1@751158/*~hmac=8946aa44e25d3486aa5ca4827d765e8737240091e9edbb4a153d862d67633bc6
+https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1624706880~exp=1624883280~acl=/i/canal7neuquen_1@751158/*~hmac=c360aac3ade33a17cbbdfc41a8b4f8ebc19a789827536dd279017a61e07f7757
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E9zOAkKHOaw/XjtG9WkFKEI/AAAAAAAAvqQ/j2nVTLIMsZUsZfVliojEB5JU601yHtKQACK8BGAsYHg/s0/2020-02-05.png" group-title="PATAGONIA", RTN NEUQUEN
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
