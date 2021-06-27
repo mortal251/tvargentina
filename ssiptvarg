@@ -241,7 +241,7 @@ https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
 https://www.youtube.com/watch?v=gBbMbqILzXU
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/133px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="CENTRO", TELEFE CORDOBA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1624704425~exp=1624880825~acl=/i/canal8cordoba_1@685726/*~hmac=b615f73cbe288385ae3016de5572fd8207c02e5f7592fdc210bfbbbd0483e798
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1624811193~exp=1624987593~acl=/i/canal8cordoba_1@685726/*~hmac=3284a54abfba86ab99f2dc0b3c6fba0c1e56b71e5376f8c27b46df74df4c2691
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="CENTRO", CANAL 10 CORDOBA
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
@@ -284,7 +284,7 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-b.m3u8?s
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Telefe_Mar_del_Plata_%282018%29.png/133px-Telefe_Mar_del_Plata_%282018%29.png" group-title="PAMPEANA", TELEFE MAR DEL PLATA
-https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1624670470~exp=1624846870~acl=/i/mdqdistri02_1@829747/*~hmac=001cd565f21481ee80ea3cd729b9715e908f51f604997c2224f91dfbbf864f4b
+https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1624811305~exp=1624987705~acl=/i/mdqdistri02_1@829747/*~hmac=845b9294d932dd7b3604499f8cd63a8c7ed7ea8e459c6e3d19cc8d4f085af9ab
 
 #EXTINF:-1 tvg-logo="https://canal2mdp.com.ar/wp-content/uploads/2016/04/13427954_1104019889671271_5647949923378659701_n-1.jpg" group-title="PAMPEANA", CANAL 2 MAR DEL PLATA
 https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
@@ -310,8 +310,7 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Telefe_Santa_Fe.png/133px-Telefe_Santa_Fe.png" group-title="CENTRO", TELEFE SANTA FE
-https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1624704497~exp=1624880897~acl=/i/canal13santafe_1@751190/*~hmac=b29d548c2f2e3ff3ade4ce4c2262627baf8be8fefbe44ac84984a652eee1c525
-
+https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1624811477~exp=1624987877~acl=/i/canal13santafe_1@751190/*~hmac=da1bea35b4cd5a9980e8549422d07b8b3b8f4fc4ef18456b100117dd78b14687
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="CENTRO", AIRE DE SANTA FE
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8 
@@ -422,7 +421,7 @@ https://g2.vxral-hor.transport.edge-access.net/a12/ngrp:c12_live01-100129_all/c1
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png/133px-Telefe_Neuqu%C3%A9n_%282018%29.png" group-title="PATAGONIA", TELEFE NEUQUEN
-https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1624706880~exp=1624883280~acl=/i/canal7neuquen_1@751158/*~hmac=c360aac3ade33a17cbbdfc41a8b4f8ebc19a789827536dd279017a61e07f7757
+https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1624811277~exp=1624987677~acl=/i/canal7neuquen_1@751158/*~hmac=f94dcbd5844af93e35ed55bb69ffc897832df1216a4548b03688d2d5ded0670c
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E9zOAkKHOaw/XjtG9WkFKEI/AAAAAAAAvqQ/j2nVTLIMsZUsZfVliojEB5JU601yHtKQACK8BGAsYHg/s0/2020-02-05.png" group-title="PATAGONIA", RTN NEUQUEN
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
@@ -445,7 +444,7 @@ https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
 
 
 #EXTINF:-1 group-title="PAMPEANA", CANAL 7 BAHIA BLANCA (NOTICIERO)
-https://www.youtube.com/watch?v=SGVIhUyyk34
+https://www.youtube.com/watch?v=rdsNw05Q1-s
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="NORTE", CANAL 7 CATAMARCA
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
@@ -556,8 +555,7 @@ https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/800px-Telefe_Salta_%282018%29.png" group-title="NORTE", TELEFE SALTA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1624703014~exp=1624879414~acl=/i/canal11salta_1@722934/*~hmac=283ec090f6beeb4dcb641c4cfe66c7d52f36ecff836158fc00a7a31bf48a378a
-
+https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1624811137~exp=1624987537~acl=/i/canal11salta_1@722934/*~hmac=be4386522497bb8e56659b9d11c48194584f219995c3666ba67cd9b35dc1f42b
 
 #EXTINF:-1 tvg-logo="https://frecuenciasalta.ar/wp-content/uploads/2020/08/NEOX-SALTA-300x240.jpg" group-title="NORTE", NEOX TV SALTA
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
@@ -596,7 +594,7 @@ https://www.youtube.com/watch?v=Y0zXlbx4l5s
 https://www.youtube.com/watch?v=eO0hLFml_3c
 
 #EXTINF:-1 group-title="PATAGONIA", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=1O9Un1eIDVw
+https://www.youtube.com/watch?v=gYWJWZPLOhY
 
 #EXTINF:-1 group-title="PAMPEANA", VERTE TV OLAVARRIA
 https://www.youtube.com/watch?v=FxYA-W6Zbjk
