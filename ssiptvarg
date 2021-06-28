@@ -229,6 +229,9 @@ http://video.streamtvradio.com:8081/uv027/uv027/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa8N1f8j5_KNu-GyEt8MmVUXZmOc82wtIPAiG6_trSrkRup7IcU2CBjLqsp_S5WvsFBuU&usqp=CAU" group-title="NORTE", PALOMAR TV TUCUMAN
 http://video.streamtvradio.com:8081/uv038/uv038/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png" group-title="NORTE", LA VOZ TV TUCUMAN
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="NORTE", CANAL 12 TUCUMAN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
@@ -346,6 +349,9 @@ https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playl
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="NORTE", RTV CABLE JUJUY
 https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSh7XjPZSGyNjRrZpYF4nwLpJUbxtv_Qf2gQqNOjlwiHzXvusMUnp8gGkfXg6ocaVpgYA&usqp=CAU" group-title="NORTE", CNR JUJUY
+https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 
 
