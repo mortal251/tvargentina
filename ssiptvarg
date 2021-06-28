@@ -443,8 +443,7 @@ https://stmv1.srvstm.com/valletv/valletv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Telefe_Bah%C3%ADa_Blanca_%282018%29.png/133px-Telefe_Bah%C3%ADa_Blanca_%282018%29.png" group-title="PAMPEANA", TELEFE BAHIA BLANCA
-https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1624501113~exp=1624677513~acl=/I/canal9bahiablanca_1@685725/*~hmac=3bd97ecec430eb39abae385f6df60e3c85bcbc4c2745632307570871e92207ca
-
+https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1624892123~exp=1625068523~acl=/I/canal9bahiablanca_1@685725/*~hmac=65b61e10d954b3da831fc1b8454ef48a59bb2614b77cd19bf51cf9b05ca062b8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bfgU_ufKFps/XrYKd9HJC_I/AAAAAAAA0hY/TxCOOPSR-R8fBb8zd9ThamFRUKIRsoFrACK8BGAsYHg/s0/2020-05-08.png" group-title="PAMPEANA", CANAL 4 BAHIA BLANCA
 https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
