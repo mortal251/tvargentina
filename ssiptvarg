@@ -1505,6 +1505,9 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png" group-title="INFANTIL", 74 TV
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-9/136411513_211386754045334_3429654778974000334_n.png?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHPM9b0AJdn_UUI-ZdPfMNejdOt3W5XkNSN063dbleQ1COyGUL1hA8Li5cWD-BFrj0&_nc_ohc=1vZXCxFq8c8AX8OIKEH&_nc_oc=AQnjMhx6dOtSFfsGSbz1jKrh5JJ2Z3_xo3up6xaU8uV_md6KQCO_eCNNMcMaRbEZlNy69Zsa9wLaTL2Ig9mceqcZ&_nc_ht=scontent.fepa11-1.fna&oh=f64b5153a8f1f167eba53ae05506edd6&oe=60DECBDD" group-title="INFANTIL", TELEANIMACION
+https://live.admefy.com/live/default/socialist_azure_5d76a.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png" group-title="INFANTIL", NICK JR. LATINO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff372-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=508efa49-44d3-42fd-8d4d-75f10b4e7cc7&userId=&serverSideAds=true
 
