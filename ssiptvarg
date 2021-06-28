@@ -236,15 +236,18 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 
 
-
-#EXTINF:-1 group-title="CENTRO", EL DOCE CORDOBA
-https://www.youtube.com/watch?v=gBbMbqILzXU
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/133px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="CENTRO", TELEFE CORDOBA
 https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1624811193~exp=1624987593~acl=/i/canal8cordoba_1@685726/*~hmac=3284a54abfba86ab99f2dc0b3c6fba0c1e56b71e5376f8c27b46df74df4c2691
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="CENTRO", CANAL 10 CORDOBA
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="CENTRO", EL DOCE CORDOBA
+https://www.youtube.com/watch?v=gBbMbqILzXU
+
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png" group-title="CENTRO", CANAL U CORDOBA
 https://vcp.myplaytv.com/canal10srt/smil:canal10srt.smil/playlist.m3u8
