@@ -16,17 +16,17 @@ https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29.png" group-title="NOTICIAS", A24  36.3
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", TODO NOTICIAS   
-https://www.youtube.com/watch?v=wHn1_QVoXGM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/145px-TN_todo_noticias_logo.svg.png" group-title="NOTICIAS", TODO NOTICIAS   
+http://tv.nousiptv.com:8080/linodolega/12345/18766
 
 
 
-#EXTINF:-1 group-title="NOTICIAS", C5N  25.2
-https://www.youtube.com/watch?v=wlNWw5k14y8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/120px-C5N_logo.svg.png" group-title="NOTICIAS", C5N  25.2
+http://tv.nousiptv.com:8080/linodolega/12345/18766
 
 
-#EXTINF:-1 group-title="NOTICIAS", LN+  25.3
-https://www.youtube.com/watch?v=ns8-5XKA0Ww                 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LN%2B.png/150px-LN%2B.png" group-title="NOTICIAS", LN+  25.3
+http://tv.nousiptv.com:8080/linodolega/12345/7976               
 
 
 
@@ -340,8 +340,7 @@ https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playl
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="NORTE", RTV CABLE JUJUY
 https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/682890858618851329/MdQcRkO5_400x400.png" group-title="NORTE", CNR JUJUY
-https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="CUYO", CANAL 4 SAN JUAN
@@ -351,7 +350,7 @@ http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 https://www.youtube.com/watch?v=BZGbwWeDeIQ
 
 #EXTINF:-1 group-title="CUYO", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=q28hht7-sms
+https://www.youtube.com/watch?v=p25k8TySwys
 
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="CUYO", TELESOL SAN JUAN
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
@@ -445,8 +444,7 @@ https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
 
 
 
-#EXTINF:-1 group-title="PAMPEANA", CANAL 7 BAHIA BLANCA (NOTICIERO)
-https://www.youtube.com/watch?v=rdsNw05Q1-s
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="NORTE", CANAL 7 CATAMARCA
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
@@ -590,13 +588,10 @@ https://mediacp.hostradios.com.ar:19360/envivotv/envivotv.m3u8
 
 
 #EXTINF:-1 group-title="CENTRO", ONCE PARANA
-https://www.youtube.com/watch?v=Y0zXlbx4l5s
+https://www.youtube.com/watch?v=_RYX794rlY4
 
 #EXTINF:-1 group-title="PAMPEANA", CANAL 12 TRENQUE LAUQUEN
-https://www.youtube.com/watch?v=eO0hLFml_3c
-
-#EXTINF:-1 group-title="PATAGONIA", ADNSUR COMODORO RIVADAVIA
-https://www.youtube.com/watch?v=gYWJWZPLOhY
+https://www.youtube.com/watch?v=fmuvTNwsD-M
 
 #EXTINF:-1 group-title="PAMPEANA", VERTE TV OLAVARRIA
 https://www.youtube.com/watch?v=FxYA-W6Zbjk
