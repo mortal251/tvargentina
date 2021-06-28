@@ -543,19 +543,19 @@ https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV4s1mlOqPhwNQUcnPe1_TJW7FG_abAbyM6g&usqp=CAU" group-title="CENTRO", N24TV LOS CONDORES
 https://59537faa0729a.streamlock.net/n24tv/n24tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg" group-title="NORTE", FENIX LA RIOJA
+#EXTINF:-1 tvg-logo="http://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg" group-title="CUYO", FENIX LA RIOJA
 https://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png" group-title="NORTE", CANAL 13 LA RIOJA
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png" group-title="CUYO", CANAL 13 LA RIOJA
 https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://multimedioteveochodigital.com/uploads/logo/logo_5cccaad4c70e1.png" group-title="NORTE", TEVE OCHO CHEPES LA RIOJA
+#EXTINF:-1 tvg-logo="https://multimedioteveochodigital.com/uploads/logo/logo_5cccaad4c70e1.png" group-title="CUYO", TEVE OCHO CHEPES LA RIOJA
 https://stmvideo1.livecastv.com/teveocho/teveocho/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png" group-title="NORTE", CANAL 2 SANAGASTA
+#EXTINF:-1 tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png" group-title="CUYO", CANAL 2 SANAGASTA
 https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="NORTE", CHILECITO TV LA RIOJA
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="CUYO", CHILECITO TV LA RIOJA
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png" group-title="NORTE", MULTIVISION SALTA
