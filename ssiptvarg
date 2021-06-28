@@ -5,8 +5,7 @@
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="NOTICIAS", CRONICA HD  24.4
-https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
-
+http://tv.nousiptv.com:8080/linodolega/12345/4188
 
 
 
@@ -329,7 +328,7 @@ https://5975e06a1f292.streamlock.net:4443/c5sf2/c5sf2/playlist.m3u8
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png" group-title="NORTE", CANAL 4 JUJUY
-http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
+https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w1412506057_b121000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gU0LdOci1cE/XrYL7uefhAI/AAAAAAAA0h0/N9ww7QKwrrY9kCL4fMrD3mroXZHoYMudACK8BGAsYHg/s0/2020-05-08.png" group-title="NORTE", CANAL 7 JUJUY
@@ -340,6 +339,9 @@ https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playl
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="NORTE", RTV CABLE JUJUY
 https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/682890858618851329/MdQcRkO5_400x400.png" group-title="NORTE", CNR JUJUY
+https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="CUYO", CANAL 4 SAN JUAN
