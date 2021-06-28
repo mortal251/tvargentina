@@ -90,6 +90,9 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="AMBA", PAKA PAKA  22.2
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="AMBA", MAGIC KIDS
+https://live.admefy.com/live/clean_peach_ef224.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="AMBA", CINEAR  22.4
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8   
 
@@ -2324,8 +2327,7 @@ https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/005744bff637aa2e851abd60710e4001c53576399f8a7f04b671a639e604fd73.png" group-title="MUSICA", TANGO TV
 https://panel.streamingtv-mediacp.online:1936/8066/8066/chunklist_w1405405382.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radioan24.com.ar/wp-content/uploads/2020/11/logo-radiotvan24-272X136-definitivo.png" group-title="MUSICA", AN24
-https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/chunklist_w1915775020.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/watermarks/QQnSLaBB.png" group-title="MUSICA", COOPE TV
 https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
@@ -3472,6 +3474,9 @@ https://cda1.alsolnet.com/dialradiotv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png" group-title="RADIO 1", LA VOZ TV 89.1 FM TUCUMAN
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radioan24.com.ar/wp-content/uploads/2020/11/logo-radiotvan24-272X136-definitivo.png" group-title="RADIO 1", AN24
+https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/chunklist_w1915775020.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/107187_Canal_907_FM_Comunicar.png" group-title="RADIO 1", FM COMUNICAR 90.7 FM - COLONIA CAROYA
