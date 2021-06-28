@@ -218,7 +218,7 @@ https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044
 http://45.6.4.154/americatuc/vivo.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/133px-Telefe_Tucum%C3%A1n_%282018%29.png" group-title="NORTE", TELEFE TUCUMAN
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1624703851~exp=1624880251~acl=/i/canal8tucuman_1@787002/*~hmac=bd5905142e4028c59981eb8f1998e741831d7b931f9d575a219b0c2eb5d65faa
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1624891492~exp=1625067892~acl=/i/canal8tucuman_1@787002/*~hmac=ebc984fc0e87783fc7aae833a9eea169664e718da01e36a9d443e372cfc0ee1e
 
 #EXTINF:-1 tvg-logo="http://calchaquitv.com.ar/images/logo.png" group-title="NORTE", CALCHAQUI TV TUCUMAN
 http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
