@@ -559,6 +559,10 @@ https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="CUYO", CHILECITO TV LA RIOJA
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/canal-medios-rioja.jpg" group-title="CUYO", MEDIOSRIOJA TV
+http://streamyes.alsolnet.com/mediosrioja/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png" group-title="NORTE", MULTIVISION SALTA
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
