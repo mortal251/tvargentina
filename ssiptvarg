@@ -4049,7 +4049,7 @@ http://vale.stweb.tv:1935/vale/live/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-VAhlDpNd9mNuPlfZZ0iCAe3xDjf9K7xMf6UE1DESKBeGxnoIFutlfPefX_MbXyuzvk8&usqp=CAU" group-title="RADIO AMBA", RADIO MADRE (SOLO IPTV AZUL)
 http://cdn.instream.audio:9288/stream  
 
-#EXTINF:-1   tvg-logo="https://www.radiocolonia.com/images/Logo-color.png" group-title="RADIO AMBA)", RADIO COLONIA (SOLO IPTV AZUL)
+#EXTINF:-1   tvg-logo="https://www.radiocolonia.com/images/Logo-color.png" group-title="RADIO AMBA", RADIO COLONIA (SOLO IPTV AZUL)
 https://streaming1.hostingmontevideo.com:7019/; 
 
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="RADIO AMBA", RADIO MITRE (SOLO IPTV AZUL)
@@ -4126,7 +4126,7 @@ https://server.ohradio.com.ar:7131/;
 http://69.64.46.123:8009/stream
 
 
-#EXTINF:-1   tvg-logo="http://www.wtango.com.ar/wtango00.jpg" group-title="RADIO AMBA)", W TANGO (SOLO IPTV AZUL)
+#EXTINF:-1   tvg-logo="http://www.wtango.com.ar/wtango00.jpg" group-title="RADIO AMBA", W TANGO (SOLO IPTV AZUL)
 http://streaming.localhost.net.ar:8020/;stream.mp3
 
 
