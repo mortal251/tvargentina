@@ -928,6 +928,9 @@ https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/245px-Claro_TV_wordmark.svg.png" group-title="CINE Y SERIES",Canal Claro
 http://186.101.216.211:8000/play/a08e
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/BJx824u_ke8ONOkMswCJJCCaJJtKedhoX82FgIvxuGphg9gE4UE2Ns_fi1RUjHeZaLfKYMj23py7dBrhaA0rxvQHdRzURPDXmiCqHtPz-32z-UrPh_1gw-ufgslyRIOMHqeOWFIc" group-title="CINE Y SERIES",Claro Cinema
+http://209.91.213.10:8099/play/a00v
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png" group-title="CINE Y SERIES", UCV 
 https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
