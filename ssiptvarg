@@ -3442,309 +3442,313 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w144719746.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="RADIO 1", RADIO MITRE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="RADIO AMBA", RADIO MITRE
 https://g5.mc-slo.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/MITREHD-10002_540p.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="RADIO 1", LA 100
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="RADIO AMBA", LA 100
 https://g5.vxral-slo.transport.edge-access.net/b13/ngrp:cienradioshd-10002_all/cienradioshd-10002_540p.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" group-title="RADIO 1", CN 24/7 NEUQUEN 
-https://panel.dattalive.com/6605140/6605140/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="RADIO 1", AM 1020 SAN JUAN
-http://51.79.83.93:9998/live/am1020/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.isparm.edu.ar/redm/images/logo.jpg" group-title="RADIO 1", RED M MISIONES
-https://inliveserver.com:1936/14032/14032/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/canal-medios-rioja.jpg" group-title="RADIO 1", MEDIOSRIOJA TV
-http://streamyes.alsolnet.com/mediosrioja/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://beatsradio.com.ar/imagenes/logo.png" group-title="RADIO 1", BEATS  - 100.5 FM - TIGRE
+#EXTINF:-1 tvg-logo="https://beatsradio.com.ar/imagenes/logo.png" group-title="RADIO AMBA", BEATS  - 100.5 FM - TIGRE
 https://59537faa0729a.streamlock.net/beatsradio/beatsradio/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Avatar_redes_positivo_1024.png" group-title="RADIO 1", CADENA TIEMPO CHUBUT
-https://panel.dattalive.com/8034/8034/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dialradio.tv/wp-content/uploads/2018/05/DIAL-RADIO-LOGO-WEB.png" group-title="RADIO 1", RADIO DIAL SAN RAFAEL
-https://cda1.alsolnet.com/dialradiotv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png" group-title="RADIO 1", LA VOZ TV 89.1 FM TUCUMAN
-https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.radioan24.com.ar/wp-content/uploads/2020/11/logo-radiotvan24-272X136-definitivo.png" group-title="RADIO 1", AN24
+#EXTINF:-1 tvg-logo="https://www.radioan24.com.ar/wp-content/uploads/2020/11/logo-radiotvan24-272X136-definitivo.png" group-title="RADIO AMBA", AN24
 https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/chunklist_w1915775020.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" group-title="RADIO PATAGONIA", CN 24/7 NEUQUEN 
+https://panel.dattalive.com/6605140/6605140/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/107187_Canal_907_FM_Comunicar.png" group-title="RADIO 1", FM COMUNICAR 90.7 FM - COLONIA CAROYA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="RADIO CUYO", AM 1020 SAN JUAN
+http://51.79.83.93:9998/live/am1020/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.isparm.edu.ar/redm/images/logo.jpg" group-title="RADIO NORTE", RED M MISIONES
+https://inliveserver.com:1936/14032/14032/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/canal-medios-rioja.jpg" group-title="RADIO CUYO", MEDIOSRIOJA TV
+http://streamyes.alsolnet.com/mediosrioja/live/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Avatar_redes_positivo_1024.png" group-title="RADIO PATAGONIA", CADENA TIEMPO CHUBUT
+https://panel.dattalive.com/8034/8034/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dialradio.tv/wp-content/uploads/2018/05/DIAL-RADIO-LOGO-WEB.png" group-title="RADIO CUYO", RADIO DIAL SAN RAFAEL
+https://cda1.alsolnet.com/dialradiotv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png" group-title="RADIO NORTE", LA VOZ TV 89.1 FM TUCUMAN
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/107187_Canal_907_FM_Comunicar.png" group-title="RADIO CENTRO", FM COMUNICAR 90.7 FM - COLONIA CAROYA
 https://panel.dattalive.com/canal907/canal907/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="RADIO 1", AIRE DE SANTA FE
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="RADIO CENTRO", AIRE DE SANTA FE
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/96/85/9685b44d-67a3-4c50-84e6-76888b1599cb.png" group-title="RADIO 1", FM PLUS 93.1 ROSARIO
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/96/85/9685b44d-67a3-4c50-84e6-76888b1599cb.png" group-title="RADIO CENTRO", FM PLUS 93.1 ROSARIO
 https://g3.vxral-slo.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_all/rosario3_live01-100168_540p.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="RADIO 1", FM 99.9 MAR DEL PLATA
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="RADIO PAMPEANA", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="RADIO 1", FM LIGHT 97.3 SAN JUAN
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="RADIO CUYO", FM LIGHT 97.3 SAN JUAN
 http://videostream.shockmedia.com.ar:1935/lightfm/lightfm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://diariosanjuan.com.ar/imagenes/banner.png" group-title="RADIO 1", DIARIO DE SAN JUAN
+#EXTINF:-1 tvg-logo="https://diariosanjuan.com.ar/imagenes/banner.png" group-title="RADIO CUYO", DIARIO DE SAN JUAN
 https://59537faa0729a.streamlock.net/radiolared/radiolared/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiovalleviejo.com.ar/wp-content/uploads/2020/03/logo2020.png" group-title="RADIO 1", RADIO VALLE VIEJO 104.1 FM CATAMARCA
+#EXTINF:-1 tvg-logo="https://radiovalleviejo.com.ar/wp-content/uploads/2020/03/logo2020.png" group-title="RADIO NORTE", RADIO VALLE VIEJO 104.1 FM CATAMARCA
 http://inliveserver.com:1935/14164/14164/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vorterix.jpg/225px-Vorterix.jpg" group-title="RADIO 1", VORTERIX - 92.1 FM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vorterix.jpg/225px-Vorterix.jpg" group-title="RADIO AMBA", VORTERIX - 92.1 FM
 https://prepublish.f.qaotic.net/b12/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
 
-#EXTINF:-1 tvg-logo="https://milemisoras.com/img/channel/87551203ff1e7fe23845c1c0bf1810db.jpeg" group-title="RADIO 1", FM 99.9 - SUNCHALES
+#EXTINF:-1 tvg-logo="https://milemisoras.com/img/channel/87551203ff1e7fe23845c1c0bf1810db.jpeg" group-title="RADIO CENTRO", FM 99.9 - SUNCHALES
 https://589ff3c36f7e8.streamlock.net/ingenio_1/ingenio_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/2/2852.v5.png" group-title="RADIO 1", FM RITUAL 106.1 FM RIO GRANDE TIERRA DEL FUEGO
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/2/2852.v5.png" group-title="RADIO PATAGONIA", FM RITUAL 106.1 FM RIO GRANDE TIERRA DEL FUEGO
 http://streamyes.alsolnet.com/fmritualvideo/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.urbana98.com/uploads/logo/logo_5f8f30311e770.png" group-title="RADIO 1", SEÑAL URBANA 98.9 FM VERONICA
+#EXTINF:-1 tvg-logo="http://www.urbana98.com/uploads/logo/logo_5f8f30311e770.png" group-title="RADIO PAMPEANA", SEÑAL URBANA 98.9 FM VERONICA
 https://inliveserver.com:1936/14148/14148/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--GOOD.png" group-title="RADIO 1", GOOD RADIO 101.1 FM JESUS MARIA CORDOBA
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--GOOD.png" group-title="RADIO CENTRO", GOOD RADIO 101.1 FM JESUS MARIA CORDOBA
 http://streamyes.alsolnet.com/goodradio/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuxgBnJlOtJSsTnFvwCHja5d0A753R6C9DpA&usqp=CAU" group-title="RADIO 1", NOVA FM 91.5 MISIONES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuxgBnJlOtJSsTnFvwCHja5d0A753R6C9DpA&usqp=CAU" group-title="RADIO NORTE", NOVA FM 91.5 MISIONES
 http://streamyes.alsolnet.com/radionovatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9f/51/9f51832cbcc4c513b3415c2d9616fe89.jpg" group-title="RADIO 1", FM LATINA 94.5 ROSARIO
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9f/51/9f51832cbcc4c513b3415c2d9616fe89.jpg" group-title="RADIO CENTRO", FM LATINA 94.5 ROSARIO
 http://streaming.arcast.com.ar:1935/fmlatina/fmlatina/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQC3ZztNwYVI7-3K0qGaDY-w0toenpCDjGhg&usqp=CAU" group-title="RADIO 1", FM METROPOLITANA 93.5 TUCUMAN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQC3ZztNwYVI7-3K0qGaDY-w0toenpCDjGhg&usqp=CAU" group-title="RADIO NORTE", FM METROPOLITANA 93.5 TUCUMAN
 https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="RADIO 1", RADIO AZAHARES FM 101.5 CORRIENTES
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="RADIO NORTE", RADIO AZAHARES FM 101.5 CORRIENTES
 http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.classfm.com.ar/images/cabecera.png" group-title="RADIO 1", RADIO CLASS 91.9 FM SAENZ PEÑA
+#EXTINF:-1 tvg-logo="https://www.classfm.com.ar/images/cabecera.png" group-title="RADIO AMBA", RADIO CLASS 91.9 FM SAENZ PEÑA
 https://streamcasthd.com:19360/classfm/classfm.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="RADIO 1", POWER MAX 104.1 FM RECREO SANTA FE
+#EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="RADIO CENTRO", POWER MAX 104.1 FM RECREO SANTA FE
 https://59537faa0729a.streamlock.net/radio1045/radio1045/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI966.png" group-title="RADIO 1", CADENA 103 OLAVARRIA
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI966.png" group-title="RADIO PAMPEANA", CADENA 103 OLAVARRIA
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://rbdweb.com/wp-content/uploads/2020/03/MARCA-BLANCA.png" group-title="RADIO 1", BEST DIGITAL ROSARIO
+#EXTINF:-1 tvg-logo="https://rbdweb.com/wp-content/uploads/2020/03/MARCA-BLANCA.png" group-title="RADIO CENTRO", BEST DIGITAL ROSARIO
 https://5975e06a1f292.streamlock.net:4443/beatvideo/beatvideo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg" group-title="RADIO 1", CIUDAD MAGICA 105.1 FM AUSONIA 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg" group-title="RADIO CENTRO", CIUDAD MAGICA 105.1 FM AUSONIA 
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radioarg.net/assets/image/radio/180/wox1.png" group-title="RADIO 1", WOX ROSARIO 88.3 FM
+#EXTINF:-1 tvg-logo="https://radioarg.net/assets/image/radio/180/wox1.png" group-title="RADIO CENTRO", WOX ROSARIO 88.3 FM
 https://streamcasthd.com:1936/woxtv/woxtv/playlist.m3u8
 
  
 
-#EXTINF:-1 tvg-logo="http://www.conexionabierta.com.ar/images/logo-conexion-abierta.png" group-title="RADIO 1", RADIO CONEXION ABIERTA
+#EXTINF:-1 tvg-logo="http://www.conexionabierta.com.ar/images/logo-conexion-abierta.png" group-title="RADIO AMBA", RADIO CONEXION ABIERTA
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/b64e7d2ed9904a48b0f3d70609562d6b/chunklist_b3692000.m3u8?p=79&s=1607779032&e=1607779152&h=91800526ed9f2926f876f628593822e0
 
 
 
-#EXTINF:-1 tvg-logo="https://www.mediaticadigital.com.ar/files/image/23/23202/5bacedbf70730.png" group-title="RADIO 1", RADIO MEDIATICA 98.9 FM - RIO GALLEGOS
+#EXTINF:-1 tvg-logo="https://www.mediaticadigital.com.ar/files/image/23/23202/5bacedbf70730.png" group-title="RADIO PATAGONIA", RADIO MEDIATICA 98.9 FM - RIO GALLEGOS
 https://streamyes.alsolnet.com/radiomediaticavideo/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="RADIO 1", POWER FM PINAMAR 100.3 FM
+#EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="RADIO PAMPEANA", POWER FM PINAMAR 100.3 FM
 https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8 
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio17226_1475156823.png" group-title="RADIO 1", FM IBEROAMERICA 100.3 MAR DEL PLATA
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio17226_1475156823.png" group-title="RADIO PAMPEANA", FM IBEROAMERICA 100.3 MAR DEL PLATA
 http://videostream.shockmedia.com.ar:1935/fmiberoamerica/fmiberoamerica/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://u.jimcdn.com/cms/o/sc9cca47c6866b922/emotion/crop/header.jpg?t=1544211316" group-title="RADIO 1", RADIO TRADICIONAL AM 1340 - FLORIDA NORTE
+#EXTINF:-1 tvg-logo="https://u.jimcdn.com/cms/o/sc9cca47c6866b922/emotion/crop/header.jpg?t=1544211316" group-title="RADIO AMBA", RADIO TRADICIONAL AM 1340 - FLORIDA NORTE
 https://streamcasthd.com:19360/radiotradicional1340/radiotradicional1340.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DeHYq8zK4Ww/W2_AlgMYOgI/AAAAAAAAEPs/F5BIeppaBHQ5MlddDYsLliYBdPSoZjC3wCLcBGAs/s1600/radio-amplitud-am-660.png" group-title="RADIO 1", AMPLITUD AM 660 SAN JUSTO
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DeHYq8zK4Ww/W2_AlgMYOgI/AAAAAAAAEPs/F5BIeppaBHQ5MlddDYsLliYBdPSoZjC3wCLcBGAs/s1600/radio-amplitud-am-660.png" group-title="RADIO AMBA", AMPLITUD AM 660 SAN JUSTO
 https://clientes.videostreaming.ar:19360/radioamplitud/radioamplitud.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.diariodelsol.com.ar/images/2.jpeg" group-title="RADIO 1", FM DEL SOL 91.9 SAN JUAN
+#EXTINF:-1 tvg-logo="http://www.diariodelsol.com.ar/images/2.jpeg" group-title="RADIO CUYO", FM DEL SOL 91.9 SAN JUAN
 http://streamyes.alsolnet.com/fmdelsoltv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://okfmarroyito.com/wp-content/uploads/2018/03/RADIO-EN-VIVO.jpg" group-title="RADIO 1", 95.5 FM OK ARROYITO CORDOBA
+#EXTINF:-1 tvg-logo="https://okfmarroyito.com/wp-content/uploads/2018/03/RADIO-EN-VIVO.jpg" group-title="RADIO CENTRO", 95.5 FM OK ARROYITO CORDOBA
 https://inliveserver.com:1936/14062/14062/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lu24.com.ar/wp-content/themes/Lu24_template/img/logo-lu24.svg" group-title="RADIO 1", LU 24 TRES ARROYOS
+#EXTINF:-1 tvg-logo="https://www.lu24.com.ar/wp-content/themes/Lu24_template/img/logo-lu24.svg" group-title="RADIO PAMPEANA", LU 24 TRES ARROYOS
 http://stream.shockmedia.com.ar:1935/lu24am/lu24am/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/rbdradio.com.ar/wp-content/uploads/2021/01/LOGO-RBD-CURVAS-TRANS-e1611097859586.png?fit=100%2C100&ssl=1" group-title="RADIO 1", RBD RADIO
+#EXTINF:-1 tvg-logo="https://i2.wp.com/rbdradio.com.ar/wp-content/uploads/2021/01/LOGO-RBD-CURVAS-TRANS-e1611097859586.png?fit=100%2C100&ssl=1" group-title="RADIO AMBA", RBD RADIO
 http://videostream.shockmedia.com.ar:1935/rbdvideo/rbdvideo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://delpueblo.somosturadio.net/wp-content/uploads/sites/9/2020/06/fm-del-pueblo1.png" group-title="RADIO 1", RADIO DEL PUEBLO 107.3 FM COMODORO RIVADAVIA
+#EXTINF:-1 tvg-logo="http://delpueblo.somosturadio.net/wp-content/uploads/sites/9/2020/06/fm-del-pueblo1.png" group-title="RADIO PATAGONIA", RADIO DEL PUEBLO 107.3 FM COMODORO RIVADAVIA
 https://vivo.solumedia.com:19360/fmdelpueblo/fmdelpueblo.m3u8
 
-#EXTINF:-1 tvg-logo="http://bahiahost.com.ar/appstore/wp-content/uploads/2020/11/img-play-logo.png" group-title="RADIO 1", FM 95.1 ADELA LA PAMPA
+#EXTINF:-1 tvg-logo="http://bahiahost.com.ar/appstore/wp-content/uploads/2020/11/img-play-logo.png" group-title="RADIO PAMPEANA", FM 95.1 ADELA LA PAMPA
 https://stmv1.srvif.com/liberred/liberred/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://surargentinormx.com/wp-content/uploads/elementor/thumbs/logo-orseqvkm3gvq36wnhdc1e31nwkvtfxm51npplxeve0.jpg" group-title="RADIO 1", RMX 105.1 FM USHUAIA
+#EXTINF:-1 tvg-logo="http://surargentinormx.com/wp-content/uploads/elementor/thumbs/logo-orseqvkm3gvq36wnhdc1e31nwkvtfxm51npplxeve0.jpg" group-title="RADIO PATAGONIA", RMX 105.1 FM USHUAIA
 http://streamyes.alsolnet.com/rmxtv/live/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://fmbrasilera.com/wp-content/uploads/2020/06/brasil512omb8eRVSHJX.jpg" group-title="RADIO 1", LA NUEVA FM BRASILERA 106.7 ENTRE RIOS
+#EXTINF:-1 tvg-logo="https://fmbrasilera.com/wp-content/uploads/2020/06/brasil512omb8eRVSHJX.jpg" group-title="RADIO CENTRO", LA NUEVA FM BRASILERA 106.7 ENTRE RIOS
 https://stmv6.srvstm.com/brasil/brasil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://fmlitoral.com.ar/web/wp-content/uploads/2021/02/logolitoralmovil.png" group-title="RADIO 1", FM LITORAL 103.1 PARANA
+#EXTINF:-1 tvg-logo="https://fmlitoral.com.ar/web/wp-content/uploads/2021/02/logolitoralmovil.png" group-title="RADIO CENTRO", FM LITORAL 103.1 PARANA
 https://stmv4.srvstm.com/litoral2/litoral2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://launotv.com.ar/templates/default/images/logo.png" group-title="RADIO 1", RADIO UNO 95.1 FM - AMERICA  RIVADAVIA  
+#EXTINF:-1 tvg-logo="https://launotv.com.ar/templates/default/images/logo.png" group-title="RADIO PAMPEANA", RADIO UNO 95.1 FM - AMERICA  RIVADAVIA  
 https://stmvideo2.livecastv.com/launotv/launotv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a74898_8daa917642a242dda1cc6d42791d390f~mv2.png/v1/fill/w_149,h_149,al_c,q_85,usm_0.66_1.00_0.01/Complejo%2520dance%2520OIine1_edited.webp" group-title="RADIO 2", COMPLEJO DANCE FM 92.3 MERCEDES
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a74898_8daa917642a242dda1cc6d42791d390f~mv2.png/v1/fill/w_149,h_149,al_c,q_85,usm_0.66_1.00_0.01/Complejo%2520dance%2520OIine1_edited.webp" group-title="RADIO PAMPEANA", COMPLEJO DANCE FM 92.3 MERCEDES
 https://mediacp.hostradios.com.ar:19360/complejodance/complejodance.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lavozdeldesierto.com.ar/images/design/isologo.png" group-title="RADIO 2", FM LA VOZ DEL DESIERTO NEUQUEN
+#EXTINF:-1 tvg-logo="https://www.lavozdeldesierto.com.ar/images/design/isologo.png" group-title="RADIO PATAGONIA", FM LA VOZ DEL DESIERTO NEUQUEN
 https://stmv1.srvstm.com/vozdesierto/vozdesierto/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://partedelaireradio.com.ar/wp-content/uploads/2018/11/logo2.fw_.png" group-title="RADIO 2", PARTE DEL AIRE 94.9 FM SAN ANTONIO OESTE RIO NEGRO
+#EXTINF:-1 tvg-logo="http://partedelaireradio.com.ar/wp-content/uploads/2018/11/logo2.fw_.png" group-title="RADIO PATAGONIA", PARTE DEL AIRE 94.9 FM SAN ANTONIO OESTE RIO NEGRO
 https://streamcasthd.com:19360/partedelaireradio/partedelaireradio.m3u8
 
-#EXTINF:-1 tvg-logo="https://urban985.com/img/logo.png" group-title="RADIO 2", URBAN 98.5 FM PEHUAJO
+#EXTINF:-1 tvg-logo="https://urban985.com/img/logo.png" group-title="RADIO PAMPEANA", URBAN 98.5 FM PEHUAJO
 https://urban985.tv/hls/websd.m3u8
 
-#EXTINF:-1 tvg-logo="https://cadenaritmo.com.ar/imagenes/logo.png" group-title="RADIO 2", CADENA RITMO 101.1 FM NEUQUEN
+#EXTINF:-1 tvg-logo="https://cadenaritmo.com.ar/imagenes/logo.png" group-title="RADIO PATAGONIA", CADENA RITMO 101.1 FM NEUQUEN
 https://59537faa0729a.streamlock.net/cadenaritmo/cadenaritmo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://fmsoledad885.com.ar/wp-content/uploads/2020/11/Logo-header-1-1024x132.png" group-title="RADIO 2", FM SOLEDAD 88.5 LAS HIGHERAS CORDOBA
+#EXTINF:-1 tvg-logo="http://fmsoledad885.com.ar/wp-content/uploads/2020/11/Logo-header-1-1024x132.png" group-title="RADIO CENTRO", FM SOLEDAD 88.5 LAS HIGHERAS CORDOBA
 https://59537faa0729a.streamlock.net/fmsoledad885/fmsoledad885/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="RADIO 2", EL DIARIO DE PRINGLES
+#EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="RADIO PAMPEANA", EL DIARIO DE PRINGLES
 https://streaming.reltid.com.ar/hls/pringles.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTawQavXm0sl9VVZanpEdf3JcdaWm62b-7ZLA&usqp=CAU" group-title="RADIO 2", RADIO CAPICUA  99.3 VILLA MARIA CORDOBA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTawQavXm0sl9VVZanpEdf3JcdaWm62b-7ZLA&usqp=CAU" group-title="RADIO CENTRO", RADIO CAPICUA  99.3 VILLA MARIA CORDOBA
 https://stmvideo2.livecastv.com/capicua/capicua/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.racsol.com.ar/images/logo.png" group-title="RADIO 2", RACSOL FM 94.1 LAS FLORES
+#EXTINF:-1 tvg-logo="http://www.racsol.com.ar/images/logo.png" group-title="RADIO PAMPEANA", RACSOL FM 94.1 LAS FLORES
 https://mediacp.hostradios.com.ar:19360/rascoltv/rascoltv.m3u8
 
-#EXTINF:-1 tvg-logo="http://rcm88.com.ar/wp-content/uploads/2018/04/cropped-logo-web-1-1.png" group-title="RADIO 2", RADIO CIUDAD 100.3 FM CORONEL MOLDES
+#EXTINF:-1 tvg-logo="http://rcm88.com.ar/wp-content/uploads/2018/04/cropped-logo-web-1-1.png" group-title="RADIO CENTRO", RADIO CIUDAD 100.3 FM CORONEL MOLDES
 https://vivo.solumedia.com:19360/cesarb/cesarb.m3u8
 
-#EXTINF:-1 tvg-logo="https://fmvanguardia.com/wp-content/uploads/2020/03/Logo-FMV-106-Tel-980x210.png" group-title="RADIO 2", FM VANGUARDIA 106.1 CALETA OLIVIA
+#EXTINF:-1 tvg-logo="https://fmvanguardia.com/wp-content/uploads/2020/03/Logo-FMV-106-Tel-980x210.png" group-title="RADIO PATAGONIA", FM VANGUARDIA 106.1 CALETA OLIVIA
 https://streamcasthd.com:19360/fmvanguardia/fmvanguardia.m3u8
 
-#EXTINF:-1 tvg-logo="http://radioplus983.com/wp-content/uploads/2016/07/log200-e1468504920544.png" group-title="RADIO 2", 98.3 RADIO PLUS - USHUAIA
+#EXTINF:-1 tvg-logo="http://radioplus983.com/wp-content/uploads/2016/07/log200-e1468504920544.png" group-title="RADIO PATAGONIA", 98.3 RADIO PLUS - USHUAIA
 http://inliveserver.com:1935/9014/9014/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cadenamaxima.com.ar/cadmawp/wp-content/uploads/2017/04/logo-cadena-maxima-footer.png" group-title="RADIO 2", CADENA MAXIMA 106.7 - SALTA
+#EXTINF:-1 tvg-logo="https://www.cadenamaxima.com.ar/cadmawp/wp-content/uploads/2017/04/logo-cadena-maxima-footer.png" group-title="RADIO NORTE", CADENA MAXIMA 106.7 - SALTA
 https://vivo.solumedia.com:19360/cadenamaxima/cadenamaxima.m3u8
 
-#EXTINF:-1 tvg-logo="https://giga1055.com/wp-content/uploads/2019/03/LOGO_SOLO_GIGA.png" group-title="RADIO 2", FM GIGA 101.5 NEUQUEN
+#EXTINF:-1 tvg-logo="https://giga1055.com/wp-content/uploads/2019/03/LOGO_SOLO_GIGA.png" group-title="RADIO PATAGONIA", FM GIGA 101.5 NEUQUEN
 https://5f93e494d5906.streamlock.net/TvGiga1055/TvGiga1055/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysxHwA5V1RRfI6m8y-LoJN_utfCdoOjnZ2w&usqp=CAU" group-title="RADIO 2", RED DIFUSORA CARHUE - 99.5 FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysxHwA5V1RRfI6m8y-LoJN_utfCdoOjnZ2w&usqp=CAU" group-title="RADIO PAMPEANA", RED DIFUSORA CARHUE - 99.5 FM
 https://panel.dattalive.com/8114/8114/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.elchubut.com.ar/img/logo.png" group-title="RADIO 2", CHUBUT TV 90.1 FM 
+#EXTINF:-1 tvg-logo="https://www.elchubut.com.ar/img/logo.png" group-title="RADIO PATAGONIA", CHUBUT TV 90.1 FM 
 https://streamyes.alsolnet.com/elchubuttv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.fmargentina.com.ar/Graficos/intro.png" group-title="RADIO 2", FM ARGENTINA 98.9 NEUQUEN
+#EXTINF:-1 tvg-logo="http://www.fmargentina.com.ar/Graficos/intro.png" group-title="RADIO PATAGONIA", FM ARGENTINA 98.9 NEUQUEN
 https://stmv1.srvstm.com/fmargentina/fmargentina/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu9w1RZeP-9qPRH7EEj8WGxlLE2smh1hCv-Q&usqp=CAU" group-title="RADIO 2", RADIO CENTRO 92.9 VILLA MARIA CORDOBA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu9w1RZeP-9qPRH7EEj8WGxlLE2smh1hCv-Q&usqp=CAU" group-title="RADIO CENTRO", RADIO CENTRO 92.9 VILLA MARIA CORDOBA
 https://stmvideo2.livecastv.com/centro/centro/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg/v1/fit/w_2500,h_1330,al_c/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg" group-title="RADIO 2", FM OK 105.7 FLORENCIO VARELA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg/v1/fit/w_2500,h_1330,al_c/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg" group-title="RADIO AMBA", FM OK 105.7 FLORENCIO VARELA
 https://panel.dattalive.com/8124/8124/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://nacionalypopular.nvc.org.ar/wp-content/uploads/2017/04/logo.png" group-title="RADIO 2", FM 100.9 PRIMERO LO NUESTRO - MONTE GRANDE
+#EXTINF:-1 tvg-logo="https://nacionalypopular.nvc.org.ar/wp-content/uploads/2017/04/logo.png" group-title="RADIO AMBA", FM 100.9 PRIMERO LO NUESTRO - MONTE GRANDE
 https://streamcasthd.com:1936/nacionalypopular/nacionalypopular/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.fm891.com.ar/wp-content/uploads/2020/07/logo_horizontal_20.png" group-title="RADIO 2", FM 89.1 RADIO UNIVERSIDAD SAN JUSTO
+#EXTINF:-1 tvg-logo="http://www.fm891.com.ar/wp-content/uploads/2020/07/logo_horizontal_20.png" group-title="RADIO AMBA", FM 89.1 RADIO UNIVERSIDAD SAN JUSTO
 http://s8.stweb.tv/unlam/video2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kDPCvojQb2E/X_Q5MnzksRI/AAAAAAAAJGk/SGon23v2K3UO2gI7MIFoSiNkSxYULDN4ACK4BGAYYCw/s1600/345.png" group-title="RADIO 2", RADIO ROCHA AM 1570 LA PLATA
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kDPCvojQb2E/X_Q5MnzksRI/AAAAAAAAJGk/SGon23v2K3UO2gI7MIFoSiNkSxYULDN4ACK4BGAYYCw/s1600/345.png" group-title="RADIO AMBA", RADIO ROCHA AM 1570 LA PLATA
 https://stmvideo1.livecastv.com/radiorocha/radiorocha/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiotv.ar/img/logo/fmzetaradio.jpg" group-title="RADIO 2", FM 100.9 ZETA MORON
+#EXTINF:-1 tvg-logo="https://radiotv.ar/img/logo/fmzetaradio.jpg" group-title="RADIO AMBA", FM 100.9 ZETA MORON
 https://clientes.videostreaming.ar:19360/fmzetaradio/fmzetaradio.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.fantastica1017.com.ar/images/logoOK.jpg" group-title="RADIO 2", FM FANTASTICA CHILECITO 101.7 FM
+#EXTINF:-1 tvg-logo="http://www.fantastica1017.com.ar/images/logoOK.jpg" group-title="RADIO NORTE", FM FANTASTICA CHILECITO 101.7 FM
 https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/72/8a/728a7f22-b7c7-4da4-8db0-fb3ec1b26047.jpg" group-title="RADIO 2", RADIO CASILDA 91.1 FM SANTA FE
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/72/8a/728a7f22-b7c7-4da4-8db0-fb3ec1b26047.jpg" group-title="RADIO CENTRO", RADIO CASILDA 91.1 FM SANTA FE
 https://videohd.live:19360/8046/8046.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/976314445034029056/oeLG0CBg.jpg" group-title="RADIO 2", MAS FM 95.9 SANTA FE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/976314445034029056/oeLG0CBg.jpg" group-title="RADIO CENTRO", MAS FM 95.9 SANTA FE
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiourbana.coopmorteros.coop/public/Imagenes/urbanatv%20(1).png" group-title="RADIO 2", RADIO URBANA MORTEROS
+#EXTINF:-1 tvg-logo="https://radiourbana.coopmorteros.coop/public/Imagenes/urbanatv%20(1).png" group-title="RADIO CENTRO", RADIO URBANA MORTEROS
 https://coopmorteros.online/radiourbana/canal01.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/06c8c8_ffc396a5d15745eeb1d47f02c6b1de89~mv2.gif" group-title="RADIO 2", ON RADIO ARGENTINA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/06c8c8_ffc396a5d15745eeb1d47f02c6b1de89~mv2.gif" group-title="RADIO AMBA", ON RADIO ARGENTINA
 https://clientes.videostreaming.ar:19360/onradio/onradio.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VqFz7dg/logo-vinilo-medio-2.png" group-title="RADIO 2", VINILO FM 103.5 NECOCHEA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VqFz7dg/logo-vinilo-medio-2.png" group-title="RADIO PAMPEANA", VINILO FM 103.5 NECOCHEA
 https://srv3.zcast.com.br/vinilo/vinilo/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://la90fm.com/wp-content/uploads/2021/03/logo.png" group-title="RADIO 2", LA MEGA 90.9 AZUL
+#EXTINF:-1 tvg-logo="http://la90fm.com/wp-content/uploads/2021/03/logo.png" group-title="RADIO PAMPEANA", LA MEGA 90.9 AZUL
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://static-1.ivoox.com/canales/4/0/4/1/741470821404_XXL.jpg" group-title="RADIO 2", RADIO CARDINAL MIRAMAR CORDOBA
+#EXTINF:-1 tvg-logo="http://static-1.ivoox.com/canales/4/0/4/1/741470821404_XXL.jpg" group-title="RADIO CENTRO", RADIO CARDINAL MIRAMAR CORDOBA
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s135098/images/logog.jpg?t=151946" group-title="RADIO 2", RPO RADIO PUNTO AM 1400
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s135098/images/logog.jpg?t=151946" group-title="RADIO AMBA", RPO RADIO PUNTO AM 1400
 https://videohd.live:19360/8012/8012.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.radiodiversidad.com.ar/img/logo.png" group-title="RADIO 2", RADIO DIVERSIDAD 99.9 FM TUCUMAN
+#EXTINF:-1 tvg-logo="http://www.radiodiversidad.com.ar/img/logo.png" group-title="RADIO NORTE", RADIO DIVERSIDAD 99.9 FM TUCUMAN
 https://srv2.zcast.com.br/diversidad/diversidad/playlist.m3u8  
 
-#EXTINF:-1 tvg-logo="http://www.citricaradio.com/assets/img/cropped-logo-web.png" group-title="RADIO 2", FM CITRICA 88.5 FM AVELLANEDA
+#EXTINF:-1 tvg-logo="http://www.citricaradio.com/assets/img/cropped-logo-web.png" group-title="RADIO AMBA", FM CITRICA 88.5 FM AVELLANEDA
 https://5f700d5b2c46f.streamlock.net/citricaradio/citricaradio/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://canal3lasflores.com.ar/wp-content/uploads/2020/11/canallogohead.png" group-title="RADIO 2", LAS FLORES DIGITAL
+#EXTINF:-1 tvg-logo="https://canal3lasflores.com.ar/wp-content/uploads/2020/11/canallogohead.png" group-title="RADIO PAMPEANA", LAS FLORES DIGITAL
 https://inliveserver.com:1936/8436/8436/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://realidad10.com/wp-content/uploads/2020/11/cropped-WhatsApp-Image-2020-11-03-at-09.49.14.jpeg" group-title="RADIO 2", CN 22 CHACO
+#EXTINF:-1 tvg-logo="https://realidad10.com/wp-content/uploads/2020/11/cropped-WhatsApp-Image-2020-11-03-at-09.49.14.jpeg" group-title="RADIO NORTE", CN 22 CHACO
 https://5f6e1fe8f2d2e.streamlock.net/cn22/cn22/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://am1010ondalatina.com/images/logo.png" group-title="RADIO 2", AM 1010 ONDA LATINA
+#EXTINF:-1 tvg-logo="http://am1010ondalatina.com/images/logo.png" group-title="RADIO AMBA", AM 1010 ONDA LATINA
 http://video.streamtvradio.com:8081/uv008/uv008/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiocity.com.ar/uploads/logo/logo_5b52099c0e558.png" group-title="RADIO 2", RADIO CITY 97.5 FM VILLA DEL ROSARIO CORDOBA
+#EXTINF:-1 tvg-logo="http://www.radiocity.com.ar/uploads/logo/logo_5b52099c0e558.png" group-title="RADIO CENTRO", RADIO CITY 97.5 FM VILLA DEL ROSARIO CORDOBA
 https://stmv1.srvif.com/radiocity/radiocity/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radioestacion.com.ar/wp-content/uploads/2020/07/logoestacions.png" group-title="RADIO 2", RADIO LA ESTACION 102.5 SAN FRANCISCO CORDOBA
+#EXTINF:-1 tvg-logo="https://www.radioestacion.com.ar/wp-content/uploads/2020/07/logoestacions.png" group-title="RADIO CENTRO", RADIO LA ESTACION 102.5 SAN FRANCISCO CORDOBA
 https://mediacp.hostradios.com.ar:19360/radioestacion/radioestacion.m3u8
 
-#EXTINF:-1 tvg-logo="http://fm1049.com.ar/wp-content/uploads/2017/10/TOP.png" group-title="RADIO 2", RADIO TOP 104.9 FM
+#EXTINF:-1 tvg-logo="http://fm1049.com.ar/wp-content/uploads/2017/10/TOP.png" group-title="RADIO AMBA", RADIO TOP 104.9 FM
 http://inliveserver.com:1935/14082/14082/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://fmrio1075mbarete.esenvivo.com.ar/fb.jpg" group-title="RADIO 2", FM RIO 107.5 AVELLANEDA
+#EXTINF:-1 tvg-logo="https://fmrio1075mbarete.esenvivo.com.ar/fb.jpg" group-title="RADIO AMBA", FM RIO 107.5 AVELLANEDA
 https://videostream.shockmedia.com.ar:1936/fmrio1075mbarete/fmrio1075mbarete/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vivafm.com.ar/wp-content/uploads/2020/04/cropped-ISOLOGO.png" group-title="RADIO 2", VIVA RADIO CATAMARCA
+#EXTINF:-1 tvg-logo="https://vivafm.com.ar/wp-content/uploads/2020/04/cropped-ISOLOGO.png" group-title="RADIO NORTE", VIVA RADIO CATAMARCA
 https://tx.hls.nimo.tv/live/su2439520271345r7f61d6d38ad506f575d0ebfbaf0c7f2f_low.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://radioarg.net/assets/image/radio/180/argentina-893-fm-online.jpg" group-title="RADIO 2", RADIO ARGENTINA 89.3 FM RESISTENCIA CHACO
+#EXTINF:-1 tvg-logo="https://radioarg.net/assets/image/radio/180/argentina-893-fm-online.jpg" group-title="RADIO NORTE", RADIO ARGENTINA 89.3 FM RESISTENCIA CHACO
 http://streamingvideo.com.ar:1935/argentinaenlinea/live/chunklist_w778403502.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cadenaam1470.com/wp-content/uploads/2020/05/LOGO1.png" group-title="RADIO 2", CADENA 1470 AM LANUS
+#EXTINF:-1 tvg-logo="http://www.cadenaam1470.com/wp-content/uploads/2020/05/LOGO1.png" group-title="RADIO AMBA", CADENA 1470 AM LANUS
 https://stmvideo1.livecastv.com/am1470/am1470/playlist.m3u8
 
 
@@ -3756,136 +3760,136 @@ https://stmvideo1.livecastv.com/am1470/am1470/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Ei-bz3j0cII/XztRcc6-W3I/AAAAAAAALW0/QuQBPP5_0yIBAcF4N-39OiryGNRZSobDACLcBGAsYHQ/s1600/radio-argentina-am-570.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", RADIO ARGENTINA
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Ei-bz3j0cII/XztRcc6-W3I/AAAAAAAALW0/QuQBPP5_0yIBAcF4N-39OiryGNRZSobDACLcBGAsYHQ/s1600/radio-argentina-am-570.png" group-title="RADIO AMBA", RADIO ARGENTINA
 http://server.laradio.online:25224/live.mp3 
 
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8d/02/8d02ab7055e82b4a4d6deb9ffff0d6e0.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", RADIO BELGRANO
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8d/02/8d02ab7055e82b4a4d6deb9ffff0d6e0.jpg" group-title="RADIO AMBA", RADIO BELGRANO
 http://server.laradio.online:25223/live.mp3 
 
-#EXTINF:-1 tvg-logo="https://www.lt8.com.ar/wp-content/uploads/2020/06/xLT8_V_.png.pagespeed.ic.ll0vUh2Nwb.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", LA OCHO ROSARIO
+#EXTINF:-1 tvg-logo="https://www.lt8.com.ar/wp-content/uploads/2020/06/xLT8_V_.png.pagespeed.ic.ll0vUh2Nwb.png" group-title="RADIO AMBA, LA OCHO ROSARIO
 https://stream.lt8.com.ar:8443/lt8radio.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Radio_Del_Plata_%28Logo_2020%29.jpg/600px-Radio_Del_Plata_%28Logo_2020%29.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", RADIO DEL PLATA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Radio_Del_Plata_%28Logo_2020%29.jpg/600px-Radio_Del_Plata_%28Logo_2020%29.jpg" group-title="RADIO AMBA", RADIO DEL PLATA
 http://181.119.157.98:8800/amdelplata.mp3
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/adab0964eed597fc1d5b61598b2f6056-150.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", LT3 ROSARIO
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/adab0964eed597fc1d5b61598b2f6056-150.jpg" group-title="RADIO CENTRO", LT3 ROSARIO
 http://stream.lt3.com.ar:8000/;stream.mp3
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", RADIO LA RED (SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png" group-title="RADIO AMBA", RADIO LA RED (SOLO IPTV AZUL)
 https://24483.live.streamtheworld.com/LA_RED_AM910AAC.aac
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Radio_rockpop.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", ROCK AND POP (SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Radio_rockpop.png" group-title="RADIO AMBA", ROCK AND POP (SOLO IPTV AZUL)
 https://14623.live.streamtheworld.com/ROCKANDPOPAAC_SC
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Radio_Rivadavia_%282020%29.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", RADIO RIVADAVIA (SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Radio_Rivadavia_%282020%29.png" group-title="RADIO AMBA", RADIO RIVADAVIA (SOLO IPTV AZUL)
 https://21933.live.streamtheworld.com/RIVADAVIAAAC_SC
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_Cadena3.jpg/1200px-Logo_Cadena3.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", CADENA 3 (SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_Cadena3.jpg/1200px-Logo_Cadena3.jpg" group-title="RADIO CENTRO", CADENA 3 (SOLO IPTV AZUL)
 https://20823.live.streamtheworld.com/CADENA3_SC
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Radio_Continental_AM_590_%282015%29.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", RADIO CONTINENTAL (SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Radio_Continental_AM_590_%282015%29.png" group-title="RADIO AMBA", RADIO CONTINENTAL (SOLO IPTV AZUL)
 http://17573.live.streamtheworld.com/CONTINENTALAAC_SC
 
     
 
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Radio_10_AM_710_%282020%29.png/800px-Radio_10_AM_710_%282020%29.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", RADIO 10 (SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Radio_10_AM_710_%282020%29.png/800px-Radio_10_AM_710_%282020%29.png" group-title="RADIO AMBA", RADIO 10 (SOLO IPTV AZUL)
 http://s6.stweb.tv/radio10/live/playlist.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Los_40.svg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", LOS 40 105.5 FM (SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Los_40.svg" group-title="RADIO AMBA", LOS 40 105.5 FM (SOLO IPTV AZUL)
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINAAAC 
 
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/88feb4de6cabd53d7af9879e56131cbd.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", RADIO VALE 97.5 FM (SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/88feb4de6cabd53d7af9879e56131cbd.jpg" group-title="RADIO AMBA", RADIO VALE 97.5 FM (SOLO IPTV AZUL)
 http://vale.stweb.tv:1935/vale/live/playlist.m3u8
 
 
-#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-VAhlDpNd9mNuPlfZZ0iCAe3xDjf9K7xMf6UE1DESKBeGxnoIFutlfPefX_MbXyuzvk8&usqp=CAU" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", RADIO MADRE (SOLO IPTV AZUL)
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-VAhlDpNd9mNuPlfZZ0iCAe3xDjf9K7xMf6UE1DESKBeGxnoIFutlfPefX_MbXyuzvk8&usqp=CAU" group-title="RADIO AMBA", RADIO MADRE (SOLO IPTV AZUL)
 http://cdn.instream.audio:9288/stream  
 
-#EXTINF:-1   tvg-logo="https://www.radiocolonia.com/images/Logo-color.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", RADIO COLONIA (SOLO IPTV AZUL)
+#EXTINF:-1   tvg-logo="https://www.radiocolonia.com/images/Logo-color.png" group-title="RADIO AMBA)", RADIO COLONIA (SOLO IPTV AZUL)
 https://streaming1.hostingmontevideo.com:7019/; 
 
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", RADIO MITRE (SOLO IPTV AZUL)
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="RADIO AMBA", RADIO MITRE (SOLO IPTV AZUL)
 https://buecrplb01.cienradios.com.ar/Mitre790.aac 
 
-#EXTINF:-1   tvg-logo="https://radiodelpueblo.com.ar/files/logo3.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", RADIO DEL PUEBLO (SOLO IPTV AZUL)
+#EXTINF:-1   tvg-logo="https://radiodelpueblo.com.ar/files/logo3.png" group-title="RADIO AMBA", RADIO DEL PUEBLO (SOLO IPTV AZUL)
 http://streaming.radiolinksmedia.com:7830/;       
  
-#EXTINF:-1   tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/fab9780655718aef08c728050538aa16.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", RADIO DE LA CIUDAD 1100 AM (SOLO IPTV AZUL)
+#EXTINF:-1   tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/fab9780655718aef08c728050538aa16.jpg" group-title="RADIO AMBA", RADIO DE LA CIUDAD 1100 AM (SOLO IPTV AZUL)
 http://radios.argentina.fm:1110/stream 
 
-#EXTINF:-1   tvg-logo="https://radiolaluna.com.ar/wp-content/uploads/2021/05/LOGO-APP.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", RADIO LA LUNA 1140AM
+#EXTINF:-1   tvg-logo="https://radiolaluna.com.ar/wp-content/uploads/2021/05/LOGO-APP.jpg" group-title="RADIO AMBA", RADIO LA LUNA 1140AM
 http://server.ohradio.com.ar:9344/;
 
 
 
-#EXTINF:-1   tvg-logo="https://www.radio.es/images/broadcasts/57/3c/16198/1/c300.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", La 2x4 (SOLO IPTV AZUL)  
+#EXTINF:-1   tvg-logo="https://www.radio.es/images/broadcasts/57/3c/16198/1/c300.png" group-title="RADIO AMBA", La 2x4 (SOLO IPTV AZUL)  
 http://radios.argentina.fm:9270/stream   
 
 
 
-#EXTINF:-1   tvg-logo="https://4.bp.blogspot.com/-nVsNM7EKqcg/W6sHzNONvII/AAAAAAAAGV8/4IqgAOx-nr8B1JDoG4Zvv_vJFHLG94BfQCLcBGAs/s1600/late-93-1.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Late (SOLO IPTV AZUL)  
+#EXTINF:-1   tvg-logo="https://4.bp.blogspot.com/-nVsNM7EKqcg/W6sHzNONvII/AAAAAAAAGV8/4IqgAOx-nr8B1JDoG4Zvv_vJFHLG94BfQCLcBGAs/s1600/late-93-1.png" group-title="RADIO AMBA", Late (SOLO IPTV AZUL)  
 http://streaming.radiolinksmedia.com:8252/;stream   
 
 
 
 
-#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4IRO-v94sC9UnN2TqNt9xWR7rzkX81jbTd8DwhpniXc3LU-M_MTaWC7Hi60TBVjkr56k&usqp=CAU" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Nacional Rock (SOLO IPTV AZUL)  
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4IRO-v94sC9UnN2TqNt9xWR7rzkX81jbTd8DwhpniXc3LU-M_MTaWC7Hi60TBVjkr56k&usqp=CAU" group-title="RADIO AMBA", Nacional Rock (SOLO IPTV AZUL)  
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39  
 
  
 
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Metro951.png/225px-Metro951.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Metro (SOLO IPTV AZUL) 
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Metro951.png/225px-Metro951.png" group-title="RADIO AMBA", Metro (SOLO IPTV AZUL) 
 http://mp3.metroaudio1.stream.avstreaming.net:7200/metro  
 
  
 
-#EXTINF:-1   tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/64/a7/64a7bb75-e83e-4c9f-b758-43b90a04a858.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Nacional Clásica (SOLO IPTV AZUL)
+#EXTINF:-1   tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/64/a7/64a7bb75-e83e-4c9f-b758-43b90a04a858.jpg" group-title="RADIO AMBA", Nacional Clásica (SOLO IPTV AZUL)
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37  
 
-#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-bfB665TOB9g/YCPr2H1AL-I/AAAAAAAA8I4/gJNFVc6-mJEyRF6jm1ZasCeA-BQZrwWSQCLcBGAsYHQ/s338/radio-folk-2021.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Nacional Folklorica 98.7 (SOLO IPTV AZUL)
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-bfB665TOB9g/YCPr2H1AL-I/AAAAAAAA8I4/gJNFVc6-mJEyRF6jm1ZasCeA-BQZrwWSQCLcBGAsYHQ/s338/radio-folk-2021.png" group-title="RADIO AMBA", Nacional Folklorica 98.7 (SOLO IPTV AZUL)
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38 
 
-#EXTINF:-1   tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", Latina 101.1 (SOLO IPTV AZUL)
+#EXTINF:-1   tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="RADIO AMBA", Latina 101.1 (SOLO IPTV AZUL)
 http://streaming.latina101.com.ar:8080/RadioLatina  
 
-#EXTINF:-1   tvg-logo="https://www.radio.es/images/broadcasts/8a/7f/130196/1/c175.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", La patriada 102.1 (SOLO IPTV AZUL)
+#EXTINF:-1   tvg-logo="https://www.radio.es/images/broadcasts/8a/7f/130196/1/c175.png" group-title="RADIO AMBA", La patriada 102.1 (SOLO IPTV AZUL)
 http://server4.stweb.tv:1935/lapatriada/live/playlist.m3u8 
 
 
 
-#EXTINF:-1   tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/142736269_424638608880717_8684070971724744149_n.png?_nc_cat=111&ccb=1-3&_nc_sid=58c789&_nc_eui2=AeGjw37pJpOc64CEQzDM0FtLcb1ljI54fDlxvWWMjnh8Obq0L8GDH2JRXBkNOsocq4Y&_nc_ohc=w6A41CAMupcAX_CA3bY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=30&oh=2daeb235430ccac1da7fc3c40191f6b5&oe=60E42D54" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", FM PREMIUN 98.9 FM VILLA MARIA CORDOBA (SOLO IPTV AZUL)
+#EXTINF:-1   tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/142736269_424638608880717_8684070971724744149_n.png?_nc_cat=111&ccb=1-3&_nc_sid=58c789&_nc_eui2=AeGjw37pJpOc64CEQzDM0FtLcb1ljI54fDlxvWWMjnh8Obq0L8GDH2JRXBkNOsocq4Y&_nc_ohc=w6A41CAMupcAX_CA3bY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=30&oh=2daeb235430ccac1da7fc3c40191f6b5&oe=60E42D54" group-title="RADIO CENTRO", FM PREMIUN 98.9 FM VILLA MARIA CORDOBA (SOLO IPTV AZUL)
 https://stream.zeno.fm/cvvvykmtpg8uv
 
-#EXTINF:-1   tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-9/119667144_106629171189999_3711954186159095551_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeH-4OXs_-gaeY6LpAeRq21H0QK33Bw_OBbRArfcHD84Fh1CmTtG-lW1vq5O27QFSxA&_nc_ohc=_ixu_NY8TBkAX-x1WxJ&tn=aMVpWWJL-ZWdnhwm&_nc_ht=scontent.fepa11-1.fna&oh=4bf27ae7263eae1fa0d7df955d8bf47c&oe=60C9628A" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", LTO RADIO CATAMARCA (SOLO IPTV AZUL)
+#EXTINF:-1   tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-9/119667144_106629171189999_3711954186159095551_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeH-4OXs_-gaeY6LpAeRq21H0QK33Bw_OBbRArfcHD84Fh1CmTtG-lW1vq5O27QFSxA&_nc_ohc=_ixu_NY8TBkAX-x1WxJ&tn=aMVpWWJL-ZWdnhwm&_nc_ht=scontent.fepa11-1.fna&oh=4bf27ae7263eae1fa0d7df955d8bf47c&oe=60C9628A" group-title="RADIO NORTE", LTO RADIO CATAMARCA (SOLO IPTV AZUL)
 http://node-18.zeno.fm/yzb4tysszk0uv?rj-ttl=5&rj-tok=AAABegIQu38AvyiMzDm__8L15w
 
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co/gg0sdPS/LOGO-PNG.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", NEO NET MUSIC (SOLO IPTV AZUL)
+#EXTINF:-1   tvg-logo="https://i.ibb.co/gg0sdPS/LOGO-PNG.png" group-title="RADIO AMBA", NEO NET MUSIC (SOLO IPTV AZUL)
 https://proxy01.servidorenlinea.net/streaming1/8106/;
 
 
 
-#EXTINF:-1   tvg-logo="https://play-lh.googleusercontent.com/t7QZXZCd_qzimqeK1eBjJmtwuw9_FnWi8t_2GaS_wN0awcwIy11jq9Tylw4m2b1d8PY=s180-rw" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", SUR 101.5 FM BARADERO (SOLO IPTV AZUL)
+#EXTINF:-1   tvg-logo="https://play-lh.googleusercontent.com/t7QZXZCd_qzimqeK1eBjJmtwuw9_FnWi8t_2GaS_wN0awcwIy11jq9Tylw4m2b1d8PY=s180-rw" group-title="RADIO PAMPEANA", SUR 101.5 FM BARADERO (SOLO IPTV AZUL)
 http://streaming03.arcast.com.ar:1935/radio/radiosur.stream/chunklist_w679830486.m3u8
 
-#EXTINF:-1   tvg-logo="http://masradio.ar/wp-content/uploads/2019/03/radio-color@2x.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", MAS RADIO (SOLO IPTV AZUL)
+#EXTINF:-1   tvg-logo="http://masradio.ar/wp-content/uploads/2019/03/radio-color@2x.png" group-title="RADIO AMBA", MAS RADIO (SOLO IPTV AZUL)
 http://centova.questreaming.com:4250/stream
 
-#EXTINF:-1   tvg-logo="https://thumbs.dreamstime.com/z/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", URBANA BA (SOLO IPTV AZUL)
+#EXTINF:-1   tvg-logo="https://thumbs.dreamstime.com/z/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO AMBA", URBANA BA (SOLO IPTV AZUL)
 https://server.ohradio.com.ar:7131/;
 
-#EXTINF:-1   tvg-logo="https://thumbs.dreamstime.com/z/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", WAN RADIO (SOLO IPTV AZUL)
+#EXTINF:-1   tvg-logo="https://thumbs.dreamstime.com/z/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO AMBA", WAN RADIO (SOLO IPTV AZUL)
 http://69.64.46.123:8009/stream
 
 
-#EXTINF:-1   tvg-logo="http://www.wtango.com.ar/wtango00.jpg" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", W TANGO (SOLO IPTV AZUL)
+#EXTINF:-1   tvg-logo="http://www.wtango.com.ar/wtango00.jpg" group-title="RADIO AMBA)", W TANGO (SOLO IPTV AZUL)
 http://streaming.localhost.net.ar:8020/;stream.mp3
 
 
