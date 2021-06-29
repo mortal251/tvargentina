@@ -4003,7 +4003,7 @@ http://server.laradio.online:25224/live.mp3
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8d/02/8d02ab7055e82b4a4d6deb9ffff0d6e0.jpg" group-title="RADIO AMBA", RADIO BELGRANO
 http://server.laradio.online:25223/live.mp3 
 
-#EXTINF:-1 tvg-logo="https://www.lt8.com.ar/wp-content/uploads/2020/06/xLT8_V_.png.pagespeed.ic.ll0vUh2Nwb.png" group-title="RADIO AMBA, LA OCHO ROSARIO
+#EXTINF:-1 tvg-logo="https://www.lt8.com.ar/wp-content/uploads/2020/06/xLT8_V_.png.pagespeed.ic.ll0vUh2Nwb.png" group-title="RADIO AMBA", LA OCHO ROSARIO
 https://stream.lt8.com.ar:8443/lt8radio.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Radio_Del_Plata_%28Logo_2020%29.jpg/600px-Radio_Del_Plata_%28Logo_2020%29.jpg" group-title="RADIO AMBA", RADIO DEL PLATA
