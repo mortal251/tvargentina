@@ -334,7 +334,7 @@ https://59537faa0729a.streamlock.net/tvactiva/tvactiva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="CENTRO", C5SF SANTA FE
 https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="CENTRO", C5SF SANTA FE 2
+#EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="CENTRO", C5SF 2 SANTA FE 
 https://5975e06a1f292.streamlock.net:4443/c5sf2/c5sf2/playlist.m3u8
 
 
@@ -367,7 +367,7 @@ http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 https://www.youtube.com/watch?v=BZGbwWeDeIQ
 
 #EXTINF:-1 group-title="CUYO", CANAL 13 SAN JUAN
-https://www.youtube.com/watch?v=p25k8TySwys
+https://www.youtube.com/watch?v=JOkfBQaSSS8
 
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="CUYO", TELESOL SAN JUAN
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
@@ -608,10 +608,10 @@ https://mediacp.hostradios.com.ar:19360/envivotv/envivotv.m3u8
 
 
 #EXTINF:-1 group-title="CENTRO", ONCE PARANA
-https://www.youtube.com/watch?v=_RYX794rlY4
+https://www.youtube.com/watch?v=vvDrjBF0hkY
 
 #EXTINF:-1 group-title="PAMPEANA", CANAL 12 TRENQUE LAUQUEN
-https://www.youtube.com/watch?v=fmuvTNwsD-M
+https://www.youtube.com/watch?v=HH7C6XxlVcg
 
 #EXTINF:-1 group-title="PAMPEANA", VERTE TV OLAVARRIA
 https://www.youtube.com/watch?v=FxYA-W6Zbjk
