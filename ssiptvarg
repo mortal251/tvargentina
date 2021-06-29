@@ -4131,6 +4131,140 @@ http://streaming.localhost.net.ar:8020/;stream.mp3
 
 
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Ei-bz3j0cII/XztRcc6-W3I/AAAAAAAALW0/QuQBPP5_0yIBAcF4N-39OiryGNRZSobDACLcBGAsYHQ/s1600/radio-argentina-am-570.png" group-title="RADIO SOLO AUDIO IPTV AZUL", RADIO ARGENTINA
+http://server.laradio.online:25224/live.mp3 
+
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8d/02/8d02ab7055e82b4a4d6deb9ffff0d6e0.jpg" group-title="RADIO SOLO AUDIO IPTV AZUL", RADIO BELGRANO
+http://server.laradio.online:25223/live.mp3 
+
+#EXTINF:-1 tvg-logo="https://www.lt8.com.ar/wp-content/uploads/2020/06/xLT8_V_.png.pagespeed.ic.ll0vUh2Nwb.png" group-title="RADIO SOLO AUDIO IPTV AZUL", LA OCHO ROSARIO
+https://stream.lt8.com.ar:8443/lt8radio.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Radio_Del_Plata_%28Logo_2020%29.jpg/600px-Radio_Del_Plata_%28Logo_2020%29.jpg" group-title="RADIO SOLO AUDIO IPTV AZUL", RADIO DEL PLATA
+http://181.119.157.98:8800/amdelplata.mp3
+
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/adab0964eed597fc1d5b61598b2f6056-150.jpg" group-title="RADIO SOLO AUDIO IPTV AZUL", LT3 ROSARIO
+http://stream.lt3.com.ar:8000/;stream.mp3
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png" group-title="RADIO SOLO AUDIO IPTV AZUL", RADIO LA RED (SOLO IPTV AZUL)
+https://24483.live.streamtheworld.com/LA_RED_AM910AAC.aac
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Radio_rockpop.png" group-title="RADIO SOLO AUDIO IPTV AZUL", ROCK AND POP (SOLO IPTV AZUL)
+https://14623.live.streamtheworld.com/ROCKANDPOPAAC_SC
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Radio_Rivadavia_%282020%29.png" group-title="RADIO SOLO AUDIO IPTV AZUL", RADIO RIVADAVIA (SOLO IPTV AZUL)
+https://21933.live.streamtheworld.com/RIVADAVIAAAC_SC
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_Cadena3.jpg/1200px-Logo_Cadena3.jpg" group-title="RADIO SOLO AUDIO IPTV AZUL", CADENA 3 (SOLO IPTV AZUL)
+https://20823.live.streamtheworld.com/CADENA3_SC
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Radio_Continental_AM_590_%282015%29.png" group-title="RADIO SOLO AUDIO IPTV AZUL", RADIO CONTINENTAL (SOLO IPTV AZUL)
+http://17573.live.streamtheworld.com/CONTINENTALAAC_SC
+
+    
+
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Radio_10_AM_710_%282020%29.png/800px-Radio_10_AM_710_%282020%29.png" group-title="RADIO SOLO AUDIO IPTV AZUL", RADIO 10 (SOLO IPTV AZUL)
+http://s6.stweb.tv/radio10/live/playlist.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Los_40.svg" group-title="RADIO SOLO AUDIO IPTV AZUL", LOS 40 105.5 FM (SOLO IPTV AZUL)
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINAAAC 
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/88feb4de6cabd53d7af9879e56131cbd.jpg" group-title="RADIO SOLO AUDIO IPTV AZUL", RADIO VALE 97.5 FM (SOLO IPTV AZUL)
+http://vale.stweb.tv:1935/vale/live/playlist.m3u8
+
+
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-VAhlDpNd9mNuPlfZZ0iCAe3xDjf9K7xMf6UE1DESKBeGxnoIFutlfPefX_MbXyuzvk8&usqp=CAU" group-title="RADIO SOLO AUDIO IPTV AZUL", RADIO MADRE (SOLO IPTV AZUL)
+http://cdn.instream.audio:9288/stream  
+
+#EXTINF:-1   tvg-logo="https://www.radiocolonia.com/images/Logo-color.png" group-title="RADIO SOLO AUDIO IPTV AZUL", RADIO COLONIA (SOLO IPTV AZUL)
+https://streaming1.hostingmontevideo.com:7019/; 
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="RADIO SOLO AUDIO IPTV AZUL", RADIO MITRE (SOLO IPTV AZUL)
+https://buecrplb01.cienradios.com.ar/Mitre790.aac 
+
+#EXTINF:-1   tvg-logo="https://radiodelpueblo.com.ar/files/logo3.png" group-title="RADIO SOLO AUDIO IPTV AZUL", RADIO DEL PUEBLO (SOLO IPTV AZUL)
+http://streaming.radiolinksmedia.com:7830/;       
+ 
+#EXTINF:-1   tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/fab9780655718aef08c728050538aa16.jpg" group-title="RADIO SOLO AUDIO IPTV AZUL", RADIO DE LA CIUDAD 1100 AM (SOLO IPTV AZUL)
+http://radios.argentina.fm:1110/stream 
+
+#EXTINF:-1   tvg-logo="https://radiolaluna.com.ar/wp-content/uploads/2021/05/LOGO-APP.jpg" group-title="RADIO SOLO AUDIO IPTV AZUL", RADIO LA LUNA 1140AM
+http://server.ohradio.com.ar:9344/;
+
+
+
+#EXTINF:-1   tvg-logo="https://www.radio.es/images/broadcasts/57/3c/16198/1/c300.png" group-title="RADIO SOLO AUDIO IPTV AZUL", La 2x4 (SOLO IPTV AZUL)  
+http://radios.argentina.fm:9270/stream   
+
+
+
+#EXTINF:-1   tvg-logo="https://4.bp.blogspot.com/-nVsNM7EKqcg/W6sHzNONvII/AAAAAAAAGV8/4IqgAOx-nr8B1JDoG4Zvv_vJFHLG94BfQCLcBGAs/s1600/late-93-1.png" group-title="RADIO SOLO AUDIO IPTV AZUL", Late (SOLO IPTV AZUL)  
+http://streaming.radiolinksmedia.com:8252/;stream   
+
+
+
+
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4IRO-v94sC9UnN2TqNt9xWR7rzkX81jbTd8DwhpniXc3LU-M_MTaWC7Hi60TBVjkr56k&usqp=CAU" group-title="RADIO SOLO AUDIO IPTV AZUL", Nacional Rock (SOLO IPTV AZUL)  
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39  
+
+ 
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Metro951.png/225px-Metro951.png" group-title="RADIO SOLO AUDIO IPTV AZUL", Metro (SOLO IPTV AZUL) 
+http://mp3.metroaudio1.stream.avstreaming.net:7200/metro  
+
+ 
+
+#EXTINF:-1   tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/64/a7/64a7bb75-e83e-4c9f-b758-43b90a04a858.jpg" group-title="RADIO SOLO AUDIO IPTV AZUL", Nacional Clásica (SOLO IPTV AZUL)
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37  
+
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-bfB665TOB9g/YCPr2H1AL-I/AAAAAAAA8I4/gJNFVc6-mJEyRF6jm1ZasCeA-BQZrwWSQCLcBGAsYHQ/s338/radio-folk-2021.png" group-title="RADIO SOLO AUDIO IPTV AZUL", Nacional Folklorica 98.7 (SOLO IPTV AZUL)
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38 
+
+#EXTINF:-1   tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="RADIO SOLO AUDIO IPTV AZUL", Latina 101.1 (SOLO IPTV AZUL)
+http://streaming.latina101.com.ar:8080/RadioLatina  
+
+#EXTINF:-1   tvg-logo="https://www.radio.es/images/broadcasts/8a/7f/130196/1/c175.png" group-title="RADIO SOLO AUDIO IPTV AZUL", La patriada 102.1 (SOLO IPTV AZUL)
+http://server4.stweb.tv:1935/lapatriada/live/playlist.m3u8 
+
+
+
+#EXTINF:-1   tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/142736269_424638608880717_8684070971724744149_n.png?_nc_cat=111&ccb=1-3&_nc_sid=58c789&_nc_eui2=AeGjw37pJpOc64CEQzDM0FtLcb1ljI54fDlxvWWMjnh8Obq0L8GDH2JRXBkNOsocq4Y&_nc_ohc=w6A41CAMupcAX_CA3bY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=30&oh=2daeb235430ccac1da7fc3c40191f6b5&oe=60E42D54" group-title="RADIO SOLO AUDIO IPTV AZUL", FM PREMIUN 98.9 FM VILLA MARIA CORDOBA (SOLO IPTV AZUL)
+https://stream.zeno.fm/cvvvykmtpg8uv
+
+#EXTINF:-1   tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-9/119667144_106629171189999_3711954186159095551_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeH-4OXs_-gaeY6LpAeRq21H0QK33Bw_OBbRArfcHD84Fh1CmTtG-lW1vq5O27QFSxA&_nc_ohc=_ixu_NY8TBkAX-x1WxJ&tn=aMVpWWJL-ZWdnhwm&_nc_ht=scontent.fepa11-1.fna&oh=4bf27ae7263eae1fa0d7df955d8bf47c&oe=60C9628A" group-title="RADIO SOLO AUDIO IPTV AZUL", LTO RADIO CATAMARCA (SOLO IPTV AZUL)
+http://node-18.zeno.fm/yzb4tysszk0uv?rj-ttl=5&rj-tok=AAABegIQu38AvyiMzDm__8L15w
+
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co/gg0sdPS/LOGO-PNG.png" group-title="RADIO SOLO AUDIO IPTV AZUL", NEO NET MUSIC (SOLO IPTV AZUL)
+https://proxy01.servidorenlinea.net/streaming1/8106/;
+
+
+
+#EXTINF:-1   tvg-logo="https://play-lh.googleusercontent.com/t7QZXZCd_qzimqeK1eBjJmtwuw9_FnWi8t_2GaS_wN0awcwIy11jq9Tylw4m2b1d8PY=s180-rw" group-title="RADIO SOLO AUDIO IPTV AZUL", SUR 101.5 FM BARADERO (SOLO IPTV AZUL)
+http://streaming03.arcast.com.ar:1935/radio/radiosur.stream/chunklist_w679830486.m3u8
+
+#EXTINF:-1   tvg-logo="http://masradio.ar/wp-content/uploads/2019/03/radio-color@2x.png" group-title="RADIO SOLO AUDIO IPTV AZUL", MAS RADIO (SOLO IPTV AZUL)
+http://centova.questreaming.com:4250/stream
+
+#EXTINF:-1   tvg-logo="https://thumbs.dreamstime.com/z/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO SOLO AUDIO IPTV AZUL", URBANA BA (SOLO IPTV AZUL)
+https://server.ohradio.com.ar:7131/;
+
+#EXTINF:-1   tvg-logo="https://thumbs.dreamstime.com/z/logotipo-de-radio-icono-vector-simple-124841155.jpg" group-title="RADIO SOLO AUDIO IPTV AZUL", WAN RADIO (SOLO IPTV AZUL)
+http://69.64.46.123:8009/stream
+
+
+#EXTINF:-1   tvg-logo="http://www.wtango.com.ar/wtango00.jpg" group-title="RADIO SOLO AUDIO IPTV AZUL", W TANGO (SOLO IPTV AZUL)
+http://streaming.localhost.net.ar:8020/;stream.mp3
+
+
+
 
 
 
