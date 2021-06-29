@@ -277,8 +277,7 @@ https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://viviloendirecto.com/content/launch/images/launch.png" group-title="CUYO", TVEO MENDOZA
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w130065933.m3u8
-
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online.png" group-title="CENTRO", CANAL 3 ROSARIO
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
@@ -666,7 +665,7 @@ http://204.199.3.2/.m3u8
 https://panel.dattalive.com/8138/8138/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://noticiasgualeguay.com/wp-content/uploads/2019/09/logocanal2-x2.png" group-title="CENTRO", CANAL 2 GUALEGUAY ENTRE RIOS
-https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/chunklist_w953510345.m3u8
+https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCInK8RGqWtu191slIer7HKe6io1ngczZbkQ&usqp=CAU" group-title="CENTRO", CANAL 5 TV ENTRE RIOS
 https://srv3.zcast.com.ar/carlosr/carlosr/playlist.m3u8
@@ -740,6 +739,9 @@ https://panel.dattalive.com/tsnnecochea/tsnnecochea/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="PAMPEANA", CELTV CANAL 2 TORNQUIST
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.urbanaolavarria.com.ar/img/BANNER.png" group-title="PAMPEANA", URBANA TV OLAVARRIA
+https://videohd.live:19360/8042/8042.m3u8
 
 
 
@@ -3728,8 +3730,7 @@ https://videostream.shockmedia.com.ar:1936/fmrio1075mbarete/fmrio1075mbarete/pla
 #EXTINF:-1 tvg-logo="https://vivafm.com.ar/wp-content/uploads/2020/04/cropped-ISOLOGO.png" group-title="RADIO 2", VIVA RADIO CATAMARCA
 https://tx.hls.nimo.tv/live/su2439520271345r7f61d6d38ad506f575d0ebfbaf0c7f2f_low.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.urbanaolavarria.com.ar/img/BANNER.png" group-title="RADIO 2", URBANA OLAVARRIA
-https://videohd.live:19360/8042/8042.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://radioarg.net/assets/image/radio/180/argentina-893-fm-online.jpg" group-title="RADIO 2", RADIO ARGENTINA 89.3 FM RESISTENCIA CHACO
 http://streamingvideo.com.ar:1935/argentinaenlinea/live/chunklist_w778403502.m3u8
