@@ -892,8 +892,7 @@ https://nd106.republicaservers.com/canal2misiones.mp4
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
-https://stmv.panel.mivideo.pro/cineperu/cineperu/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.15752-9/198129374_454189365690504_7088670961273644075_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeFWVbvn6ms1SiCNhefhmwutfDpHv9wX6CR8Oke_3BfoJI72ZGn-hZgcJz_73M_8vhI&_nc_ohc=xxrvl2w2mcMAX_TV5tK&_nc_ht=scontent.fepa11-1.fna&oh=c7dc0c68ece85c39cbd6713935d0d530&oe=60CA665F" group-title="CINE Y SERIES", GO MAX PREMIERE
 https://stmvideo1.livecastv.com/iptvgo/iptvgo/playlist.m3u8
@@ -926,7 +925,7 @@ http://186.101.216.211:8000/play/a0dv
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png" group-title="CINE Y SERIES", 74 TV
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CaracolTelevisi%C3%B3n2019.png" group-title="CINE Y SERIES",Canal Claro
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/245px-Claro_TV_wordmark.svg.png" group-title="CINE Y SERIES",Canal Claro
 http://186.101.216.211:8000/play/a08e
 
 
@@ -1148,6 +1147,10 @@ https://cp.sradiotv.com:1936/8064/8064/chunklist_w642039581.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/08/media-tv3.png" group-title="CINE Y SERIES", MEDIA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36
 http://media.profesionalhosting.com:1935/8175/8175/chunklist_w1849997651.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
+https://stmv.panel.mivideo.pro/cineperu/cineperu/playlist.m3u8
 
 
 
@@ -2108,7 +2111,7 @@ https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES 2",Trace Sport Stars
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/2016/11/logo_sport_r1.png" group-title="DEPORTES 2",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="DEPORTES 2", World of Freesports
@@ -2117,14 +2120,14 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lJpOlLv.png" group-title="DEPORTES 2", San Marino RTV 
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES 2",Sportoutdoor.tv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3ibqke0pjgO4POBiJU-9l4Ex2ZVtJMCe--nbXaZOx-GcVl0A334r_EKNA3x12_tZY0Y&usqp=CAU" group-title="DEPORTES 2",Sportoutdoor.tv
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES 2",SPORTS TV
+#EXTINF:-1 tvg-logo="https://mail.canlitvizle.net/upload/tv/b_sport-tv-logo_20200629095126.png" group-title="DEPORTES 2",SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES 2",KBP SPORTS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNvSlMPe-r-CjCvBFX2BBBweD7w4DHzBOglnf1We9E_6cMxWk5RrnUdSKOE_Benyz-fs8&usqp=CAU" group-title="DEPORTES 2",KBP SPORTS
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 
