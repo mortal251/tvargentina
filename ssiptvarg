@@ -3997,19 +3997,19 @@ https://stmvideo1.livecastv.com/am1470/am1470/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Ei-bz3j0cII/XztRcc6-W3I/AAAAAAAALW0/QuQBPP5_0yIBAcF4N-39OiryGNRZSobDACLcBGAsYHQ/s1600/radio-argentina-am-570.png" group-title="RADIO AMBA", RADIO ARGENTINA
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Ei-bz3j0cII/XztRcc6-W3I/AAAAAAAALW0/QuQBPP5_0yIBAcF4N-39OiryGNRZSobDACLcBGAsYHQ/s1600/radio-argentina-am-570.png" group-title="RADIO AMBA", RADIO ARGENTINA (SOLO AUDIO)
 http://server.laradio.online:25224/live.mp3 
 
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8d/02/8d02ab7055e82b4a4d6deb9ffff0d6e0.jpg" group-title="RADIO AMBA", RADIO BELGRANO
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8d/02/8d02ab7055e82b4a4d6deb9ffff0d6e0.jpg" group-title="RADIO AMBA", RADIO BELGRANO (SOLO AUDIO)
 http://server.laradio.online:25223/live.mp3 
 
-#EXTINF:-1 tvg-logo="https://www.lt8.com.ar/wp-content/uploads/2020/06/xLT8_V_.png.pagespeed.ic.ll0vUh2Nwb.png" group-title="RADIO AMBA", LA OCHO ROSARIO
+#EXTINF:-1 tvg-logo="https://www.lt8.com.ar/wp-content/uploads/2020/06/xLT8_V_.png.pagespeed.ic.ll0vUh2Nwb.png" group-title="RADIO AMBA", LA OCHO ROSARIO (SOLO AUDIO)
 https://stream.lt8.com.ar:8443/lt8radio.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Radio_Del_Plata_%28Logo_2020%29.jpg/600px-Radio_Del_Plata_%28Logo_2020%29.jpg" group-title="RADIO AMBA", RADIO DEL PLATA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Radio_Del_Plata_%28Logo_2020%29.jpg/600px-Radio_Del_Plata_%28Logo_2020%29.jpg" group-title="RADIO AMBA", RADIO DEL PLATA (SOLO AUDIO)
 http://181.119.157.98:8800/amdelplata.mp3
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/adab0964eed597fc1d5b61598b2f6056-150.jpg" group-title="RADIO CENTRO", LT3 ROSARIO
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/adab0964eed597fc1d5b61598b2f6056-150.jpg" group-title="RADIO CENTRO", LT3 ROSARIO (SOLO AUDIO)
 http://stream.lt3.com.ar:8000/;stream.mp3
 
 
