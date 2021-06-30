@@ -525,6 +525,7 @@ http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mgmL8cb_jtc/XjtDrQ3HzaI/AAAAAAAAvpI/tgRhGRWSXnsz9hvxd4oPgM16JpByuhRzwCK8BGAsYHg/s0/2020-02-05.png" group-title="NORTE", CHACO TV
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
 
+https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://ciudadtv.com.ar/imgs/logo.png" group-title="NORTE", CIUDAD TV CHACO
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w594189072.m3u8
@@ -538,9 +539,11 @@ http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
 #EXTINF:-1 tvg-logo="http://www.estoesmachagai.com/web/img/IMAGEN_PORTADA_SITIO_WEB_02.jpg" group-title="NORTE", CANAL 3 PLUS TV  MACHAGAI CHACO
 https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.opencaster.com/imageChannel/canal8p.png" group-title="NORTE", **GIGARED CANAL 8  CHACO
+#EXTINF:-1 tvg-logo="" group-title="NORTE", **GIGARED CANAL 8  CHACO
 https://ed5ov.live.opencaster.com/xccxHzeGvHzh/index.m3u8
 
+
+h
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/913627349/telecondor_satelital_400x400.jpg" group-title="CENTRO", CANAL 4 TELECONDOR
 https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.m3u8
