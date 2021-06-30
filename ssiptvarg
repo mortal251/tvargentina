@@ -1412,6 +1412,9 @@ https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="INFANTIL", MAGIC KIDS
 https://live.admefy.com/live/clean_peach_ef224.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/d8569adc8aa83b55ec6d5a3255758178.png" group-title="INFANTIL", TOONIZAKI
+https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" group-title="INFANTIL", EL CHAVO
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w1525710315.m3u8
 
