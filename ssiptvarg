@@ -1915,24 +1915,6 @@ https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1280px-Logo_SportTV.svg.png" group-title="DEPORTES 2", SPORT TV 5
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES 2",  EVENTOS TIGO BOLIVIA 1
-https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES 2",  EVENTOS TIGO BOLIVIA 2
-https://d108h32trr4h8c.cloudfront.net/out/v1/d543fa4ff337450db0e38fcc19705c21/index_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES 2",  EVENTOS TIGO BOLIVIA 3
-https://d1pox267xtn5kq.cloudfront.net/out/v1/4270f13bab1547b39f44e52e867abcfa/index_6.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES 2",  EVENTOS TIGO SALVADOR 1
-https://d107hql7o7vd84.cloudfront.net/out/v1/ce38156ea93a47709cec829647e9b0ce/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES 2",  EVENTOS TIGO HONDURAS 1
-https://d20tezjrkz1zmc.cloudfront.net/out/v1/70c5e7b2534245f69d923065ffefd6d2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES 2",  EVENTOS TIGO GUATEMALA 1
-https://d1t6zcudgmh6wd.cloudfront.net/out/v1/88e67fc9be954233a769f97bada38a56/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" group-title="DEPORTES 2",True Sports HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
@@ -2588,30 +2570,18 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24/7 TOP 100
-http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/2.m3u8
+http://159.69.56.148:25461/live/Mix2472Gratis/78qy9/2.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7
-http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 BALADAS
-http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/6.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 RETRO
-http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 CONCIERTOS
-http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/7.m3u8
+http://159.69.56.148:25461/live/Mix2472Gratis/78qy9/4.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 TROPICAL
-http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/3.m3u8
+http://159.69.56.148:25461/live/Mix2472Gratis/78qy9/3.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 PURO ROCK
-http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/25.m3u8
+http://159.69.56.148:25461/live/Mix2472Gratis/78qy9/25.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 POP
-http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/5.m3u8
 
 
 
