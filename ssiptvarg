@@ -2580,17 +2580,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24/7 TOP 100
-http://159.69.56.148:25461/live/Mix2472Gratis/78qy9/2.m3u8
+http://159.69.56.148:25461/live/Mix-247Gratis/78qy9/2.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 RETRO
-http://159.69.56.148:25461/live/Mix2472Gratis/78qy9/4.m3u8
+http://159.69.56.148:25461/live/Mix-247Gratis/78qy9/4.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 TROPICAL
-http://159.69.56.148:25461/live/Mix2472Gratis/78qy9/3.m3u8
+http://159.69.56.148:25461/live/Mix-247Gratis/78qy9/3.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" group-title="MUSICA 2", MIX 24-7 PURO ROCK
-http://159.69.56.148:25461/live/Mix2472Gratis/78qy9/25.m3u8
+http://159.69.56.148:25461/live/Mix-247Gratis/78qy9/25.m3u8
 
 
 
