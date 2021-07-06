@@ -594,7 +594,7 @@ https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/800px-Telefe_Salta_%282018%29.png" group-title="NORTE", TELEFE SALTA
-https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1625404228~exp=1625580628~acl=/i/canal11salta_1@722934/*~hmac=b708d2b7ee748408aea4f3c4069c9a1c41b7f0bd8572fc0b85edcdaf96567000
+https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1625606609~exp=1625783009~acl=/i/canal11salta_1@722934/*~hmac=f73bf28a6b59ad340ae73d3e925ab3b8a3509bd1a1361e3cb8cfb6da4f72667d
 
 #EXTINF:-1 tvg-logo="https://frecuenciasalta.ar/wp-content/uploads/2020/08/NEOX-SALTA-300x240.jpg" group-title="NORTE", NEOX TV SALTA
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
