@@ -1748,7 +1748,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2049053275_b1296000_
 
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Best-Cable-Sports-en-vivo.jpg" group-title="DEPORTE", BEST CABLE SPORT
-https://live.siete.us/bestcablesports/bestcablesports/index.m3u8
+https://live.siete.us/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", AMERICA SPORTS
 https://www.youtube.com/watch?v=1SmKEIpmcLU
@@ -2491,7 +2491,8 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png" group-title="MUSICA", MAS CUMBIA
 https://live.siete.us/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-99-hatun-tv-en-vivo.jpg" group-title="MUSICA", HATUM
+https://live.siete.us/bestcablehatuntv/bestcablehatuntv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0/2020-10-26.png" group-title="MUSICA", ZAPPING MUSIC
@@ -2522,7 +2523,7 @@ https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/BestCableTvCanal3/picture?width=320&height=320" group-title="MUSICA", Best Cable Perú
-https://live.siete.us/bestcable/bestcable/index.m3u8
+https://live.siete.us/bestcable/bestcable/tracks-v1a1/mono.m3u8
 
 
 
