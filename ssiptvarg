@@ -257,7 +257,7 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="NORTE", CANAL 12 TUCUMAN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-9/69538283_2477118882346063_3348490571365744640_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=973b4a&_nc_ohc=FarCgd21lscAX9cOVuh&_nc_ht=scontent.fepa11-1.fna&oh=7037c9f82a841cc48bd44f6e67f90054&oe=60DA9F3B" group-title="NORTE", X24 TUCUMAN 
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.18169-9/11695987_1004062539615078_3099278181392454423_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=973b4a&_nc_ohc=Swg6mdNwrQUAX975SsI&_nc_ht=scontent.fepa11-1.fna&oh=74be7d8b4142e40f20835d3591add311&oe=60E8DB38" group-title="NORTE", X24 TUCUMAN 
 https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 
 
