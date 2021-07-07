@@ -279,7 +279,7 @@ https://www.youtube.com/watch?v=gBbMbqILzXU
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png" group-title="CENTRO", CANAL U CORDOBA
-https://vcp.myplaytv.com/canal10srt/smil:canal10srt.smil/playlist.m3u8
+https://vcp.myplaytv.com/canalusrt/smil:canalusrt.smil/chunklist_w835378821_b1500000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Gceq5SpfHb8/XrYRAGJeBUI/AAAAAAAA0i4/OHxya9wtX5kJC06MlqyfpUCl9M2azquDQCK8BGAsYHg/s0/2020-05-08.png" group-title="CENTRO", TELEDIARIO RIO CUARTO
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
@@ -631,7 +631,7 @@ http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 https://mediacp.hostradios.com.ar:19360/envivotv/envivotv.m3u8
 
 #EXTINF:-1 group-title="CENTRO", ONCE PARANA
-https://www.youtube.com/watch?v=8GfRqApwLvc
+https://www.youtube.com/watch?v=RjgIRRqki-o
 
 #EXTINF:-1 group-title="PAMPEANA", CANAL 12 TRENQUE LAUQUEN
 https://www.youtube.com/watch?v=0ba1UJL0bX0
