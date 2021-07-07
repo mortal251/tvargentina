@@ -2769,6 +2769,10 @@ https://www.youtube.com/watch?v=TijWvBZD45c
 https://www.youtube.com/watch?v=nA9UZF-SZoQ
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FTV.png" group-title="MUNDO", FASHION TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b600000_t64MjQwcA==.m3u8
 
@@ -2965,7 +2969,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b00076
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="MUNDO", Vaya semanita
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/turistikmedia/picture?width=200&height=200" group-title="MUNDO", Turistik
+https://5fa5de1a545ae.streamlock.net/turistik/turistik/playlist.m3u8
 
 
 
