@@ -2962,7 +2962,8 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="INTERNACIONAL", RT  25.5
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/1200px-HispanTv_logo.svg.png" group-title="INTERNACIONAL", HISPAN TV
+https://live.presstv.ir/live/smil:live.smil/chunklist_w1019133970_b644100_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="INTERNACIONAL", EURONEWS
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/4204bc47-49ca-407d-8cab-a8e4f6db713a/3.m3u8
@@ -3688,7 +3689,8 @@ https://g5.vxral-slo.transport.edge-access.net/b13/ngrp:cienradioshd-10002_all/c
 https://59537faa0729a.streamlock.net/beatsradio/beatsradio/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radioan24.com.ar/wp-content/uploads/2020/11/logo-radiotvan24-272X136-definitivo.png" group-title="RADIO AMBA", AN24
-https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/chunklist_w1915775020.m3u8
+https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" group-title="RADIO PATAGONIA", CN 24/7 NEUQUEN 
 https://panel.dattalive.com/6605140/6605140/playlist.m3u8
@@ -3899,7 +3901,7 @@ https://stmvideo2.livecastv.com/centro/centro/playlist.m3u8
 https://panel.dattalive.com/8124/8124/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://nacionalypopular.nvc.org.ar/wp-content/uploads/2017/04/logo.png" group-title="RADIO AMBA", FM 100.9 PRIMERO LO NUESTRO - MONTE GRANDE
-https://streamcasthd.com:1936/nacionalypopular/nacionalypopular/playlist.m3u8
+https://streamcasthd.com:1936/nacionalypopular/nacionalypopular/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fm891.com.ar/wp-content/uploads/2020/07/logo_horizontal_20.png" group-title="RADIO AMBA", FM 89.1 RADIO UNIVERSIDAD SAN JUSTO
 http://s8.stweb.tv/unlam/video2/chunks.m3u8
