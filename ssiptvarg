@@ -1981,6 +1981,22 @@ https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="DEPORTES 2",Harley Davidson Factory TV 
+https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="DEPORTES 2",Harley Davidson Racing TV
+https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="DEPORTES 2",Harley Davidson Rides TV
+https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="DEPORTES 2",Harley Davidson  Main TV
+https://hdtv.prod2.ioio.tv/broker/play/c2f73c61-aa9d-4cbd-b858-34291858870f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="DEPORTES 2",Harley Davidson Garage TV
+https://hdtv.prod2.ioio.tv/broker/play/70595a59-16f6-4924-a5ef-f498b12469f0.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="DEPORTES 2", TV DEPORTES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
 
