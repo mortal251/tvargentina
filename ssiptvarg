@@ -1807,6 +1807,23 @@ https://alchimie-mysurf-3-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/117670_Chic_Magazine.png" group-title="DEPORTE", FUEL TV
 https://fueltv-fueltv-7-es.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-tennis.png" group-title="DEPORTE",True Tennis HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="DEPORTE",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="DEPORTE",Tennis Channel Plus 1
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="DEPORTE",Tennis Channel Plus 2
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="DEPORTE",Tennis Channel Plus 3
+https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", EVENTOS TyC SPORT PLAY 1
 https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
@@ -2070,22 +2087,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f00092
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="DEPORTES 2", POKER GO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-tennis.png" group-title="DEPORTES 2",True Tennis HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="DEPORTES 2",Tennis Channel
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="DEPORTES 2",Tennis Channel Plus 1
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="DEPORTES 2",Tennis Channel Plus 2
-https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="DEPORTES 2",Tennis Channel Plus 3
-https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f.m3u8
 
 
 
