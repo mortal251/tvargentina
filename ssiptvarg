@@ -3965,8 +3965,7 @@ http://s8.stweb.tv/unlam/video2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kDPCvojQb2E/X_Q5MnzksRI/AAAAAAAAJGk/SGon23v2K3UO2gI7MIFoSiNkSxYULDN4ACK4BGAYYCw/s1600/345.png" group-title="RADIO AMBA", RADIO ROCHA AM 1570 LA PLATA
 https://stmvideo1.livecastv.com/radiorocha/radiorocha/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiotv.ar/img/logo/fmzetaradio.jpg" group-title="RADIO AMBA", FM 100.9 ZETA MORON
-https://clientes.videostreaming.ar:19360/fmzetaradio/fmzetaradio.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.fantastica1017.com.ar/images/logoOK.jpg" group-title="RADIO NORTE", FM FANTASTICA CHILECITO 101.7 FM
 https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
@@ -4189,6 +4188,14 @@ http://69.64.46.123:8009/stream
 
 #EXTINF:-1   tvg-logo="http://www.wtango.com.ar/wtango00.jpg" group-title="RADIO SOLO AUDIO IPTV AZUL", W TANGO (SOLO IPTV AZUL)
 http://streaming.localhost.net.ar:8020/;stream.mp3
+
+
+#EXTINF:-1 tvg-logo="https://radiotv.ar/img/logo/fmzetaradio.jpg" group-title="RADIO SOLO AUDIO IPTV AZUL", FM 100.9 ZETA MORON (SOLO IPTV AZUL)
+https://server.ohradio.com.ar:7211/;
+
+
+
+
 
 
 
