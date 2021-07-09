@@ -24,8 +24,7 @@ https://www.youtube.com/watch?v=wHn1_QVoXGM
 
 
 #EXTINF:-1 group-title="NOTICIAS", C5N  25.2
-https://www.youtube.com/watch?v=wlNWw5k14y8
-
+https://www.youtube.com/watch?v=raQGp_weKI0
 
 #EXTINF:-1 group-title="NOTICIAS", LN+  25.3
 https://www.youtube.com/watch?v=ns8-5XKA0Ww
@@ -639,6 +638,9 @@ https://www.youtube.com/watch?v=E6R2u_CLI90
 
 #EXTINF:-1 group-title="PAMPEANA", VERTE TV OLAVARRIA
 https://www.youtube.com/watch?v=FxYA-W6Zbjk
+
+#EXTINF:-1 group-title="PATAGONIA", CANAL 6 BARILOCHE
+https://www.youtube.com/watch?v=QtSQSCFoXB0
 
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="CENTRO", ITEL CHAJARI
 http://66.128.32.245/output/iteltv/playlist.m3u8
