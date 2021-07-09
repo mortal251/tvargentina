@@ -897,7 +897,7 @@ https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada
 #EXTINF:-1 tvg-logo="http://television-internet.com.ar/canal-2-misiones-en-vivo.jpg?210107074240" group-title="NORTE", CANAL 2 MISIONES (SOLO IPTV AZUL)
 https://nd106.republicaservers.com/canal2misiones.mp4
 
-#EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/themes/cablevideo/img/canalveo.svg" group-title="NORTE", VEO SANTA FE (SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/themes/cablevideo/img/canalveo.svg" group-title="CENTRO", VEO SANTA FE
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_360p/index.m3u8
 
 
