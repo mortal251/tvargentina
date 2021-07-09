@@ -1935,6 +1935,12 @@ https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i4.hurimg.com/i/hurriyet/75/1200x675/5e7885270f25441d1c5aabca.jpg" group-title="DEPORTES 2", BEIN SPORTS PREMIUM 2
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.sky1rw.png" group-title="DEPORTES 2",Sky Racing 1 
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.sky2rw.png" group-title="DEPORTES 2",Sky Racing 2
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1280px-Logo_SportTV.svg.png" group-title="DEPORTES 2", SPORT TV 1
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
