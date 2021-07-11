@@ -45,8 +45,9 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
  
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/small.tvp_2021_solo.png.8136b8c364a0c185fe56affb93450fa5.png" group-title="AMBA", TV PUBLICA  23.2 
-https://g1.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
+
+#EXTINF:-1 group-title="AMBA", TV PUBLICA  23.2 
+https://www.youtube.com/watch?v=RRIn2yxYjaY
 
 
 
