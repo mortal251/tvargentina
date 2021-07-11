@@ -383,7 +383,7 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
 #EXTINF:-1 group-title="CUYO", CANAL 8 SAN JUAN
-https://www.youtube.com/watch?v=BZGbwWeDeIQ
+https://www.youtube.com/watch?v=dGyFXfK7su4
 
 #EXTINF:-1 group-title="CUYO", CANAL 13 SAN JUAN
 https://www.youtube.com/watch?v=tqvqwf_VS90
@@ -628,11 +628,7 @@ http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Wpq8af4GxNg/YLlykYLuXhI/AAAAAAABCps/Xxgv3b7r5voeijxjk4qxMt7tome4k85OQCJEEGAsYHg/s512/2021-06-03.jpg" group-title="CENTRO", TVES SAN JOSE DE LA ESQUINA SANTA FE
 https://mediacp.hostradios.com.ar:19360/envivotv/envivotv.m3u8
 
-#EXTINF:-1 group-title="CENTRO", ONCE PARANA
-https://www.youtube.com/watch?v=VjZYdoXdG8w
 
-#EXTINF:-1 group-title="PAMPEANA", CANAL 12 TRENQUE LAUQUEN
-https://www.youtube.com/watch?v=Vs_kWrY8oq4
 
 #EXTINF:-1 group-title="PATAGONIA", ADN SUR COMODORO RIVADAVIA
 https://www.youtube.com/watch?v=E6R2u_CLI90
@@ -640,8 +636,7 @@ https://www.youtube.com/watch?v=E6R2u_CLI90
 #EXTINF:-1 group-title="PAMPEANA", VERTE TV OLAVARRIA
 https://www.youtube.com/watch?v=FxYA-W6Zbjk
 
-#EXTINF:-1 group-title="PATAGONIA", CANAL 6 BARILOCHE
-https://www.youtube.com/watch?v=QtSQSCFoXB0
+
 
 #EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="CENTRO", ITEL CHAJARI
 http://66.128.32.245/output/iteltv/playlist.m3u8
