@@ -1740,8 +1740,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2049053275_b1296000_
 
 
 
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Best-Cable-Sports-en-vivo.jpg" group-title="DEPORTE", BEST CABLE SPORT
-https://live.siete.us/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="DEPORTE", MARCA TV
 https://www.youtube.com/watch?v=axX2_zXD8cs
@@ -2026,6 +2025,10 @@ https://hdtv.prod2.ioio.tv/broker/play/70595a59-16f6-4924-a5ef-f498b12469f0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="DEPORTES 2",Unbeaten
 https://unbeaten-roku.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Best-Cable-Sports-en-vivo.jpg" group-title="DEPORTES 2", BEST CABLE SPORT
+https://live.siete.us/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="DEPORTES 2", TV DEPORTES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
