@@ -359,6 +359,8 @@ https://5975e06a1f292.streamlock.net:4443/c5sf2/c5sf2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-2-Jujuy-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="NORTE", CANAL 2 JUJUY
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png" group-title="NORTE", CANAL 4 JUJUY
 https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w1412506057_b121000.m3u8
 
@@ -1436,8 +1438,7 @@ https://live.admefy.com/live/clean_peach_ef224.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a5c45485f920b3cb2b2e44b70059858a.png" group-title="INFANTIL", TAITAL TV
 https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/d8569adc8aa83b55ec6d5a3255758178.png" group-title="INFANTIL", TOONIZAKI
-https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" group-title="INFANTIL", EL CHAVO
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w1525710315.m3u8
@@ -4215,6 +4216,8 @@ http://streaming.localhost.net.ar:8020/;stream.mp3
 
 #EXTINF:-1 tvg-logo="https://radiotv.ar/img/logo/fmzetaradio.jpg" group-title="RADIO SOLO AUDIO IPTV AZUL", FM 100.9 ZETA MORON (SOLO IPTV AZUL)
 https://server.ohradio.com.ar:7211/;
+
+
 
 
 
