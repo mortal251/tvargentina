@@ -3255,8 +3255,20 @@ https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/mainlogo-solid.svg?crc=326187750" group-title="INTERNACIONAL",TV CUATRO MEXICO
 https://5ca3e84a76d30.streamlock.net/tv4/tv4.smil/.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-REFH6RkuaQ0/X5wY1UPCWqI/AAAAAAAA63w/-tUyjCx_2PUJrqQuDXUxiRnf6HLXy-zMQCK8BGAsYHg/s0/2020-10-30.png" group-title="INTERNACIONAL",TELEPLAY MEXICO
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWHRlBYbxO7ujdSwbq8099qY76DsKDGwV4iGGM4nHaMBv-NK2bTLXbRc5VRgS7z0ELYt8&usqp=CAU" group-title="INTERNACIONAL",TELEMAR MEXICO
+https://59d39900ebfb8.streamlock.net/8410/8410/.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-jOJk895V3pzx3VwAYIMG1_h2-vQypKMXmjQ0Xcp3BI2UQ41IgAt1aaT5iIrG7ngGGUU&usqp=CAU" group-title="INTERNACIONAL",26 AGUAS CALIENTE
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsaXb6XIQV-gHVEQe06O_s94CB3OP8GgizyK0S2Bh6TUxhXUpwdCitRWGO6bTsyO5sEhI&usqp=CAU" group-title="INTERNACIONAL",15 TV SABINAS MEXICO
+https://hls.gvstream.live/telesistemas/15tv.stream/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="INTERNACIONAL",MVS TV MEXICO
+https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
 
 
 
