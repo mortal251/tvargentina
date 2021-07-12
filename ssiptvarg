@@ -3252,6 +3252,9 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="" group-title="INTERNACIONAL",Latina PERU
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/mainlogo-solid.svg?crc=326187750" group-title="INTERNACIONAL",TV CUATRO MEXICO
+https://5ca3e84a76d30.streamlock.net/tv4/tv4.smil/.m3u8
+
 
 
 
