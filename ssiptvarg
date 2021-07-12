@@ -630,6 +630,13 @@ https://mediacp.hostradios.com.ar:19360/envivotv/envivotv.m3u8
 
 
 
+#EXTINF:-1 group-title="CENTRO", ONCE PARANA
+https://www.youtube.com/watch?v=I0u20yiqm1Y
+
+#EXTINF:-1 group-title="PAMPEANA", CANAL 12 TRENQUE LAUQUEN
+https://www.youtube.com/watch?v=5sbGKRrE4fE
+
+
 #EXTINF:-1 group-title="PATAGONIA", ADN SUR COMODORO RIVADAVIA
 https://www.youtube.com/watch?v=E6R2u_CLI90
 
